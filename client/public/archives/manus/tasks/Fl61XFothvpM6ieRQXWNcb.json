@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "archived_at": "2026-08-04T18:37:42.316923Z",
+  "archived_at": "2026-08-11T15:18:06.033938Z",
   "task": {
     "id": "Fl61XFothvpM6ieRQXWNcb",
     "title": "Building a Custom App with Management and Integration Features",
@@ -108,7 +108,7 @@
             "content_type": "text/markdown",
             "filename": "replit_prompt.md",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/Fl61XFothvpM6ieRQXWNcb/sandbox/NkiBdNKuWzGCZznA5SSexx_1778093164326_na1fn_L2hvbWUvdWJ1bnR1L3JlcGxpdF9wcm9tcHQ.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRmw2MVhGb3RodnBNNmllUlFYV05jYi9zYW5kYm94L05raUJkTkt1V3pHQ1p6bkE1U1NleHhfMTc3ODA5MzE2NDMyNl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNKbGNHeHBkRjl3Y205dGNIUS5tZCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCV3NJ15TOlnxgl7zMOqljquYAXfa2IY-y0LEq8UB675wIgMdkte62y~kWuhwQDsiWJqPiCm4nz886hh-RfF9kOTKo_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/Fl61XFothvpM6ieRQXWNcb/sandbox/NkiBdNKuWzGCZznA5SSexx_1778093164326_na1fn_L2hvbWUvdWJ1bnR1L3JlcGxpdF9wcm9tcHQ.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRmw2MVhGb3RodnBNNmllUlFYV05jYi9zYW5kYm94L05raUJkTkt1V3pHQ1p6bkE1U1NleHhfMTc3ODA5MzE2NDMyNl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNKbGNHeHBkRjl3Y205dGNIUS5tZCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIH5iU9qyjWl93qzNHsCGietWTp6yU~4Qo6kcrE7cS2PXAiEA6jzUbWDK60Hv2E6ELGUcOOfDKpis9Kgz5grBdcvYTPs_"
           }
         ],
         "content": "I have crafted a comprehensive, multi-phase prompt strategy for your Replit Agent, designed specifically to minimize credit usage while building out all the features for the ApartmentCorp app. \n\nI've attached the markdown file containing the prompts and some best practices.\n\nTo make sure the app functions exactly as needed, I do have a few quick questions for you (also listed at the bottom of the document):\n1. **Data Sources:** For the KPI snapshot, do Propertymax and the vacancy report app have APIs we can connect to, or will this data be manually uploaded/inputted?\n2. **Email Integration:** I noticed a project rule stating emails should come from `Brandon@ApartmentCorp.com`. Do you use Office 365 or Google Workspace for this domain? \n3. **File Storage:** Do you have a preferred cloud storage provider (like AWS S3 or Azure) for the file uploads, or should the agent set up a default one?\n\nLet me know if you'd like any adjustments to the prompt!"
@@ -169,19 +169,19 @@
             "content_type": "text/markdown",
             "filename": "api_integration_plan.md",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/Fl61XFothvpM6ieRQXWNcb/sandbox/processed/YMV6AAL2wRms18qkMAzEqR_1778093667623_na1fn_L2hvbWUvdWJ1bnR1L2FwaV9pbnRlZ3JhdGlvbl9wbGFu.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRmw2MVhGb3RodnBNNmllUlFYV05jYi9zYW5kYm94L3Byb2Nlc3NlZC9ZTVY2QUFMMndSbXMxOHFrTUF6RXFSXzE3NzgwOTM2Njc2MjNfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwyRndhVjlwYm5SbFozSmhkR2x2Ymw5d2JHRnUubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCq2Gi-i7gMFqR4Gb6IAXfJY9lKFkx6VYWZJRLwrJjCKwIhAK2U-gvacRR8m6913ki4iJi9jOal553-L3m~n9rVHojm"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/Fl61XFothvpM6ieRQXWNcb/sandbox/processed/YMV6AAL2wRms18qkMAzEqR_1778093667623_na1fn_L2hvbWUvdWJ1bnR1L2FwaV9pbnRlZ3JhdGlvbl9wbGFu.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRmw2MVhGb3RodnBNNmllUlFYV05jYi9zYW5kYm94L3Byb2Nlc3NlZC9ZTVY2QUFMMndSbXMxOHFrTUF6RXFSXzE3NzgwOTM2Njc2MjNfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwyRndhVjlwYm5SbFozSmhkR2x2Ymw5d2JHRnUubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCID8r9R3d7iDcKd3P2BZsRnKrxI25TWqlTuKXPGP1aCXvAiBnt01s2RgoHwCtIkKR33dZUHrp~eE2pwx~pQ0kvN9WaQ__"
           },
           {
             "content_type": "image/png",
             "filename": "kpi_architecture.png",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/Fl61XFothvpM6ieRQXWNcb/sandbox/YMV6AAL2wRms18qkMAzEqR_1778093667623_na1fn_L2hvbWUvdWJ1bnR1L2twaV9hcmNoaXRlY3R1cmU.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRmw2MVhGb3RodnBNNmllUlFYV05jYi9zYW5kYm94L1lNVjZBQUwyd1JtczE4cWtNQXpFcVJfMTc3ODA5MzY2NzYyM19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJ0d2FWOWhjbU5vYVhSbFkzUjFjbVUucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIGxtnugetBXGVj14ja5lqFSsMI1L5iDfSZ6HQKsBATcfAiB7liL2OeF3J6T7sHfoZZQ96YKKUMQeMDOy-74arvXetA__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/Fl61XFothvpM6ieRQXWNcb/sandbox/YMV6AAL2wRms18qkMAzEqR_1778093667623_na1fn_L2hvbWUvdWJ1bnR1L2twaV9hcmNoaXRlY3R1cmU.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRmw2MVhGb3RodnBNNmllUlFYV05jYi9zYW5kYm94L1lNVjZBQUwyd1JtczE4cWtNQXpFcVJfMTc3ODA5MzY2NzYyM19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJ0d2FWOWhjbU5vYVhSbFkzUjFjbVUucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDFcUC1WitG4d4v~WtbQCZAdADOIYOzrh2L6lAlpcITCgIgT2bR1rWmHSqdyIGP-gONuWsjYGa2bJQ0tMaiqE0kv2M_"
           },
           {
             "content_type": "image/png",
             "filename": "kpi_scoring.png",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/Fl61XFothvpM6ieRQXWNcb/sandbox/YMV6AAL2wRms18qkMAzEqR_1778093667623_na1fn_L2hvbWUvdWJ1bnR1L2twaV9zY29yaW5n.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRmw2MVhGb3RodnBNNmllUlFYV05jYi9zYW5kYm94L1lNVjZBQUwyd1JtczE4cWtNQXpFcVJfMTc3ODA5MzY2NzYyM19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJ0d2FWOXpZMjl5YVc1bi5wbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIFuuGr~C7FDFqNSSEEfLZBJGXCA0dYF8bUG1xGI00J1WAiAEmF2CqTvQ5cZ8V7oIicVGyNoIUPd4JFCBRrn9aJAmIw__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/Fl61XFothvpM6ieRQXWNcb/sandbox/YMV6AAL2wRms18qkMAzEqR_1778093667623_na1fn_L2hvbWUvdWJ1bnR1L2twaV9zY29yaW5n.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRmw2MVhGb3RodnBNNmllUlFYV05jYi9zYW5kYm94L1lNVjZBQUwyd1JtczE4cWtNQXpFcVJfMTc3ODA5MzY2NzYyM19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJ0d2FWOXpZMjl5YVc1bi5wbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIQCV0Xq4HY7uDHcT5RrKJrLI4AYcUcgKfjC09jwrgPVhDwIfDpXP8dWW2zr1vWxv~lqvfIL0q1ljdc16pk3E4fX99w__"
           }
         ],
         "content": "I have generated a detailed API integration plan for connecting Propertymax and the vacancy report app to your KPI tracking system. \n\nThe plan includes:\n1. **System Architecture:** A hybrid approach using scheduled polling (for daily snapshots) and webhooks (for real-time vacancy ticker updates).\n2. **KPI Scoring Engine:** A detailed breakdown of the 100-point scoring system, including the normalization factor for staff size/vacancy rates, and the specific alert tiers (Green, Yellow, Red Flash).\n3. **Reporting Workflows:** Specifics on how the daily 6:00 AM PST HTML email will be generated and sent from Brandon@ApartmentCorp.com.\n\nI have attached the markdown document along with two visual diagrams (Architecture and Scoring Engine) to help your boss and the developers visualize the data flow. \n\nLet me know if you need any adjustments to the scoring weights or integration methods!"
@@ -207,40 +207,40 @@
       "type": "file",
       "filename": "replit_prompt.md",
       "content_type": "text/markdown",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/Fl61XFothvpM6ieRQXWNcb/sandbox/NkiBdNKuWzGCZznA5SSexx_1778093164326_na1fn_L2hvbWUvdWJ1bnR1L3JlcGxpdF9wcm9tcHQ.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRmw2MVhGb3RodnBNNmllUlFYV05jYi9zYW5kYm94L05raUJkTkt1V3pHQ1p6bkE1U1NleHhfMTc3ODA5MzE2NDMyNl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNKbGNHeHBkRjl3Y205dGNIUS5tZCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCV3NJ15TOlnxgl7zMOqljquYAXfa2IY-y0LEq8UB675wIgMdkte62y~kWuhwQDsiWJqPiCm4nz886hh-RfF9kOTKo_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/Fl61XFothvpM6ieRQXWNcb/sandbox/NkiBdNKuWzGCZznA5SSexx_1778093164326_na1fn_L2hvbWUvdWJ1bnR1L3JlcGxpdF9wcm9tcHQ.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRmw2MVhGb3RodnBNNmllUlFYV05jYi9zYW5kYm94L05raUJkTkt1V3pHQ1p6bkE1U1NleHhfMTc3ODA5MzE2NDMyNl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNKbGNHeHBkRjl3Y205dGNIUS5tZCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIH5iU9qyjWl93qzNHsCGietWTp6yU~4Qo6kcrE7cS2PXAiEA6jzUbWDK60Hv2E6ELGUcOOfDKpis9Kgz5grBdcvYTPs_",
       "status": "archived",
       "bytes": 5446,
-      "archive_path": "attachments/Fl61XFothvpM6ieRQXWNcb/6-assistant_message-0_ed12d8ce1584f1fb_replit_prompt.md"
+      "archive_path": "attachments/Fl61XFothvpM6ieRQXWNcb/6-assistant_message-0_bd9a4c44c18aa7cc_replit_prompt.md"
     },
     {
       "event_index": 12,
       "type": "file",
       "filename": "api_integration_plan.md",
       "content_type": "text/markdown",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/Fl61XFothvpM6ieRQXWNcb/sandbox/processed/YMV6AAL2wRms18qkMAzEqR_1778093667623_na1fn_L2hvbWUvdWJ1bnR1L2FwaV9pbnRlZ3JhdGlvbl9wbGFu.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRmw2MVhGb3RodnBNNmllUlFYV05jYi9zYW5kYm94L3Byb2Nlc3NlZC9ZTVY2QUFMMndSbXMxOHFrTUF6RXFSXzE3NzgwOTM2Njc2MjNfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwyRndhVjlwYm5SbFozSmhkR2x2Ymw5d2JHRnUubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCq2Gi-i7gMFqR4Gb6IAXfJY9lKFkx6VYWZJRLwrJjCKwIhAK2U-gvacRR8m6913ki4iJi9jOal553-L3m~n9rVHojm",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/Fl61XFothvpM6ieRQXWNcb/sandbox/processed/YMV6AAL2wRms18qkMAzEqR_1778093667623_na1fn_L2hvbWUvdWJ1bnR1L2FwaV9pbnRlZ3JhdGlvbl9wbGFu.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRmw2MVhGb3RodnBNNmllUlFYV05jYi9zYW5kYm94L3Byb2Nlc3NlZC9ZTVY2QUFMMndSbXMxOHFrTUF6RXFSXzE3NzgwOTM2Njc2MjNfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwyRndhVjlwYm5SbFozSmhkR2x2Ymw5d2JHRnUubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCID8r9R3d7iDcKd3P2BZsRnKrxI25TWqlTuKXPGP1aCXvAiBnt01s2RgoHwCtIkKR33dZUHrp~eE2pwx~pQ0kvN9WaQ__",
       "status": "archived",
       "bytes": 7464,
-      "archive_path": "attachments/Fl61XFothvpM6ieRQXWNcb/12-assistant_message-0_fac0169ae0347d07_api_integration_plan.md"
+      "archive_path": "attachments/Fl61XFothvpM6ieRQXWNcb/12-assistant_message-0_ac2a0f50c003eb55_api_integration_plan.md"
     },
     {
       "event_index": 12,
       "type": "image",
       "filename": "kpi_architecture.png",
       "content_type": "image/png",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/Fl61XFothvpM6ieRQXWNcb/sandbox/YMV6AAL2wRms18qkMAzEqR_1778093667623_na1fn_L2hvbWUvdWJ1bnR1L2twaV9hcmNoaXRlY3R1cmU.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRmw2MVhGb3RodnBNNmllUlFYV05jYi9zYW5kYm94L1lNVjZBQUwyd1JtczE4cWtNQXpFcVJfMTc3ODA5MzY2NzYyM19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJ0d2FWOWhjbU5vYVhSbFkzUjFjbVUucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIGxtnugetBXGVj14ja5lqFSsMI1L5iDfSZ6HQKsBATcfAiB7liL2OeF3J6T7sHfoZZQ96YKKUMQeMDOy-74arvXetA__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/Fl61XFothvpM6ieRQXWNcb/sandbox/YMV6AAL2wRms18qkMAzEqR_1778093667623_na1fn_L2hvbWUvdWJ1bnR1L2twaV9hcmNoaXRlY3R1cmU.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRmw2MVhGb3RodnBNNmllUlFYV05jYi9zYW5kYm94L1lNVjZBQUwyd1JtczE4cWtNQXpFcVJfMTc3ODA5MzY2NzYyM19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJ0d2FWOWhjbU5vYVhSbFkzUjFjbVUucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDFcUC1WitG4d4v~WtbQCZAdADOIYOzrh2L6lAlpcITCgIgT2bR1rWmHSqdyIGP-gONuWsjYGa2bJQ0tMaiqE0kv2M_",
       "status": "archived",
       "bytes": 308807,
-      "archive_path": "attachments/Fl61XFothvpM6ieRQXWNcb/12-assistant_message-1_65286ff7d804f59f_kpi_architecture.png"
+      "archive_path": "attachments/Fl61XFothvpM6ieRQXWNcb/12-assistant_message-1_0ce9a0166653240f_kpi_architecture.png"
     },
     {
       "event_index": 12,
       "type": "image",
       "filename": "kpi_scoring.png",
       "content_type": "image/png",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/Fl61XFothvpM6ieRQXWNcb/sandbox/YMV6AAL2wRms18qkMAzEqR_1778093667623_na1fn_L2hvbWUvdWJ1bnR1L2twaV9zY29yaW5n.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRmw2MVhGb3RodnBNNmllUlFYV05jYi9zYW5kYm94L1lNVjZBQUwyd1JtczE4cWtNQXpFcVJfMTc3ODA5MzY2NzYyM19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJ0d2FWOXpZMjl5YVc1bi5wbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIFuuGr~C7FDFqNSSEEfLZBJGXCA0dYF8bUG1xGI00J1WAiAEmF2CqTvQ5cZ8V7oIicVGyNoIUPd4JFCBRrn9aJAmIw__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/Fl61XFothvpM6ieRQXWNcb/sandbox/YMV6AAL2wRms18qkMAzEqR_1778093667623_na1fn_L2hvbWUvdWJ1bnR1L2twaV9zY29yaW5n.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRmw2MVhGb3RodnBNNmllUlFYV05jYi9zYW5kYm94L1lNVjZBQUwyd1JtczE4cWtNQXpFcVJfMTc3ODA5MzY2NzYyM19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJ0d2FWOXpZMjl5YVc1bi5wbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIQCV0Xq4HY7uDHcT5RrKJrLI4AYcUcgKfjC09jwrgPVhDwIfDpXP8dWW2zr1vWxv~lqvfIL0q1ljdc16pk3E4fX99w__",
       "status": "archived",
       "bytes": 329400,
-      "archive_path": "attachments/Fl61XFothvpM6ieRQXWNcb/12-assistant_message-2_fba97d9fdb67c598_kpi_scoring.png"
+      "archive_path": "attachments/Fl61XFothvpM6ieRQXWNcb/12-assistant_message-2_4c65d9b74c6475e6_kpi_scoring.png"
     }
   ]
 }

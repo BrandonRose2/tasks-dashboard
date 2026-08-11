@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "archived_at": "2026-08-04T18:42:53.522488Z",
+  "archived_at": "2026-08-11T15:27:19.820603Z",
   "task": {
     "id": "dS4D1fC84MAKFohKuDlElb",
     "title": "Testing ClickUp Connector and Exploring Its Features",
@@ -57,7 +57,7 @@
             "content_type": "text/markdown",
             "filename": "ClickUp_MCP_Report.md",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/dS4D1fC84MAKFohKuDlElb/sandbox/KCxd9vf6ds8ivkAPqN5zGB_1776296088336_na1fn_L2hvbWUvdWJ1bnR1L0NsaWNrVXBfTUNQX1JlcG9ydA.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvZFM0RDFmQzg0TUFLRm9oS3VEbEVsYi9zYW5kYm94L0tDeGQ5dmY2ZHM4aXZrQVBxTjV6R0JfMTc3NjI5NjA4ODMzNl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBOc2FXTnJWWEJmVFVOUVgxSmxjRzl5ZEEubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIBs0H4Tdu3Rxa9xiVJ9HNLqXbXH8hBm3As9NmrqgnihxAiB7OO-bGS1NoYw~e9qH~DrhYFIgG0A0Wa7yQt3wRxq9Jw__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/dS4D1fC84MAKFohKuDlElb/sandbox/KCxd9vf6ds8ivkAPqN5zGB_1776296088336_na1fn_L2hvbWUvdWJ1bnR1L0NsaWNrVXBfTUNQX1JlcG9ydA.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvZFM0RDFmQzg0TUFLRm9oS3VEbEVsYi9zYW5kYm94L0tDeGQ5dmY2ZHM4aXZrQVBxTjV6R0JfMTc3NjI5NjA4ODMzNl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBOc2FXTnJWWEJmVFVOUVgxSmxjRzl5ZEEubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCRCE5cEI4b1pT3GMTMVGUEtAhYOAtWy-DxrSGh2mPLMQIgVk6~d9qzMxmlQJroYz16S3KeDTTguQCVq2u7wf4r7XE_"
           }
         ],
         "content": "I have tested the ClickUp MCP connector and compiled a comprehensive brief of its capabilities, along with live data samples fetched from your workspace. \n\nThe connector is very powerful, offering 51 tools that cover task management, universal search, time tracking, chat, and document management. I was able to successfully retrieve your workspace hierarchy (e.g., the \"Apartment Corp Workspace\" and \"Notion Tasks\" folder), fetch specific tasks like the \"Vacancy Report App\", and run a universal search that found documents, dashboards, and tasks.\n\nPlease review the attached report for the full details and data samples! Let me know if you'd like to test any specific actions, like creating a task or updating a custom field."
@@ -83,10 +83,10 @@
       "type": "file",
       "filename": "ClickUp_MCP_Report.md",
       "content_type": "text/markdown",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/dS4D1fC84MAKFohKuDlElb/sandbox/KCxd9vf6ds8ivkAPqN5zGB_1776296088336_na1fn_L2hvbWUvdWJ1bnR1L0NsaWNrVXBfTUNQX1JlcG9ydA.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvZFM0RDFmQzg0TUFLRm9oS3VEbEVsYi9zYW5kYm94L0tDeGQ5dmY2ZHM4aXZrQVBxTjV6R0JfMTc3NjI5NjA4ODMzNl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBOc2FXTnJWWEJmVFVOUVgxSmxjRzl5ZEEubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIBs0H4Tdu3Rxa9xiVJ9HNLqXbXH8hBm3As9NmrqgnihxAiB7OO-bGS1NoYw~e9qH~DrhYFIgG0A0Wa7yQt3wRxq9Jw__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/dS4D1fC84MAKFohKuDlElb/sandbox/KCxd9vf6ds8ivkAPqN5zGB_1776296088336_na1fn_L2hvbWUvdWJ1bnR1L0NsaWNrVXBfTUNQX1JlcG9ydA.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvZFM0RDFmQzg0TUFLRm9oS3VEbEVsYi9zYW5kYm94L0tDeGQ5dmY2ZHM4aXZrQVBxTjV6R0JfMTc3NjI5NjA4ODMzNl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBOc2FXTnJWWEJmVFVOUVgxSmxjRzl5ZEEubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCRCE5cEI4b1pT3GMTMVGUEtAhYOAtWy-DxrSGh2mPLMQIgVk6~d9qzMxmlQJroYz16S3KeDTTguQCVq2u7wf4r7XE_",
       "status": "archived",
       "bytes": 3607,
-      "archive_path": "attachments/dS4D1fC84MAKFohKuDlElb/4-assistant_message-0_ce3be5344e8e7f1a_ClickUp_MCP_Report.md"
+      "archive_path": "attachments/dS4D1fC84MAKFohKuDlElb/4-assistant_message-0_bfb2beaae4875784_ClickUp_MCP_Report.md"
     }
   ]
 }

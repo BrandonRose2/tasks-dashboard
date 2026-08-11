@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-11T15:01:56.455629Z",
+  "task": {
+    "id": "lHN0b4S0XOjJlzGtEMHmrm",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 50,
+    "created_at": "1786394410",
+    "updated_at": "1786394427",
+    "task_url": "https://manus.im/app/lHN0b4S0XOjJlzGtEMHmrm",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "vuyichAskqtOHC2v7PLIX9",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786394410809",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "The independent audit of Wilmington_Arms_Housing_LP_2020.pdf pages 1, 4, and 5 confirms that Item F on page 1, Schedule K on page 4, and Schedules L/M-1/M-2 on page 5 are fully covered/redacted, with no exposed financial figures."
+      },
+      "id": "g3LSPLHJqjzGvVgGszVOek",
+      "timestamp": "1786394427727",
+      "type": "assistant_message"
+    },
+    {
+      "id": "aPWXhnj2m8Tq4aPPJJQ3jA",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786394427856",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

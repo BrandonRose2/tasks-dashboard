@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "archived_at": "2026-08-04T18:29:06.258169Z",
+  "archived_at": "2026-08-11T15:06:27.880867Z",
   "task": {
     "id": "07lXZMr8kZJbqJBeBURaqm",
     "title": "Replicate and Improve Task in Manus Document",
@@ -25,7 +25,7 @@
             "content_type": "text/plain",
             "filename": "pasted_content.txt",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-eG9ZQFuGIkio9Hcd5ors8v_na1fn_cGFzdGVkX2NvbnRlbnQ.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1lRzlaUUZ1R0lraW85SGNkNW9yczh2X25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDOiYDstyUMZSsIRctvkYPKHCsH50hgkWMGc5rMLGwsawIgDTqbWC2Yv3LlYEfjngwYwsJit1KncmOs6hTEDtm6xsM_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-eG9ZQFuGIkio9Hcd5ors8v_na1fn_cGFzdGVkX2NvbnRlbnQ.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1lRzlaUUZ1R0lraW85SGNkNW9yczh2X25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIF-HZCJgqfzSoo7WAmSp3w7h8FrB02TzPTsygEpIS61qAiBxvvN5nGxkBl0Zo0nzUs7hwq4cL2TIxwq9hS3fZesl8g__"
           }
         ],
         "content": "I want you to replicate this task in my manus but improve it ",
@@ -115,10 +115,10 @@
       "type": "file",
       "filename": "pasted_content.txt",
       "content_type": "text/plain",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-eG9ZQFuGIkio9Hcd5ors8v_na1fn_cGFzdGVkX2NvbnRlbnQ.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1lRzlaUUZ1R0lraW85SGNkNW9yczh2X25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDOiYDstyUMZSsIRctvkYPKHCsH50hgkWMGc5rMLGwsawIgDTqbWC2Yv3LlYEfjngwYwsJit1KncmOs6hTEDtm6xsM_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-eG9ZQFuGIkio9Hcd5ors8v_na1fn_cGFzdGVkX2NvbnRlbnQ.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1lRzlaUUZ1R0lraW85SGNkNW9yczh2X25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIF-HZCJgqfzSoo7WAmSp3w7h8FrB02TzPTsygEpIS61qAiBxvvN5nGxkBl0Zo0nzUs7hwq4cL2TIxwq9hS3fZesl8g__",
       "status": "archived",
       "bytes": 10178,
-      "archive_path": "attachments/07lXZMr8kZJbqJBeBURaqm/0-user_message-0_7ccd40ee090a78cf_pasted_content.txt"
+      "archive_path": "attachments/07lXZMr8kZJbqJBeBURaqm/0-user_message-0_5018a693c587ed19_pasted_content.txt"
     }
   ]
 }

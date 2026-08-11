@@ -1,0 +1,146 @@
+
+Cloud
+Claude finished the response
+I recorded a demonstration of a desktop workflow for you to learn from.
+
+Recorded demonstration · 128.0s
+Spoken narration from the microphone (transcribed across the whole recording; not aligned to individual timestamps): "Okay. So I need you to go and log in to this website, which I will give you the credentials for, but this app dot connect team dot com. And then I need you to go to time clock access, and then I need the dates between January first twenty twenty six and today, August tenth twenty twenty six. And I need the tracking of a specific employee, Sandra Crump. So if you scroll down, and you go to the map here and you type her name in like so. And as an example, I will use July eleventh, which has her tracking information in there... or I'm sorry, not July eleventh, June eleventh because she's not in as often as we would like. And when it brings up her tracking information, um, as you can see, there are these green circles that are geofences where where she should be located. So we don't need to investigate the white dots inside the geofence. But all of these white dots outside of the geofence, which is the green circle, are I need totaled up for each day to show the hours that she was not on-site at one of these geofenced locations. So if you can do all of that, and I will provide the credentials in in the chat after I add this. And, again, I need those from January first twenty twenty six. to August tenth twenty twenty six for every day that she was clocked in, and I need a breakdown of, you know, the times that she was clocked in and the times... the total amount of time that she was paying off-site from these geofences."
+Screenshot · 0.2s
+
+Clicked in Comet
+11.4s
+Changed region · 11.8s
+
+Switched to Comet
+11.5s
+Clicked in Comet
+12.3s
+Clicked in Comet
+14.5s
+Scrolled down in Comet
+20.5s
+Screenshot · 22.0s
+
+Scrolled down in Comet
+26.5s
+Screenshot · 28.8s
+
+Clicked in Comet
+30.3s
+Clicked in Comet
+32.0s
+Typedsandra crump
+37.0s
+Changed region · 40.4s
+
+Clicked in Comet
+42.2s
+Clicked in Comet
+43.8s
+Clicked in Comet
+45.7s
+Screenshot · 46.1s
+
+Clicked in Comet
+52.0s
+Changed region · 52.4s
+
+Clicked in Comet
+54.2s
+Clicked in Comet
+56.6s
+Changed region · 56.9s
+
+Clicked in Comet
+62.6s
+Changed region · 62.9s
+
+Clicked in Comet
+64.6s
+Clicked in Comet
+64.8s
+Clicked in Comet
+65.4s
+Clicked in Comet
+65.7s
+Clicked in Comet
+67.0s
+Clicked in Comet
+67.2s
+Changed region · 67.5s
+
+Dragged in Comet
+68.1s
+Changed region · 99.7s
+
+Changed region · 128.0s
+
+
+Loaded tools, used a tool
+Loaded tools, used a tool
+
+Searched the web, loaded tools
+Searched the web, loaded tools
+Excellent — there's a dedicated Breadcrumbs API endpoint. Let me confirm its exact shape and check API access/auth requirements.
+
+
+Searched the web
+Searched the web
+I found that Connecteam actually has a real API (including a Breadcrumbs endpoint that returns exact GPS points and geofence enter/exit events per shift) — which is a much better fit for totaling 7+ months of off-site time than clicking through the map day by day. How would you like the reusable version of this workflow to pull the data?
+Browser automation instead
+
+Used a skill, ran a command
+Used a skill, ran a command
+Now let me build the skill directory with the SKILL.md, a haversine helper script, and reference notes.
+
+
+Created 2 files, ran a command
+Created 2 files, ran a command
+pull the data whichever way is best... is there is a usable API for what you need then use that
+
+
+Searched the web
+Searched the web
+Now I have everything needed. Let me build the API client script and rewrite the skill to be API-first, with the browser flow kept as a documented fallback.
+
+
+Created a file
+Created a file
+Now let me move the browser-driven approach into a reference file for the fallback case, and rewrite SKILL.md to lead with the API.
+
+
+Created 2 files
+Created 2 files
+Now let's package the skill and validate it.
+
+
+Ran a command
+Ran a command
+Script logic checks out (300s = the interval from the far-outside point back to the inside point). Now packaging the skill.
+
+
+Ran a command
+Ran a command
+The skill validated and packaged cleanly. Let me send it over.
+
+
+Presented files
+Presented files
+I dug into Connecteam's developer docs and confirmed there's a real API for this — a Breadcrumbs endpoint that returns exact GPS points plus geofence enter/exit events per shift, alongside endpoints for shifts and geofence definitions. That's what the skill uses by default (it needs the account on Connecteam's Expert plan or higher, with an admin-generated API key), and it falls back to the browser approach from your recording — but using network-request capture to grab the raw coordinates the map already loads, rather than eyeballing dots — for accounts without API access.
+
+The .skill file above should show a Save skill button if your org allows it. Two things to decide:
+
+Do you have (or can you get) a Connecteam API key? That's the fast, exact path for the full Jan 1 – Aug 10 range.
+Want me to actually run this now for Sandra Crump, or just save the skill for later?
+
+connecteam-geofence-offsite-report
+Skill 
+
+
+Now using credits • Your plan limit resets Aug 11 at 2:00 PM.
+
+
+
+
+Claude is AI and can make mistakes. Please double-check responses.
+

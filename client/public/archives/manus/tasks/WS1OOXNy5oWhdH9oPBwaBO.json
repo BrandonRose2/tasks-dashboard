@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "archived_at": "2026-08-04T18:45:59.663666Z",
+  "archived_at": "2026-08-11T15:31:07.549959Z",
   "task": {
     "id": "WS1OOXNy5oWhdH9oPBwaBO",
     "title": "How to Communicate and Implement Foxen Waiver to Tenants",
@@ -90,7 +90,7 @@
             "content_type": "application/pdf",
             "filename": "foxen_waiver_communication_guide.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/WS1OOXNy5oWhdH9oPBwaBO/sandbox/clv56OsaHRZpUoYMbIJQUG_1774660001877_na1fn_L2hvbWUvdWJ1bnR1L2ZveGVuX3dhaXZlcl9jb21tdW5pY2F0aW9uX2d1aWRl.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvV1MxT09YTnk1b1doZEg5b1BCd2FCTy9zYW5kYm94L2NsdjU2T3NhSFJacFVvWU1iSUpRVUdfMTc3NDY2MDAwMTg3N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJadmVHVnVYM2RoYVhabGNsOWpiMjF0ZFc1cFkyRjBhVzl1WDJkMWFXUmwucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIFx6oGiFsE1PfK9LrMcS2ZhQSQj9G8Hn-4RrnQHPiU9hAiB9v3CtS6~h9JpuSj0W12LlbcF2ernbEDyYOhhaWOhkIQ__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/WS1OOXNy5oWhdH9oPBwaBO/sandbox/clv56OsaHRZpUoYMbIJQUG_1774660001877_na1fn_L2hvbWUvdWJ1bnR1L2ZveGVuX3dhaXZlcl9jb21tdW5pY2F0aW9uX2d1aWRl.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvV1MxT09YTnk1b1doZEg5b1BCd2FCTy9zYW5kYm94L2NsdjU2T3NhSFJacFVvWU1iSUpRVUdfMTc3NDY2MDAwMTg3N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJadmVHVnVYM2RoYVhabGNsOWpiMjF0ZFc1cFkyRjBhVzl1WDJkMWFXUmwucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCICTtrA2UXN0-HgK2YfYrdgu6xcTixg9Xe4JmZV7K8947AiBv9~K70BHVrSthqnf3gHtYOECFm1Ihq-FSqn~KWxfvbg__"
           }
         ],
         "content": "Your PDF is ready to share with your COO. Here's a summary of everything the document covers across its **13 pages**:\n\n---\n\n**What's Inside the Guide**\n\n| Section | Content |\n|---|---|\n| **Section 1** | Executive Summary & Problem Statement — why communication is failing |\n| **Section 2** | 5 Identified Communication Errors — with exact corrections for each |\n| **Section 3** | Manager Reference — what the waiver covers vs. does NOT cover, coverage comparison table, and required legal disclaimer |\n| **Section 4** | 4-Stage Standardized Communication Flow — Day 0 verbal disclosure → Day 0–1 welcome email → Day 15 follow-up → ongoing Foxen portal monitoring, plus a full decision tree |\n| **Section 5** | Two verbatim email templates (Template A: Welcome & Insurance Notice; Template B: 15-Day Reminder) — ready to copy/paste |\n| **Section 6** | 6-Step Tenant Portal Navigation Guide — how tenants log in, upload their COI, and check status at resident.foxen.com |\n| **Section 7** | Printable Tenant Quick Reference Card — hand to every tenant at lease signing |\n| **Section 8** | Insurance Policy Approval Requirements — the 5 checklist items tenants must meet to opt out, with the most common rejection mistakes |\n| **Key Contacts** | All Foxen URLs, phone, email, and the critical PO Box address in one dark reference block |\n\n---\n\n**The single most important fix** captured in this guide: property managers must always provide tenants with the Foxen PO Box (`PO Box 12367, Columbus, OH 43212`) as the \"Additional Interest\" address — this is the #1 reason third-party policies get rejected and tenants continue being charged the $12 fee unnecessarily."
@@ -116,10 +116,10 @@
       "type": "file",
       "filename": "foxen_waiver_communication_guide.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/WS1OOXNy5oWhdH9oPBwaBO/sandbox/clv56OsaHRZpUoYMbIJQUG_1774660001877_na1fn_L2hvbWUvdWJ1bnR1L2ZveGVuX3dhaXZlcl9jb21tdW5pY2F0aW9uX2d1aWRl.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvV1MxT09YTnk1b1doZEg5b1BCd2FCTy9zYW5kYm94L2NsdjU2T3NhSFJacFVvWU1iSUpRVUdfMTc3NDY2MDAwMTg3N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJadmVHVnVYM2RoYVhabGNsOWpiMjF0ZFc1cFkyRjBhVzl1WDJkMWFXUmwucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIFx6oGiFsE1PfK9LrMcS2ZhQSQj9G8Hn-4RrnQHPiU9hAiB9v3CtS6~h9JpuSj0W12LlbcF2ernbEDyYOhhaWOhkIQ__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/WS1OOXNy5oWhdH9oPBwaBO/sandbox/clv56OsaHRZpUoYMbIJQUG_1774660001877_na1fn_L2hvbWUvdWJ1bnR1L2ZveGVuX3dhaXZlcl9jb21tdW5pY2F0aW9uX2d1aWRl.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvV1MxT09YTnk1b1doZEg5b1BCd2FCTy9zYW5kYm94L2NsdjU2T3NhSFJacFVvWU1iSUpRVUdfMTc3NDY2MDAwMTg3N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJadmVHVnVYM2RoYVhabGNsOWpiMjF0ZFc1cFkyRjBhVzl1WDJkMWFXUmwucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCICTtrA2UXN0-HgK2YfYrdgu6xcTixg9Xe4JmZV7K8947AiBv9~K70BHVrSthqnf3gHtYOECFm1Ihq-FSqn~KWxfvbg__",
       "status": "archived",
       "bytes": 87196,
-      "archive_path": "attachments/WS1OOXNy5oWhdH9oPBwaBO/8-assistant_message-0_4277688e18d0cf9c_foxen_waiver_communication_guide.pdf"
+      "archive_path": "attachments/WS1OOXNy5oWhdH9oPBwaBO/8-assistant_message-0_8cb19293190d9bc0_foxen_waiver_communication_guide.pdf"
     }
   ]
 }

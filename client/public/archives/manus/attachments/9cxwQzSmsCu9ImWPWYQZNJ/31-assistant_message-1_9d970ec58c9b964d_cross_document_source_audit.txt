@@ -1,0 +1,50 @@
+CROSS-DOCUMENT SIGNATURE SOURCE AUDIT
+
+Purpose: identify whether each uploaded PDF is a source for a signature to the September 2019 Third Amendment.
+Rule applied: a signature on the original LPA or a prior amendment is evidence only for that instrument and is not moved, copied, or treated as a Third-Amendment signature.
+
+FIRST AMENDMENT TO AGREEMENT OF LIMITED PARTNERSHIP OF WILMINGTON ARMS HOUSING LP.pdf
+  Pages: 9
+  Classification: First Amendment only — not a Third-Amendment signature source
+
+Fully Executed LP Agreement_.pdf
+  Pages: 35
+  Classification: Original LPA only — not a Third-Amendment signature source
+
+LP Agreement Partially Executed.pdf
+  Pages: 29
+  Classification: Original LPA only — not a Third-Amendment signature source
+
+LP agreemetn Partially Executed.pdf
+  Pages: 29
+  Classification: Original LPA only — not a Third-Amendment signature source
+
+Second Amendment to Partnership Agreement of Wilmington.pdf
+  Pages: 12
+  Classification: Second Amendment only — not a Third-Amendment signature source
+
+Third Amendment - Willmington Arms Housing LP-signed Tucker Family.pdf
+  Pages: 4
+  Classification: Third Amendment counterpart / source candidate
+
+Wilmington LPA - 2nd Amendment 05.16.2014.pdf
+  Pages: 12
+  Classification: Second Amendment only — not a Third-Amendment signature source
+
+Wilmington LPA - 3rd Amendment 09.15.2019.pdf
+  Pages: 5
+  Classification: Third Amendment counterpart / source candidate
+
+Wilmington LPA - Original 02.13.2013 -Executed.pdf
+  Pages: 41
+  Classification: Original LPA only — not a Third-Amendment signature source
+
+Wilmington LPA -1st Amendement 03.07.2013.pdf
+  Pages: 14
+  Classification: First Amendment only — not a Third-Amendment signature source
+
+Third-Amendment source candidates:
+- Third Amendment - Willmington Arms Housing LP-signed Tucker Family.pdf
+- Wilmington LPA - 3rd Amendment 09.15.2019.pdf
+
+Conclusion: Only the above documents are candidates for consolidation into the Third Amendment. The remaining documents cannot supply a Third-Amendment signature page without altering the legal instrument.

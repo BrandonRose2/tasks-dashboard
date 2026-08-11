@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-11T15:01:48.922268Z",
+  "task": {
+    "id": "aaPJO8O2Yrp8WHzpZUT3Zf",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 25,
+    "created_at": "1786394433",
+    "updated_at": "1786394449",
+    "task_url": "https://manus.im/app/aaPJO8O2Yrp8WHzpZUT3Zf",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "HQ7jFEzJvw4MNNM2QNJyAM",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786394434386",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "The audit of Wilmington_Arms_Housing_LP_2021.pdf is complete. Pages 1, 4, and 5 successfully passed visual inspection with all required financial figures fully redacted."
+      },
+      "id": "83Ci7QZiZ6qBhmcpOovwRF",
+      "timestamp": "1786394449467",
+      "type": "assistant_message"
+    },
+    {
+      "id": "fKvFTJHoAjHH5c2HplbFor",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786394449591",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

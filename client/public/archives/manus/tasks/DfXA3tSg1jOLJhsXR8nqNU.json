@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-11T15:02:00.784391Z",
+  "task": {
+    "id": "DfXA3tSg1jOLJhsXR8nqNU",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 44,
+    "created_at": "1786394410",
+    "updated_at": "1786394426",
+    "task_url": "https://manus.im/app/DfXA3tSg1jOLJhsXR8nqNU",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "14QPcGHgrCx0XLVzWTHusv",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786394410576",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "The audit of Pacific_Pointe_Housing_LP_2020.pdf pages 1, 4, and 5 is complete. All required redaction zones (Item F on page 1, Schedule K on page 4, and Schedule L/M-1/M-2 on page 5) are fully covered with proper redactions, and no actual financial figures are visibly exposed."
+      },
+      "id": "2RuRTrQja7xFYXkM0au5lZ",
+      "timestamp": "1786394426178",
+      "type": "assistant_message"
+    },
+    {
+      "id": "Xhilpv1iPvp2vymZvUPdGt",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786394426317",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

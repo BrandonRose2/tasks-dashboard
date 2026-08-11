@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-11T15:01:49.304423Z",
+  "task": {
+    "id": "rHtqI4kHVOYaMUM3xKKa6D",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 24,
+    "created_at": "1786394433",
+    "updated_at": "1786394448",
+    "task_url": "https://manus.im/app/rHtqI4kHVOYaMUM3xKKa6D",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "ux5DH6WcrBAGQ1uci5iVZr",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786394433689",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "The PDF file Village_Green_Housing_LP_2021.pdf has been audited. Pages 1, 4, and 5 successfully passed visual inspection with all required financial figures fully covered/redacted."
+      },
+      "id": "ezbixgptaRuCaLYOD2bWhy",
+      "timestamp": "1786394448019",
+      "type": "assistant_message"
+    },
+    {
+      "id": "J05DkuTNWuGcw3QXZdLQMX",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786394448157",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

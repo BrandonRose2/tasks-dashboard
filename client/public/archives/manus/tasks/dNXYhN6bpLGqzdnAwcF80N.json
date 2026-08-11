@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-11T15:01:52.674693Z",
+  "task": {
+    "id": "dNXYhN6bpLGqzdnAwcF80N",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 40,
+    "created_at": "1786394428",
+    "updated_at": "1786394442",
+    "task_url": "https://manus.im/app/dNXYhN6bpLGqzdnAwcF80N",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "PTxzRctnm41kqCz5uG9sSi",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786394428883",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "The redacted Form 1065 PDF (Oak_Hills_Housing_LP_2021.pdf) has been successfully audited. Pages 1, 4, and 5 passed visual inspection: Item F on page 1 is fully covered, page 4 Schedule K financial-entry fields are fully blacked out, and page 5 Schedule L/M-1/M-2 financial-entry fields are fully blacked out with no exposed financial figures."
+      },
+      "id": "h2geR7lprTYHcP3qpmmGNR",
+      "timestamp": "1786394442429",
+      "type": "assistant_message"
+    },
+    {
+      "id": "BBkeLucujoFHzXEWnHPWz2",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786394442549",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

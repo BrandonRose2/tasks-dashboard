@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "archived_at": "2026-08-04T18:29:18.559716Z",
+  "archived_at": "2026-08-11T15:06:39.771047Z",
   "task": {
     "id": "PYiA1EMil8kLmrdnYQpsB7",
     "title": "How to Set Up Jarvin from a GitHub Repository",
@@ -25,7 +25,7 @@
             "content_type": "video/quicktime",
             "filename": "Jarvis.mov",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-QL5viYX45ibAzKBWdx11q3_na1fn_SmFydmlz.mov?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1RTDV2aVlYNDVpYkF6S0JXZHgxMXEzX25hMWZuX1NtRnlkbWx6Lm1vdiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDdYkGcBPp~60QfA8WWtswyfX13qtk8HR-n31FR3i84RAIgNWcQUHh-ooZdxauDzYCzRkKullT9CJ6FgHoRl7hLnVQ_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-QL5viYX45ibAzKBWdx11q3_na1fn_SmFydmlz.mov?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1RTDV2aVlYNDVpYkF6S0JXZHgxMXEzX25hMWZuX1NtRnlkbWx6Lm1vdiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICmwuCMPD2gLn9fhbLS9bvvGOiU9SlSA8RkR69y368x7AiEAlsWmICNTHUSqZTdlW1K5xgWQYvguoMPQ1ig3UscjYHo_"
           }
         ],
         "content": "I am setting up this new Jarvin through a github repository that I found... here is a screen recording of the settings... can you help me set it up and give me instructions on how to do everything? ",
@@ -57,7 +57,7 @@
             "content_type": "text/markdown; charset=utf-8",
             "filename": "OpenJarvis_Setup_Guide.md",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/PYiA1EMil8kLmrdnYQpsB7/sandbox/B9yUhaR11Yudq22OqalPTo_1782424040898_na1fn_L2hvbWUvdWJ1bnR1L09wZW5KYXJ2aXNfU2V0dXBfR3VpZGU.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUFlpQTFFTWlsOGtMbXJkbllRcHNCNy9zYW5kYm94L0I5eVVoYVIxMVl1ZHEyMk9xYWxQVG9fMTc4MjQyNDA0MDg5OF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDA5d1pXNUtZWEoyYVhOZlUyVjBkWEJmUjNWcFpHVS5tZCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDffu0ZzNGgPHM-Em4GqpehNKiY~0pTlGQmhqeTLUZmEgIgFzpyJssPonoawhJFGh2-CuMnCkmzOHDWHXi6xdsEBms_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/PYiA1EMil8kLmrdnYQpsB7/sandbox/B9yUhaR11Yudq22OqalPTo_1782424040898_na1fn_L2hvbWUvdWJ1bnR1L09wZW5KYXJ2aXNfU2V0dXBfR3VpZGU.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUFlpQTFFTWlsOGtMbXJkbllRcHNCNy9zYW5kYm94L0I5eVVoYVIxMVl1ZHEyMk9xYWxQVG9fMTc4MjQyNDA0MDg5OF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDA5d1pXNUtZWEoyYVhOZlUyVjBkWEJmUjNWcFpHVS5tZCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQC87CD8GCfmtGqm9e1eek0OI4uRqO6YLlXrbIaTwvLhYAIhAPWSpTqJ54unY-YAEqUtjSV5Lu9frut3jhvZojHbjYjL"
           }
         ],
         "content": "I've analyzed your screen recording and researched the repository. You are setting up **OpenJarvis**, a local-first personal AI framework from Stanford SAIL's Intelligence Per Watt initiative. \n\nThe video shows the settings page of the native macOS desktop app, including configurations for API keys, memory backends, generation parameters, and speech-to-text.\n\nI have compiled a comprehensive, step-by-step setup guide based on the official documentation to help you get everything running perfectly, including how to fix the \"Memory Unavailable\" and \"Speech Not Configured\" statuses shown in your video. \n\nPlease find the detailed instructions in the attached Markdown file. Let me know if you need help running any specific commands!"
@@ -83,20 +83,20 @@
       "type": "file",
       "filename": "Jarvis.mov",
       "content_type": "video/quicktime",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-QL5viYX45ibAzKBWdx11q3_na1fn_SmFydmlz.mov?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1RTDV2aVlYNDVpYkF6S0JXZHgxMXEzX25hMWZuX1NtRnlkbWx6Lm1vdiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDdYkGcBPp~60QfA8WWtswyfX13qtk8HR-n31FR3i84RAIgNWcQUHh-ooZdxauDzYCzRkKullT9CJ6FgHoRl7hLnVQ_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-QL5viYX45ibAzKBWdx11q3_na1fn_SmFydmlz.mov?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1RTDV2aVlYNDVpYkF6S0JXZHgxMXEzX25hMWZuX1NtRnlkbWx6Lm1vdiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICmwuCMPD2gLn9fhbLS9bvvGOiU9SlSA8RkR69y368x7AiEAlsWmICNTHUSqZTdlW1K5xgWQYvguoMPQ1ig3UscjYHo_",
       "status": "archived",
       "bytes": 15031299,
-      "archive_path": "attachments/PYiA1EMil8kLmrdnYQpsB7/0-user_message-0_1a29e3059861b6dc_Jarvis.mov"
+      "archive_path": "attachments/PYiA1EMil8kLmrdnYQpsB7/0-user_message-0_f1330eba25ac9f11_Jarvis.mov"
     },
     {
       "event_index": 3,
       "type": "file",
       "filename": "OpenJarvis_Setup_Guide.md",
       "content_type": "text/markdown; charset=utf-8",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/PYiA1EMil8kLmrdnYQpsB7/sandbox/B9yUhaR11Yudq22OqalPTo_1782424040898_na1fn_L2hvbWUvdWJ1bnR1L09wZW5KYXJ2aXNfU2V0dXBfR3VpZGU.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUFlpQTFFTWlsOGtMbXJkbllRcHNCNy9zYW5kYm94L0I5eVVoYVIxMVl1ZHEyMk9xYWxQVG9fMTc4MjQyNDA0MDg5OF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDA5d1pXNUtZWEoyYVhOZlUyVjBkWEJmUjNWcFpHVS5tZCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDffu0ZzNGgPHM-Em4GqpehNKiY~0pTlGQmhqeTLUZmEgIgFzpyJssPonoawhJFGh2-CuMnCkmzOHDWHXi6xdsEBms_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/PYiA1EMil8kLmrdnYQpsB7/sandbox/B9yUhaR11Yudq22OqalPTo_1782424040898_na1fn_L2hvbWUvdWJ1bnR1L09wZW5KYXJ2aXNfU2V0dXBfR3VpZGU.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUFlpQTFFTWlsOGtMbXJkbllRcHNCNy9zYW5kYm94L0I5eVVoYVIxMVl1ZHEyMk9xYWxQVG9fMTc4MjQyNDA0MDg5OF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDA5d1pXNUtZWEoyYVhOZlUyVjBkWEJmUjNWcFpHVS5tZCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQC87CD8GCfmtGqm9e1eek0OI4uRqO6YLlXrbIaTwvLhYAIhAPWSpTqJ54unY-YAEqUtjSV5Lu9frut3jhvZojHbjYjL",
       "status": "archived",
       "bytes": 5385,
-      "archive_path": "attachments/PYiA1EMil8kLmrdnYQpsB7/3-assistant_message-0_783b652c64b61cad_OpenJarvis_Setup_Guide.md"
+      "archive_path": "attachments/PYiA1EMil8kLmrdnYQpsB7/3-assistant_message-0_9dc958797679af48_OpenJarvis_Setup_Guide.md"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "archived_at": "2026-08-04T18:41:27.188309Z",
+  "archived_at": "2026-08-11T15:25:04.165122Z",
   "task": {
     "id": "2OM8EmuyM12RIIcm91ie5h",
     "title": "How to Import a Spreadsheet into ClickUp Spaces?",
@@ -25,7 +25,7 @@
             "content_type": "text/csv",
             "filename": "pasted_file_p534yh_Managers-ContactList3186460445ef80569478d3d4c05a628c_all.csv",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-r1C0DdmU54tHUGU2a19Amw_na1fn_cGFzdGVkX2ZpbGVfcDUzNHloX01hbmFnZXJzLUNvbnRhY3RMaXN0MzE4NjQ2MDQ0NWVmODA1Njk0NzhkM2Q0YzA1YTYyOGNfYWxs.csv?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1yMUMwRGRtVTU0dEhVR1UyYTE5QW13X25hMWZuX2NHRnpkR1ZrWDJacGJHVmZjRFV6Tkhsb1gwMWhibUZuWlhKekxVTnZiblJoWTNSTWFYTjBNekU0TmpRMk1EUTBOV1ZtT0RBMU5qazBOemhrTTJRMFl6QTFZVFl5T0dOZllXeHMuY3N2IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIA7NHhCEIQWcs-VEcIadmK1KZ4~Rgy5Ee2BfVtbikb~qAiBxWgC2pkm2KEvWTmnyPTFMyO11IvGHfMo2osw6L9zSvg__"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-r1C0DdmU54tHUGU2a19Amw_na1fn_cGFzdGVkX2ZpbGVfcDUzNHloX01hbmFnZXJzLUNvbnRhY3RMaXN0MzE4NjQ2MDQ0NWVmODA1Njk0NzhkM2Q0YzA1YTYyOGNfYWxs.csv?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1yMUMwRGRtVTU0dEhVR1UyYTE5QW13X25hMWZuX2NHRnpkR1ZrWDJacGJHVmZjRFV6Tkhsb1gwMWhibUZuWlhKekxVTnZiblJoWTNSTWFYTjBNekU0TmpRMk1EUTBOV1ZtT0RBMU5qazBOemhrTTJRMFl6QTFZVFl5T0dOZllXeHMuY3N2IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIE4Wd50ykNrwVw8PUpT56qdtB0-gCPTMRJCDwgz8gx-UAiEAp4UC0WjmARUji~QCpW3vg~FkXaJouJHgYJTI4bpZB0U_"
           }
         ],
         "content": "I want to import this spreadsheet into my clickup under Spaces but not sure the best approach ... can you help me to this task? ",
@@ -613,7 +613,7 @@
             "content_type": "text/markdown",
             "filename": "clickup_custom_fields_guide.md",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2OM8EmuyM12RIIcm91ie5h/sandbox/stj2Rk3B0lehI9F0FHLfEW_1776635147917_na1fn_L2hvbWUvdWJ1bnR1L2NsaWNrdXBfY3VzdG9tX2ZpZWxkc19ndWlkZQ.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMk9NOEVtdXlNMTJSSUljbTkxaWU1aC9zYW5kYm94L3N0ajJSazNCMGxlaEk5RjBGSExmRVdfMTc3NjYzNTE0NzkxN19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOc2FXTnJkWEJmWTNWemRHOXRYMlpwWld4a2MxOW5kV2xrWlEubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCdYTv-1hjk4WcwJX73wR6KkVHvpZv~2vQ~e0Jms4WBvQIgVcdxXIGdubDI6dX-OjLk8tjjPjayI6EuqJFzNegi0Mg_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2OM8EmuyM12RIIcm91ie5h/sandbox/stj2Rk3B0lehI9F0FHLfEW_1776635147917_na1fn_L2hvbWUvdWJ1bnR1L2NsaWNrdXBfY3VzdG9tX2ZpZWxkc19ndWlkZQ.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMk9NOEVtdXlNMTJSSUljbTkxaWU1aC9zYW5kYm94L3N0ajJSazNCMGxlaEk5RjBGSExmRVdfMTc3NjYzNTE0NzkxN19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOc2FXTnJkWEJmWTNWemRHOXRYMlpwWld4a2MxOW5kV2xrWlEubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCPexupim5fxkMuS0uUpo1un7rwShVF8Hsv8pcOeOB9FgIhAKnyX~~0kySd358-~wOJgXiOPpPt2WG8bSBZZREw8kdO"
           }
         ],
         "content": "Here's your step-by-step guide! The key steps are:\n\n1. **Open your list** → switch to **Table view** (click `+ Add View` → Table)\n2. **Click the `+` icon** at the far right of the column headers to add a new field\n3. **Add each field** from this list — one at a time:\n\n| Field Name | Type |\n|---|---|\n| Property | Text |\n| Manager | Text |\n| Email Address | Email |\n| Office | Phone |\n| Ext | Text |\n| Mobile | Phone |\n| Street Address | Text |\n| City | Text |\n| State | Text |\n| Zip | Text |\n| Region | Dropdown (Region 1–5) |\n| Time Zone | Dropdown (EST, CST, PST) |\n| Trained | Dropdown (Yes, No, Scheduled, Missed) |\n| Payroll | Text |\n\n4. Once **Region** is created, click **Group by → Region** to get the grouped view just like Notion.\n\n5. **Once all fields are created, come back and tell me** — I'll automatically fill in all 60 records with the correct values for every field so you don't have to do it by hand.\n\nThe full guide is attached below for easy reference."
@@ -789,20 +789,20 @@
       "type": "file",
       "filename": "pasted_file_p534yh_Managers-ContactList3186460445ef80569478d3d4c05a628c_all.csv",
       "content_type": "text/csv",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-r1C0DdmU54tHUGU2a19Amw_na1fn_cGFzdGVkX2ZpbGVfcDUzNHloX01hbmFnZXJzLUNvbnRhY3RMaXN0MzE4NjQ2MDQ0NWVmODA1Njk0NzhkM2Q0YzA1YTYyOGNfYWxs.csv?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1yMUMwRGRtVTU0dEhVR1UyYTE5QW13X25hMWZuX2NHRnpkR1ZrWDJacGJHVmZjRFV6Tkhsb1gwMWhibUZuWlhKekxVTnZiblJoWTNSTWFYTjBNekU0TmpRMk1EUTBOV1ZtT0RBMU5qazBOemhrTTJRMFl6QTFZVFl5T0dOZllXeHMuY3N2IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIA7NHhCEIQWcs-VEcIadmK1KZ4~Rgy5Ee2BfVtbikb~qAiBxWgC2pkm2KEvWTmnyPTFMyO11IvGHfMo2osw6L9zSvg__",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-r1C0DdmU54tHUGU2a19Amw_na1fn_cGFzdGVkX2ZpbGVfcDUzNHloX01hbmFnZXJzLUNvbnRhY3RMaXN0MzE4NjQ2MDQ0NWVmODA1Njk0NzhkM2Q0YzA1YTYyOGNfYWxs.csv?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1yMUMwRGRtVTU0dEhVR1UyYTE5QW13X25hMWZuX2NHRnpkR1ZrWDJacGJHVmZjRFV6Tkhsb1gwMWhibUZuWlhKekxVTnZiblJoWTNSTWFYTjBNekU0TmpRMk1EUTBOV1ZtT0RBMU5qazBOemhrTTJRMFl6QTFZVFl5T0dOZllXeHMuY3N2IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIE4Wd50ykNrwVw8PUpT56qdtB0-gCPTMRJCDwgz8gx-UAiEAp4UC0WjmARUji~QCpW3vg~FkXaJouJHgYJTI4bpZB0U_",
       "status": "archived",
       "bytes": 26628,
-      "archive_path": "attachments/2OM8EmuyM12RIIcm91ie5h/0-user_message-0_a0cb7d22631e6e91_pasted_file_p534yh_Managers-ContactList3186460445ef80569478d3d4c05a628c_all.csv"
+      "archive_path": "attachments/2OM8EmuyM12RIIcm91ie5h/0-user_message-0_111cbd66655370ab_pasted_file_p534yh_Managers-ContactList3186460445ef80569478d3d4c05a628c_all.csv"
     },
     {
       "event_index": 58,
       "type": "file",
       "filename": "clickup_custom_fields_guide.md",
       "content_type": "text/markdown",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2OM8EmuyM12RIIcm91ie5h/sandbox/stj2Rk3B0lehI9F0FHLfEW_1776635147917_na1fn_L2hvbWUvdWJ1bnR1L2NsaWNrdXBfY3VzdG9tX2ZpZWxkc19ndWlkZQ.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMk9NOEVtdXlNMTJSSUljbTkxaWU1aC9zYW5kYm94L3N0ajJSazNCMGxlaEk5RjBGSExmRVdfMTc3NjYzNTE0NzkxN19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOc2FXTnJkWEJmWTNWemRHOXRYMlpwWld4a2MxOW5kV2xrWlEubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCdYTv-1hjk4WcwJX73wR6KkVHvpZv~2vQ~e0Jms4WBvQIgVcdxXIGdubDI6dX-OjLk8tjjPjayI6EuqJFzNegi0Mg_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2OM8EmuyM12RIIcm91ie5h/sandbox/stj2Rk3B0lehI9F0FHLfEW_1776635147917_na1fn_L2hvbWUvdWJ1bnR1L2NsaWNrdXBfY3VzdG9tX2ZpZWxkc19ndWlkZQ.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMk9NOEVtdXlNMTJSSUljbTkxaWU1aC9zYW5kYm94L3N0ajJSazNCMGxlaEk5RjBGSExmRVdfMTc3NjYzNTE0NzkxN19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOc2FXTnJkWEJmWTNWemRHOXRYMlpwWld4a2MxOW5kV2xrWlEubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCPexupim5fxkMuS0uUpo1un7rwShVF8Hsv8pcOeOB9FgIhAKnyX~~0kySd358-~wOJgXiOPpPt2WG8bSBZZREw8kdO",
       "status": "archived",
       "bytes": 3327,
-      "archive_path": "attachments/2OM8EmuyM12RIIcm91ie5h/58-assistant_message-0_a82cb18bd1a48419_clickup_custom_fields_guide.md"
+      "archive_path": "attachments/2OM8EmuyM12RIIcm91ie5h/58-assistant_message-0_b7c10a83549150c3_clickup_custom_fields_guide.md"
     }
   ]
 }

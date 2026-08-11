@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "archived_at": "2026-08-04T18:38:00.591740Z",
+  "archived_at": "2026-08-11T15:19:06.233644Z",
   "task": {
     "id": "EN572vT4q3IjatmWpppQwA",
     "title": "Testing Slack Connector and Exploring Its Features",
@@ -57,7 +57,7 @@
             "content_type": "text/markdown",
             "filename": "slack_mcp_capabilities.md",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/EN572vT4q3IjatmWpppQwA/sandbox/or5cxglGsl1GCJewNluzrl_1778012163977_na1fn_L2hvbWUvdWJ1bnR1L3NsYWNrX21jcF9jYXBhYmlsaXRpZXM.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRU41NzJ2VDRxM0lqYXRtV3BwcFF3QS9zYW5kYm94L29yNWN4Z2xHc2wxR0NKZXdObHV6cmxfMTc3ODAxMjE2Mzk3N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOc1lXTnJYMjFqY0Y5allYQmhZbWxzYVhScFpYTS5tZCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQD8lytLWZ4n-kfN0CeNLxlURWx1ZSZ26Ldoq8ung4KJ1wIgDK4MSNbqiDX5A6MCMkZH6~8XyaoNH~1sRJiNPPGEmfQ_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/EN572vT4q3IjatmWpppQwA/sandbox/or5cxglGsl1GCJewNluzrl_1778012163977_na1fn_L2hvbWUvdWJ1bnR1L3NsYWNrX21jcF9jYXBhYmlsaXRpZXM.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRU41NzJ2VDRxM0lqYXRtV3BwcFF3QS9zYW5kYm94L29yNWN4Z2xHc2wxR0NKZXdObHV6cmxfMTc3ODAxMjE2Mzk3N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOc1lXTnJYMjFqY0Y5allYQmhZbWxzYVhScFpYTS5tZCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQC5ec5kHc2r-P5GLqJmWJYOLfHIsHSyR6YSzmzgF9YgqQIgVZCNv89rHft6FhUDgXHwdiFZJerHoTBxkMZVhxJYMos_"
           }
         ],
         "content": "I have successfully tested the Slack MCP connector! I explored its available tools, fetched your user profile, searched for channels, read channel history, and even sent a test message to the `#general` channel. \n\nI've compiled a comprehensive brief detailing all 13 capabilities of the connector, along with the live data I fetched during the test. You can review the attached document for all the details. Let me know if you'd like to test any specific feature further!"
@@ -83,10 +83,10 @@
       "type": "file",
       "filename": "slack_mcp_capabilities.md",
       "content_type": "text/markdown",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/EN572vT4q3IjatmWpppQwA/sandbox/or5cxglGsl1GCJewNluzrl_1778012163977_na1fn_L2hvbWUvdWJ1bnR1L3NsYWNrX21jcF9jYXBhYmlsaXRpZXM.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRU41NzJ2VDRxM0lqYXRtV3BwcFF3QS9zYW5kYm94L29yNWN4Z2xHc2wxR0NKZXdObHV6cmxfMTc3ODAxMjE2Mzk3N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOc1lXTnJYMjFqY0Y5allYQmhZbWxzYVhScFpYTS5tZCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQD8lytLWZ4n-kfN0CeNLxlURWx1ZSZ26Ldoq8ung4KJ1wIgDK4MSNbqiDX5A6MCMkZH6~8XyaoNH~1sRJiNPPGEmfQ_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/EN572vT4q3IjatmWpppQwA/sandbox/or5cxglGsl1GCJewNluzrl_1778012163977_na1fn_L2hvbWUvdWJ1bnR1L3NsYWNrX21jcF9jYXBhYmlsaXRpZXM.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRU41NzJ2VDRxM0lqYXRtV3BwcFF3QS9zYW5kYm94L29yNWN4Z2xHc2wxR0NKZXdObHV6cmxfMTc3ODAxMjE2Mzk3N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOc1lXTnJYMjFqY0Y5allYQmhZbWxzYVhScFpYTS5tZCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQC5ec5kHc2r-P5GLqJmWJYOLfHIsHSyR6YSzmzgF9YgqQIgVZCNv89rHft6FhUDgXHwdiFZJerHoTBxkMZVhxJYMos_",
       "status": "archived",
       "bytes": 3843,
-      "archive_path": "attachments/EN572vT4q3IjatmWpppQwA/4-assistant_message-0_ca61e52838b08e1f_slack_mcp_capabilities.md"
+      "archive_path": "attachments/EN572vT4q3IjatmWpppQwA/4-assistant_message-0_93fcb78651e52b99_slack_mcp_capabilities.md"
     }
   ]
 }

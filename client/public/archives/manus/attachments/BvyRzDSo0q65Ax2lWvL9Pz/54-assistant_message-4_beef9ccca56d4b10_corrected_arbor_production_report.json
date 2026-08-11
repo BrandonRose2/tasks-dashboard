@@ -1,0 +1,52 @@
+[
+  {
+    "year": "2020",
+    "source": "/home/ubuntu/court_production/selected_sources/2020/ARBORCREST_V1_ 2020 RETURN.pdf",
+    "output": "/home/ubuntu/court_production/corrected_arbor_products/2020/Arbor_Crest_Housing_2020.pdf",
+    "source_pages": 234,
+    "retained_pages": 87,
+    "omitted_pages": 147,
+    "redacted_investor_identifier_pages": [
+      37,
+      41,
+      45,
+      49,
+      53,
+      57,
+      61,
+      65,
+      69,
+      73,
+      77,
+      81,
+      85
+    ],
+    "identifier_mask_count": 13,
+    "status": "verified"
+  },
+  {
+    "year": "2021",
+    "source": "/home/ubuntu/court_production/selected_sources/2021/ARBORCREST_V1_ 2021 RETURN.pdf",
+    "output": "/home/ubuntu/court_production/corrected_arbor_products/2021/Arbor_Crest_Housing_2021.pdf",
+    "source_pages": 224,
+    "retained_pages": 77,
+    "omitted_pages": 147,
+    "redacted_investor_identifier_pages": [
+      27,
+      31,
+      35,
+      39,
+      43,
+      47,
+      51,
+      55,
+      59,
+      63,
+      67,
+      71,
+      75
+    ],
+    "identifier_mask_count": 13,
+    "status": "verified"
+  }
+]

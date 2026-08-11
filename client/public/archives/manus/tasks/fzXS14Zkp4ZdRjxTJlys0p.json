@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "archived_at": "2026-08-04T18:35:40.432767Z",
+  "archived_at": "2026-08-11T15:15:03.274361Z",
   "task": {
     "id": "fzXS14Zkp4ZdRjxTJlys0p",
     "title": "How to Combine Vacancy and Delinquent Accounts Reports?",
@@ -342,7 +342,7 @@
             "content_type": "application/vnd.ms-outlook",
             "filename": "⚡DailyVacancyReportMay182026128VacantUnits.msg",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-bJIbE1Dpd66FZwHQcZYgpp_na1fn_4pqhRGFpbHlWYWNhbmN5UmVwb3J0TWF5MTgyMDI2MTI4VmFjYW50VW5pdHM.msg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1iSkliRTFEcGQ2NkZad0hRY1pZZ3BwX25hMWZuXzRwcWhSR0ZwYkhsV1lXTmhibU41VW1Wd2IzSjBUV0Y1TVRneU1ESTJNVEk0Vm1GallXNTBWVzVwZEhNLm1zZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIHOJFLnILRt~gvRW2i8Ewv1qrfBjjK7BOjN6333SghCsAiAGOBgiqHEmvwhmcXHakWiupVah1wZ7mBDclwhS7B6gtA__"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-bJIbE1Dpd66FZwHQcZYgpp_na1fn_4pqhRGFpbHlWYWNhbmN5UmVwb3J0TWF5MTgyMDI2MTI4VmFjYW50VW5pdHM.msg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1iSkliRTFEcGQ2NkZad0hRY1pZZ3BwX25hMWZuXzRwcWhSR0ZwYkhsV1lXTmhibU41VW1Wd2IzSjBUV0Y1TVRneU1ESTJNVEk0Vm1GallXNTBWVzVwZEhNLm1zZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIAkm0zQsdPFPwAzeP90MUVHs4NBoojXAxxtmJYSMi3mxAiEA0y1dkQCwvM1xwe96i5QdtoVgZ8cPhyF0Uiikl3ecH2w_"
           }
         ],
         "content": "thats the currently report - i want to keep all of that data ",
@@ -1791,10 +1791,10 @@
       "type": "file",
       "filename": "⚡DailyVacancyReportMay182026128VacantUnits.msg",
       "content_type": "application/vnd.ms-outlook",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-bJIbE1Dpd66FZwHQcZYgpp_na1fn_4pqhRGFpbHlWYWNhbmN5UmVwb3J0TWF5MTgyMDI2MTI4VmFjYW50VW5pdHM.msg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1iSkliRTFEcGQ2NkZad0hRY1pZZ3BwX25hMWZuXzRwcWhSR0ZwYkhsV1lXTmhibU41VW1Wd2IzSjBUV0Y1TVRneU1ESTJNVEk0Vm1GallXNTBWVzVwZEhNLm1zZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIHOJFLnILRt~gvRW2i8Ewv1qrfBjjK7BOjN6333SghCsAiAGOBgiqHEmvwhmcXHakWiupVah1wZ7mBDclwhS7B6gtA__",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-bJIbE1Dpd66FZwHQcZYgpp_na1fn_4pqhRGFpbHlWYWNhbmN5UmVwb3J0TWF5MTgyMDI2MTI4VmFjYW50VW5pdHM.msg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1iSkliRTFEcGQ2NkZad0hRY1pZZ3BwX25hMWZuXzRwcWhSR0ZwYkhsV1lXTmhibU41VW1Wd2IzSjBUV0Y1TVRneU1ESTJNVEk0Vm1GallXNTBWVzVwZEhNLm1zZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIAkm0zQsdPFPwAzeP90MUVHs4NBoojXAxxtmJYSMi3mxAiEA0y1dkQCwvM1xwe96i5QdtoVgZ8cPhyF0Uiikl3ecH2w_",
       "status": "archived",
       "bytes": 129536,
-      "archive_path": "attachments/fzXS14Zkp4ZdRjxTJlys0p/32-user_message-0_dca396d760bf9bbc_DailyVacancyReportMay182026128VacantUnits.msg"
+      "archive_path": "attachments/fzXS14Zkp4ZdRjxTJlys0p/32-user_message-0_d59b853610cb19e7_DailyVacancyReportMay182026128VacantUnits.msg"
     }
   ]
 }

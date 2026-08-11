@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "archived_at": "2026-08-04T18:40:18.155202Z",
+  "archived_at": "2026-08-11T15:23:39.703481Z",
   "task": {
     "id": "Zlzui5PQiHfWtUoVv8O6gE",
     "title": "Testing and Using the Outlook Mail Connector Features",
@@ -96,7 +96,7 @@
             "content_type": "text/markdown",
             "filename": "Outlook_Mail_MCP_Capability_Brief.md",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/Zlzui5PQiHfWtUoVv8O6gE/sandbox/5BRxeQ4rZTnA6xjsZxNozy_1776814118929_na1fn_L2hvbWUvdWJ1bnR1L091dGxvb2tfTWFpbF9NQ1BfQ2FwYWJpbGl0eV9CcmllZg.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvWmx6dWk1UFFpSGZXdFVvVnY4TzZnRS9zYW5kYm94LzVCUnhlUTRyWlRuQTZ4anNaeE5venlfMTc3NjgxNDExODkyOV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDA5MWRHeHZiMnRmVFdGcGJGOU5RMUJmUTJGd1lXSnBiR2wwZVY5Q2NtbGxaZy5tZCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIHN23HISwdiwGc6FWl2dGeB4z2vSz1eXznd4UVx4CjXqAiEA1NGx97M9XPvMRopujofolMJRWQMxP-jxv7Zf3fojig8_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/Zlzui5PQiHfWtUoVv8O6gE/sandbox/5BRxeQ4rZTnA6xjsZxNozy_1776814118929_na1fn_L2hvbWUvdWJ1bnR1L091dGxvb2tfTWFpbF9NQ1BfQ2FwYWJpbGl0eV9CcmllZg.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvWmx6dWk1UFFpSGZXdFVvVnY4TzZnRS9zYW5kYm94LzVCUnhlUTRyWlRuQTZ4anNaeE5venlfMTc3NjgxNDExODkyOV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDA5MWRHeHZiMnRmVFdGcGJGOU5RMUJmUTJGd1lXSnBiR2wwZVY5Q2NtbGxaZy5tZCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCMxqFkpO1XHGkyqpQljhBJpIjQHOfEUmICvCEQMEj3QgIhAMlD5-1pz-l6nnkPzN399qCJNL2q6~NolsSkhY-7SkcM"
           }
         ],
         "content": "I've tested the Outlook Mail MCP connector and compiled a capability brief for you. \n\nDuring the test, I was able to successfully invoke the tools and explore their schemas. However, the specific Microsoft account connected to the test environment returned an error indicating that the mailbox is \"either inactive, soft-deleted, or is hosted on-premise.\" This means the account doesn't have an active Exchange Online mailbox enabled for the REST API.\n\nDespite this, I've documented all the available tools (`outlook_search_messages`, `outlook_read_messages`, and `outlook_send_messages`) and their capabilities in the attached brief. You can review the details on how to use them, including advanced KQL searches, batch reading, and sending emails with attachments."
@@ -122,10 +122,10 @@
       "type": "file",
       "filename": "Outlook_Mail_MCP_Capability_Brief.md",
       "content_type": "text/markdown",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/Zlzui5PQiHfWtUoVv8O6gE/sandbox/5BRxeQ4rZTnA6xjsZxNozy_1776814118929_na1fn_L2hvbWUvdWJ1bnR1L091dGxvb2tfTWFpbF9NQ1BfQ2FwYWJpbGl0eV9CcmllZg.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvWmx6dWk1UFFpSGZXdFVvVnY4TzZnRS9zYW5kYm94LzVCUnhlUTRyWlRuQTZ4anNaeE5venlfMTc3NjgxNDExODkyOV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDA5MWRHeHZiMnRmVFdGcGJGOU5RMUJmUTJGd1lXSnBiR2wwZVY5Q2NtbGxaZy5tZCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIHN23HISwdiwGc6FWl2dGeB4z2vSz1eXznd4UVx4CjXqAiEA1NGx97M9XPvMRopujofolMJRWQMxP-jxv7Zf3fojig8_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/Zlzui5PQiHfWtUoVv8O6gE/sandbox/5BRxeQ4rZTnA6xjsZxNozy_1776814118929_na1fn_L2hvbWUvdWJ1bnR1L091dGxvb2tfTWFpbF9NQ1BfQ2FwYWJpbGl0eV9CcmllZg.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvWmx6dWk1UFFpSGZXdFVvVnY4TzZnRS9zYW5kYm94LzVCUnhlUTRyWlRuQTZ4anNaeE5venlfMTc3NjgxNDExODkyOV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDA5MWRHeHZiMnRmVFdGcGJGOU5RMUJmUTJGd1lXSnBiR2wwZVY5Q2NtbGxaZy5tZCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCMxqFkpO1XHGkyqpQljhBJpIjQHOfEUmICvCEQMEj3QgIhAMlD5-1pz-l6nnkPzN399qCJNL2q6~NolsSkhY-7SkcM",
       "status": "archived",
       "bytes": 3377,
-      "archive_path": "attachments/Zlzui5PQiHfWtUoVv8O6gE/6-assistant_message-0_8752621ff4d44320_Outlook_Mail_MCP_Capability_Brief.md"
+      "archive_path": "attachments/Zlzui5PQiHfWtUoVv8O6gE/6-assistant_message-0_11aaa1f9b86dec58_Outlook_Mail_MCP_Capability_Brief.md"
     }
   ]
 }

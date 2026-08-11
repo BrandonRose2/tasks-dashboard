@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-11T15:01:55.214435Z",
+  "task": {
+    "id": "ShVyVzHXZ5IMtnEQ1AmZYy",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 45,
+    "created_at": "1786394422",
+    "updated_at": "1786394437",
+    "task_url": "https://manus.im/app/ShVyVzHXZ5IMtnEQ1AmZYy",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "nquV38U0xu6VKfNzmgSYp4",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786394422581",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "The Form 1065 PDF for Gates_on_Manhattan_LP_2021.pdf has been successfully audited. Item F on page 1 is fully covered, page 4 Schedule K financial-entry fields are fully blacked out, and page 5 Schedule L/M-1/M-2 financial-entry fields are fully blacked out with no exposed actual financial figures."
+      },
+      "id": "Pe274e6wOcVgiglYU3WpiX",
+      "timestamp": "1786394437379",
+      "type": "assistant_message"
+    },
+    {
+      "id": "Qns618WPGYZzWBL8fq5ryG",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786394437514",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

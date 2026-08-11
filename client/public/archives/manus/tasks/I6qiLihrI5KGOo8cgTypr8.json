@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "archived_at": "2026-08-04T18:30:40.962605Z",
+  "archived_at": "2026-08-11T15:08:26.065971Z",
   "task": {
     "id": "I6qiLihrI5KGOo8cgTypr8",
     "title": "Extracting Email Addresses from BocaCiegaResidents.csv",
@@ -25,7 +25,7 @@
             "content_type": "text/csv",
             "filename": "BocaCiegaResidents.csv",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-MJvHTcrGCfwR60D3zwtVpI_na1fn_Qm9jYUNpZWdhUmVzaWRlbnRz.csv?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1NSnZIVGNyR0Nmd1I2MEQzend0VnBJX25hMWZuX1FtOWpZVU5wWldkaFVtVnphV1JsYm5Sei5jc3YiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIG08~J7pElQ8HKptthBn3zg81Tu~uqmSepM0yblimeLDAiEAo2dI1xNIbCq7JhvH~bBsocKTeINirLc4-tbTQFo55yQ_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-MJvHTcrGCfwR60D3zwtVpI_na1fn_Qm9jYUNpZWdhUmVzaWRlbnRz.csv?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1NSnZIVGNyR0Nmd1I2MEQzend0VnBJX25hMWZuX1FtOWpZVU5wWldkaFVtVnphV1JsYm5Sei5jc3YiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCtyRxttzCYBt-FCzSu1aqDqUdg-qzq~1eO4C4-fJJZ2QIhALXFKCmQU2hGgXpdOQng6eMH1256U~a6WhVQLJDMkkZL"
           }
         ],
         "content": "can you extract the email addresses from this csv file for me ? ",
@@ -57,7 +57,7 @@
             "content_type": "text/csv; charset=utf-8",
             "filename": "BocaCiega_Emails.csv",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/I6qiLihrI5KGOo8cgTypr8/sandbox/XgOSFVyICAG0sxu6F8IgUR_1781812766096_na1fn_L2hvbWUvdWJ1bnR1L0JvY2FDaWVnYV9FbWFpbHM.csv?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvSTZxaUxpaHJJNUtHT284Y2dUeXByOC9zYW5kYm94L1hnT1NGVnlJQ0FHMHN4dTZGOElnVVJfMTc4MTgxMjc2NjA5Nl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBKdlkyRkRhV1ZuWVY5RmJXRnBiSE0uY3N2IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIGs21uYAw3G8x2UPwT-jIAKC19kzBFYfaqvhOuyCHaJoAiEA-2kKTf5xYUF7UdyVdcVBmUkuzCD5iHtsVgdMCRFcajI_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/I6qiLihrI5KGOo8cgTypr8/sandbox/XgOSFVyICAG0sxu6F8IgUR_1781812766096_na1fn_L2hvbWUvdWJ1bnR1L0JvY2FDaWVnYV9FbWFpbHM.csv?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvSTZxaUxpaHJJNUtHT284Y2dUeXByOC9zYW5kYm94L1hnT1NGVnlJQ0FHMHN4dTZGOElnVVJfMTc4MTgxMjc2NjA5Nl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBKdlkyRkRhV1ZuWVY5RmJXRnBiSE0uY3N2IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDCYC67SHXiKEUu2V679plelFR3PN9uGas5p5m47JCgGQIhAMtTzXpkYFc4ozpCRkok2PXwFQHgQSaOc9AYcWTexVPi"
           }
         ],
         "content": "Here are the results from the extraction:\n\n| Metric | Count |\n|---|---|\n| Total residents in file | 108 |\n| Residents **with** email | **52** |\n| Residents **without** email | 56 |\n\nThe extracted CSV file contains two columns — **Name** and **Email** — for all 52 residents who have an email address on file. See the attachment below."
@@ -86,7 +86,7 @@
             "content_type": "application/pdf",
             "filename": "SKM_451i26061815420.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-fhntQaQ3yOTTZhM3AQH7X7_na1fn_U0tNXzQ1MWkyNjA2MTgxNTQyMA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1maG50UWFRM3lPVFRaaE0zQVFIN1g3X25hMWZuX1UwdE5YelExTVdreU5qQTJNVGd4TlRReU1BLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIBJesjVdAL-fWHOm9dyYKlxgLVfHkonUOyiXbCXmqBLUAiB8jElySICN8MYpsAARMaMtj-rKyVb0akEI36Yvq1t0NQ__"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-fhntQaQ3yOTTZhM3AQH7X7_na1fn_U0tNXzQ1MWkyNjA2MTgxNTQyMA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1maG50UWFRM3lPVFRaaE0zQVFIN1g3X25hMWZuX1UwdE5YelExTVdreU5qQTJNVGd4TlRReU1BLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCvgWWQtOQApEIedlgW-zOcvD3qfL5oTUx70xZrrTdbhQIhAMsoaFwpaqW7niEjb-u5dhXpc6uT-hnDbSJxQewpBbr3"
           }
         ],
         "content": "and draft an email that i can send to them regarding this attachment ",
@@ -118,7 +118,7 @@
             "content_type": "text/markdown; charset=utf-8",
             "filename": "hurricane_email_draft.md",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/I6qiLihrI5KGOo8cgTypr8/sandbox/jhzpzN1RkblaYiCkHPYtUl_1781812838954_na1fn_L2hvbWUvdWJ1bnR1L2h1cnJpY2FuZV9lbWFpbF9kcmFmdA.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvSTZxaUxpaHJJNUtHT284Y2dUeXByOC9zYW5kYm94L2poenB6TjFSa2JsYVlpQ2tIUFl0VWxfMTc4MTgxMjgzODk1NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJoMWNuSnBZMkZ1WlY5bGJXRnBiRjlrY21GbWRBLm1kIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDnUHDG7magcLTE7O7P8s-vYjcCusn~VCuVPUVGRn5S8gIhAIEetKBMdv-BIxoK3yVKZhgG~kOw7rrWQ~6SmViUiqgb"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/I6qiLihrI5KGOo8cgTypr8/sandbox/jhzpzN1RkblaYiCkHPYtUl_1781812838954_na1fn_L2hvbWUvdWJ1bnR1L2h1cnJpY2FuZV9lbWFpbF9kcmFmdA.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvSTZxaUxpaHJJNUtHT284Y2dUeXByOC9zYW5kYm94L2poenB6TjFSa2JsYVlpQ2tIUFl0VWxfMTc4MTgxMjgzODk1NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJoMWNuSnBZMkZ1WlY5bGJXRnBiRjlrY21GbWRBLm1kIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQD1jwYfsHry4Mz3jIswjYH1i6gFZV8X4UupS6GiEK6KFAIhAIsvWHHEzUR4Od7-glx6o3Rwpj4VNDGLv9Bt4tyOAx06"
           }
         ],
         "content": "Here is the drafted email for you to send to the 52 residents. Feel free to adjust any wording before sending.\n\n---\n\n**From:** Brandon@ApartmentCorp.com\n**Subject:** Test3 - Important Hurricane Season Preparedness Notice & Resources\n\n---\n\nDear Residents,\n\nAs we enter the official hurricane season in Florida, meteorologists are predicting a season with potentially high-intensity storms. Now is the time to prepare yourself, your family, and your household for the possibility of severe weather, tropical storms, hurricanes, flooding, power outages, and emergency evacuations.\n\nAttached to this email, you will find important hurricane preparedness information, including:\n\n- A Hurricane Season Preparedness Notice from the Boca Ciega Management Team\n- Recommendations from the Florida Dept. of Health for \"Before the Storm Safety\" and \"After the Storm Safety\"\n- A Disaster Supply Checklist to help you build your emergency kit\n- A FEMA Guide to Documenting and Insuring Your Property\n\n**Key Reminders:**\n\n- **Make a Plan:** Use resources like the Florida Department of Emergency Management's online tool at [Ready.gov](https://www.ready.gov/plan) to create a customized emergency plan for your family.\n- **Emergency Supplies:** Maintain a well-stocked emergency preparedness kit to last you and your family for a minimum of seven days, including drinking water, non-perishable food, prescription medications, flashlights, and portable phone chargers.\n- **Secure Loose Items:** Before a storm approaches, please secure all outdoor furniture, decorations, grills, planters, and any other loose items that could become airborne and cause property damage or injury.\n- **Evacuation Orders:** If an evacuation order is issued, please follow all instructions provided by local emergency management officials. Do not remain in your apartment if authorities direct residents to evacuate.\n\nPlease review the attached documents carefully to aid in your plan preparation. Taking steps now will help reduce stress later when access to supplies may be limited as storms approach.\n\nPlease note that during a declared State of Emergency, management and maintenance personnel are also required to follow local emergency orders and seek shelter. As a result, staff may not be available to respond to maintenance requests or emergency calls while emergency conditions exist. Following a storm, our staff will assess the property as soon as conditions are safe and local authorities permit travel. We appreciate your patience during this process.\n\nThank you for your cooperation and commitment to keeping our community safe during hurricane season.\n\nSincerely,\n\n**Brandon**\nBoca Ciega Management Team\nBrandon@ApartmentCorp.com\nPhone: 727-865-1649 | Fax: 727-865-4366\n\n---\n\nThe draft is also saved as an attachment below. Let me know if you'd like any changes to the tone, wording, or content!"
@@ -216,7 +216,7 @@
             "content_type": "application/pdf",
             "filename": "hurricane_email_draft.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/I6qiLihrI5KGOo8cgTypr8/sandbox/ANBGTTb4aOrwemgEqSduNN_1781812933600_na1fn_L2hvbWUvdWJ1bnR1L2h1cnJpY2FuZV9lbWFpbF9kcmFmdA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvSTZxaUxpaHJJNUtHT284Y2dUeXByOC9zYW5kYm94L0FOQkdUVGI0YU9yd2VtZ0VxU2R1Tk5fMTc4MTgxMjkzMzYwMF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJoMWNuSnBZMkZ1WlY5bGJXRnBiRjlrY21GbWRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDynMUDrXQ2RZvhZRIv6yu~pr0eH5adO1KeNqucD7EnmQIhALhGLWP~iF9SF08f~JGPc6iKsteQsTCj0L7mDkOob2Ls"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/I6qiLihrI5KGOo8cgTypr8/sandbox/ANBGTTb4aOrwemgEqSduNN_1781812933600_na1fn_L2hvbWUvdWJ1bnR1L2h1cnJpY2FuZV9lbWFpbF9kcmFmdA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvSTZxaUxpaHJJNUtHT284Y2dUeXByOC9zYW5kYm94L0FOQkdUVGI0YU9yd2VtZ0VxU2R1Tk5fMTc4MTgxMjkzMzYwMF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJoMWNuSnBZMkZ1WlY5bGJXRnBiRjlrY21GbWRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDnHHxoCv4AEHi14vdQnvJSiCFKHUCNz7BaoMO0YbyoJwIgGgSqQ5FSTyg19PcOStGRSXknplUFUEC7Tbx27iuazlQ_"
           }
         ],
         "content": "Here is the email draft as a PDF. Let me know if you need any changes!"
@@ -242,50 +242,50 @@
       "type": "file",
       "filename": "BocaCiegaResidents.csv",
       "content_type": "text/csv",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-MJvHTcrGCfwR60D3zwtVpI_na1fn_Qm9jYUNpZWdhUmVzaWRlbnRz.csv?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1NSnZIVGNyR0Nmd1I2MEQzend0VnBJX25hMWZuX1FtOWpZVU5wWldkaFVtVnphV1JsYm5Sei5jc3YiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIG08~J7pElQ8HKptthBn3zg81Tu~uqmSepM0yblimeLDAiEAo2dI1xNIbCq7JhvH~bBsocKTeINirLc4-tbTQFo55yQ_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-MJvHTcrGCfwR60D3zwtVpI_na1fn_Qm9jYUNpZWdhUmVzaWRlbnRz.csv?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1NSnZIVGNyR0Nmd1I2MEQzend0VnBJX25hMWZuX1FtOWpZVU5wWldkaFVtVnphV1JsYm5Sei5jc3YiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCtyRxttzCYBt-FCzSu1aqDqUdg-qzq~1eO4C4-fJJZ2QIhALXFKCmQU2hGgXpdOQng6eMH1256U~a6WhVQLJDMkkZL",
       "status": "archived",
       "bytes": 19740,
-      "archive_path": "attachments/I6qiLihrI5KGOo8cgTypr8/0-user_message-0_5ce5ceb2657d2a8a_BocaCiegaResidents.csv"
+      "archive_path": "attachments/I6qiLihrI5KGOo8cgTypr8/0-user_message-0_1924d93a30004340_BocaCiegaResidents.csv"
     },
     {
       "event_index": 3,
       "type": "file",
       "filename": "BocaCiega_Emails.csv",
       "content_type": "text/csv; charset=utf-8",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/I6qiLihrI5KGOo8cgTypr8/sandbox/XgOSFVyICAG0sxu6F8IgUR_1781812766096_na1fn_L2hvbWUvdWJ1bnR1L0JvY2FDaWVnYV9FbWFpbHM.csv?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvSTZxaUxpaHJJNUtHT284Y2dUeXByOC9zYW5kYm94L1hnT1NGVnlJQ0FHMHN4dTZGOElnVVJfMTc4MTgxMjc2NjA5Nl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBKdlkyRkRhV1ZuWVY5RmJXRnBiSE0uY3N2IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIGs21uYAw3G8x2UPwT-jIAKC19kzBFYfaqvhOuyCHaJoAiEA-2kKTf5xYUF7UdyVdcVBmUkuzCD5iHtsVgdMCRFcajI_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/I6qiLihrI5KGOo8cgTypr8/sandbox/XgOSFVyICAG0sxu6F8IgUR_1781812766096_na1fn_L2hvbWUvdWJ1bnR1L0JvY2FDaWVnYV9FbWFpbHM.csv?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvSTZxaUxpaHJJNUtHT284Y2dUeXByOC9zYW5kYm94L1hnT1NGVnlJQ0FHMHN4dTZGOElnVVJfMTc4MTgxMjc2NjA5Nl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBKdlkyRkRhV1ZuWVY5RmJXRnBiSE0uY3N2IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDCYC67SHXiKEUu2V679plelFR3PN9uGas5p5m47JCgGQIhAMtTzXpkYFc4ozpCRkok2PXwFQHgQSaOc9AYcWTexVPi",
       "status": "archived",
       "bytes": 2180,
-      "archive_path": "attachments/I6qiLihrI5KGOo8cgTypr8/3-assistant_message-0_8ed56d7dcbc180d8_BocaCiega_Emails.csv"
+      "archive_path": "attachments/I6qiLihrI5KGOo8cgTypr8/3-assistant_message-0_c36e6f0357c8ee77_BocaCiega_Emails.csv"
     },
     {
       "event_index": 5,
       "type": "file",
       "filename": "SKM_451i26061815420.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-fhntQaQ3yOTTZhM3AQH7X7_na1fn_U0tNXzQ1MWkyNjA2MTgxNTQyMA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1maG50UWFRM3lPVFRaaE0zQVFIN1g3X25hMWZuX1UwdE5YelExTVdreU5qQTJNVGd4TlRReU1BLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIBJesjVdAL-fWHOm9dyYKlxgLVfHkonUOyiXbCXmqBLUAiB8jElySICN8MYpsAARMaMtj-rKyVb0akEI36Yvq1t0NQ__",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-fhntQaQ3yOTTZhM3AQH7X7_na1fn_U0tNXzQ1MWkyNjA2MTgxNTQyMA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1maG50UWFRM3lPVFRaaE0zQVFIN1g3X25hMWZuX1UwdE5YelExTVdreU5qQTJNVGd4TlRReU1BLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCvgWWQtOQApEIedlgW-zOcvD3qfL5oTUx70xZrrTdbhQIhAMsoaFwpaqW7niEjb-u5dhXpc6uT-hnDbSJxQewpBbr3",
       "status": "archived",
       "bytes": 909292,
-      "archive_path": "attachments/I6qiLihrI5KGOo8cgTypr8/5-user_message-0_c8bb1dad782bcf26_SKM_451i26061815420.pdf"
+      "archive_path": "attachments/I6qiLihrI5KGOo8cgTypr8/5-user_message-0_f735b94b23c7c21f_SKM_451i26061815420.pdf"
     },
     {
       "event_index": 8,
       "type": "file",
       "filename": "hurricane_email_draft.md",
       "content_type": "text/markdown; charset=utf-8",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/I6qiLihrI5KGOo8cgTypr8/sandbox/jhzpzN1RkblaYiCkHPYtUl_1781812838954_na1fn_L2hvbWUvdWJ1bnR1L2h1cnJpY2FuZV9lbWFpbF9kcmFmdA.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvSTZxaUxpaHJJNUtHT284Y2dUeXByOC9zYW5kYm94L2poenB6TjFSa2JsYVlpQ2tIUFl0VWxfMTc4MTgxMjgzODk1NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJoMWNuSnBZMkZ1WlY5bGJXRnBiRjlrY21GbWRBLm1kIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDnUHDG7magcLTE7O7P8s-vYjcCusn~VCuVPUVGRn5S8gIhAIEetKBMdv-BIxoK3yVKZhgG~kOw7rrWQ~6SmViUiqgb",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/I6qiLihrI5KGOo8cgTypr8/sandbox/jhzpzN1RkblaYiCkHPYtUl_1781812838954_na1fn_L2hvbWUvdWJ1bnR1L2h1cnJpY2FuZV9lbWFpbF9kcmFmdA.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvSTZxaUxpaHJJNUtHT284Y2dUeXByOC9zYW5kYm94L2poenB6TjFSa2JsYVlpQ2tIUFl0VWxfMTc4MTgxMjgzODk1NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJoMWNuSnBZMkZ1WlY5bGJXRnBiRjlrY21GbWRBLm1kIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQD1jwYfsHry4Mz3jIswjYH1i6gFZV8X4UupS6GiEK6KFAIhAIsvWHHEzUR4Od7-glx6o3Rwpj4VNDGLv9Bt4tyOAx06",
       "status": "archived",
       "bytes": 2474,
-      "archive_path": "attachments/I6qiLihrI5KGOo8cgTypr8/8-assistant_message-0_0056737ad61f6069_hurricane_email_draft.md"
+      "archive_path": "attachments/I6qiLihrI5KGOo8cgTypr8/8-assistant_message-0_b6ee28cd9a618e82_hurricane_email_draft.md"
     },
     {
       "event_index": 18,
       "type": "file",
       "filename": "hurricane_email_draft.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/I6qiLihrI5KGOo8cgTypr8/sandbox/ANBGTTb4aOrwemgEqSduNN_1781812933600_na1fn_L2hvbWUvdWJ1bnR1L2h1cnJpY2FuZV9lbWFpbF9kcmFmdA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvSTZxaUxpaHJJNUtHT284Y2dUeXByOC9zYW5kYm94L0FOQkdUVGI0YU9yd2VtZ0VxU2R1Tk5fMTc4MTgxMjkzMzYwMF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJoMWNuSnBZMkZ1WlY5bGJXRnBiRjlrY21GbWRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDynMUDrXQ2RZvhZRIv6yu~pr0eH5adO1KeNqucD7EnmQIhALhGLWP~iF9SF08f~JGPc6iKsteQsTCj0L7mDkOob2Ls",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/I6qiLihrI5KGOo8cgTypr8/sandbox/ANBGTTb4aOrwemgEqSduNN_1781812933600_na1fn_L2hvbWUvdWJ1bnR1L2h1cnJpY2FuZV9lbWFpbF9kcmFmdA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvSTZxaUxpaHJJNUtHT284Y2dUeXByOC9zYW5kYm94L0FOQkdUVGI0YU9yd2VtZ0VxU2R1Tk5fMTc4MTgxMjkzMzYwMF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJoMWNuSnBZMkZ1WlY5bGJXRnBiRjlrY21GbWRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDnHHxoCv4AEHi14vdQnvJSiCFKHUCNz7BaoMO0YbyoJwIgGgSqQ5FSTyg19PcOStGRSXknplUFUEC7Tbx27iuazlQ_",
       "status": "archived",
       "bytes": 27766,
-      "archive_path": "attachments/I6qiLihrI5KGOo8cgTypr8/18-assistant_message-0_70101c9726c0279f_hurricane_email_draft.pdf"
+      "archive_path": "attachments/I6qiLihrI5KGOo8cgTypr8/18-assistant_message-0_ed6d824db6ec5369_hurricane_email_draft.pdf"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "archived_at": "2026-08-04T18:36:18.693392Z",
+  "archived_at": "2026-08-11T15:16:05.140948Z",
   "task": {
     "id": "P9YCcaOeBFkmuiJNl38qeD",
     "title": "Florida Forms",
@@ -25,7 +25,7 @@
             "content_type": "application/pdf",
             "filename": "document(1).pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-wWRUWwhkkllYtvb81gbXqm_na1fn_ZG9jdW1lbnQoMSk.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC13V1JVV3doa2tsbFl0dmI4MWdiWHFtX25hMWZuX1pHOWpkVzFsYm5Rb01Tay5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQC9g4DToRlCNFuTG~0QlAqZDaGFe01NWRiIoErj-PV~DwIhAK7VIStqbhL5dPLadzj-Wmn015U9ZI9-iQtJLbDCOO7B"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-wWRUWwhkkllYtvb81gbXqm_na1fn_ZG9jdW1lbnQoMSk.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC13V1JVV3doa2tsbFl0dmI4MWdiWHFtX25hMWZuX1pHOWpkVzFsYm5Rb01Tay5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIEywHjnKC46czcnKeuBH5apqMio0LY1RbrjDq-LNHDDgAiBDCJjGTe9cTa7U~DTda3uv94WiSM0iIN9AYDPzivj0Cg__"
           }
         ],
         "content": "can you replicate this form but remove the headers and footers and clear all of the spaces to be blanks so we can reuse it fresh - i want it as a word document",
@@ -65,7 +65,7 @@
             "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
             "filename": "Florida_Residential_Lease_Blank.docx",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/MnXFkGXfHkq6efn5Q926C7_1778624597340_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfQmxhbms.docx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L01uWEZrR1hmSGtxNmVmbjVROTI2QzdfMTc3ODYyNDU5NzM0MF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUW14aGJtcy5kb2N4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIF6ehaGf5VfaOwtojgvip68g8rMx6cC5ugS~CNl~7XnHAiB1U~lkEAKg8NxZkzipi4Kv349Aow8bhAZlvMMwsHt0qA__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/MnXFkGXfHkq6efn5Q926C7_1778624597340_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfQmxhbms.docx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L01uWEZrR1hmSGtxNmVmbjVROTI2QzdfMTc3ODYyNDU5NzM0MF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUW14aGJtcy5kb2N4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQC9NA-TJMhbsW7LkOsAqkhyvUfE0Kd9Layk1nU7F5frVAIgPkRON7oAIJq~CzYea4~vbmYgr2~blW2L8DHBqo-UpP0_"
           }
         ],
         "content": "Your clean, blank Florida Residential Lease form is ready as a Word document. Here's what was done:\n\n- **All filled-in data cleared**: Names, dates, addresses, dollar amounts, phone numbers, email addresses, and all other party-specific information have been replaced with blank lines.\n- **Headers and footers removed**: The DocuSign envelope ID banner, \"Form Simplicity\" footer branding, and serial number lines are all gone.\n- **All checkboxes reset**: Every checked box (security deposit, advance rent, approval contingency, maintenance items, etc.) is shown as an empty `[ ]` for fresh selection.\n- **Structure fully preserved**: All 25 articles of the main lease, the Nonlawyer Disclosure page, the Early Termination Fee/Liquidated Damages Addendum, and all signature/date lines are intact and ready to fill in.\n\nThe Florida Residential Landlord and Tenant Act (the statutory attachment, pages 8–20 of the original) is standard boilerplate law text — it is typically printed separately and attached rather than embedded in the editable form, so it has not been included in the editable Word document. Let me know if you'd like it added."
@@ -152,19 +152,19 @@
             "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
             "filename": "Florida_Residential_Lease_Pretty.docx",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/2z9g2TcE6HjaEXrPUS40kg_1778626035148_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfUHJldHR5.docx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94LzJ6OWcyVGNFNkhqYUVYclBVUzQwa2dfMTc3ODYyNjAzNTE0OF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmVUhKbGRIUjUuZG9jeCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICXHBnW6FnAPFd2zwH9jIROpeln7FhfkO4miDvSWL525AiEA0Dm7jt-RTIjiswHDEHYiqy0tdKzapNnWIOYdJX5Wpgg_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/2z9g2TcE6HjaEXrPUS40kg_1778626035148_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfUHJldHR5.docx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94LzJ6OWcyVGNFNkhqYUVYclBVUzQwa2dfMTc3ODYyNjAzNTE0OF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmVUhKbGRIUjUuZG9jeCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIDftm91ajzVIZnyWy2Xt1NYgtkV~4S0BSM8z1j74fDLzAiEAvlgzC9WNnfcQL4nwL6ZwOw9iUbl7N0BEeIWO~s-Cfg8_"
           },
           {
             "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
             "filename": "Florida_Residential_Lease_Filled.docx",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/2z9g2TcE6HjaEXrPUS40kg_1778626035148_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfRmlsbGVk.docx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94LzJ6OWcyVGNFNkhqYUVYclBVUzQwa2dfMTc3ODYyNjAzNTE0OF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUm1sc2JHVmsuZG9jeCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDQXBvxZ0EreEfs5FFT34gh0k18w7E0XmxKFus1fCVw8AIhAPB467Fmpi1oPdjhxHrp6Ov3ayb3vWfvVXArY8m0KhD4"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/2z9g2TcE6HjaEXrPUS40kg_1778626035148_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfRmlsbGVk.docx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94LzJ6OWcyVGNFNkhqYUVYclBVUzQwa2dfMTc3ODYyNjAzNTE0OF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUm1sc2JHVmsuZG9jeCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIHgqOQBhbfLz~WCRslVETFNuBgDur-SMsSAo6PFDdME6AiEAg6evpzzHoVw5VlUcgHCP-Dzo-eGs04ZWR83DwYHWpHU_"
           },
           {
             "content_type": "application/pdf",
             "filename": "Florida_Residential_Lease_Fillable.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/2z9g2TcE6HjaEXrPUS40kg_1778626035148_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfRmlsbGFibGU.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94LzJ6OWcyVGNFNkhqYUVYclBVUzQwa2dfMTc3ODYyNjAzNTE0OF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUm1sc2JHRmliR1UucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIEgTwyg5Zol9B90wx9q7OYw1~U30EVChayQa6NFtIo6nAiBNG9XN~GDYBdU9o-1v-lA48I6m3Gl7WuytsHVQr8pf8Q__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/2z9g2TcE6HjaEXrPUS40kg_1778626035148_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfRmlsbGFibGU.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94LzJ6OWcyVGNFNkhqYUVYclBVUzQwa2dfMTc3ODYyNjAzNTE0OF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUm1sc2JHRmliR1UucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCICPtIhz6nyBlASC5mt3n2U6~0RI2pc64fWAkwDrb3KBBAiB0JoBmhNarOa-v1m6keevTqQYbV51PncUyNwy20qDMKg__"
           }
         ],
         "content": "All three documents are ready — no headers or footers on any of them, bold Arial fonts throughout, compact formatting:\n\n**1. Blank Form (Word)** — `Florida_Residential_Lease_Pretty.docx`\nAll fields cleared, checkboxes shown as `[ ]`, ready to fill in fresh.\n\n**2. Filled-In Form (Word)** — `Florida_Residential_Lease_Filled.docx`\nSame polished format, populated with all the original data from your PDF: Marc and Elle Menowitz Family TR as Landlord, Kaesen Foltyn & Kearsten Foltyn as Tenants, PH 4611 at 851 NE 1st Ave / Paramount Miami Worldcenter, $27,000/month, June 1 2026 – May 31 2027, $80,000 security deposit, $27,000 advance rent, $324,000 total rent, Arielle Dauch as agent at 1111 Lincoln Road, and all maintenance/approval/lead-paint selections as they appeared in the original.\n\n**3. Fillable PDF (Blank)** — `Florida_Residential_Lease_Fillable.pdf`\nInteractive PDF with clickable text fields and checkboxes for every entry — names, dates, amounts, maintenance selections, signatures, and the Early Termination Addendum. Open in Adobe Acrobat or any PDF reader to type directly into the fields."
@@ -217,19 +217,19 @@
             "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
             "filename": "Florida_Residential_Lease_Blank.docx",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/hHtySJxlz6u97VdTE7aJav_1778626600985_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfQmxhbms.docx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L2hIdHlTSnhsejZ1OTdWZFRFN2FKYXZfMTc3ODYyNjYwMDk4NV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUW14aGJtcy5kb2N4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICHsIOOoxT4o4AFP14V7U4kYiFrBcVM8etPHrYaOfTSZAiEA0Bky9VnlXBZHIBlTAr2cBsppsaY0eEUdSJayLNi24xI_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/hHtySJxlz6u97VdTE7aJav_1778626600985_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfQmxhbms.docx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L2hIdHlTSnhsejZ1OTdWZFRFN2FKYXZfMTc3ODYyNjYwMDk4NV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUW14aGJtcy5kb2N4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIFC-3zqz5efyaHBeFqqfgwggccYaVcL4wTkzqJeeEAfIAiAImss9pCfWBOMdKCHntbyE8AXZaGqFniN7YIbuLWtNEw__"
           },
           {
             "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
             "filename": "Florida_Residential_Lease_Filled.docx",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/hHtySJxlz6u97VdTE7aJav_1778626600985_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfRmlsbGVk.docx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L2hIdHlTSnhsejZ1OTdWZFRFN2FKYXZfMTc3ODYyNjYwMDk4NV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUm1sc2JHVmsuZG9jeCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIHgik20O~wYrZXufjMrcq2naYiODcFcae11yuldgty6zAiEA5ZMM6zMJDpmcKA19eR9zVYzJKr9Cdr7DS2l9iAeh3dA_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/hHtySJxlz6u97VdTE7aJav_1778626600985_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfRmlsbGVk.docx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L2hIdHlTSnhsejZ1OTdWZFRFN2FKYXZfMTc3ODYyNjYwMDk4NV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUm1sc2JHVmsuZG9jeCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCsoQkSLl3Ob53UL5u3Nd-f3y5Oi7gG1RarPR-PgYRqVAIgT1M-PxPnkiLZTbj9wgyyeTIqPNBDMbyRoypROF3daiA_"
           },
           {
             "content_type": "application/pdf",
             "filename": "Florida_Residential_Lease_Fillable.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/hHtySJxlz6u97VdTE7aJav_1778626600985_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfRmlsbGFibGU.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L2hIdHlTSnhsejZ1OTdWZFRFN2FKYXZfMTc3ODYyNjYwMDk4NV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUm1sc2JHRmliR1UucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQD~BIXhy7vY0ZFZVGTPZwNlpS936cApS1BBRF610UDLPQIhAIiU7BmBB9sTWaRlJXS9XFzVVw8jD4xJpOXU-GP7PRZD"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/hHtySJxlz6u97VdTE7aJav_1778626600985_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfRmlsbGFibGU.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L2hIdHlTSnhsejZ1OTdWZFRFN2FKYXZfMTc3ODYyNjYwMDk4NV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUm1sc2JHRmliR1UucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCZDORm0wDKbTYcELDTmOBRaoQO2-YcI36iz8d5jKTHqgIgaAgwWaKy~pJsvpnV-~LCaBHxqJvwqBhwDdSdLw5ZgV8_"
           }
         ],
         "content": "All three updated documents are attached:\n\n**1. Blank Form (Word)** — `Florida_Residential_Lease_Blank.docx`\nTightened spacing throughout — no wasted blank pages. All fields are blank lines, checkboxes are `[ ]`, and the whole form flows continuously without unnecessary breaks.\n\n**2. Filled-In Form (Word)** — `Florida_Residential_Lease_Filled.docx`\nSame tight layout with all original data from your PDF populated.\n\n**3. Fillable PDF (Blank)** — `Florida_Residential_Lease_Fillable.pdf`\nRebuilt to match the original's formatting style: article headings (e.g. \"I. TERMS AND PARTIES.\") are bold, body/clause text is regular weight, warnings are bold, and field labels are regular — just like the original. Interactive fields and checkboxes are clickable throughout."
@@ -282,13 +282,13 @@
             "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
             "filename": "Florida_Residential_Lease_Blank.docx",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/09qmBrim4OTKHDamGHViyY_1778626810534_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfQmxhbms.docx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94LzA5cW1CcmltNE9US0hEYW1HSFZpeVlfMTc3ODYyNjgxMDUzNF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUW14aGJtcy5kb2N4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQD1VHxFhb5WwuFHODbZjNSa7d7okhmGUIqNgJlCfAWZOQIhAOzGU-oHsCrpBHTEDx7Nx8yGtQ-QqpxmsCx7WZPnFeCM"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/09qmBrim4OTKHDamGHViyY_1778626810534_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfQmxhbms.docx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94LzA5cW1CcmltNE9US0hEYW1HSFZpeVlfMTc3ODYyNjgxMDUzNF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUW14aGJtcy5kb2N4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDHHelHYlXG4~owtsbjy6TGpgz8qJc3cl1YuuyQuchqLgIhAPupooyL0yiXvpg5Wc86gToc~QVzrcBOSrWUdHIl62y8"
           },
           {
             "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
             "filename": "Florida_Residential_Lease_Filled.docx",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/09qmBrim4OTKHDamGHViyY_1778626810534_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfRmlsbGVk.docx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94LzA5cW1CcmltNE9US0hEYW1HSFZpeVlfMTc3ODYyNjgxMDUzNF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUm1sc2JHVmsuZG9jeCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCInbXgddqMq-w4W4kbQBoCLe72u2qHej2koZZelam52QIhAKTZPOADMBW14T9AWNg13QjP7-VN4ayfMlc6b7Vvhye-"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/09qmBrim4OTKHDamGHViyY_1778626810534_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfRmlsbGVk.docx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94LzA5cW1CcmltNE9US0hEYW1HSFZpeVlfMTc3ODYyNjgxMDUzNF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUm1sc2JHVmsuZG9jeCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQD2qVRifofdmpqFrNulhUMqyE1b9IaTVmcyxTUY37HMAQIhAMbOvu4B7U76FIa2EngyFI8mvXh6juj2DCeOLwXUz2hW"
           }
         ],
         "content": "Both Word documents are updated and attached. Here's what was improved:\n\n**Signature blocks** — All signature sections throughout the document (Nonlawyer Disclosure, Lead-Based Paint Certification, main lease execution, and the Early Termination Addendum) now use a clean two-column table layout: a solid underline spans the full width of each field, with the label printed neatly below the line. No more orphaned single signatures on the last page — every signature block is grouped together and flows as a complete unit.\n\n**Assistance section** — The \"This form was completed with the assistance of\" lines now use a matching table layout with proper underlines aligned to their labels.\n\n**No wasted space** — All sections flow tightly without unnecessary blank lines or page breaks."
@@ -341,7 +341,7 @@
             "content_type": "application/pdf",
             "filename": "Florida_Residential_Lease_Fillable.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/VAEIMlPs8FKmHPKVmJ2LXC_1778626985162_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfRmlsbGFibGU.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L1ZBRUlNbFBzOEZLbUhQS1ZtSjJMWENfMTc3ODYyNjk4NTE2Ml9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUm1sc2JHRmliR1UucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDPZnc1~f54lIRxSeV1jWav-OJgnOjsFon6NxAY8ESSvwIhAJEsg0g-wD0AbpCQbRAqkyhp81VoL14iZIVbNNv7V2uO"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/VAEIMlPs8FKmHPKVmJ2LXC_1778626985162_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfRmlsbGFibGU.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L1ZBRUlNbFBzOEZLbUhQS1ZtSjJMWENfMTc3ODYyNjk4NTE2Ml9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUm1sc2JHRmliR1UucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDD9H6V56dTvAPSt1tWGUdEVNNGxTraFiMT2~mtZX24FAiAILN4ciVYVKzvXG--E3oQxqwG1anFiBcFHLTwYMj~7QA__"
           }
         ],
         "content": "Here is the updated fillable PDF, built directly from the polished blank Word document. It contains **158 interactive fields** across 8 pages:\n\n- **73 text fields** — covering all blanks for names, dates, amounts, addresses, utilities, and other entries\n- **34 signature fields** — placed precisely over every signature line in the professional table-based signature blocks throughout the form\n- **51 checkboxes** — covering all `[ ]` selections including maintenance responsibilities, deposit types, lead paint disclosures, approval contingency, and the Early Termination Addendum\n\nOpen in Adobe Acrobat or any modern PDF reader to click and type directly into any field."
@@ -523,7 +523,7 @@
             "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
             "filename": "Florida_Residential_Lease_Filled.docx",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/Jwj53U9V0YdPIDCiPlvyPY_1778629214464_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfRmlsbGVk.docx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L0p3ajUzVTlWMFlkUElEQ2lQbHZ5UFlfMTc3ODYyOTIxNDQ2NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUm1sc2JHVmsuZG9jeCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDfDk7SdEoNRYhtcF1bjveLBGsRowg-On3zV5udBiqzzwIgFjeupDeGztk~PCMiDK6vQeQ3bLN03IMqT6k5~E3~zgo_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/Jwj53U9V0YdPIDCiPlvyPY_1778629214464_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfRmlsbGVk.docx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L0p3ajUzVTlWMFlkUElEQ2lQbHZ5UFlfMTc3ODYyOTIxNDQ2NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUm1sc2JHVmsuZG9jeCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCkzhfvxvPivRlMT~P3g2zf0xNkVsv~CvXUoYqTtrO63QIhAJH9y2cNATzx2S6QMSyRTgDcVwr-WStM1L1CGH3IiL7j"
           }
         ],
         "content": "Here it is — the filled-in Word document with all the original data from your PDF: Marc and Elle Menowitz Family TR as Landlord, Kaesen Foltyn & Kearsten Foltyn as Tenants, PH 4611 at 851 NE 1st Ave / Paramount Miami Worldcenter, $27,000/month, June 1 2026 – May 31 2027, $80,000 security deposit, $27,000 advance rent, Arielle Dauch as agent, and all the maintenance/approval/lead-paint selections as they appeared in the original — all in the polished format with no headers or footers."
@@ -601,25 +601,25 @@
             "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
             "filename": "Florida_Residential_Lease_Filled_v2.docx",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/VdkPb1wN9drmuOgXkmDw7V_1778629655265_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfRmlsbGVkX3Yy.docx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L1Zka1BiMXdOOWRybXVPZ1hrbUR3N1ZfMTc3ODYyOTY1NTI2NV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUm1sc2JHVmtYM1l5LmRvY3giLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIEkDr9C-bP-6ZKPfxRQKwE9ct8ANj01CMtRzMeuDq~jCAiBgu2NiOPzFnY2dj7lLjn1TzqN4suQFmnQFR-6vj2swPA__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/VdkPb1wN9drmuOgXkmDw7V_1778629655265_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfRmlsbGVkX3Yy.docx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L1Zka1BiMXdOOWRybXVPZ1hrbUR3N1ZfMTc3ODYyOTY1NTI2NV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUm1sc2JHVmtYM1l5LmRvY3giLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIHzZng01fRt1~QJqBaSkydO5KMQN2TglYSIgGj9OHr2eAiAMa7ORsVw5rDj8RqnjjmFmzfnWlI5qa-hgxNoxLs~noQ__"
           },
           {
             "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
             "filename": "Florida_Residential_Lease_Blank_v2.docx",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/VdkPb1wN9drmuOgXkmDw7V_1778629655265_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfQmxhbmtfdjI.docx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L1Zka1BiMXdOOWRybXVPZ1hrbUR3N1ZfMTc3ODYyOTY1NTI2NV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUW14aGJtdGZkakkuZG9jeCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDjgKPRw71KEnzn6CEzGP5hiNS0eLPOtIUt8F-P0czEQwIhAJXV2jAOz-~6SSjZJf8xZkAApr6KfY2-~mSBbQUtbo05"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/VdkPb1wN9drmuOgXkmDw7V_1778629655265_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfQmxhbmtfdjI.docx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L1Zka1BiMXdOOWRybXVPZ1hrbUR3N1ZfMTc3ODYyOTY1NTI2NV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUW14aGJtdGZkakkuZG9jeCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCpm5-mZ2JYt-GXVEY9ocZCHE8SooC2I24lx3kDmSE3VQIgWtBZX8~81BlOjCXT~CQ5oo9-cA6TrS82rphu6juSly8_"
           },
           {
             "content_type": "application/pdf",
             "filename": "Florida_Residential_Lease_Filled_v2.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/VdkPb1wN9drmuOgXkmDw7V_1778629655265_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfRmlsbGVkX3Yy.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L1Zka1BiMXdOOWRybXVPZ1hrbUR3N1ZfMTc3ODYyOTY1NTI2NV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUm1sc2JHVmtYM1l5LnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIH9hKqTA3OTapGtCfzibMaVXkGziVC8aaZ2M~EdxfYTOAiB-RYEn~6lH-LiSNt1XZfgtlNW1F6f3xIvZJ6uCX0FXUA__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/VdkPb1wN9drmuOgXkmDw7V_1778629655265_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfRmlsbGVkX3Yy.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L1Zka1BiMXdOOWRybXVPZ1hrbUR3N1ZfMTc3ODYyOTY1NTI2NV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUm1sc2JHVmtYM1l5LnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIFbZFoFraBChYTY23tRqqhXc3Pk9~0IESewzeXxcXp3SAiEAtFqWzutliVZ6GKGx7kmqPlEUd7MeFvR7lF7rBWcfBfc_"
           },
           {
             "content_type": "application/pdf",
             "filename": "Florida_Residential_Lease_Blank_v2_Fillable.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/VdkPb1wN9drmuOgXkmDw7V_1778629655265_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfQmxhbmtfdjJfRmlsbGFibGU.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L1Zka1BiMXdOOWRybXVPZ1hrbUR3N1ZfMTc3ODYyOTY1NTI2NV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUW14aGJtdGZkakpmUm1sc2JHRmliR1UucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIHE1Lla3elyFP6SlTsvD2uUQheotlJQfHq5ZDf0zBe4zAiBUFohCJm4e9TV9-2kuLttumj2vpSjPKsdrR8KEhIKugQ__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/VdkPb1wN9drmuOgXkmDw7V_1778629655265_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfQmxhbmtfdjJfRmlsbGFibGU.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L1Zka1BiMXdOOWRybXVPZ1hrbUR3N1ZfMTc3ODYyOTY1NTI2NV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUW14aGJtdGZkakpmUm1sc2JHRmliR1UucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQD4LGzeNv71FXTJexv7gLdNoLfG80-nNXjMxXBAzcZN1QIgRp-PVhSEXWZCHsT5PMwYEchfYJckwXvBK3Ee4DbDB9M_"
           }
         ],
         "content": "All four documents are attached and fully rebuilt from scratch:\n\n**1. Filled Word Document** — `Florida_Residential_Lease_Filled_v2.docx`\nEvery single field is populated with the original data: Marc and Elle Menowitz Family TR as Landlord, Kaesen Foltyn & Kearsten Foltyn as Tenants, PH 4611 at 851 NE 1st Ave / Paramount Miami Worldcenter, Miami FL 33132, $27,000/month on the 1st, June 1 2026 – May 31 2027 (12 months), $80,000 security deposit, $27,000 advance rent for June 2026, $324,000 total rent, $27,000 HOA security/amenity deposit, all maintenance checkboxes set correctly (Landlord: smoke detectors, extermination, locks, running water, hot water, furniture, appliances, fixtures; Tenant: outside areas, garbage, lawn, heat, AC, HVAC filters), water paid by Landlord, approval fee and deposit paid by Landlord, lead paint — no knowledge / no records (checked), agent date 5/8/2026, Arielle Dauch at 1111 Lincoln Road Suite 400 Miami Beach.\n\n**2. Blank Word Document** — `Florida_Residential_Lease_Blank_v2.docx`\nSame polished format with all fields cleared to blank underlines and all checkboxes reset to `[ ]`.\n\n**3. Filled PDF** — `Florida_Residential_Lease_Filled_v2.pdf`\nPrint-ready PDF of the filled document.\n\n**4. Blank Fillable PDF** — `Florida_Residential_Lease_Blank_v2_Fillable.pdf`\nInteractive PDF with clickable text fields over every blank line — open in Adobe Acrobat or any PDF reader to type directly into each field."
@@ -875,19 +875,19 @@
             "content_type": "application/pdf",
             "filename": "1199ADirectDepositAnaheimGardens-revised04.02.2026.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-i06HPJjmJadlzSi1KyOauU_na1fn_MTE5OUFEaXJlY3REZXBvc2l0QW5haGVpbUdhcmRlbnMtcmV2aXNlZDA0LjAyLjIwMjY.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1pMDZIUEpqbUphZGx6U2kxS3lPYXVVX25hMWZuX01URTVPVUZFYVhKbFkzUkVaWEJ2YzJsMFFXNWhhR1ZwYlVkaGNtUmxibk10Y21WMmFYTmxaREEwTGpBeUxqSXdNalkucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIFNLuEc36vgLn4u5kZJ7hDKYO549UtSCgVNlGxtaFcjyAiEA8semRbUkaZ1a0rllV36F8fTqgJBO4X2eZdzrknJNFVw_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-i06HPJjmJadlzSi1KyOauU_na1fn_MTE5OUFEaXJlY3REZXBvc2l0QW5haGVpbUdhcmRlbnMtcmV2aXNlZDA0LjAyLjIwMjY.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1pMDZIUEpqbUphZGx6U2kxS3lPYXVVX25hMWZuX01URTVPVUZFYVhKbFkzUkVaWEJ2YzJsMFFXNWhhR1ZwYlVkaGNtUmxibk10Y21WMmFYTmxaREEwTGpBeUxqSXdNalkucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIBym8a3kiI5L6aYZZPuQwnjK0OLSeMlMNDZLs7bBSS8AAiEAqzptAD8lP-8QUfaBNfrN4u06bTu8G3c1eMbspATe280_"
           },
           {
             "content_type": "application/pdf",
             "filename": "1199ADirectDepositMainSoCentral-revised04.02.2026.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-tH8GAz46qMrUK5PuQsnl8S_na1fn_MTE5OUFEaXJlY3REZXBvc2l0TWFpblNvQ2VudHJhbC1yZXZpc2VkMDQuMDIuMjAyNg.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC10SDhHQXo0NnFNclVLNVB1UXNubDhTX25hMWZuX01URTVPVUZFYVhKbFkzUkVaWEJ2YzJsMFRXRnBibE52UTJWdWRISmhiQzF5WlhacGMyVmtNRFF1TURJdU1qQXlOZy5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICiZjguLtDlXbKHffLMYG9H3mNwtsvLzpPoKDWfRamWXAiEA3b55ltb9sN5fN4qoNTBFNQUzMN90hvCf1FfhUd2QusQ_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-tH8GAz46qMrUK5PuQsnl8S_na1fn_MTE5OUFEaXJlY3REZXBvc2l0TWFpblNvQ2VudHJhbC1yZXZpc2VkMDQuMDIuMjAyNg.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC10SDhHQXo0NnFNclVLNVB1UXNubDhTX25hMWZuX01URTVPVUZFYVhKbFkzUkVaWEJ2YzJsMFRXRnBibE52UTJWdWRISmhiQzF5WlhacGMyVmtNRFF1TURJdU1qQXlOZy5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIF4ea69ujwz2fS~UntNQLmdvKYfLQ5CpFcJf1YQCGCsbAiAFyE30BAbpfwHMOT4P5oC1hYokjl0H2iDbninzd2OHTg__"
           },
           {
             "content_type": "application/pdf",
             "filename": "1199ADirectDepositMidtownManor-revised04.02.2026.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-pu41DgAQvmMLyLTHd2xh1b_na1fn_MTE5OUFEaXJlY3REZXBvc2l0TWlkdG93bk1hbm9yLXJldmlzZWQwNC4wMi4yMDI2.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1wdTQxRGdBUXZtTUx5TFRIZDJ4aDFiX25hMWZuX01URTVPVUZFYVhKbFkzUkVaWEJ2YzJsMFRXbGtkRzkzYmsxaGJtOXlMWEpsZG1selpXUXdOQzR3TWk0eU1ESTIucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDbXHT3iYsdnzLQMt4H-IoJB5N0xCCaXKYGv~T36x9yUQIhAMQOX94S4Lho9YzCWX1EB5U02yRSBPepQkVFzrH~zv7v"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-pu41DgAQvmMLyLTHd2xh1b_na1fn_MTE5OUFEaXJlY3REZXBvc2l0TWlkdG93bk1hbm9yLXJldmlzZWQwNC4wMi4yMDI2.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1wdTQxRGdBUXZtTUx5TFRIZDJ4aDFiX25hMWZuX01URTVPVUZFYVhKbFkzUkVaWEJ2YzJsMFRXbGtkRzkzYmsxaGJtOXlMWEpsZG1selpXUXdOQzR3TWk0eU1ESTIucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDck0h9Ax6rhH9o2fL142LkCEbiRq7MGF3z9GnpuF8pmAIgdJSzG2uBzG-vHz3SXGgAXRycpcHsQFf42os9WVCwLYg_"
           }
         ],
         "content": "For these three 1199A's, I need you to change the following : For Main So Center, change the TIN to 058-38-3020 ; For \nAnaheim Gardens – change the TIN to 65-1212266.  It’s Item C on the attached form.  It needs to changed on all three pages\n\nMidtown Manor – change the TIN to 058-38-3520.  Again, it’s Item C on 3 pages",
@@ -943,19 +943,19 @@
             "content_type": "application/pdf",
             "filename": "1199A_AnaheimGardens_updated.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/DerOrOzzY4jPXiOiqLTJja_1778697552684_na1fn_L2hvbWUvdWJ1bnR1LzExOTlBX0FuYWhlaW1HYXJkZW5zX3VwZGF0ZWQ.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L0Rlck9yT3p6WTRqUFhpT2lxTFRKamFfMTc3ODY5NzU1MjY4NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTHpFeE9UbEJYMEZ1WVdobGFXMUhZWEprWlc1elgzVndaR0YwWldRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCzB0JD1MYyEDdgI4wZ~53frOVqqXtJ3J7gXJLQ4t6ShwIhAOGymv8YOGXnNUlbBAtclI4YOnAUHULT1l83aEBjZRxR"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/DerOrOzzY4jPXiOiqLTJja_1778697552684_na1fn_L2hvbWUvdWJ1bnR1LzExOTlBX0FuYWhlaW1HYXJkZW5zX3VwZGF0ZWQ.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L0Rlck9yT3p6WTRqUFhpT2lxTFRKamFfMTc3ODY5NzU1MjY4NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTHpFeE9UbEJYMEZ1WVdobGFXMUhZWEprWlc1elgzVndaR0YwWldRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCo3kFFr7LFYxrW7Nbvh6WRA8NhgCsZSjm8w20q1ficrwIhALqOnL1KpV93WncPj64MRxOrlPeTsHsXDp-0pxNXi2kA"
           },
           {
             "content_type": "application/pdf",
             "filename": "1199A_MainSoCentral_updated.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/DerOrOzzY4jPXiOiqLTJja_1778697552684_na1fn_L2hvbWUvdWJ1bnR1LzExOTlBX01haW5Tb0NlbnRyYWxfdXBkYXRlZA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L0Rlck9yT3p6WTRqUFhpT2lxTFRKamFfMTc3ODY5NzU1MjY4NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTHpFeE9UbEJYMDFoYVc1VGIwTmxiblJ5WVd4ZmRYQmtZWFJsWkEucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIA9N2YArCilm0W2zg0CgaQ~06umGjA2NXgLwb~Ty~WejAiEAv06uie0dzg8~yylP2V7f4DjmM7qFXQBVsg3~QkEHAH0_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/DerOrOzzY4jPXiOiqLTJja_1778697552684_na1fn_L2hvbWUvdWJ1bnR1LzExOTlBX01haW5Tb0NlbnRyYWxfdXBkYXRlZA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L0Rlck9yT3p6WTRqUFhpT2lxTFRKamFfMTc3ODY5NzU1MjY4NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTHpFeE9UbEJYMDFoYVc1VGIwTmxiblJ5WVd4ZmRYQmtZWFJsWkEucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQC90bSacNFIZ3OqmCFDSr35jIspyO7EWzFdFHcdZDtDaQIgTgDF4RM7gpV13~UzsYemhb7jdAtSL6UwBEhH-XEH3~A_"
           },
           {
             "content_type": "application/pdf",
             "filename": "1199A_MidtownManor_updated.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/DerOrOzzY4jPXiOiqLTJja_1778697552684_na1fn_L2hvbWUvdWJ1bnR1LzExOTlBX01pZHRvd25NYW5vcl91cGRhdGVk.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L0Rlck9yT3p6WTRqUFhpT2lxTFRKamFfMTc3ODY5NzU1MjY4NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTHpFeE9UbEJYMDFwWkhSdmQyNU5ZVzV2Y2w5MWNHUmhkR1ZrLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDYPgotZL-HVi7JVAdH33Xrl5jyf60vR7LtzTYgwkamFQIgPY4uSz~jbNSGa2LwI3Xxsk9Z6IzuyBDzM6weJomrOY0_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/DerOrOzzY4jPXiOiqLTJja_1778697552684_na1fn_L2hvbWUvdWJ1bnR1LzExOTlBX01pZHRvd25NYW5vcl91cGRhdGVk.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L0Rlck9yT3p6WTRqUFhpT2lxTFRKamFfMTc3ODY5NzU1MjY4NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTHpFeE9UbEJYMDFwWkhSdmQyNU5ZVzV2Y2w5MWNHUmhkR1ZrLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDd3576xEvXcuJu6GMmvuPs48UOhNfirnImqzMvAr0KbQIgTjw1LNiAcDE~Mx0KdixsRpNiZfgwf5TegkmeI7bBOAs_"
           }
         ],
         "content": "All three updated PDFs are attached. Item C (TIN) has been changed on all three pages of each form:\n\n| Property | Old TIN | New TIN |\n|---|---|---|\n| Anaheim Gardens | 87-0708063 | **65-1212266** |\n| Main So Central | 95-4473536 | **058-38-3020** |\n| Midtown Manor | 95-473550 | **058-38-3520** |\n\nEverything else on each form (signatures, account numbers, routing numbers, addresses, dates) is untouched."
@@ -1008,7 +1008,7 @@
             "content_type": "application/octet-stream",
             "filename": "pdf-field-editor.skill",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/bwuxTF9pIREK04GnYeOAIF_1779847678211_na1fn_L3RtcC9wZGYtZmllbGQtZWRpdG9y.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L2J3dXhURjlwSVJFSzA0R25ZZU9BSUZfMTc3OTg0NzY3ODIxMV9uYTFmbl9MM1J0Y0M5d1pHWXRabWxsYkdRdFpXUnBkRzl5LnNraWxsIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIFZb0vr9yYDV21xt1tyhUmmy2M2GHnr1ggWCLS83gtf5AiA66jHK0Snk1aOiAVkvhMHebmhWGg0VVajALpDHYWGFAA__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/bwuxTF9pIREK04GnYeOAIF_1779847678211_na1fn_L3RtcC9wZGYtZmllbGQtZWRpdG9y.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L2J3dXhURjlwSVJFSzA0R25ZZU9BSUZfMTc3OTg0NzY3ODIxMV9uYTFmbl9MM1J0Y0M5d1pHWXRabWxsYkdRdFpXUnBkRzl5LnNraWxsIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQC7Sai-0fq-nLXVY8I1aoCr6CA0rUMt65zwcCgpL~vl0QIhAMw1TW-5rFevgb7saR9F50YLAags~q-QkY28tzWdsiBG"
           }
         ],
         "content": "The **pdf-field-editor** skill is ready. Here's what it packages up from the work we did today:\n\n**What the skill does:**\nHandles replacing any text value in a PDF — including text that is visually rendered but not selectable (vector path / outline glyph fonts, which is what those 1199A forms used). It covers single-file edits, multi-page edits, and batch edits across multiple PDFs.\n\n**Three bundled scripts:**\n\n| Script | Purpose |\n|---|---|\n| `probe_area.py` | Renders a zoomed clip of any PDF page to a PNG so you can visually pinpoint the exact coordinates of the text to replace |\n| `replace_pdf_text.py` | Covers the old text with a white redaction rectangle and writes the new text on top — single file, any pages |\n| `batch_replace.py` | Takes a `jobs.json` config and runs the replacement across multiple PDFs in one pass (exactly what we did for the three 1199A forms) |\n\n**The skill will trigger automatically** the next time you ask to edit a field value in a PDF, change a TIN/ID/date/name in a document, or update the same field across multiple files."
@@ -1034,230 +1034,230 @@
       "type": "file",
       "filename": "document(1).pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-wWRUWwhkkllYtvb81gbXqm_na1fn_ZG9jdW1lbnQoMSk.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC13V1JVV3doa2tsbFl0dmI4MWdiWHFtX25hMWZuX1pHOWpkVzFsYm5Rb01Tay5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQC9g4DToRlCNFuTG~0QlAqZDaGFe01NWRiIoErj-PV~DwIhAK7VIStqbhL5dPLadzj-Wmn015U9ZI9-iQtJLbDCOO7B",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-wWRUWwhkkllYtvb81gbXqm_na1fn_ZG9jdW1lbnQoMSk.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC13V1JVV3doa2tsbFl0dmI4MWdiWHFtX25hMWZuX1pHOWpkVzFsYm5Rb01Tay5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIEywHjnKC46czcnKeuBH5apqMio0LY1RbrjDq-LNHDDgAiBDCJjGTe9cTa7U~DTda3uv94WiSM0iIN9AYDPzivj0Cg__",
       "status": "archived",
       "bytes": 262791,
-      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/0-user_message-0_86a56df01f14f303_document_1_.pdf"
+      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/0-user_message-0_58f0ce96af1c1475_document_1_.pdf"
     },
     {
       "event_index": 4,
       "type": "file",
       "filename": "Florida_Residential_Lease_Blank.docx",
       "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/MnXFkGXfHkq6efn5Q926C7_1778624597340_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfQmxhbms.docx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L01uWEZrR1hmSGtxNmVmbjVROTI2QzdfMTc3ODYyNDU5NzM0MF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUW14aGJtcy5kb2N4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIF6ehaGf5VfaOwtojgvip68g8rMx6cC5ugS~CNl~7XnHAiB1U~lkEAKg8NxZkzipi4Kv349Aow8bhAZlvMMwsHt0qA__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/MnXFkGXfHkq6efn5Q926C7_1778624597340_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfQmxhbms.docx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L01uWEZrR1hmSGtxNmVmbjVROTI2QzdfMTc3ODYyNDU5NzM0MF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUW14aGJtcy5kb2N4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQC9NA-TJMhbsW7LkOsAqkhyvUfE0Kd9Layk1nU7F5frVAIgPkRON7oAIJq~CzYea4~vbmYgr2~blW2L8DHBqo-UpP0_",
       "status": "archived",
       "bytes": 46193,
-      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/4-assistant_message-0_638be449945f56ff_Florida_Residential_Lease_Blank.docx"
+      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/4-assistant_message-0_3837d4c749e0a9ad_Florida_Residential_Lease_Blank.docx"
     },
     {
       "event_index": 13,
       "type": "file",
       "filename": "Florida_Residential_Lease_Pretty.docx",
       "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/2z9g2TcE6HjaEXrPUS40kg_1778626035148_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfUHJldHR5.docx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94LzJ6OWcyVGNFNkhqYUVYclBVUzQwa2dfMTc3ODYyNjAzNTE0OF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmVUhKbGRIUjUuZG9jeCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICXHBnW6FnAPFd2zwH9jIROpeln7FhfkO4miDvSWL525AiEA0Dm7jt-RTIjiswHDEHYiqy0tdKzapNnWIOYdJX5Wpgg_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/2z9g2TcE6HjaEXrPUS40kg_1778626035148_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfUHJldHR5.docx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94LzJ6OWcyVGNFNkhqYUVYclBVUzQwa2dfMTc3ODYyNjAzNTE0OF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmVUhKbGRIUjUuZG9jeCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIDftm91ajzVIZnyWy2Xt1NYgtkV~4S0BSM8z1j74fDLzAiEAvlgzC9WNnfcQL4nwL6ZwOw9iUbl7N0BEeIWO~s-Cfg8_",
       "status": "archived",
       "bytes": 46370,
-      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/13-assistant_message-0_1b3006c8995586d0_Florida_Residential_Lease_Pretty.docx"
+      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/13-assistant_message-0_7809b78ecbdff3ef_Florida_Residential_Lease_Pretty.docx"
     },
     {
       "event_index": 13,
       "type": "file",
       "filename": "Florida_Residential_Lease_Filled.docx",
       "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/2z9g2TcE6HjaEXrPUS40kg_1778626035148_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfRmlsbGVk.docx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94LzJ6OWcyVGNFNkhqYUVYclBVUzQwa2dfMTc3ODYyNjAzNTE0OF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUm1sc2JHVmsuZG9jeCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDQXBvxZ0EreEfs5FFT34gh0k18w7E0XmxKFus1fCVw8AIhAPB467Fmpi1oPdjhxHrp6Ov3ayb3vWfvVXArY8m0KhD4",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/2z9g2TcE6HjaEXrPUS40kg_1778626035148_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfRmlsbGVk.docx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94LzJ6OWcyVGNFNkhqYUVYclBVUzQwa2dfMTc3ODYyNjAzNTE0OF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUm1sc2JHVmsuZG9jeCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIHgqOQBhbfLz~WCRslVETFNuBgDur-SMsSAo6PFDdME6AiEAg6evpzzHoVw5VlUcgHCP-Dzo-eGs04ZWR83DwYHWpHU_",
       "status": "archived",
       "bytes": 46597,
-      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/13-assistant_message-1_fbad6551f8378f28_Florida_Residential_Lease_Filled.docx"
+      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/13-assistant_message-1_415efdf9ca626ee6_Florida_Residential_Lease_Filled.docx"
     },
     {
       "event_index": 13,
       "type": "file",
       "filename": "Florida_Residential_Lease_Fillable.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/2z9g2TcE6HjaEXrPUS40kg_1778626035148_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfRmlsbGFibGU.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94LzJ6OWcyVGNFNkhqYUVYclBVUzQwa2dfMTc3ODYyNjAzNTE0OF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUm1sc2JHRmliR1UucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIEgTwyg5Zol9B90wx9q7OYw1~U30EVChayQa6NFtIo6nAiBNG9XN~GDYBdU9o-1v-lA48I6m3Gl7WuytsHVQr8pf8Q__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/2z9g2TcE6HjaEXrPUS40kg_1778626035148_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfRmlsbGFibGU.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94LzJ6OWcyVGNFNkhqYUVYclBVUzQwa2dfMTc3ODYyNjAzNTE0OF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUm1sc2JHRmliR1UucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCICPtIhz6nyBlASC5mt3n2U6~0RI2pc64fWAkwDrb3KBBAiB0JoBmhNarOa-v1m6keevTqQYbV51PncUyNwy20qDMKg__",
       "status": "archived",
       "bytes": 103155,
-      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/13-assistant_message-2_875e8f9ae640c519_Florida_Residential_Lease_Fillable.pdf"
+      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/13-assistant_message-2_5f99e7d401a3744b_Florida_Residential_Lease_Fillable.pdf"
     },
     {
       "event_index": 18,
       "type": "file",
       "filename": "Florida_Residential_Lease_Blank.docx",
       "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/hHtySJxlz6u97VdTE7aJav_1778626600985_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfQmxhbms.docx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L2hIdHlTSnhsejZ1OTdWZFRFN2FKYXZfMTc3ODYyNjYwMDk4NV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUW14aGJtcy5kb2N4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICHsIOOoxT4o4AFP14V7U4kYiFrBcVM8etPHrYaOfTSZAiEA0Bky9VnlXBZHIBlTAr2cBsppsaY0eEUdSJayLNi24xI_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/hHtySJxlz6u97VdTE7aJav_1778626600985_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfQmxhbms.docx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L2hIdHlTSnhsejZ1OTdWZFRFN2FKYXZfMTc3ODYyNjYwMDk4NV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUW14aGJtcy5kb2N4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIFC-3zqz5efyaHBeFqqfgwggccYaVcL4wTkzqJeeEAfIAiAImss9pCfWBOMdKCHntbyE8AXZaGqFniN7YIbuLWtNEw__",
       "status": "archived",
       "bytes": 46387,
-      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/18-assistant_message-0_edb97c4bebf32996_Florida_Residential_Lease_Blank.docx"
+      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/18-assistant_message-0_9da3a97fde075e21_Florida_Residential_Lease_Blank.docx"
     },
     {
       "event_index": 18,
       "type": "file",
       "filename": "Florida_Residential_Lease_Filled.docx",
       "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/hHtySJxlz6u97VdTE7aJav_1778626600985_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfRmlsbGVk.docx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L2hIdHlTSnhsejZ1OTdWZFRFN2FKYXZfMTc3ODYyNjYwMDk4NV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUm1sc2JHVmsuZG9jeCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIHgik20O~wYrZXufjMrcq2naYiODcFcae11yuldgty6zAiEA5ZMM6zMJDpmcKA19eR9zVYzJKr9Cdr7DS2l9iAeh3dA_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/hHtySJxlz6u97VdTE7aJav_1778626600985_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfRmlsbGVk.docx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L2hIdHlTSnhsejZ1OTdWZFRFN2FKYXZfMTc3ODYyNjYwMDk4NV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUm1sc2JHVmsuZG9jeCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCsoQkSLl3Ob53UL5u3Nd-f3y5Oi7gG1RarPR-PgYRqVAIgT1M-PxPnkiLZTbj9wgyyeTIqPNBDMbyRoypROF3daiA_",
       "status": "archived",
       "bytes": 46623,
-      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/18-assistant_message-1_b7f443cade954cf7_Florida_Residential_Lease_Filled.docx"
+      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/18-assistant_message-1_57168cb3f3cc48ab_Florida_Residential_Lease_Filled.docx"
     },
     {
       "event_index": 18,
       "type": "file",
       "filename": "Florida_Residential_Lease_Fillable.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/hHtySJxlz6u97VdTE7aJav_1778626600985_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfRmlsbGFibGU.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L2hIdHlTSnhsejZ1OTdWZFRFN2FKYXZfMTc3ODYyNjYwMDk4NV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUm1sc2JHRmliR1UucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQD~BIXhy7vY0ZFZVGTPZwNlpS936cApS1BBRF610UDLPQIhAIiU7BmBB9sTWaRlJXS9XFzVVw8jD4xJpOXU-GP7PRZD",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/hHtySJxlz6u97VdTE7aJav_1778626600985_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfRmlsbGFibGU.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L2hIdHlTSnhsejZ1OTdWZFRFN2FKYXZfMTc3ODYyNjYwMDk4NV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUm1sc2JHRmliR1UucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCZDORm0wDKbTYcELDTmOBRaoQO2-YcI36iz8d5jKTHqgIgaAgwWaKy~pJsvpnV-~LCaBHxqJvwqBhwDdSdLw5ZgV8_",
       "status": "archived",
       "bytes": 104335,
-      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/18-assistant_message-2_16081449ff7db7b0_Florida_Residential_Lease_Fillable.pdf"
+      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/18-assistant_message-2_e07cc491be39dbef_Florida_Residential_Lease_Fillable.pdf"
     },
     {
       "event_index": 23,
       "type": "file",
       "filename": "Florida_Residential_Lease_Blank.docx",
       "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/09qmBrim4OTKHDamGHViyY_1778626810534_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfQmxhbms.docx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94LzA5cW1CcmltNE9US0hEYW1HSFZpeVlfMTc3ODYyNjgxMDUzNF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUW14aGJtcy5kb2N4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQD1VHxFhb5WwuFHODbZjNSa7d7okhmGUIqNgJlCfAWZOQIhAOzGU-oHsCrpBHTEDx7Nx8yGtQ-QqpxmsCx7WZPnFeCM",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/09qmBrim4OTKHDamGHViyY_1778626810534_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfQmxhbms.docx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94LzA5cW1CcmltNE9US0hEYW1HSFZpeVlfMTc3ODYyNjgxMDUzNF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUW14aGJtcy5kb2N4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDHHelHYlXG4~owtsbjy6TGpgz8qJc3cl1YuuyQuchqLgIhAPupooyL0yiXvpg5Wc86gToc~QVzrcBOSrWUdHIl62y8",
       "status": "archived",
       "bytes": 47244,
-      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/23-assistant_message-0_7b4ce5d56a3ea903_Florida_Residential_Lease_Blank.docx"
+      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/23-assistant_message-0_9ee6fa9f8615a358_Florida_Residential_Lease_Blank.docx"
     },
     {
       "event_index": 23,
       "type": "file",
       "filename": "Florida_Residential_Lease_Filled.docx",
       "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/09qmBrim4OTKHDamGHViyY_1778626810534_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfRmlsbGVk.docx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94LzA5cW1CcmltNE9US0hEYW1HSFZpeVlfMTc3ODYyNjgxMDUzNF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUm1sc2JHVmsuZG9jeCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCInbXgddqMq-w4W4kbQBoCLe72u2qHej2koZZelam52QIhAKTZPOADMBW14T9AWNg13QjP7-VN4ayfMlc6b7Vvhye-",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/09qmBrim4OTKHDamGHViyY_1778626810534_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfRmlsbGVk.docx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94LzA5cW1CcmltNE9US0hEYW1HSFZpeVlfMTc3ODYyNjgxMDUzNF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUm1sc2JHVmsuZG9jeCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQD2qVRifofdmpqFrNulhUMqyE1b9IaTVmcyxTUY37HMAQIhAMbOvu4B7U76FIa2EngyFI8mvXh6juj2DCeOLwXUz2hW",
       "status": "archived",
       "bytes": 47364,
-      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/23-assistant_message-1_83c1cabc34cf1cd7_Florida_Residential_Lease_Filled.docx"
+      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/23-assistant_message-1_21f24162be1cbeb1_Florida_Residential_Lease_Filled.docx"
     },
     {
       "event_index": 28,
       "type": "file",
       "filename": "Florida_Residential_Lease_Fillable.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/VAEIMlPs8FKmHPKVmJ2LXC_1778626985162_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfRmlsbGFibGU.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L1ZBRUlNbFBzOEZLbUhQS1ZtSjJMWENfMTc3ODYyNjk4NTE2Ml9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUm1sc2JHRmliR1UucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDPZnc1~f54lIRxSeV1jWav-OJgnOjsFon6NxAY8ESSvwIhAJEsg0g-wD0AbpCQbRAqkyhp81VoL14iZIVbNNv7V2uO",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/VAEIMlPs8FKmHPKVmJ2LXC_1778626985162_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfRmlsbGFibGU.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L1ZBRUlNbFBzOEZLbUhQS1ZtSjJMWENfMTc3ODYyNjk4NTE2Ml9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUm1sc2JHRmliR1UucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDD9H6V56dTvAPSt1tWGUdEVNNGxTraFiMT2~mtZX24FAiAILN4ciVYVKzvXG--E3oQxqwG1anFiBcFHLTwYMj~7QA__",
       "status": "archived",
       "bytes": 136847,
-      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/28-assistant_message-0_2e10c519e085fc45_Florida_Residential_Lease_Fillable.pdf"
+      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/28-assistant_message-0_3193724a5dce9fbf_Florida_Residential_Lease_Fillable.pdf"
     },
     {
       "event_index": 44,
       "type": "file",
       "filename": "Florida_Residential_Lease_Filled.docx",
       "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/Jwj53U9V0YdPIDCiPlvyPY_1778629214464_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfRmlsbGVk.docx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L0p3ajUzVTlWMFlkUElEQ2lQbHZ5UFlfMTc3ODYyOTIxNDQ2NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUm1sc2JHVmsuZG9jeCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDfDk7SdEoNRYhtcF1bjveLBGsRowg-On3zV5udBiqzzwIgFjeupDeGztk~PCMiDK6vQeQ3bLN03IMqT6k5~E3~zgo_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/Jwj53U9V0YdPIDCiPlvyPY_1778629214464_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfRmlsbGVk.docx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L0p3ajUzVTlWMFlkUElEQ2lQbHZ5UFlfMTc3ODYyOTIxNDQ2NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUm1sc2JHVmsuZG9jeCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCkzhfvxvPivRlMT~P3g2zf0xNkVsv~CvXUoYqTtrO63QIhAJH9y2cNATzx2S6QMSyRTgDcVwr-WStM1L1CGH3IiL7j",
       "status": "archived",
       "bytes": 47364,
-      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/44-assistant_message-0_9972c50492e19290_Florida_Residential_Lease_Filled.docx"
+      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/44-assistant_message-0_7decb5e123f3a52e_Florida_Residential_Lease_Filled.docx"
     },
     {
       "event_index": 52,
       "type": "file",
       "filename": "Florida_Residential_Lease_Filled_v2.docx",
       "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/VdkPb1wN9drmuOgXkmDw7V_1778629655265_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfRmlsbGVkX3Yy.docx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L1Zka1BiMXdOOWRybXVPZ1hrbUR3N1ZfMTc3ODYyOTY1NTI2NV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUm1sc2JHVmtYM1l5LmRvY3giLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIEkDr9C-bP-6ZKPfxRQKwE9ct8ANj01CMtRzMeuDq~jCAiBgu2NiOPzFnY2dj7lLjn1TzqN4suQFmnQFR-6vj2swPA__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/VdkPb1wN9drmuOgXkmDw7V_1778629655265_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfRmlsbGVkX3Yy.docx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L1Zka1BiMXdOOWRybXVPZ1hrbUR3N1ZfMTc3ODYyOTY1NTI2NV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUm1sc2JHVmtYM1l5LmRvY3giLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIHzZng01fRt1~QJqBaSkydO5KMQN2TglYSIgGj9OHr2eAiAMa7ORsVw5rDj8RqnjjmFmzfnWlI5qa-hgxNoxLs~noQ__",
       "status": "archived",
       "bytes": 45198,
-      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/52-assistant_message-0_0011e6e701fde55c_Florida_Residential_Lease_Filled_v2.docx"
+      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/52-assistant_message-0_0c3827c25773391e_Florida_Residential_Lease_Filled_v2.docx"
     },
     {
       "event_index": 52,
       "type": "file",
       "filename": "Florida_Residential_Lease_Blank_v2.docx",
       "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/VdkPb1wN9drmuOgXkmDw7V_1778629655265_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfQmxhbmtfdjI.docx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L1Zka1BiMXdOOWRybXVPZ1hrbUR3N1ZfMTc3ODYyOTY1NTI2NV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUW14aGJtdGZkakkuZG9jeCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDjgKPRw71KEnzn6CEzGP5hiNS0eLPOtIUt8F-P0czEQwIhAJXV2jAOz-~6SSjZJf8xZkAApr6KfY2-~mSBbQUtbo05",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/VdkPb1wN9drmuOgXkmDw7V_1778629655265_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfQmxhbmtfdjI.docx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L1Zka1BiMXdOOWRybXVPZ1hrbUR3N1ZfMTc3ODYyOTY1NTI2NV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUW14aGJtdGZkakkuZG9jeCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCpm5-mZ2JYt-GXVEY9ocZCHE8SooC2I24lx3kDmSE3VQIgWtBZX8~81BlOjCXT~CQ5oo9-cA6TrS82rphu6juSly8_",
       "status": "archived",
       "bytes": 44770,
-      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/52-assistant_message-1_c091343943d66370_Florida_Residential_Lease_Blank_v2.docx"
+      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/52-assistant_message-1_5cc5740f32e76436_Florida_Residential_Lease_Blank_v2.docx"
     },
     {
       "event_index": 52,
       "type": "file",
       "filename": "Florida_Residential_Lease_Filled_v2.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/VdkPb1wN9drmuOgXkmDw7V_1778629655265_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfRmlsbGVkX3Yy.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L1Zka1BiMXdOOWRybXVPZ1hrbUR3N1ZfMTc3ODYyOTY1NTI2NV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUm1sc2JHVmtYM1l5LnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIH9hKqTA3OTapGtCfzibMaVXkGziVC8aaZ2M~EdxfYTOAiB-RYEn~6lH-LiSNt1XZfgtlNW1F6f3xIvZJ6uCX0FXUA__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/VdkPb1wN9drmuOgXkmDw7V_1778629655265_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfRmlsbGVkX3Yy.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L1Zka1BiMXdOOWRybXVPZ1hrbUR3N1ZfMTc3ODYyOTY1NTI2NV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUm1sc2JHVmtYM1l5LnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIFbZFoFraBChYTY23tRqqhXc3Pk9~0IESewzeXxcXp3SAiEAtFqWzutliVZ6GKGx7kmqPlEUd7MeFvR7lF7rBWcfBfc_",
       "status": "archived",
       "bytes": 69637,
-      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/52-assistant_message-2_1e693ee10c6a14f1_Florida_Residential_Lease_Filled_v2.pdf"
+      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/52-assistant_message-2_f7d007fb946a5bb9_Florida_Residential_Lease_Filled_v2.pdf"
     },
     {
       "event_index": 52,
       "type": "file",
       "filename": "Florida_Residential_Lease_Blank_v2_Fillable.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/VdkPb1wN9drmuOgXkmDw7V_1778629655265_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfQmxhbmtfdjJfRmlsbGFibGU.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L1Zka1BiMXdOOWRybXVPZ1hrbUR3N1ZfMTc3ODYyOTY1NTI2NV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUW14aGJtdGZkakpmUm1sc2JHRmliR1UucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIHE1Lla3elyFP6SlTsvD2uUQheotlJQfHq5ZDf0zBe4zAiBUFohCJm4e9TV9-2kuLttumj2vpSjPKsdrR8KEhIKugQ__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/VdkPb1wN9drmuOgXkmDw7V_1778629655265_na1fn_L2hvbWUvdWJ1bnR1L0Zsb3JpZGFfUmVzaWRlbnRpYWxfTGVhc2VfQmxhbmtfdjJfRmlsbGFibGU.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L1Zka1BiMXdOOWRybXVPZ1hrbUR3N1ZfMTc3ODYyOTY1NTI2NV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBac2IzSnBaR0ZmVW1WemFXUmxiblJwWVd4ZlRHVmhjMlZmUW14aGJtdGZkakpmUm1sc2JHRmliR1UucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQD4LGzeNv71FXTJexv7gLdNoLfG80-nNXjMxXBAzcZN1QIgRp-PVhSEXWZCHsT5PMwYEchfYJckwXvBK3Ee4DbDB9M_",
       "status": "archived",
       "bytes": 90682,
-      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/52-assistant_message-3_3baaeb11d4eacb8e_Florida_Residential_Lease_Blank_v2_Fillable.pdf"
+      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/52-assistant_message-3_d30f0bb5c4d46db2_Florida_Residential_Lease_Blank_v2_Fillable.pdf"
     },
     {
       "event_index": 78,
       "type": "file",
       "filename": "1199ADirectDepositAnaheimGardens-revised04.02.2026.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-i06HPJjmJadlzSi1KyOauU_na1fn_MTE5OUFEaXJlY3REZXBvc2l0QW5haGVpbUdhcmRlbnMtcmV2aXNlZDA0LjAyLjIwMjY.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1pMDZIUEpqbUphZGx6U2kxS3lPYXVVX25hMWZuX01URTVPVUZFYVhKbFkzUkVaWEJ2YzJsMFFXNWhhR1ZwYlVkaGNtUmxibk10Y21WMmFYTmxaREEwTGpBeUxqSXdNalkucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIFNLuEc36vgLn4u5kZJ7hDKYO549UtSCgVNlGxtaFcjyAiEA8semRbUkaZ1a0rllV36F8fTqgJBO4X2eZdzrknJNFVw_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-i06HPJjmJadlzSi1KyOauU_na1fn_MTE5OUFEaXJlY3REZXBvc2l0QW5haGVpbUdhcmRlbnMtcmV2aXNlZDA0LjAyLjIwMjY.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1pMDZIUEpqbUphZGx6U2kxS3lPYXVVX25hMWZuX01URTVPVUZFYVhKbFkzUkVaWEJ2YzJsMFFXNWhhR1ZwYlVkaGNtUmxibk10Y21WMmFYTmxaREEwTGpBeUxqSXdNalkucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIBym8a3kiI5L6aYZZPuQwnjK0OLSeMlMNDZLs7bBSS8AAiEAqzptAD8lP-8QUfaBNfrN4u06bTu8G3c1eMbspATe280_",
       "status": "archived",
       "bytes": 399427,
-      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/78-user_message-0_4f004b0a8e32be41_1199ADirectDepositAnaheimGardens-revised04.02.2026.pdf"
+      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/78-user_message-0_4b12096f6395de0d_1199ADirectDepositAnaheimGardens-revised04.02.2026.pdf"
     },
     {
       "event_index": 78,
       "type": "file",
       "filename": "1199ADirectDepositMainSoCentral-revised04.02.2026.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-tH8GAz46qMrUK5PuQsnl8S_na1fn_MTE5OUFEaXJlY3REZXBvc2l0TWFpblNvQ2VudHJhbC1yZXZpc2VkMDQuMDIuMjAyNg.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC10SDhHQXo0NnFNclVLNVB1UXNubDhTX25hMWZuX01URTVPVUZFYVhKbFkzUkVaWEJ2YzJsMFRXRnBibE52UTJWdWRISmhiQzF5WlhacGMyVmtNRFF1TURJdU1qQXlOZy5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICiZjguLtDlXbKHffLMYG9H3mNwtsvLzpPoKDWfRamWXAiEA3b55ltb9sN5fN4qoNTBFNQUzMN90hvCf1FfhUd2QusQ_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-tH8GAz46qMrUK5PuQsnl8S_na1fn_MTE5OUFEaXJlY3REZXBvc2l0TWFpblNvQ2VudHJhbC1yZXZpc2VkMDQuMDIuMjAyNg.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC10SDhHQXo0NnFNclVLNVB1UXNubDhTX25hMWZuX01URTVPVUZFYVhKbFkzUkVaWEJ2YzJsMFRXRnBibE52UTJWdWRISmhiQzF5WlhacGMyVmtNRFF1TURJdU1qQXlOZy5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIF4ea69ujwz2fS~UntNQLmdvKYfLQ5CpFcJf1YQCGCsbAiAFyE30BAbpfwHMOT4P5oC1hYokjl0H2iDbninzd2OHTg__",
       "status": "archived",
       "bytes": 374346,
-      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/78-user_message-1_ebc1139867ac11a7_1199ADirectDepositMainSoCentral-revised04.02.2026.pdf"
+      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/78-user_message-1_3c52b98f0d1416ca_1199ADirectDepositMainSoCentral-revised04.02.2026.pdf"
     },
     {
       "event_index": 78,
       "type": "file",
       "filename": "1199ADirectDepositMidtownManor-revised04.02.2026.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-pu41DgAQvmMLyLTHd2xh1b_na1fn_MTE5OUFEaXJlY3REZXBvc2l0TWlkdG93bk1hbm9yLXJldmlzZWQwNC4wMi4yMDI2.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1wdTQxRGdBUXZtTUx5TFRIZDJ4aDFiX25hMWZuX01URTVPVUZFYVhKbFkzUkVaWEJ2YzJsMFRXbGtkRzkzYmsxaGJtOXlMWEpsZG1selpXUXdOQzR3TWk0eU1ESTIucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDbXHT3iYsdnzLQMt4H-IoJB5N0xCCaXKYGv~T36x9yUQIhAMQOX94S4Lho9YzCWX1EB5U02yRSBPepQkVFzrH~zv7v",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-pu41DgAQvmMLyLTHd2xh1b_na1fn_MTE5OUFEaXJlY3REZXBvc2l0TWlkdG93bk1hbm9yLXJldmlzZWQwNC4wMi4yMDI2.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1wdTQxRGdBUXZtTUx5TFRIZDJ4aDFiX25hMWZuX01URTVPVUZFYVhKbFkzUkVaWEJ2YzJsMFRXbGtkRzkzYmsxaGJtOXlMWEpsZG1selpXUXdOQzR3TWk0eU1ESTIucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDck0h9Ax6rhH9o2fL142LkCEbiRq7MGF3z9GnpuF8pmAIgdJSzG2uBzG-vHz3SXGgAXRycpcHsQFf42os9WVCwLYg_",
       "status": "archived",
       "bytes": 1510045,
-      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/78-user_message-2_5a09b7e91d016773_1199ADirectDepositMidtownManor-revised04.02.2026.pdf"
+      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/78-user_message-2_fff6731cf8eafdb9_1199ADirectDepositMidtownManor-revised04.02.2026.pdf"
     },
     {
       "event_index": 84,
       "type": "file",
       "filename": "1199A_AnaheimGardens_updated.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/DerOrOzzY4jPXiOiqLTJja_1778697552684_na1fn_L2hvbWUvdWJ1bnR1LzExOTlBX0FuYWhlaW1HYXJkZW5zX3VwZGF0ZWQ.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L0Rlck9yT3p6WTRqUFhpT2lxTFRKamFfMTc3ODY5NzU1MjY4NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTHpFeE9UbEJYMEZ1WVdobGFXMUhZWEprWlc1elgzVndaR0YwWldRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCzB0JD1MYyEDdgI4wZ~53frOVqqXtJ3J7gXJLQ4t6ShwIhAOGymv8YOGXnNUlbBAtclI4YOnAUHULT1l83aEBjZRxR",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/DerOrOzzY4jPXiOiqLTJja_1778697552684_na1fn_L2hvbWUvdWJ1bnR1LzExOTlBX0FuYWhlaW1HYXJkZW5zX3VwZGF0ZWQ.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L0Rlck9yT3p6WTRqUFhpT2lxTFRKamFfMTc3ODY5NzU1MjY4NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTHpFeE9UbEJYMEZ1WVdobGFXMUhZWEprWlc1elgzVndaR0YwWldRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCo3kFFr7LFYxrW7Nbvh6WRA8NhgCsZSjm8w20q1ficrwIhALqOnL1KpV93WncPj64MRxOrlPeTsHsXDp-0pxNXi2kA",
       "status": "archived",
       "bytes": 334851,
-      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/84-assistant_message-0_4d5bd170641824c8_1199A_AnaheimGardens_updated.pdf"
+      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/84-assistant_message-0_c9ba68b3be20d391_1199A_AnaheimGardens_updated.pdf"
     },
     {
       "event_index": 84,
       "type": "file",
       "filename": "1199A_MainSoCentral_updated.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/DerOrOzzY4jPXiOiqLTJja_1778697552684_na1fn_L2hvbWUvdWJ1bnR1LzExOTlBX01haW5Tb0NlbnRyYWxfdXBkYXRlZA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L0Rlck9yT3p6WTRqUFhpT2lxTFRKamFfMTc3ODY5NzU1MjY4NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTHpFeE9UbEJYMDFoYVc1VGIwTmxiblJ5WVd4ZmRYQmtZWFJsWkEucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIA9N2YArCilm0W2zg0CgaQ~06umGjA2NXgLwb~Ty~WejAiEAv06uie0dzg8~yylP2V7f4DjmM7qFXQBVsg3~QkEHAH0_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/DerOrOzzY4jPXiOiqLTJja_1778697552684_na1fn_L2hvbWUvdWJ1bnR1LzExOTlBX01haW5Tb0NlbnRyYWxfdXBkYXRlZA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L0Rlck9yT3p6WTRqUFhpT2lxTFRKamFfMTc3ODY5NzU1MjY4NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTHpFeE9UbEJYMDFoYVc1VGIwTmxiblJ5WVd4ZmRYQmtZWFJsWkEucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQC90bSacNFIZ3OqmCFDSr35jIspyO7EWzFdFHcdZDtDaQIgTgDF4RM7gpV13~UzsYemhb7jdAtSL6UwBEhH-XEH3~A_",
       "status": "archived",
       "bytes": 315058,
-      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/84-assistant_message-1_246ae84a76808258_1199A_MainSoCentral_updated.pdf"
+      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/84-assistant_message-1_8c522a4fd901e5d2_1199A_MainSoCentral_updated.pdf"
     },
     {
       "event_index": 84,
       "type": "file",
       "filename": "1199A_MidtownManor_updated.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/DerOrOzzY4jPXiOiqLTJja_1778697552684_na1fn_L2hvbWUvdWJ1bnR1LzExOTlBX01pZHRvd25NYW5vcl91cGRhdGVk.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L0Rlck9yT3p6WTRqUFhpT2lxTFRKamFfMTc3ODY5NzU1MjY4NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTHpFeE9UbEJYMDFwWkhSdmQyNU5ZVzV2Y2w5MWNHUmhkR1ZrLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDYPgotZL-HVi7JVAdH33Xrl5jyf60vR7LtzTYgwkamFQIgPY4uSz~jbNSGa2LwI3Xxsk9Z6IzuyBDzM6weJomrOY0_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/DerOrOzzY4jPXiOiqLTJja_1778697552684_na1fn_L2hvbWUvdWJ1bnR1LzExOTlBX01pZHRvd25NYW5vcl91cGRhdGVk.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L0Rlck9yT3p6WTRqUFhpT2lxTFRKamFfMTc3ODY5NzU1MjY4NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTHpFeE9UbEJYMDFwWkhSdmQyNU5ZVzV2Y2w5MWNHUmhkR1ZrLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDd3576xEvXcuJu6GMmvuPs48UOhNfirnImqzMvAr0KbQIgTjw1LNiAcDE~Mx0KdixsRpNiZfgwf5TegkmeI7bBOAs_",
       "status": "archived",
       "bytes": 1224933,
-      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/84-assistant_message-2_88cda9a3ce7e00d4_1199A_MidtownManor_updated.pdf"
+      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/84-assistant_message-2_c4036fd84e73fedf_1199A_MidtownManor_updated.pdf"
     },
     {
       "event_index": 89,
       "type": "file",
       "filename": "pdf-field-editor.skill",
       "content_type": "application/octet-stream",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/bwuxTF9pIREK04GnYeOAIF_1779847678211_na1fn_L3RtcC9wZGYtZmllbGQtZWRpdG9y.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L2J3dXhURjlwSVJFSzA0R25ZZU9BSUZfMTc3OTg0NzY3ODIxMV9uYTFmbl9MM1J0Y0M5d1pHWXRabWxsYkdRdFpXUnBkRzl5LnNraWxsIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIFZb0vr9yYDV21xt1tyhUmmy2M2GHnr1ggWCLS83gtf5AiA66jHK0Snk1aOiAVkvhMHebmhWGg0VVajALpDHYWGFAA__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/P9YCcaOeBFkmuiJNl38qeD/sandbox/bwuxTF9pIREK04GnYeOAIF_1779847678211_na1fn_L3RtcC9wZGYtZmllbGQtZWRpdG9y.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUDlZQ2NhT2VCRmttdWlKTmwzOHFlRC9zYW5kYm94L2J3dXhURjlwSVJFSzA0R25ZZU9BSUZfMTc3OTg0NzY3ODIxMV9uYTFmbl9MM1J0Y0M5d1pHWXRabWxsYkdRdFpXUnBkRzl5LnNraWxsIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQC7Sai-0fq-nLXVY8I1aoCr6CA0rUMt65zwcCgpL~vl0QIhAMw1TW-5rFevgb7saR9F50YLAags~q-QkY28tzWdsiBG",
       "status": "archived",
       "bytes": 6125,
-      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/89-assistant_message-0_13fa4f691b09b4c9_pdf-field-editor.skill"
+      "archive_path": "attachments/P9YCcaOeBFkmuiJNl38qeD/89-assistant_message-0_7034d347ce58eed7_pdf-field-editor.skill"
     }
   ]
 }

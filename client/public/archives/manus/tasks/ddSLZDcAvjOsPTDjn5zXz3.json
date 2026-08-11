@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "archived_at": "2026-08-04T18:29:36.622347Z",
+  "archived_at": "2026-08-11T15:07:06.250368Z",
   "task": {
     "id": "ddSLZDcAvjOsPTDjn5zXz3",
     "title": "MyLoneWorkers : Monthly Inspections",
@@ -25,7 +25,7 @@
             "content_type": "application/pdf",
             "filename": "portfolio_checklist.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ltfkUBTFqypPCOxS2TjOSE_na1fn_cG9ydGZvbGlvX2NoZWNrbGlzdA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1sdGZrVUJURnF5cFBDT3hTMlRqT1NFX25hMWZuX2NHOXlkR1p2YkdsdlgyTm9aV05yYkdsemRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCICStitNEU9bl9IL2SGa9eDmgMyODkow2LTBvmRBMqGjdAiAKMGg0izs4XL3Z66KfAy4o~tJzkKgSwDXdYYbtEeHnUg__"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ltfkUBTFqypPCOxS2TjOSE_na1fn_cG9ydGZvbGlvX2NoZWNrbGlzdA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1sdGZrVUJURnF5cFBDT3hTMlRqT1NFX25hMWZuX2NHOXlkR1p2YkdsdlgyTm9aV05yYkdsemRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIB1sVNXtV7rZaloWihbl0GLPkhuz~bXEyDJd~yahIK2FAiEA-G8yHFJMlNOAwq1mpsDWi7OUu8MQunBJsdICf-iazdk_"
           }
         ],
         "content": "I am going to be checking if all of our managers are doing their inspections every month on the 21st.  I need you to make a checklist of all of our properties where I can go off and check them in a box similar to this one attached. but I want it as a webpage app and all of the properties on one page - Title it Monthly Inspections Subtitle Due : 21st of Every Month",
@@ -134,7 +134,7 @@
             "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
             "filename": "CompanyContacts6.12.26.xlsx",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-PBkW6OTc6uvvvUxq6smLYD_na1fn_Q29tcGFueUNvbnRhY3RzNi4xMi4yNg.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1QQmtXNk9UYzZ1dnZ2VXhxNnNtTFlEX25hMWZuX1EyOXRjR0Z1ZVVOdmJuUmhZM1J6Tmk0eE1pNHlOZy54bHN4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQC6PH3ujgqp2qG2QNtaGI9UcrEzOL0G0cYuWtc6kINhEAIgOu0xdO5-cY~eyt587I7ItziAyuL202tzezkFyEzFFQQ_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-PBkW6OTc6uvvvUxq6smLYD_na1fn_Q29tcGFueUNvbnRhY3RzNi4xMi4yNg.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1QQmtXNk9UYzZ1dnZ2VXhxNnNtTFlEX25hMWZuX1EyOXRjR0Z1ZVVOdmJuUmhZM1J6Tmk0eE1pNHlOZy54bHN4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIHMv1gOuTXM4w059H3Id6Tlh8jOBYIgCeNk1nQ5vXoHrAiEAirmIhuDY-PiQXSZFXcSLsa4USH6~GI~jJaLV2kNuryE_"
           }
         ],
         "message_type": "text"
@@ -1280,7 +1280,7 @@
             "content_type": "application/json",
             "filename": "monthly-inspections-backup-2026-06-22.json",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-aWfj17GNsM08L8EwrL7Z9e_na1fn_bW9udGhseS1pbnNwZWN0aW9ucy1iYWNrdXAtMjAyNi0wNi0yMg.json?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1hV2ZqMTdHTnNNMDhMOEV3ckw3WjllX25hMWZuX2JXOXVkR2hzZVMxcGJuTndaV04wYVc5dWN5MWlZV05yZFhBdE1qQXlOaTB3TmkweU1nLmpzb24iLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIBS8z7zqbViNYX2qBgTuyffPybXqR5zSMy6cpvqbsafxAiArewfC-M3BGQCJUFy5v8APD5UwZhNzQqfrSkHwtLsPFw__"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-aWfj17GNsM08L8EwrL7Z9e_na1fn_bW9udGhseS1pbnNwZWN0aW9ucy1iYWNrdXAtMjAyNi0wNi0yMg.json?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1hV2ZqMTdHTnNNMDhMOEV3ckw3WjllX25hMWZuX2JXOXVkR2hzZVMxcGJuTndaV04wYVc5dWN5MWlZV05yZFhBdE1qQXlOaTB3TmkweU1nLmpzb24iLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIBI1OorzJZ1L1F6Ecz4SXT4XzAUeLbnMVFkWXNi0uL5tAiBlgZB4ARJWr8k7b9biztF7Do6q9ZtwMtFoLTGap-0LOQ__"
           }
         ],
         "content": "i tried importing this backup",
@@ -1321,7 +1321,7 @@
             "content_type": "application/pdf",
             "filename": "portfolio_checklist.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ltfkUBTFqypPCOxS2TjOSE_na1fn_cG9ydGZvbGlvX2NoZWNrbGlzdA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1sdGZrVUJURnF5cFBDT3hTMlRqT1NFX25hMWZuX2NHOXlkR1p2YkdsdlgyTm9aV05yYkdsemRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDK2JtuX3wGgwyucM1wSx2USq9d2m5CXn45sKbuvGxdBwIhAMVogvZRQ~mxgA8AhS0eflopdMwzf4tFbIWodughO2o7"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ltfkUBTFqypPCOxS2TjOSE_na1fn_cG9ydGZvbGlvX2NoZWNrbGlzdA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1sdGZrVUJURnF5cFBDT3hTMlRqT1NFX25hMWZuX2NHOXlkR1p2YkdsdlgyTm9aV05yYkdsemRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCCkh0f4~ueM9zzkG9JVcJy0jAwBsSHggWzoO-hQVdSBwIhAPn9bVealTtmB~bEvivQ5m3333EE-hccxlBfTpbmeeI7"
           }
         ],
         "content": "I am going to be checking if all of our managers are doing their inspections every month on the 21st.  I need you to make a checklist of all of our properties where I can go off and check them in a box similar to this one attached. but I want it as a webpage app and all of the properties on one page - Title it Monthly Inspections Subtitle Due : 21st of Every Month",
@@ -1366,7 +1366,7 @@
             "content_type": "application/json",
             "filename": "monthly-inspections-backup-2026-06-22.json",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-aWfj17GNsM08L8EwrL7Z9e_na1fn_bW9udGhseS1pbnNwZWN0aW9ucy1iYWNrdXAtMjAyNi0wNi0yMg.json?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1hV2ZqMTdHTnNNMDhMOEV3ckw3WjllX25hMWZuX2JXOXVkR2hzZVMxcGJuTndaV04wYVc5dWN5MWlZV05yZFhBdE1qQXlOaTB3TmkweU1nLmpzb24iLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIDEquLUlA93EI3FU5dr5NlgHjQOSPDjfO0ZRWTDivRJlAiEAlyqAAem7n91zLL74klY24Y0SiI74dM2y~01dqCMl4lk_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-aWfj17GNsM08L8EwrL7Z9e_na1fn_bW9udGhseS1pbnNwZWN0aW9ucy1iYWNrdXAtMjAyNi0wNi0yMg.json?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1hV2ZqMTdHTnNNMDhMOEV3ckw3WjllX25hMWZuX2JXOXVkR2hzZVMxcGJuTndaV04wYVc5dWN5MWlZV05yZFhBdE1qQXlOaTB3TmkweU1nLmpzb24iLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIEALLkZy8lG1I2zL6I9B6xKNsxGvhcpQr3SoN3lNKXjSAiBeYeZQKDu-ezbrsY0DDqY-0L9nA5lx9kkcjHKTyrbSqw__"
           }
         ],
         "content": "i tried importing this backup",
@@ -1652,7 +1652,7 @@
             "content_type": "text/plain",
             "filename": "pasted_content.txt",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-zt6Fibx6kG1d058AcJYH1T_na1fn_cGFzdGVkX2NvbnRlbnQ.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC16dDZGaWJ4NmtHMWQwNThBY0pZSDFUX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIHp2ZlD2wBFlesxU5hMHDVEzluyllcdpgN6tiUnw9Oy2AiAXMeANDTCS4St9d15dUujX9qidDtge8XFbvgtqXXCJOg__"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-zt6Fibx6kG1d058AcJYH1T_na1fn_cGFzdGVkX2NvbnRlbnQ.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC16dDZGaWJ4NmtHMWQwNThBY0pZSDFUX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIAQwiiwJ2uaT5L9OmZLympUzpOTaFnbTS92rrhS1JojrAiEAqJb0yqVSwOEPWKYzVjbPYDQz3NT5KXyCeRreu~P1EUk_"
           }
         ],
         "content": "i had claude automate it like this ",
@@ -1849,7 +1849,7 @@
             "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
             "filename": "Granite_Ridge_CostSeg_FINAL.xlsx",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-HRbLWfrw9htH2fVM3gz67Z_na1fn_R3Jhbml0ZV9SaWRnZV9Db3N0U2VnX0ZJTkFM.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1IUmJMV2ZydzlodEgyZlZNM2d6NjdaX25hMWZuX1IzSmhibWwwWlY5U2FXUm5aVjlEYjNOMFUyVm5YMFpKVGtGTS54bHN4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCqWbDEqNLh3qF~DBA0fzpD6VfT4DGx9m4lNF5njLropQIhANLJFs3dfQsLBvnwc3nSX6egEwwzkM0p44GEySBsdDQE"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-HRbLWfrw9htH2fVM3gz67Z_na1fn_R3Jhbml0ZV9SaWRnZV9Db3N0U2VnX0ZJTkFM.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1IUmJMV2ZydzlodEgyZlZNM2d6NjdaX25hMWZuX1IzSmhibWwwWlY5U2FXUm5aVjlEYjNOMFUyVm5YMFpKVGtGTS54bHN4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIGi~CXZvte592QZ1eKj87AatpJgChA1XA08c5nS7i68AAiAOKPU6VOAL9pJOitU4EwZaCeAn7K9toO6pyPpsn-KOqw__"
           }
         ],
         "message_type": "text"
@@ -1906,7 +1906,7 @@
             "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
             "filename": "Coral_Village_CostSeg_FINAL_abc09c89(2).xlsx",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-FGLTtNE9HIKxBQE6ZbgQ9T_na1fn_Q29yYWxfVmlsbGFnZV9Db3N0U2VnX0ZJTkFMX2FiYzA5Yzg5KDIp.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1GR0xUdE5FOUhJS3hCUUU2WmJnUTlUX25hMWZuX1EyOXlZV3hmVm1sc2JHRm5aVjlEYjNOMFUyVm5YMFpKVGtGTVgyRmlZekE1WXpnNUtESXAueGxzeCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDwHlV2ijBjomL4my5-v1CaUg~aEVtjn~VTEV7LITL~ZgIhAJFW3hws2pb1XY4X7gAuZ4zh7K3B7SREbDDjPn~CQflv"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-FGLTtNE9HIKxBQE6ZbgQ9T_na1fn_Q29yYWxfVmlsbGFnZV9Db3N0U2VnX0ZJTkFMX2FiYzA5Yzg5KDIp.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1GR0xUdE5FOUhJS3hCUUU2WmJnUTlUX25hMWZuX1EyOXlZV3hmVm1sc2JHRm5aVjlEYjNOMFUyVm5YMFpKVGtGTVgyRmlZekE1WXpnNUtESXAueGxzeCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIFgkq5VungkweCb~ZofwmDR-9qItBUc-C6kQRvlFOwOQAiAd2-P52sE0Vqrab9RMvQCxG5pqnhFPNPzdy3~o3yT5qQ__"
           }
         ],
         "content": "here is another example for coral village",
@@ -2386,7 +2386,7 @@
             "content_type": "application/pdf",
             "filename": "portfolio_checklist.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ltfkUBTFqypPCOxS2TjOSE_na1fn_cG9ydGZvbGlvX2NoZWNrbGlzdA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1sdGZrVUJURnF5cFBDT3hTMlRqT1NFX25hMWZuX2NHOXlkR1p2YkdsdlgyTm9aV05yYkdsemRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIEuTw4MiSG6Sp9ylyaH-xpMsFtDO6zEPIoLWZvx1dj7sAiEAif2U4vJo~ZZNvgX35glWvwmnPDvlW1Erd5ggMMykbkI_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ltfkUBTFqypPCOxS2TjOSE_na1fn_cG9ydGZvbGlvX2NoZWNrbGlzdA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1sdGZrVUJURnF5cFBDT3hTMlRqT1NFX25hMWZuX2NHOXlkR1p2YkdsdlgyTm9aV05yYkdsemRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIC2pwzALO7N~bTZRHA1QP8BSowCMjMMZRBIsZoXo~AmJAiAWUn53~t~KcIEgHBZQwmJIvc5DyHSeOuia1oDT2IbI~A__"
           }
         ],
         "content": "I am going to be checking if all of our managers are doing their inspections every month on the 21st.  I need you to make a checklist of all of our properties where I can go off and check them in a box similar to this one attached. but I want it as a webpage app and all of the properties on one page - Title it Monthly Inspections Subtitle Due : 21st of Every Month",
@@ -3368,7 +3368,7 @@
             "content_type": "application/pdf",
             "filename": "portfolio_checklist.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ltfkUBTFqypPCOxS2TjOSE_na1fn_cG9ydGZvbGlvX2NoZWNrbGlzdA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1sdGZrVUJURnF5cFBDT3hTMlRqT1NFX25hMWZuX2NHOXlkR1p2YkdsdlgyTm9aV05yYkdsemRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCICBt-4dXcczuia~iVv7OpQ-baWWOqjyUXo3hatUE-arNAiAgMuRhgjK0Sx5Ia9zkD1~Cr7ANDQUETyFhn8iLY7OYdQ__"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ltfkUBTFqypPCOxS2TjOSE_na1fn_cG9ydGZvbGlvX2NoZWNrbGlzdA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1sdGZrVUJURnF5cFBDT3hTMlRqT1NFX25hMWZuX2NHOXlkR1p2YkdsdlgyTm9aV05yYkdsemRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIH~YZ7rqUepoi~KkTQK54TulFV-v8Ktl7~cFWgK0eY0SAiBltk57wTg1j3AsNDVtJivvRx0bCldC~FvD725nYIYFxA__"
           }
         ],
         "content": "I am going to be checking if all of our managers are doing their inspections every month on the 21st.  I need you to make a checklist of all of our properties where I can go off and check them in a box similar to this one attached. but I want it as a webpage app and all of the properties on one page - Title it Monthly Inspections Subtitle Due : 21st of Every Month",
@@ -3539,7 +3539,7 @@
             "content_type": "text/html",
             "filename": "signature_cdn.html",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-93gG1VM6Hh7SWoD06iZMjn_na1fn_c2lnbmF0dXJlX2Nkbg.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC05M2dHMVZNNkhoN1NXb0QwNmlaTWpuX25hMWZuX2MybG5ibUYwZFhKbFgyTmtiZy5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIFaytSia6X1ZvAqHO26dk-6GHbhIIim1zG5rGho1M0IpAiB2dUZcBK5wBuuXcDWW8WAbFnTuG5trElUh8BHzAnmi-g__"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-93gG1VM6Hh7SWoD06iZMjn_na1fn_c2lnbmF0dXJlX2Nkbg.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC05M2dHMVZNNkhoN1NXb0QwNmlaTWpuX25hMWZuX2MybG5ibUYwZFhKbFgyTmtiZy5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIErXL9G-9cebgbUz0KUL-W~SSkQljj5cgPrI7jWXs7HhAiAcDs-s9hViQbfAXcRDMuBSXb7Bxsy7LySMqgUFq4Ra~Q__"
           }
         ],
         "content": "In the Draft Emails, put this as my email signature \n\t\n\n\n\n\n\t \n",
@@ -3574,7 +3574,7 @@
             "content_type": "image/png",
             "filename": "pasted_file_ont1e9_image.png",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-dgrNceAbGZ56F8V9WBLMjC_na1fn_cGFzdGVkX2ZpbGVfb250MWU5X2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1kZ3JOY2VBYkdaNTZGOFY5V0JMTWpDX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZiMjUwTVdVNVgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICMI3J5~MYXt1nc6vnPSy7-pg3AovveSRFACm4NcNJigAiEA6wX2o7d2Ull3gir3glAYgDTkO0UV7iXqWna88qq37KY_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-dgrNceAbGZ56F8V9WBLMjC_na1fn_cGFzdGVkX2ZpbGVfb250MWU5X2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1kZ3JOY2VBYkdaNTZGOFY5V0JMTWpDX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZiMjUwTVdVNVgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDPxPpaQ1tXnOGY9PXPZwHd1OAESjR6K2iQUj9vhXUgFQIgNrQVx0tOuwDTB7p~flJsk8FP-MCVd7WvHSPFdjrw01M_"
           }
         ],
         "content": "this should fit the entire print screen ",
@@ -4542,120 +4542,120 @@
       "type": "file",
       "filename": "portfolio_checklist.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ltfkUBTFqypPCOxS2TjOSE_na1fn_cG9ydGZvbGlvX2NoZWNrbGlzdA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1sdGZrVUJURnF5cFBDT3hTMlRqT1NFX25hMWZuX2NHOXlkR1p2YkdsdlgyTm9aV05yYkdsemRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCICStitNEU9bl9IL2SGa9eDmgMyODkow2LTBvmRBMqGjdAiAKMGg0izs4XL3Z66KfAy4o~tJzkKgSwDXdYYbtEeHnUg__",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ltfkUBTFqypPCOxS2TjOSE_na1fn_cG9ydGZvbGlvX2NoZWNrbGlzdA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1sdGZrVUJURnF5cFBDT3hTMlRqT1NFX25hMWZuX2NHOXlkR1p2YkdsdlgyTm9aV05yYkdsemRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIB1sVNXtV7rZaloWihbl0GLPkhuz~bXEyDJd~yahIK2FAiEA-G8yHFJMlNOAwq1mpsDWi7OUu8MQunBJsdICf-iazdk_",
       "status": "archived",
       "bytes": 214040,
-      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/0-user_message-0_36bb91e77df2a6a6_portfolio_checklist.pdf"
+      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/0-user_message-0_3518e41847d3277b_portfolio_checklist.pdf"
     },
     {
       "event_index": 11,
       "type": "file",
       "filename": "CompanyContacts6.12.26.xlsx",
       "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-PBkW6OTc6uvvvUxq6smLYD_na1fn_Q29tcGFueUNvbnRhY3RzNi4xMi4yNg.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1QQmtXNk9UYzZ1dnZ2VXhxNnNtTFlEX25hMWZuX1EyOXRjR0Z1ZVVOdmJuUmhZM1J6Tmk0eE1pNHlOZy54bHN4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQC6PH3ujgqp2qG2QNtaGI9UcrEzOL0G0cYuWtc6kINhEAIgOu0xdO5-cY~eyt587I7ItziAyuL202tzezkFyEzFFQQ_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-PBkW6OTc6uvvvUxq6smLYD_na1fn_Q29tcGFueUNvbnRhY3RzNi4xMi4yNg.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1QQmtXNk9UYzZ1dnZ2VXhxNnNtTFlEX25hMWZuX1EyOXRjR0Z1ZVVOdmJuUmhZM1J6Tmk0eE1pNHlOZy54bHN4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIHMv1gOuTXM4w059H3Id6Tlh8jOBYIgCeNk1nQ5vXoHrAiEAirmIhuDY-PiQXSZFXcSLsa4USH6~GI~jJaLV2kNuryE_",
       "status": "archived",
       "bytes": 30758,
-      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/11-user_message-0_c1e6adc66695a9f1_CompanyContacts6.12.26.xlsx"
+      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/11-user_message-0_2e04904c0dd87393_CompanyContacts6.12.26.xlsx"
     },
     {
       "event_index": 138,
       "type": "file",
       "filename": "monthly-inspections-backup-2026-06-22.json",
       "content_type": "application/json",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-aWfj17GNsM08L8EwrL7Z9e_na1fn_bW9udGhseS1pbnNwZWN0aW9ucy1iYWNrdXAtMjAyNi0wNi0yMg.json?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1hV2ZqMTdHTnNNMDhMOEV3ckw3WjllX25hMWZuX2JXOXVkR2hzZVMxcGJuTndaV04wYVc5dWN5MWlZV05yZFhBdE1qQXlOaTB3TmkweU1nLmpzb24iLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIBS8z7zqbViNYX2qBgTuyffPybXqR5zSMy6cpvqbsafxAiArewfC-M3BGQCJUFy5v8APD5UwZhNzQqfrSkHwtLsPFw__",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-aWfj17GNsM08L8EwrL7Z9e_na1fn_bW9udGhseS1pbnNwZWN0aW9ucy1iYWNrdXAtMjAyNi0wNi0yMg.json?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1hV2ZqMTdHTnNNMDhMOEV3ckw3WjllX25hMWZuX2JXOXVkR2hzZVMxcGJuTndaV04wYVc5dWN5MWlZV05yZFhBdE1qQXlOaTB3TmkweU1nLmpzb24iLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIBI1OorzJZ1L1F6Ecz4SXT4XzAUeLbnMVFkWXNi0uL5tAiBlgZB4ARJWr8k7b9biztF7Do6q9ZtwMtFoLTGap-0LOQ__",
       "status": "archived",
       "bytes": 6799392,
-      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/138-user_message-0_6948e544c10715f5_monthly-inspections-backup-2026-06-22.json"
+      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/138-user_message-0_b6d17bfec74482ab_monthly-inspections-backup-2026-06-22.json"
     },
     {
       "event_index": 142,
       "type": "file",
       "filename": "portfolio_checklist.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ltfkUBTFqypPCOxS2TjOSE_na1fn_cG9ydGZvbGlvX2NoZWNrbGlzdA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1sdGZrVUJURnF5cFBDT3hTMlRqT1NFX25hMWZuX2NHOXlkR1p2YkdsdlgyTm9aV05yYkdsemRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDK2JtuX3wGgwyucM1wSx2USq9d2m5CXn45sKbuvGxdBwIhAMVogvZRQ~mxgA8AhS0eflopdMwzf4tFbIWodughO2o7",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ltfkUBTFqypPCOxS2TjOSE_na1fn_cG9ydGZvbGlvX2NoZWNrbGlzdA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1sdGZrVUJURnF5cFBDT3hTMlRqT1NFX25hMWZuX2NHOXlkR1p2YkdsdlgyTm9aV05yYkdsemRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCCkh0f4~ueM9zzkG9JVcJy0jAwBsSHggWzoO-hQVdSBwIhAPn9bVealTtmB~bEvivQ5m3333EE-hccxlBfTpbmeeI7",
       "status": "archived",
       "bytes": 214040,
-      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/142-user_message-0_c91cde0538982d90_portfolio_checklist.pdf"
+      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/142-user_message-0_5af72fd7dc76628e_portfolio_checklist.pdf"
     },
     {
       "event_index": 146,
       "type": "file",
       "filename": "monthly-inspections-backup-2026-06-22.json",
       "content_type": "application/json",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-aWfj17GNsM08L8EwrL7Z9e_na1fn_bW9udGhseS1pbnNwZWN0aW9ucy1iYWNrdXAtMjAyNi0wNi0yMg.json?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1hV2ZqMTdHTnNNMDhMOEV3ckw3WjllX25hMWZuX2JXOXVkR2hzZVMxcGJuTndaV04wYVc5dWN5MWlZV05yZFhBdE1qQXlOaTB3TmkweU1nLmpzb24iLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIDEquLUlA93EI3FU5dr5NlgHjQOSPDjfO0ZRWTDivRJlAiEAlyqAAem7n91zLL74klY24Y0SiI74dM2y~01dqCMl4lk_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-aWfj17GNsM08L8EwrL7Z9e_na1fn_bW9udGhseS1pbnNwZWN0aW9ucy1iYWNrdXAtMjAyNi0wNi0yMg.json?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1hV2ZqMTdHTnNNMDhMOEV3ckw3WjllX25hMWZuX2JXOXVkR2hzZVMxcGJuTndaV04wYVc5dWN5MWlZV05yZFhBdE1qQXlOaTB3TmkweU1nLmpzb24iLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIEALLkZy8lG1I2zL6I9B6xKNsxGvhcpQr3SoN3lNKXjSAiBeYeZQKDu-ezbrsY0DDqY-0L9nA5lx9kkcjHKTyrbSqw__",
       "status": "archived",
       "bytes": 6799392,
-      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/146-user_message-0_ef2ece889263ad34_monthly-inspections-backup-2026-06-22.json"
+      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/146-user_message-0_03e250e877b53b1e_monthly-inspections-backup-2026-06-22.json"
     },
     {
       "event_index": 176,
       "type": "file",
       "filename": "pasted_content.txt",
       "content_type": "text/plain",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-zt6Fibx6kG1d058AcJYH1T_na1fn_cGFzdGVkX2NvbnRlbnQ.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC16dDZGaWJ4NmtHMWQwNThBY0pZSDFUX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIHp2ZlD2wBFlesxU5hMHDVEzluyllcdpgN6tiUnw9Oy2AiAXMeANDTCS4St9d15dUujX9qidDtge8XFbvgtqXXCJOg__",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-zt6Fibx6kG1d058AcJYH1T_na1fn_cGFzdGVkX2NvbnRlbnQ.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC16dDZGaWJ4NmtHMWQwNThBY0pZSDFUX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIAQwiiwJ2uaT5L9OmZLympUzpOTaFnbTS92rrhS1JojrAiEAqJb0yqVSwOEPWKYzVjbPYDQz3NT5KXyCeRreu~P1EUk_",
       "status": "archived",
       "bytes": 105986,
-      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/176-user_message-0_859b60ab568d9e66_pasted_content.txt"
+      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/176-user_message-0_f46418feb5aaad02_pasted_content.txt"
     },
     {
       "event_index": 197,
       "type": "file",
       "filename": "Granite_Ridge_CostSeg_FINAL.xlsx",
       "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-HRbLWfrw9htH2fVM3gz67Z_na1fn_R3Jhbml0ZV9SaWRnZV9Db3N0U2VnX0ZJTkFM.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1IUmJMV2ZydzlodEgyZlZNM2d6NjdaX25hMWZuX1IzSmhibWwwWlY5U2FXUm5aVjlEYjNOMFUyVm5YMFpKVGtGTS54bHN4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCqWbDEqNLh3qF~DBA0fzpD6VfT4DGx9m4lNF5njLropQIhANLJFs3dfQsLBvnwc3nSX6egEwwzkM0p44GEySBsdDQE",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-HRbLWfrw9htH2fVM3gz67Z_na1fn_R3Jhbml0ZV9SaWRnZV9Db3N0U2VnX0ZJTkFM.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1IUmJMV2ZydzlodEgyZlZNM2d6NjdaX25hMWZuX1IzSmhibWwwWlY5U2FXUm5aVjlEYjNOMFUyVm5YMFpKVGtGTS54bHN4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIGi~CXZvte592QZ1eKj87AatpJgChA1XA08c5nS7i68AAiAOKPU6VOAL9pJOitU4EwZaCeAn7K9toO6pyPpsn-KOqw__",
       "status": "archived",
       "bytes": 32222,
-      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/197-user_message-0_1e7bdbbabe19bd12_Granite_Ridge_CostSeg_FINAL.xlsx"
+      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/197-user_message-0_e4b7ef925b732316_Granite_Ridge_CostSeg_FINAL.xlsx"
     },
     {
       "event_index": 202,
       "type": "file",
       "filename": "Coral_Village_CostSeg_FINAL_abc09c89(2).xlsx",
       "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-FGLTtNE9HIKxBQE6ZbgQ9T_na1fn_Q29yYWxfVmlsbGFnZV9Db3N0U2VnX0ZJTkFMX2FiYzA5Yzg5KDIp.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1GR0xUdE5FOUhJS3hCUUU2WmJnUTlUX25hMWZuX1EyOXlZV3hmVm1sc2JHRm5aVjlEYjNOMFUyVm5YMFpKVGtGTVgyRmlZekE1WXpnNUtESXAueGxzeCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDwHlV2ijBjomL4my5-v1CaUg~aEVtjn~VTEV7LITL~ZgIhAJFW3hws2pb1XY4X7gAuZ4zh7K3B7SREbDDjPn~CQflv",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-FGLTtNE9HIKxBQE6ZbgQ9T_na1fn_Q29yYWxfVmlsbGFnZV9Db3N0U2VnX0ZJTkFMX2FiYzA5Yzg5KDIp.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1GR0xUdE5FOUhJS3hCUUU2WmJnUTlUX25hMWZuX1EyOXlZV3hmVm1sc2JHRm5aVjlEYjNOMFUyVm5YMFpKVGtGTVgyRmlZekE1WXpnNUtESXAueGxzeCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIFgkq5VungkweCb~ZofwmDR-9qItBUc-C6kQRvlFOwOQAiAd2-P52sE0Vqrab9RMvQCxG5pqnhFPNPzdy3~o3yT5qQ__",
       "status": "archived",
       "bytes": 39224,
-      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/202-user_message-0_eeab9c11f0927d7b_Coral_Village_CostSeg_FINAL_abc09c89_2_.xlsx"
+      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/202-user_message-0_b9ebdbe083cc58a5_Coral_Village_CostSeg_FINAL_abc09c89_2_.xlsx"
     },
     {
       "event_index": 258,
       "type": "file",
       "filename": "portfolio_checklist.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ltfkUBTFqypPCOxS2TjOSE_na1fn_cG9ydGZvbGlvX2NoZWNrbGlzdA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1sdGZrVUJURnF5cFBDT3hTMlRqT1NFX25hMWZuX2NHOXlkR1p2YkdsdlgyTm9aV05yYkdsemRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIEuTw4MiSG6Sp9ylyaH-xpMsFtDO6zEPIoLWZvx1dj7sAiEAif2U4vJo~ZZNvgX35glWvwmnPDvlW1Erd5ggMMykbkI_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ltfkUBTFqypPCOxS2TjOSE_na1fn_cG9ydGZvbGlvX2NoZWNrbGlzdA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1sdGZrVUJURnF5cFBDT3hTMlRqT1NFX25hMWZuX2NHOXlkR1p2YkdsdlgyTm9aV05yYkdsemRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIC2pwzALO7N~bTZRHA1QP8BSowCMjMMZRBIsZoXo~AmJAiAWUn53~t~KcIEgHBZQwmJIvc5DyHSeOuia1oDT2IbI~A__",
       "status": "archived",
       "bytes": 214040,
-      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/258-user_message-0_188c5107bc586318_portfolio_checklist.pdf"
+      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/258-user_message-0_a661e53a079f2383_portfolio_checklist.pdf"
     },
     {
       "event_index": 377,
       "type": "file",
       "filename": "portfolio_checklist.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ltfkUBTFqypPCOxS2TjOSE_na1fn_cG9ydGZvbGlvX2NoZWNrbGlzdA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1sdGZrVUJURnF5cFBDT3hTMlRqT1NFX25hMWZuX2NHOXlkR1p2YkdsdlgyTm9aV05yYkdsemRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCICBt-4dXcczuia~iVv7OpQ-baWWOqjyUXo3hatUE-arNAiAgMuRhgjK0Sx5Ia9zkD1~Cr7ANDQUETyFhn8iLY7OYdQ__",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ltfkUBTFqypPCOxS2TjOSE_na1fn_cG9ydGZvbGlvX2NoZWNrbGlzdA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1sdGZrVUJURnF5cFBDT3hTMlRqT1NFX25hMWZuX2NHOXlkR1p2YkdsdlgyTm9aV05yYkdsemRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIH~YZ7rqUepoi~KkTQK54TulFV-v8Ktl7~cFWgK0eY0SAiBltk57wTg1j3AsNDVtJivvRx0bCldC~FvD725nYIYFxA__",
       "status": "archived",
       "bytes": 214040,
-      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/377-user_message-0_af54b1b0c24bc534_portfolio_checklist.pdf"
+      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/377-user_message-0_28bb21b07f551d46_portfolio_checklist.pdf"
     },
     {
       "event_index": 395,
       "type": "file",
       "filename": "signature_cdn.html",
       "content_type": "text/html",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-93gG1VM6Hh7SWoD06iZMjn_na1fn_c2lnbmF0dXJlX2Nkbg.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC05M2dHMVZNNkhoN1NXb0QwNmlaTWpuX25hMWZuX2MybG5ibUYwZFhKbFgyTmtiZy5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIFaytSia6X1ZvAqHO26dk-6GHbhIIim1zG5rGho1M0IpAiB2dUZcBK5wBuuXcDWW8WAbFnTuG5trElUh8BHzAnmi-g__",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-93gG1VM6Hh7SWoD06iZMjn_na1fn_c2lnbmF0dXJlX2Nkbg.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC05M2dHMVZNNkhoN1NXb0QwNmlaTWpuX25hMWZuX2MybG5ibUYwZFhKbFgyTmtiZy5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIErXL9G-9cebgbUz0KUL-W~SSkQljj5cgPrI7jWXs7HhAiAcDs-s9hViQbfAXcRDMuBSXb7Bxsy7LySMqgUFq4Ra~Q__",
       "status": "archived",
       "bytes": 3021,
-      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/395-user_message-0_b4e3cd81e650b2fd_signature_cdn.html"
+      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/395-user_message-0_c163fed870c16f7f_signature_cdn.html"
     },
     {
       "event_index": 398,
       "type": "image",
       "filename": "pasted_file_ont1e9_image.png",
       "content_type": "image/png",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-dgrNceAbGZ56F8V9WBLMjC_na1fn_cGFzdGVkX2ZpbGVfb250MWU5X2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1kZ3JOY2VBYkdaNTZGOFY5V0JMTWpDX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZiMjUwTVdVNVgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICMI3J5~MYXt1nc6vnPSy7-pg3AovveSRFACm4NcNJigAiEA6wX2o7d2Ull3gir3glAYgDTkO0UV7iXqWna88qq37KY_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-dgrNceAbGZ56F8V9WBLMjC_na1fn_cGFzdGVkX2ZpbGVfb250MWU5X2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1kZ3JOY2VBYkdaNTZGOFY5V0JMTWpDX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZiMjUwTVdVNVgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDPxPpaQ1tXnOGY9PXPZwHd1OAESjR6K2iQUj9vhXUgFQIgNrQVx0tOuwDTB7p~flJsk8FP-MCVd7WvHSPFdjrw01M_",
       "status": "archived",
       "bytes": 80230,
-      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/398-user_message-0_d6bebeb4e90c7538_pasted_file_ont1e9_image.png"
+      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/398-user_message-0_3ff8a77ad9e12c51_pasted_file_ont1e9_image.png"
     },
     {
       "event_index": 472,

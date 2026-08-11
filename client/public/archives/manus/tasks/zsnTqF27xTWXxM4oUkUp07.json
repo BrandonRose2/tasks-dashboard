@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-11T15:02:01.686082Z",
+  "task": {
+    "id": "zsnTqF27xTWXxM4oUkUp07",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 61,
+    "created_at": "1786394410",
+    "updated_at": "1786394430",
+    "task_url": "https://manus.im/app/zsnTqF27xTWXxM4oUkUp07",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "Ff6ESSPux5rh5gwbHfXsmC",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786394410522",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "The independent audit of Grace_Townhomes_Housing_LP_2020.pdf pages 1, 4, and 5 confirmed that Item F on page 1 is fully covered, page 4 Schedule K financial-entry fields are fully blacked out, and page 5 Schedule L/M-1/M-2 financial-entry fields are fully blacked out. No actual financial figures are visibly exposed in the required redaction scopes."
+      },
+      "id": "SsRV2PiFjn0yP2BgZd3ymp",
+      "timestamp": "1786394430704",
+      "type": "assistant_message"
+    },
+    {
+      "id": "yRH2Jm1GBftXS6w7ZkVDAM",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786394430829",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

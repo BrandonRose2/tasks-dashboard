@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-11T15:01:50.108100Z",
+  "task": {
+    "id": "JRnVcJQbreV1tqFnBHTf5g",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 42,
+    "created_at": "1786394432",
+    "updated_at": "1786394447",
+    "task_url": "https://manus.im/app/JRnVcJQbreV1tqFnBHTf5g",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "ClpOmw3qDWPA3OjdXCn706",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786394433329",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "The audit of St_Charles_Housing_LP_2021.pdf on pages 1, 4, and 5 has been successfully completed. All required redaction zones (Item F on page 1, Schedule K on page 4, and Schedule L/M-1/M-2 on page 5) are fully covered, and no actual financial figures are visibly exposed."
+      },
+      "id": "rNU8NxwOoTmewYDKZsHIjD",
+      "timestamp": "1786394446904",
+      "type": "assistant_message"
+    },
+    {
+      "id": "SttjLQGgt1kWCAm65mTxL1",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786394447065",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

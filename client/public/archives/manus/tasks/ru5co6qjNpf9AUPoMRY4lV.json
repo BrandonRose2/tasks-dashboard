@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "archived_at": "2026-08-04T18:30:50.365746Z",
+  "archived_at": "2026-08-11T15:08:39.075723Z",
   "task": {
     "id": "ru5co6qjNpf9AUPoMRY4lV",
     "title": "Interactive AI Lesson Plan for a 14-Year-Old Student",
@@ -425,7 +425,7 @@
             "content_type": "application/pdf",
             "filename": "ai-workbook.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/ru5co6qjNpf9AUPoMRY4lV/sandbox/Relx9RkPzxw593aehtrMQj_1781730195339_na1fn_L2hvbWUvdWJ1bnR1L2FpLXdvcmtib29r.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvcnU1Y282cWpOcGY5QVVQb01SWTRsVi9zYW5kYm94L1JlbHg5UmtQenh3NTkzYWVodHJNUWpfMTc4MTczMDE5NTMzOV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJGcExYZHZjbXRpYjI5ci5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIAUmbtnrtNoYnCOQO4F5ckmewWeYmw~SSTP28zpqbpMqAiAj6uEMS1nfTuy8LGSTlLFli8zCCKN1V5e1eKSMU0~MRg__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/ru5co6qjNpf9AUPoMRY4lV/sandbox/Relx9RkPzxw593aehtrMQj_1781730195339_na1fn_L2hvbWUvdWJ1bnR1L2FpLXdvcmtib29r.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvcnU1Y282cWpOcGY5QVVQb01SWTRsVi9zYW5kYm94L1JlbHg5UmtQenh3NTkzYWVodHJNUWpfMTc4MTczMDE5NTMzOV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJGcExYZHZjbXRpYjI5ci5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQClfzd23IZrfUg5f3~o5e2RqbXbrCWkLQT5xzi7jXS9tAIgTqSKIkvQdFGAEbLD7bdFqdtsI1lxze9X2phSdA2Wtlc_"
           }
         ],
         "content": "Here's everything ready for you right now:\n\n**What's new in this update:**\n\n1. **Personalized Hero Banner** — The \"Unlock the Secrets of AI\" page now features the stunning custom illustration of her African ring-necked parakeet, golden horse, and glowing piano keys surrounding the AI brain — all connected by constellation lines.\n\n2. **AI Homework Helper** (`/homework`) — A drag-and-drop page where she uploads any homework file (PDF, Word, PowerPoint, image, spreadsheet). The AI auto-detects the subject and task type from the filename, then generates 4–5 personalised, step-by-step study strategies using tools like NotebookLM, ChatGPT/Claude, and Gamma.ai — with encouragement tied to her parakeets, piano, and horses.\n\n3. **Printable Student Workbook (PDF)** — A full 30+ page workbook covering all 8 modules with lesson summaries, key terms to define, fill-in-the-blank exercises, reflection questions, practice quizzes, and a personal goals tracker. Ready to print right now.\n\n**Suggested next steps:**\n1. **Add her name on first visit** — a simple name-entry prompt stored in localStorage so the portal greets her personally throughout (\"Welcome back, Emma! 🦜\").\n2. **Add the remaining 8 modules** (GitHub, Prompting 101, E-commerce/Shopify, Social Media Selling, etc.) — all content is written and ready to wire in.\n3. **Add a \"Teacher Notes\" field** on the teacher dashboard so you can leave private feedback on each module she completes."
@@ -793,7 +793,7 @@
           {
             "filename": "The Healing Power of Horses",
             "type": "slides",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/ru5co6qjNpf9AUPoMRY4lV/sandbox/i7tgsngtl1sxrxos55vqw-e80101f6-e2b-prod-us2_1781739282144_na1fn_c2xpZGVz.json?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvcnU1Y282cWpOcGY5QVVQb01SWTRsVi9zYW5kYm94L2k3dGdzbmd0bDFzeHJ4b3M1NXZxdy1lODAxMDFmNi1lMmItcHJvZC11czJfMTc4MTczOTI4MjE0NF9uYTFmbl9jMnhwWkdWei5qc29uIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDZxH4uOSmowxf5rpgfKTKFcT9tnm1dzAeUKm~LoobLggIhAPm6IC9zC-v8Nv4h7hf1YrbLmz3OJybx3hnHa33bUKhx"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/ru5co6qjNpf9AUPoMRY4lV/sandbox/i7tgsngtl1sxrxos55vqw-e80101f6-e2b-prod-us2_1781739282144_na1fn_c2xpZGVz.json?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvcnU1Y282cWpOcGY5QVVQb01SWTRsVi9zYW5kYm94L2k3dGdzbmd0bDFzeHJ4b3M1NXZxdy1lODAxMDFmNi1lMmItcHJvZC11czJfMTc4MTczOTI4MjE0NF9uYTFmbl9jMnhwWkdWei5qc29uIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCCqsAuglk9kOYQrygVZwrjxDA3bOZKaapyJN-rcpQ5yAIhAPgIfYZbuCa7s5krWG3IcxO7J8dXQwdQjnN~LsCez4B1"
           }
         ],
         "content": "Your presentation is ready! **\"The Healing Power of Horses\"** — 14 stunning cinematic slides covering the full biological and emotional science behind the human-horse bond.\n\nHere's what's included across the 14 slides:\n\n| # | Slide | Key Takeaway |\n|---|---|---|\n| 1 | Title | Full-bleed golden-hour galloping horse with Churchill quote |\n| 2 | Ancient Bond | 6,000 years of co-evolution; 9.2M horses in therapy programs |\n| 3 | Cortisol | 10 minutes = measurable stress hormone reduction |\n| 4 | Oxytocin | Mutual bonding hormone — proven in both species simultaneously |\n| 5 | Hippotherapy | The horse's gait as licensed neurological therapy in 30+ countries |\n| 6 | Physical Fitness | 200–400 calories, 6+ muscle groups, full-body workout |\n| 7 | Emotional Mirror | Horses as real-time biofeedback for human emotional states |\n| 8 | Teen Confidence | 11-week study: self-esteem, emotional regulation, academic motivation |\n| 9 | Mindfulness | Riding enforces present-moment awareness — no app required |\n| 10 | Clinical Evidence | 67% PTSD reduction; evidence across 12+ conditions |\n| 11 | Responsibility | Discipline, empathy, patience, accountability — life skills |\n| 12 | Why Horses | 5 unique qualities that make horses irreplaceable as partners |\n| 13 | Summary | Full biopsychosocial benefits — biological, psychological, social |\n| 14 | Closing | Full-bleed golden-hour closing with Helen Thompson quote |\n\nYou can export it to **PDF or PowerPoint** using the export button in the presentation viewer. This would make a wonderful presentation to share with her — it directly connects to her horseback riding lessons and gives her the science behind what she already loves doing."
@@ -1002,7 +1002,7 @@
             "content_type": "application/pdf",
             "filename": "The_Healing_Power_of_Horses.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-1vm6dY53bVgLaAOZbKGMss_na1fn_VGhlX0hlYWxpbmdfUG93ZXJfb2ZfSG9yc2Vz.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC0xdm02ZFk1M2JWZ0xhQU9aYktHTXNzX25hMWZuX1ZHaGxYMGhsWVd4cGJtZGZVRzkzWlhKZmIyWmZTRzl5YzJWei5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIET6vd3UTVTvGggfLYQk1TTkPXASEvp3vGWHVonqh7SCAiAqpmF8nTMaSfD~G~gSSOp4Saeeb4BPKdBr6gzkYkyh0A__"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-1vm6dY53bVgLaAOZbKGMss_na1fn_VGhlX0hlYWxpbmdfUG93ZXJfb2ZfSG9yc2Vz.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC0xdm02ZFk1M2JWZ0xhQU9aYktHTXNzX25hMWZuX1ZHaGxYMGhsWVd4cGJtZGZVRzkzWlhKZmIyWmZTRzl5YzJWei5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIF0r2TOep6h24LTOpEpqxrkFfW1oKhJwTEDTY4oLfQw4AiBSjfa1EipCtkyKWT~0DIUn061YvIW5MYxlpt5N100tYg__"
           }
         ],
         "content": "add this as a button on the homepage as well",
@@ -1674,7 +1674,7 @@
             "content_type": "image/png",
             "filename": "Screenshot2026-06-20at11.44.51AM.png",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-bqXiTUVgkgXwKmfmPlWIC0_na1fn_U2NyZWVuc2hvdDIwMjYtMDYtMjBhdDExLjQ0LjUxQU0.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1icVhpVFVWZ2tnWHdLbWZtUGxXSUMwX25hMWZuX1UyTnlaV1Z1YzJodmRESXdNall0TURZdE1qQmhkREV4TGpRMExqVXhRVTAucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCKp1cD3RjFGbFfVOsZz-if2~kGK~41xlRDgY1og3THZwIgaCHIHkutF1WzcfURrF1W8FoE1vsCte-qCL2xxe6UGMg_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-bqXiTUVgkgXwKmfmPlWIC0_na1fn_U2NyZWVuc2hvdDIwMjYtMDYtMjBhdDExLjQ0LjUxQU0.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1icVhpVFVWZ2tnWHdLbWZtUGxXSUMwX25hMWZuX1UyTnlaV1Z1YzJodmRESXdNall0TURZdE1qQmhkREV4TGpRMExqVXhRVTAucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIHv2SW-mAHlYAmjQSSlP70Mp06rjMfCPey7L6DS-STbyAiEA3LYQa51T6lNSQJ9bNFjZzB61hFtd6cmr6Bo5FZkCfO8_"
           }
         ],
         "content": "Whenever I drop a piano composition into the Webpage Portal I guess this error ",
@@ -1736,7 +1736,7 @@
             "content_type": "image/png",
             "filename": "Screenshot2026-06-20at11.44.51AM.png",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-bqXiTUVgkgXwKmfmPlWIC0_na1fn_U2NyZWVuc2hvdDIwMjYtMDYtMjBhdDExLjQ0LjUxQU0.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1icVhpVFVWZ2tnWHdLbWZtUGxXSUMwX25hMWZuX1UyTnlaV1Z1YzJodmRESXdNall0TURZdE1qQmhkREV4TGpRMExqVXhRVTAucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIHPusouTSHnpXa4El~oRB62e2w9dZ5MJTvvH3~FrTDzFAiEA6QJ8omW9tCGVltdfhrqmaJUHCgRVaKzGOZJQyqCQdSU_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-bqXiTUVgkgXwKmfmPlWIC0_na1fn_U2NyZWVuc2hvdDIwMjYtMDYtMjBhdDExLjQ0LjUxQU0.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1icVhpVFVWZ2tnWHdLbWZtUGxXSUMwX25hMWZuX1UyTnlaV1Z1YzJodmRESXdNall0TURZdE1qQmhkREV4TGpRMExqVXhRVTAucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDJsvjznuDFqIB9A3j1MmO1YQiZYxKxIGojKHvWAu1AxgIhAL-sZlFPU-JQ7~yMiKUwUf~FeYyQbmmtcjVg9h7zr44J"
           }
         ],
         "content": "Whenever I drop a piano composition into the Webpage Portal I guess this error ",
@@ -2264,50 +2264,50 @@
       "type": "file",
       "filename": "ai-workbook.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/ru5co6qjNpf9AUPoMRY4lV/sandbox/Relx9RkPzxw593aehtrMQj_1781730195339_na1fn_L2hvbWUvdWJ1bnR1L2FpLXdvcmtib29r.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvcnU1Y282cWpOcGY5QVVQb01SWTRsVi9zYW5kYm94L1JlbHg5UmtQenh3NTkzYWVodHJNUWpfMTc4MTczMDE5NTMzOV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJGcExYZHZjbXRpYjI5ci5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIAUmbtnrtNoYnCOQO4F5ckmewWeYmw~SSTP28zpqbpMqAiAj6uEMS1nfTuy8LGSTlLFli8zCCKN1V5e1eKSMU0~MRg__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/ru5co6qjNpf9AUPoMRY4lV/sandbox/Relx9RkPzxw593aehtrMQj_1781730195339_na1fn_L2hvbWUvdWJ1bnR1L2FpLXdvcmtib29r.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvcnU1Y282cWpOcGY5QVVQb01SWTRsVi9zYW5kYm94L1JlbHg5UmtQenh3NTkzYWVodHJNUWpfMTc4MTczMDE5NTMzOV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJGcExYZHZjbXRpYjI5ci5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQClfzd23IZrfUg5f3~o5e2RqbXbrCWkLQT5xzi7jXS9tAIgTqSKIkvQdFGAEbLD7bdFqdtsI1lxze9X2phSdA2Wtlc_",
       "status": "archived",
       "bytes": 200165,
-      "archive_path": "attachments/ru5co6qjNpf9AUPoMRY4lV/47-assistant_message-0_99618afbe0873fb3_ai-workbook.pdf"
+      "archive_path": "attachments/ru5co6qjNpf9AUPoMRY4lV/47-assistant_message-0_f608d1de95a80908_ai-workbook.pdf"
     },
     {
       "event_index": 87,
       "type": "slides",
       "filename": "The Healing Power of Horses",
       "content_type": "",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/ru5co6qjNpf9AUPoMRY4lV/sandbox/i7tgsngtl1sxrxos55vqw-e80101f6-e2b-prod-us2_1781739282144_na1fn_c2xpZGVz.json?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvcnU1Y282cWpOcGY5QVVQb01SWTRsVi9zYW5kYm94L2k3dGdzbmd0bDFzeHJ4b3M1NXZxdy1lODAxMDFmNi1lMmItcHJvZC11czJfMTc4MTczOTI4MjE0NF9uYTFmbl9jMnhwWkdWei5qc29uIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDZxH4uOSmowxf5rpgfKTKFcT9tnm1dzAeUKm~LoobLggIhAPm6IC9zC-v8Nv4h7hf1YrbLmz3OJybx3hnHa33bUKhx",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/ru5co6qjNpf9AUPoMRY4lV/sandbox/i7tgsngtl1sxrxos55vqw-e80101f6-e2b-prod-us2_1781739282144_na1fn_c2xpZGVz.json?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvcnU1Y282cWpOcGY5QVVQb01SWTRsVi9zYW5kYm94L2k3dGdzbmd0bDFzeHJ4b3M1NXZxdy1lODAxMDFmNi1lMmItcHJvZC11czJfMTc4MTczOTI4MjE0NF9uYTFmbl9jMnhwWkdWei5qc29uIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCCqsAuglk9kOYQrygVZwrjxDA3bOZKaapyJN-rcpQ5yAIhAPgIfYZbuCa7s5krWG3IcxO7J8dXQwdQjnN~LsCez4B1",
       "status": "archived",
       "bytes": 40656,
-      "archive_path": "attachments/ru5co6qjNpf9AUPoMRY4lV/87-assistant_message-0_5814c8308e5260a2_The_Healing_Power_of_Horses"
+      "archive_path": "attachments/ru5co6qjNpf9AUPoMRY4lV/87-assistant_message-0_902189e6cfd38df5_The_Healing_Power_of_Horses"
     },
     {
       "event_index": 109,
       "type": "file",
       "filename": "The_Healing_Power_of_Horses.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-1vm6dY53bVgLaAOZbKGMss_na1fn_VGhlX0hlYWxpbmdfUG93ZXJfb2ZfSG9yc2Vz.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC0xdm02ZFk1M2JWZ0xhQU9aYktHTXNzX25hMWZuX1ZHaGxYMGhsWVd4cGJtZGZVRzkzWlhKZmIyWmZTRzl5YzJWei5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIET6vd3UTVTvGggfLYQk1TTkPXASEvp3vGWHVonqh7SCAiAqpmF8nTMaSfD~G~gSSOp4Saeeb4BPKdBr6gzkYkyh0A__",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-1vm6dY53bVgLaAOZbKGMss_na1fn_VGhlX0hlYWxpbmdfUG93ZXJfb2ZfSG9yc2Vz.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC0xdm02ZFk1M2JWZ0xhQU9aYktHTXNzX25hMWZuX1ZHaGxYMGhsWVd4cGJtZGZVRzkzWlhKZmIyWmZTRzl5YzJWei5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIF0r2TOep6h24LTOpEpqxrkFfW1oKhJwTEDTY4oLfQw4AiBSjfa1EipCtkyKWT~0DIUn061YvIW5MYxlpt5N100tYg__",
       "status": "archived",
       "bytes": 14924609,
-      "archive_path": "attachments/ru5co6qjNpf9AUPoMRY4lV/109-user_message-0_14cb36b21eadd43b_The_Healing_Power_of_Horses.pdf"
+      "archive_path": "attachments/ru5co6qjNpf9AUPoMRY4lV/109-user_message-0_ea61733961c37b8f_The_Healing_Power_of_Horses.pdf"
     },
     {
       "event_index": 184,
       "type": "image",
       "filename": "Screenshot2026-06-20at11.44.51AM.png",
       "content_type": "image/png",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-bqXiTUVgkgXwKmfmPlWIC0_na1fn_U2NyZWVuc2hvdDIwMjYtMDYtMjBhdDExLjQ0LjUxQU0.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1icVhpVFVWZ2tnWHdLbWZtUGxXSUMwX25hMWZuX1UyTnlaV1Z1YzJodmRESXdNall0TURZdE1qQmhkREV4TGpRMExqVXhRVTAucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCKp1cD3RjFGbFfVOsZz-if2~kGK~41xlRDgY1og3THZwIgaCHIHkutF1WzcfURrF1W8FoE1vsCte-qCL2xxe6UGMg_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-bqXiTUVgkgXwKmfmPlWIC0_na1fn_U2NyZWVuc2hvdDIwMjYtMDYtMjBhdDExLjQ0LjUxQU0.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1icVhpVFVWZ2tnWHdLbWZtUGxXSUMwX25hMWZuX1UyTnlaV1Z1YzJodmRESXdNall0TURZdE1qQmhkREV4TGpRMExqVXhRVTAucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIHv2SW-mAHlYAmjQSSlP70Mp06rjMfCPey7L6DS-STbyAiEA3LYQa51T6lNSQJ9bNFjZzB61hFtd6cmr6Bo5FZkCfO8_",
       "status": "archived",
       "bytes": 613667,
-      "archive_path": "attachments/ru5co6qjNpf9AUPoMRY4lV/184-user_message-0_9581a4c6c7184c0f_Screenshot2026-06-20at11.44.51AM.png"
+      "archive_path": "attachments/ru5co6qjNpf9AUPoMRY4lV/184-user_message-0_bf0154d3576efff5_Screenshot2026-06-20at11.44.51AM.png"
     },
     {
       "event_index": 190,
       "type": "image",
       "filename": "Screenshot2026-06-20at11.44.51AM.png",
       "content_type": "image/png",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-bqXiTUVgkgXwKmfmPlWIC0_na1fn_U2NyZWVuc2hvdDIwMjYtMDYtMjBhdDExLjQ0LjUxQU0.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1icVhpVFVWZ2tnWHdLbWZtUGxXSUMwX25hMWZuX1UyTnlaV1Z1YzJodmRESXdNall0TURZdE1qQmhkREV4TGpRMExqVXhRVTAucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIHPusouTSHnpXa4El~oRB62e2w9dZ5MJTvvH3~FrTDzFAiEA6QJ8omW9tCGVltdfhrqmaJUHCgRVaKzGOZJQyqCQdSU_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-bqXiTUVgkgXwKmfmPlWIC0_na1fn_U2NyZWVuc2hvdDIwMjYtMDYtMjBhdDExLjQ0LjUxQU0.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1icVhpVFVWZ2tnWHdLbWZtUGxXSUMwX25hMWZuX1UyTnlaV1Z1YzJodmRESXdNall0TURZdE1qQmhkREV4TGpRMExqVXhRVTAucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDJsvjznuDFqIB9A3j1MmO1YQiZYxKxIGojKHvWAu1AxgIhAL-sZlFPU-JQ7~yMiKUwUf~FeYyQbmmtcjVg9h7zr44J",
       "status": "archived",
       "bytes": 613667,
-      "archive_path": "attachments/ru5co6qjNpf9AUPoMRY4lV/190-user_message-0_a9884a3676479978_Screenshot2026-06-20at11.44.51AM.png"
+      "archive_path": "attachments/ru5co6qjNpf9AUPoMRY4lV/190-user_message-0_ed152613270c7718_Screenshot2026-06-20at11.44.51AM.png"
     }
   ]
 }

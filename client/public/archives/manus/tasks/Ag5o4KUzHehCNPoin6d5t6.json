@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "archived_at": "2026-08-04T18:36:06.774432Z",
+  "archived_at": "2026-08-11T15:15:45.979370Z",
   "task": {
     "id": "Ag5o4KUzHehCNPoin6d5t6",
     "title": "Evaluate Properties Tab and Pricing on ApartmentCorp Website",
@@ -170,7 +170,7 @@
             "content_type": "text/markdown; charset=utf-8",
             "filename": "ApartmentCorp_Website_Audit.md",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/Ag5o4KUzHehCNPoin6d5t6/sandbox/QwQz49IEHu4933tBQahrdF_1778789737277_na1fn_L2hvbWUvdWJ1bnR1L0FwYXJ0bWVudENvcnBfV2Vic2l0ZV9BdWRpdA.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvQWc1bzRLVXpIZWhDTlBvaW42ZDV0Ni9zYW5kYm94L1F3UXo0OUlFSHU0OTMzdEJRYWhyZEZfMTc3ODc4OTczNzI3N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBGd1lYSjBiV1Z1ZEVOdmNuQmZWMlZpYzJsMFpWOUJkV1JwZEEubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDGpSSAtYvJU1dBLalHd7irK3OLAwcyw~v9JCeDuz-EsAIhAPfQ6AhgMS4wMyOEYXBi4Z9jUaitkHfYYyvnNICRilrb"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/Ag5o4KUzHehCNPoin6d5t6/sandbox/QwQz49IEHu4933tBQahrdF_1778789737277_na1fn_L2hvbWUvdWJ1bnR1L0FwYXJ0bWVudENvcnBfV2Vic2l0ZV9BdWRpdA.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvQWc1bzRLVXpIZWhDTlBvaW42ZDV0Ni9zYW5kYm94L1F3UXo0OUlFSHU0OTMzdEJRYWhyZEZfMTc3ODc4OTczNzI3N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBGd1lYSjBiV1Z1ZEVOdmNuQmZWMlZpYzJsMFpWOUJkV1JwZEEubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIHFitATkm5Z9fu8d8szpk5V~6vPuo~oGKpmNoP-3ZTR7AiA6LIZEg29o~woHtRw8w4T1m-zioEqV5kmRZQRHqnw6MA__"
           }
         ],
         "content": "I've completed the audit of the ApartmentCorp portfolio page, keeping it efficient to save credits. \n\nHere are the key findings:\n1. **Missing Navigation:** 16 out of the 42 properties lack a \"VIEW LISTING\" link and do not navigate anywhere.\n2. **Pricing Visibility:** For the properties that do link out to listing sites (like Apartments.com), pricing is generally **not visible**. Most listings say \"Call for Rent\" or \"Contact for Pricing,\" which is typical for LIHTC/affordable housing but means users cannot find specific unit prices online.\n3. **AI/Stock Images:** I found several images that appear to be AI-generated, 3D renderings, or stock photos that falsely represent the properties. For example, **Silver Springs** shows a luxury colonial mansion instead of a 100-unit complex, and **Lexington Arms** shows an ultra-luxury modern home with a pool instead of a single-family LIHTC home.\n\nI've compiled all the details, including the full list of properties missing links and the specific images flagged as inauthentic, into the attached markdown report. Let me know if you need any further analysis!"
@@ -196,10 +196,10 @@
       "type": "file",
       "filename": "ApartmentCorp_Website_Audit.md",
       "content_type": "text/markdown; charset=utf-8",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/Ag5o4KUzHehCNPoin6d5t6/sandbox/QwQz49IEHu4933tBQahrdF_1778789737277_na1fn_L2hvbWUvdWJ1bnR1L0FwYXJ0bWVudENvcnBfV2Vic2l0ZV9BdWRpdA.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvQWc1bzRLVXpIZWhDTlBvaW42ZDV0Ni9zYW5kYm94L1F3UXo0OUlFSHU0OTMzdEJRYWhyZEZfMTc3ODc4OTczNzI3N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBGd1lYSjBiV1Z1ZEVOdmNuQmZWMlZpYzJsMFpWOUJkV1JwZEEubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDGpSSAtYvJU1dBLalHd7irK3OLAwcyw~v9JCeDuz-EsAIhAPfQ6AhgMS4wMyOEYXBi4Z9jUaitkHfYYyvnNICRilrb",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/Ag5o4KUzHehCNPoin6d5t6/sandbox/QwQz49IEHu4933tBQahrdF_1778789737277_na1fn_L2hvbWUvdWJ1bnR1L0FwYXJ0bWVudENvcnBfV2Vic2l0ZV9BdWRpdA.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvQWc1bzRLVXpIZWhDTlBvaW42ZDV0Ni9zYW5kYm94L1F3UXo0OUlFSHU0OTMzdEJRYWhyZEZfMTc3ODc4OTczNzI3N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBGd1lYSjBiV1Z1ZEVOdmNuQmZWMlZpYzJsMFpWOUJkV1JwZEEubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIHFitATkm5Z9fu8d8szpk5V~6vPuo~oGKpmNoP-3ZTR7AiA6LIZEg29o~woHtRw8w4T1m-zioEqV5kmRZQRHqnw6MA__",
       "status": "archived",
       "bytes": 4703,
-      "archive_path": "attachments/Ag5o4KUzHehCNPoin6d5t6/13-assistant_message-0_be830e8469cc9318_ApartmentCorp_Website_Audit.md"
+      "archive_path": "attachments/Ag5o4KUzHehCNPoin6d5t6/13-assistant_message-0_89096b51e4f517ba_ApartmentCorp_Website_Audit.md"
     }
   ]
 }

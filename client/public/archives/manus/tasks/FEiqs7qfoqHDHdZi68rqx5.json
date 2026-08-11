@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "archived_at": "2026-08-04T18:29:08.379618Z",
+  "archived_at": "2026-08-11T15:06:31.722230Z",
   "task": {
     "id": "FEiqs7qfoqHDHdZi68rqx5",
     "title": "Organizing and Transcribing iCloud Audio Files Efficiently",
@@ -249,7 +249,7 @@
             "content_type": "text/plain",
             "filename": "pasted_content.txt",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-N5Om6dei1UgHF3TkAY5GgB_na1fn_cGFzdGVkX2NvbnRlbnQ.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1ONU9tNmRlaTFVZ0hGM1RrQVk1R2dCX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCJlt3NtpCJ6MsqqPC2xDBnlkgmC0mk~0FMkKCW7YJCGgIgduJX3T9E6dVLnmCeSwrqWhv8PCs8jBhYmXao7EdXRG0_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-N5Om6dei1UgHF3TkAY5GgB_na1fn_cGFzdGVkX2NvbnRlbnQ.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1ONU9tNmRlaTFVZ0hGM1RrQVk1R2dCX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIBvEyDl0-KeNLKsSnpyF5p2cu9NiEueioRn9zWJ93rJ5AiAfg8sU27d73i6v0jxpJvpmDq8gVwLL-slU6Il91vAJ1Q__"
           }
         ],
         "content": "I want to use this to try out on my website https://brandonbio-fxr7r4er.manus.space",
@@ -307,10 +307,10 @@
       "type": "file",
       "filename": "pasted_content.txt",
       "content_type": "text/plain",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-N5Om6dei1UgHF3TkAY5GgB_na1fn_cGFzdGVkX2NvbnRlbnQ.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1ONU9tNmRlaTFVZ0hGM1RrQVk1R2dCX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCJlt3NtpCJ6MsqqPC2xDBnlkgmC0mk~0FMkKCW7YJCGgIgduJX3T9E6dVLnmCeSwrqWhv8PCs8jBhYmXao7EdXRG0_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-N5Om6dei1UgHF3TkAY5GgB_na1fn_cGFzdGVkX2NvbnRlbnQ.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1ONU9tNmRlaTFVZ0hGM1RrQVk1R2dCX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIBvEyDl0-KeNLKsSnpyF5p2cu9NiEueioRn9zWJ93rJ5AiAfg8sU27d73i6v0jxpJvpmDq8gVwLL-slU6Il91vAJ1Q__",
       "status": "archived",
       "bytes": 7309,
-      "archive_path": "attachments/FEiqs7qfoqHDHdZi68rqx5/21-user_message-0_013cc14537c2118b_pasted_content.txt"
+      "archive_path": "attachments/FEiqs7qfoqHDHdZi68rqx5/21-user_message-0_4e4ef1a2da63dfdc_pasted_content.txt"
     }
   ]
 }

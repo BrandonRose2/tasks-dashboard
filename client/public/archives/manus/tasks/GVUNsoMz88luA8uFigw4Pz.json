@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-11T15:01:53.086565Z",
+  "task": {
+    "id": "GVUNsoMz88luA8uFigw4Pz",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 50,
+    "created_at": "1786394428",
+    "updated_at": "1786394443",
+    "task_url": "https://manus.im/app/GVUNsoMz88luA8uFigw4Pz",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "Y00LzQmqk5xDleMnwT2Z1b",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786394428410",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "The audited Form 1065 PDF Marrero_3_LP_2021.pdf has been thoroughly inspected on pages 1, 4, and 5. Item F on page 1, Schedule K financial entries on page 4, and Schedule L/M-1/M-2 financial entries on page 5 are fully covered and blacked out. No actual financial figures are visibly exposed."
+      },
+      "id": "69QfWOvosKWE19vYmTmXqu",
+      "timestamp": "1786394443742",
+      "type": "assistant_message"
+    },
+    {
+      "id": "b5qEOkt46GDLAfXpRmI40H",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786394443897",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

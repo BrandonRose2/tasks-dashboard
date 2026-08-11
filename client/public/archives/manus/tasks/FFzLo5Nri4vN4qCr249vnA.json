@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "archived_at": "2026-08-04T18:41:58.245814Z",
+  "archived_at": "2026-08-11T15:25:45.683868Z",
   "task": {
     "id": "FFzLo5Nri4vN4qCr249vnA",
     "title": "Regenerate and Email ApartmentCorp Rent Comparables Analysis Report",
@@ -294,7 +294,7 @@
             "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
             "filename": "ApartmentCorp_Rent_Comp_Analysis_2026_REVISED.xlsx",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/FFzLo5Nri4vN4qCr249vnA/sandbox/9aZr7Otq5AgT3Hhf94qyu6_1776357205335_na1fn_L2hvbWUvdWJ1bnR1L2xpaHRjX2RhdGEvQXBhcnRtZW50Q29ycF9SZW50X0NvbXBfQW5hbHlzaXNfMjAyNl9SRVZJU0VE.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRkZ6TG81TnJpNHZONHFDcjI0OXZuQS9zYW5kYm94LzlhWnI3T3RxNUFnVDNIaGY5NHF5dTZfMTc3NjM1NzIwNTMzNV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJ4cGFIUmpYMlJoZEdFdlFYQmhjblJ0Wlc1MFEyOXljRjlTWlc1MFgwTnZiWEJmUVc1aGJIbHphWE5mTWpBeU5sOVNSVlpKVTBWRS54bHN4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQC0oYZMNd8yJXWZmYJWr7c7CqhkCYHFScOr~EbH-1pyrwIgfWRpWMCSthmbPHNX~xgapUlyqRT3Uqnwpww9JQELhaE_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/FFzLo5Nri4vN4qCr249vnA/sandbox/9aZr7Otq5AgT3Hhf94qyu6_1776357205335_na1fn_L2hvbWUvdWJ1bnR1L2xpaHRjX2RhdGEvQXBhcnRtZW50Q29ycF9SZW50X0NvbXBfQW5hbHlzaXNfMjAyNl9SRVZJU0VE.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRkZ6TG81TnJpNHZONHFDcjI0OXZuQS9zYW5kYm94LzlhWnI3T3RxNUFnVDNIaGY5NHF5dTZfMTc3NjM1NzIwNTMzNV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJ4cGFIUmpYMlJoZEdFdlFYQmhjblJ0Wlc1MFEyOXljRjlTWlc1MFgwTnZiWEJmUVc1aGJIbHphWE5mTWpBeU5sOVNSVlpKVTBWRS54bHN4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIAjbyIeDmkBnPtX63RH~EYWsMTKu2JGXLQ9sz3wH6PZ6AiEA1nkP2VIXpPwcV02qhoqSEUz2AOhYx5kR1iP3uTCWrxo_"
           }
         ],
         "content": "The full playbook has been executed successfully. Here is a summary of what was completed:\n\n**Step 1 — Data Setup**\n- Downloaded and unzipped `LIHTCPUB.zip` (45,905 LIHTC property records)\n- Ran `read_lihtc.py` → generated `lihtc_full.csv`\n- Downloaded `FY26_FMRs.xlsx` and ran `lookup_fmr.py` → generated `fmr_lookup.json` (5,888 FMR entries)\n\n**Step 2 — Comparables Search (`find_comps_v2.py`)**\n- For each of the 42 ApartmentCorp properties, found 3 external LIHTC comparables from the HUD database\n- Criteria: same state, within ±10 years of subject year built, affordable/workforce housing only\n- Output: `final_comps.json`\n\n**Step 3 — Excel Report (`build_excel.py`)**\n- Generated `ApartmentCorp_Rent_Comp_Analysis_2026_REVISED.xlsx` (68 KB, 43 sheets)\n- Cover sheet with portfolio summary (42 properties, 14 states)\n- One tab per property with: FY2026 HUD FMRs, 3 LIHTC comparables, and unit mix\n\n**Step 4 — Email Sent**\n- Sent via Gmail to **Brandon@apartmentcorp.com**\n- Subject: *Rent Comparables for all ApartmentCorp Properties — April 16, 2026*\n- Excel report attached (Message ID: `19d97233c5628357`)\n\nThe report is also available for download below."
@@ -404,10 +404,10 @@
       "type": "file",
       "filename": "ApartmentCorp_Rent_Comp_Analysis_2026_REVISED.xlsx",
       "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/FFzLo5Nri4vN4qCr249vnA/sandbox/9aZr7Otq5AgT3Hhf94qyu6_1776357205335_na1fn_L2hvbWUvdWJ1bnR1L2xpaHRjX2RhdGEvQXBhcnRtZW50Q29ycF9SZW50X0NvbXBfQW5hbHlzaXNfMjAyNl9SRVZJU0VE.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRkZ6TG81TnJpNHZONHFDcjI0OXZuQS9zYW5kYm94LzlhWnI3T3RxNUFnVDNIaGY5NHF5dTZfMTc3NjM1NzIwNTMzNV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJ4cGFIUmpYMlJoZEdFdlFYQmhjblJ0Wlc1MFEyOXljRjlTWlc1MFgwTnZiWEJmUVc1aGJIbHphWE5mTWpBeU5sOVNSVlpKVTBWRS54bHN4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQC0oYZMNd8yJXWZmYJWr7c7CqhkCYHFScOr~EbH-1pyrwIgfWRpWMCSthmbPHNX~xgapUlyqRT3Uqnwpww9JQELhaE_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/FFzLo5Nri4vN4qCr249vnA/sandbox/9aZr7Otq5AgT3Hhf94qyu6_1776357205335_na1fn_L2hvbWUvdWJ1bnR1L2xpaHRjX2RhdGEvQXBhcnRtZW50Q29ycF9SZW50X0NvbXBfQW5hbHlzaXNfMjAyNl9SRVZJU0VE.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRkZ6TG81TnJpNHZONHFDcjI0OXZuQS9zYW5kYm94LzlhWnI3T3RxNUFnVDNIaGY5NHF5dTZfMTc3NjM1NzIwNTMzNV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJ4cGFIUmpYMlJoZEdFdlFYQmhjblJ0Wlc1MFEyOXljRjlTWlc1MFgwTnZiWEJmUVc1aGJIbHphWE5mTWpBeU5sOVNSVlpKVTBWRS54bHN4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIAjbyIeDmkBnPtX63RH~EYWsMTKu2JGXLQ9sz3wH6PZ6AiEA1nkP2VIXpPwcV02qhoqSEUz2AOhYx5kR1iP3uTCWrxo_",
       "status": "archived",
       "bytes": 69487,
-      "archive_path": "attachments/FFzLo5Nri4vN4qCr249vnA/25-assistant_message-0_842b1a54874cb825_ApartmentCorp_Rent_Comp_Analysis_2026_REVISED.xlsx"
+      "archive_path": "attachments/FFzLo5Nri4vN4qCr249vnA/25-assistant_message-0_4049194bb9cd0238_ApartmentCorp_Rent_Comp_Analysis_2026_REVISED.xlsx"
     }
   ]
 }

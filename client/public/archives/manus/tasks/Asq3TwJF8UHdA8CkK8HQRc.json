@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-11T15:01:57.403032Z",
+  "task": {
+    "id": "Asq3TwJF8UHdA8CkK8HQRc",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 52,
+    "created_at": "1786394410",
+    "updated_at": "1786394432",
+    "task_url": "https://manus.im/app/Asq3TwJF8UHdA8CkK8HQRc",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "fC2y2ESBIFVvTvbWZTOH7g",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786394410675",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "The independent audit of Windsor_Housing_LP_2020.pdf confirms that Item F on page 1, Schedule K on page 4, and Schedule L/M-1/M-2 on page 5 are fully covered/blacked out in the required redaction scopes, with no actual financial figures visibly exposed."
+      },
+      "id": "4KNug8gc4DsNli1yrVExtw",
+      "timestamp": "1786394432630",
+      "type": "assistant_message"
+    },
+    {
+      "id": "lAdVUcmmxS88NJkPcMwNi9",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786394432775",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

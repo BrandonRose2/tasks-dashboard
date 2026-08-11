@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-11T15:01:52.285797Z",
+  "task": {
+    "id": "SajBkfwCx4UjGVKpeoICQJ",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 42,
+    "created_at": "1786394430",
+    "updated_at": "1786394445",
+    "task_url": "https://manus.im/app/SajBkfwCx4UjGVKpeoICQJ",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "ix3JLGBqyDJuOT9riexuAf",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786394431347",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "The Form 1065 PDF (Pacific_Pointe_Housing_LP_2021.pdf) has been independently audited across pages 1, 4, and 5. Item F on page 1, all financial-entry fields on page 4 Schedule K, and all financial-entry fields on page 5 Schedules L, M-1, and M-2 are fully redacted/blacked out, with no exposed financial figures."
+      },
+      "id": "RlxxFOSKjcrtyrEovGGkwW",
+      "timestamp": "1786394445123",
+      "type": "assistant_message"
+    },
+    {
+      "id": "zsq1yXTwW4nyBYubzXqIkc",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786394445232",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

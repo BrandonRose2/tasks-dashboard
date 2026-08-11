@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-11T15:01:57.884075Z",
+  "task": {
+    "id": "XDAZxDOZ5LQv004R8d6Qem",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 53,
+    "created_at": "1786394410",
+    "updated_at": "1786394468",
+    "task_url": "https://manus.im/app/XDAZxDOZ5LQv004R8d6Qem",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "8bWkQIN1qhNvpoBZFeJP7G",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786394410596",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "The audited Form 1065 PDF for Village_Green_Housing_LP_2020.pdf has been fully inspected on pages 1, 4, and 5. Item F on page 1 is fully covered/redacted, Schedule K financial entries on page 4 are fully blacked out, and Schedule L/M-1/M-2 financial entries on page 5 are fully blacked out. No actual financial figures are visibly exposed."
+      },
+      "id": "RwZbVFQZ6aB3Vx8aTjHwVa",
+      "timestamp": "1786394468036",
+      "type": "assistant_message"
+    },
+    {
+      "id": "SQxPYanu7aTd7nYvrnS78K",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786394468193",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

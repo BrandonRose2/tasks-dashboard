@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "archived_at": "2026-08-04T18:41:28.344231Z",
+  "archived_at": "2026-08-11T15:25:05.860909Z",
   "task": {
     "id": "VyZvXwGfGo2QXYrDifwMq6",
     "title": "How to Run ApartmentCorp Daily Rent Comp Pipeline",
@@ -136,7 +136,7 @@
             "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
             "filename": "ApartmentCorp_Rent_Comp_Analysis_2026_REVISED.xlsx",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/VyZvXwGfGo2QXYrDifwMq6/sandbox/9Skm3dXFt47Ok0HyF0z6Yo_1776634566437_na1fn_L2hvbWUvdWJ1bnR1L2xpaHRjX2RhdGEvQXBhcnRtZW50Q29ycF9SZW50X0NvbXBfQW5hbHlzaXNfMjAyNl9SRVZJU0VE.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvVnladlh3R2ZHbzJRWFlyRGlmd01xNi9zYW5kYm94LzlTa20zZFhGdDQ3T2swSHlGMHo2WW9fMTc3NjYzNDU2NjQzN19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJ4cGFIUmpYMlJoZEdFdlFYQmhjblJ0Wlc1MFEyOXljRjlTWlc1MFgwTnZiWEJmUVc1aGJIbHphWE5mTWpBeU5sOVNSVlpKVTBWRS54bHN4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCJ1xJdvvxjBR3rAQsLjjJoKvXnWYsvptDgHugGuSMwkwIgIE5eVXhW-MxuqDnDYNAhOW1lMBxbufVuwtorEMIrzWc_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/VyZvXwGfGo2QXYrDifwMq6/sandbox/9Skm3dXFt47Ok0HyF0z6Yo_1776634566437_na1fn_L2hvbWUvdWJ1bnR1L2xpaHRjX2RhdGEvQXBhcnRtZW50Q29ycF9SZW50X0NvbXBfQW5hbHlzaXNfMjAyNl9SRVZJU0VE.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvVnladlh3R2ZHbzJRWFlyRGlmd01xNi9zYW5kYm94LzlTa20zZFhGdDQ3T2swSHlGMHo2WW9fMTc3NjYzNDU2NjQzN19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJ4cGFIUmpYMlJoZEdFdlFYQmhjblJ0Wlc1MFEyOXljRjlTWlc1MFgwTnZiWEJmUVc1aGJIbHphWE5mTWpBeU5sOVNSVlpKVTBWRS54bHN4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDTMJm-gtT72G56ZP0cA2uMO-4aYktdaHhpKkune9iYtAIgaOHzLuFOgIQ8CAk2yOc6T9V8MbnCpg~vfySob--9zfo_"
           }
         ],
         "content": "The ApartmentCorp daily rent comp pipeline has completed successfully. Here is a full summary of what was executed:\n\n**Step 1 — `find_comps_v2.py` (Comp Data Refresh)**\n- Downloaded the latest HUD LIHTC database (54,102 properties) and FY2026 Fair Market Rents (3,229 county records)\n- Filtered and selected 42 representative LIHTC properties across 20 states: CA, CO, FL, GA, IL, IN, LA, MI, MN, MO, NC, NJ, NY, OH, PA, TN, TX, VA, WA, WI\n- Computed LIHTC max rents at 60% AMI and market FMR benchmarks for each property\n- Saved to `comps_output.json`\n\n**Step 2 — `build_excel.py` (Excel Workbook)**\n- Generated `ApartmentCorp_Rent_Comp_Analysis_2026_REVISED.xlsx` with 4 sheets:\n  - **Summary Dashboard** — KPIs (42 properties, total units, avg LIHTC rent, avg market FMR, avg discount) + state-level summary table\n  - **All Properties** — Full detail for all 42 properties with rent and unit mix data\n  - **Rent Comparison** — LIHTC vs. FMR by bedroom type (1BR, 2BR, 3BR) with discount percentages\n  - **Unit Mix** — Bedroom distribution breakdown per property\n\n**Step 3 — `clickup_sync.py` (ClickUp Sync)**\n- Connected to List ID `901415479678` (\"Comparables of ALL Properties\")\n- All 42 property tasks updated with current rent data, unit mix, FMR benchmarks, and discount metrics\n- Result: **42 updated, 0 errors**\n\n**Step 4 — Email Delivery**\n- Subject: *Rent Comparables for all ApartmentCorp Properties — April 18, 2026*\n- Sent to: `Brandon@apartmentcorp.com` and `Mam@22.bz`\n- Excel workbook attached (Message ID: `19da7abd430c7f50`)\n\nThe Excel file is also attached below for your reference."
@@ -162,10 +162,10 @@
       "type": "file",
       "filename": "ApartmentCorp_Rent_Comp_Analysis_2026_REVISED.xlsx",
       "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/VyZvXwGfGo2QXYrDifwMq6/sandbox/9Skm3dXFt47Ok0HyF0z6Yo_1776634566437_na1fn_L2hvbWUvdWJ1bnR1L2xpaHRjX2RhdGEvQXBhcnRtZW50Q29ycF9SZW50X0NvbXBfQW5hbHlzaXNfMjAyNl9SRVZJU0VE.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvVnladlh3R2ZHbzJRWFlyRGlmd01xNi9zYW5kYm94LzlTa20zZFhGdDQ3T2swSHlGMHo2WW9fMTc3NjYzNDU2NjQzN19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJ4cGFIUmpYMlJoZEdFdlFYQmhjblJ0Wlc1MFEyOXljRjlTWlc1MFgwTnZiWEJmUVc1aGJIbHphWE5mTWpBeU5sOVNSVlpKVTBWRS54bHN4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCJ1xJdvvxjBR3rAQsLjjJoKvXnWYsvptDgHugGuSMwkwIgIE5eVXhW-MxuqDnDYNAhOW1lMBxbufVuwtorEMIrzWc_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/VyZvXwGfGo2QXYrDifwMq6/sandbox/9Skm3dXFt47Ok0HyF0z6Yo_1776634566437_na1fn_L2hvbWUvdWJ1bnR1L2xpaHRjX2RhdGEvQXBhcnRtZW50Q29ycF9SZW50X0NvbXBfQW5hbHlzaXNfMjAyNl9SRVZJU0VE.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvVnladlh3R2ZHbzJRWFlyRGlmd01xNi9zYW5kYm94LzlTa20zZFhGdDQ3T2swSHlGMHo2WW9fMTc3NjYzNDU2NjQzN19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJ4cGFIUmpYMlJoZEdFdlFYQmhjblJ0Wlc1MFEyOXljRjlTWlc1MFgwTnZiWEJmUVc1aGJIbHphWE5mTWpBeU5sOVNSVlpKVTBWRS54bHN4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDTMJm-gtT72G56ZP0cA2uMO-4aYktdaHhpKkune9iYtAIgaOHzLuFOgIQ8CAk2yOc6T9V8MbnCpg~vfySob--9zfo_",
       "status": "archived",
       "bytes": 25212,
-      "archive_path": "attachments/VyZvXwGfGo2QXYrDifwMq6/11-assistant_message-0_51776376416292c0_ApartmentCorp_Rent_Comp_Analysis_2026_REVISED.xlsx"
+      "archive_path": "attachments/VyZvXwGfGo2QXYrDifwMq6/11-assistant_message-0_ff2dc59b56ccb8be_ApartmentCorp_Rent_Comp_Analysis_2026_REVISED.xlsx"
     }
   ]
 }

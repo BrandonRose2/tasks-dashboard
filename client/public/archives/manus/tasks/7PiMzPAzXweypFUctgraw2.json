@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "archived_at": "2026-08-04T18:46:06.469894Z",
+  "archived_at": "2026-08-11T15:31:15.763297Z",
   "task": {
     "id": "7PiMzPAzXweypFUctgraw2",
     "title": "Comparison of Notion Alternatives with Calendar and Messaging Features",
@@ -57,7 +57,7 @@
             "content_type": "text/markdown",
             "filename": "Notion_Alternatives_Comparison_Report.md",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/7PiMzPAzXweypFUctgraw2/sandbox/nMxQDlZpJ2TNYUrQ5AWnve_1773851238349_na1fn_L2hvbWUvdWJ1bnR1L05vdGlvbl9BbHRlcm5hdGl2ZXNfQ29tcGFyaXNvbl9SZXBvcnQ.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvN1BpTXpQQXpYd2V5cEZVY3RncmF3Mi9zYW5kYm94L25NeFFEbFpwSjJUTllVclE1QVdudmVfMTc3Mzg1MTIzODM0OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDA1dmRHbHZibDlCYkhSbGNtNWhkR2wyWlhOZlEyOXRjR0Z5YVhOdmJsOVNaWEJ2Y25RLm1kIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIGm6CaD1~bpoDzlTJNo2SjOGsva-tfU3UC~JsZdmVK1CAiA4gDB723BNYRtWP8Dv686Ll9xgNsMTj6Nuw90iWUnM0Q__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/7PiMzPAzXweypFUctgraw2/sandbox/nMxQDlZpJ2TNYUrQ5AWnve_1773851238349_na1fn_L2hvbWUvdWJ1bnR1L05vdGlvbl9BbHRlcm5hdGl2ZXNfQ29tcGFyaXNvbl9SZXBvcnQ.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvN1BpTXpQQXpYd2V5cEZVY3RncmF3Mi9zYW5kYm94L25NeFFEbFpwSjJUTllVclE1QVdudmVfMTc3Mzg1MTIzODM0OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDA1dmRHbHZibDlCYkhSbGNtNWhkR2wyWlhOZlEyOXRjR0Z5YVhOdmJsOVNaWEJ2Y25RLm1kIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCnOfavML0nZe2yqkLdZm~hKbNJnznXm7JReG7Y9Gi2SwIhALny8Q527AzLM1lMB~mMkYloY3eQlT96In74UgnZnNYi"
           }
         ],
         "content": "Here's your comprehensive comparison report! I evaluated 7 major platforms against your boss's specific requirements: **built-in calendar, in-app messaging, and maximum features (\"bells and whistles\").**\n\n**Key Takeaway for Your Boss:**\n\nOnly **3 platforms** check both the calendar AND messaging boxes natively:\n1. **ClickUp** — Best for project-heavy teams wanting everything (tasks, docs, whiteboards, chat, calendar, AI) in one tool. Starts at ~$7/user/mo.\n2. **Lark** — Best for communication-heavy teams wanting a seamless Slack+Zoom+Google Calendar replacement. Free for up to 20 users.\n3. **Microsoft Teams** — Best for organizations already in the Microsoft 365 ecosystem. Starts at just $4/user/mo.\n\nPopular tools like **Notion**, **Slack**, **Monday.com**, and **Asana** each fall short on at least one of the two core requirements (calendar or messaging), meaning your team would need to pay for multiple subscriptions to cover the gap.\n\nThe full report includes feature comparison tables, pros/cons for each platform, pricing details, and a deep dive into the top contenders. Please see the attached document."
@@ -83,10 +83,10 @@
       "type": "file",
       "filename": "Notion_Alternatives_Comparison_Report.md",
       "content_type": "text/markdown",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/7PiMzPAzXweypFUctgraw2/sandbox/nMxQDlZpJ2TNYUrQ5AWnve_1773851238349_na1fn_L2hvbWUvdWJ1bnR1L05vdGlvbl9BbHRlcm5hdGl2ZXNfQ29tcGFyaXNvbl9SZXBvcnQ.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvN1BpTXpQQXpYd2V5cEZVY3RncmF3Mi9zYW5kYm94L25NeFFEbFpwSjJUTllVclE1QVdudmVfMTc3Mzg1MTIzODM0OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDA1dmRHbHZibDlCYkhSbGNtNWhkR2wyWlhOZlEyOXRjR0Z5YVhOdmJsOVNaWEJ2Y25RLm1kIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIGm6CaD1~bpoDzlTJNo2SjOGsva-tfU3UC~JsZdmVK1CAiA4gDB723BNYRtWP8Dv686Ll9xgNsMTj6Nuw90iWUnM0Q__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/7PiMzPAzXweypFUctgraw2/sandbox/nMxQDlZpJ2TNYUrQ5AWnve_1773851238349_na1fn_L2hvbWUvdWJ1bnR1L05vdGlvbl9BbHRlcm5hdGl2ZXNfQ29tcGFyaXNvbl9SZXBvcnQ.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvN1BpTXpQQXpYd2V5cEZVY3RncmF3Mi9zYW5kYm94L25NeFFEbFpwSjJUTllVclE1QVdudmVfMTc3Mzg1MTIzODM0OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDA1dmRHbHZibDlCYkhSbGNtNWhkR2wyWlhOZlEyOXRjR0Z5YVhOdmJsOVNaWEJ2Y25RLm1kIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCnOfavML0nZe2yqkLdZm~hKbNJnznXm7JReG7Y9Gi2SwIhALny8Q527AzLM1lMB~mMkYloY3eQlT96In74UgnZnNYi",
       "status": "archived",
       "bytes": 8706,
-      "archive_path": "attachments/7PiMzPAzXweypFUctgraw2/4-assistant_message-0_ef3794580f6101f8_Notion_Alternatives_Comparison_Report.md"
+      "archive_path": "attachments/7PiMzPAzXweypFUctgraw2/4-assistant_message-0_4219ebb250034ef8_Notion_Alternatives_Comparison_Report.md"
     }
   ]
 }

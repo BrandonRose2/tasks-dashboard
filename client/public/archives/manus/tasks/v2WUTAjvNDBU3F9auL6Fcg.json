@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "archived_at": "2026-08-04T18:28:46.042359Z",
+  "archived_at": "2026-08-11T15:06:01.015619Z",
   "task": {
     "id": "v2WUTAjvNDBU3F9auL6Fcg",
     "title": "How to Download Docker Using Terminal Commands",
@@ -58,7 +58,7 @@
             "content_type": "application/pdf",
             "filename": "docker_install.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/v2WUTAjvNDBU3F9auL6Fcg/sandbox/ByQ6Gg0VGPXAZ5bahwFk9i_1783013539634_na1fn_L2hvbWUvdWJ1bnR1L2RvY2tlcl9pbnN0YWxs.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvdjJXVVRBanZOREJVM0Y5YXVMNkZjZy9zYW5kYm94L0J5UTZHZzBWR1BYQVo1YmFod0ZrOWlfMTc4MzAxMzUzOTYzNF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJSdlkydGxjbDlwYm5OMFlXeHMucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIAv5Z8YoaTHcaFMMZMKPw7JeLLjH5sPNWC4QXFMn8OQBAiEAhoUIpg63M5zB~hxZ4C4Rws6~SRs8FJ8DpV4808BPG0I_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/v2WUTAjvNDBU3F9auL6Fcg/sandbox/ByQ6Gg0VGPXAZ5bahwFk9i_1783013539634_na1fn_L2hvbWUvdWJ1bnR1L2RvY2tlcl9pbnN0YWxs.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvdjJXVVRBanZOREJVM0Y5YXVMNkZjZy9zYW5kYm94L0J5UTZHZzBWR1BYQVo1YmFod0ZrOWlfMTc4MzAxMzUzOTYzNF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJSdlkydGxjbDlwYm5OMFlXeHMucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIG-BwpMgo8OHDdOMPaX~0NFdh5qfW5d6Z3iR97bbZzX0AiEA711DGpRlcYYCDVkQZbILdre75A2DAaJ8qx~mNm6OQiI_"
           }
         ],
         "content": "Here's your PDF with the terminal commands to download and install Docker on Ubuntu. It covers all the steps: updating packages, adding Docker's official GPG key, setting up the repository, installing Docker Engine, verifying the installation, and optional post-install steps."
@@ -158,10 +158,10 @@
       "type": "file",
       "filename": "docker_install.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/v2WUTAjvNDBU3F9auL6Fcg/sandbox/ByQ6Gg0VGPXAZ5bahwFk9i_1783013539634_na1fn_L2hvbWUvdWJ1bnR1L2RvY2tlcl9pbnN0YWxs.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvdjJXVVRBanZOREJVM0Y5YXVMNkZjZy9zYW5kYm94L0J5UTZHZzBWR1BYQVo1YmFod0ZrOWlfMTc4MzAxMzUzOTYzNF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJSdlkydGxjbDlwYm5OMFlXeHMucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIAv5Z8YoaTHcaFMMZMKPw7JeLLjH5sPNWC4QXFMn8OQBAiEAhoUIpg63M5zB~hxZ4C4Rws6~SRs8FJ8DpV4808BPG0I_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/v2WUTAjvNDBU3F9auL6Fcg/sandbox/ByQ6Gg0VGPXAZ5bahwFk9i_1783013539634_na1fn_L2hvbWUvdWJ1bnR1L2RvY2tlcl9pbnN0YWxs.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvdjJXVVRBanZOREJVM0Y5YXVMNkZjZy9zYW5kYm94L0J5UTZHZzBWR1BYQVo1YmFod0ZrOWlfMTc4MzAxMzUzOTYzNF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJSdlkydGxjbDlwYm5OMFlXeHMucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIG-BwpMgo8OHDdOMPaX~0NFdh5qfW5d6Z3iR97bbZzX0AiEA711DGpRlcYYCDVkQZbILdre75A2DAaJ8qx~mNm6OQiI_",
       "status": "archived",
       "bytes": 78995,
-      "archive_path": "attachments/v2WUTAjvNDBU3F9auL6Fcg/4-assistant_message-0_6abf8283b4d20637_docker_install.pdf"
+      "archive_path": "attachments/v2WUTAjvNDBU3F9auL6Fcg/4-assistant_message-0_1a80fef1a6874d19_docker_install.pdf"
     }
   ]
 }

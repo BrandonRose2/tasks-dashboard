@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-11T15:01:56.024255Z",
+  "task": {
+    "id": "j8smmVJ2Ygi8dAiDWds3ba",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 32,
+    "created_at": "1786394410",
+    "updated_at": "1786394421",
+    "task_url": "https://manus.im/app/j8smmVJ2Ygi8dAiDWds3ba",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "RBrJWYfPaApQN0Tof5ooFB",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786394410863",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "The audit of Arbor_Crest_Housing_LP_2021.pdf has been successfully completed. Item F on page 1 is fully covered, page 4 Schedule K financial-entry fields are fully blacked out, and page 5 Schedule L/M-1/M-2 financial-entry fields are fully blacked out. No actual financial figures are visibly exposed in the required redaction scopes."
+      },
+      "id": "A9UVGtjGIdEFFlZ1uDwyUv",
+      "timestamp": "1786394421838",
+      "type": "assistant_message"
+    },
+    {
+      "id": "tQp7rLkX0w3hTmHXcLPZaZ",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786394421981",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

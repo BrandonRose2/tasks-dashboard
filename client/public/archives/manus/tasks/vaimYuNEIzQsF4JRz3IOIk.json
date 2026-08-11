@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "archived_at": "2026-08-04T18:45:23.714774Z",
+  "archived_at": "2026-08-11T15:30:10.932820Z",
   "task": {
     "id": "vaimYuNEIzQsF4JRz3IOIk",
     "title": "Reduce and Resend Signature Preview File",
@@ -25,7 +25,7 @@
             "content_type": "text/html",
             "filename": "signature_preview.html",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-na0bPgkJw3L6wADZWrnxTK_na1fn_c2lnbmF0dXJlX3ByZXZpZXc.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1uYTBiUGdrSnczTDZ3QURaV3JueFRLX25hMWZuX2MybG5ibUYwZFhKbFgzQnlaWFpwWlhjLmh0bWwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIFbzPR4izt2mpITbYI07Iz~I9QMtb7meKFtGI3IDiCXyAiEA8A~PPZJKoaLzFjjyw4dkU1Jo5u5YjqquODtexsmBVD0_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-na0bPgkJw3L6wADZWrnxTK_na1fn_c2lnbmF0dXJlX3ByZXZpZXc.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1uYTBiUGdrSnczTDZ3QURaV3JueFRLX25hMWZuX2MybG5ibUYwZFhKbFgzQnlaWFpwWlhjLmh0bWwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIEs4cqdfShGMGhGKK4LUkwLfpbj6by-G2VvaiQ3PnM4WAiB-Sc-aI4JY0ragTDEaML~bQdkF8ntlSLGlpFpsqmtTyw__"
           }
         ],
         "content": "Can you reduce this to about half the size and resend it to me? ",
@@ -90,7 +90,7 @@
             "content_type": "text/html",
             "filename": "signature_preview_small.html",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/vaimYuNEIzQsF4JRz3IOIk/sandbox/Rad7F5nVkOnHeZhoXO50pm_1776197974121_na1fn_L2hvbWUvdWJ1bnR1L3VwbG9hZC9zaWduYXR1cmVfcHJldmlld19zbWFsbA.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvdmFpbVl1TkVJelFzRjRKUnozSU9Jay9zYW5kYm94L1JhZDdGNW5Wa09uSGVaaG9YTzUwcG1fMTc3NjE5Nzk3NDEyMV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNWd2JHOWhaQzl6YVdkdVlYUjFjbVZmY0hKbGRtbGxkMTl6YldGc2JBLmh0bWwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIFbzz4UZRqvXjmV87iGWZr2duwCWDif72pz5eCVZ2YSBAiAjIXlQWnEXZirqYW46F9hswg2t6Xuj2xdRse5LQcao1A__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/vaimYuNEIzQsF4JRz3IOIk/sandbox/Rad7F5nVkOnHeZhoXO50pm_1776197974121_na1fn_L2hvbWUvdWJ1bnR1L3VwbG9hZC9zaWduYXR1cmVfcHJldmlld19zbWFsbA.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvdmFpbVl1TkVJelFzRjRKUnozSU9Jay9zYW5kYm94L1JhZDdGNW5Wa09uSGVaaG9YTzUwcG1fMTc3NjE5Nzk3NDEyMV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNWd2JHOWhaQzl6YVdkdVlYUjFjbVZmY0hKbGRtbGxkMTl6YldGc2JBLmh0bWwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCzppGTU~Q82QEnKMol4ivysGgNkp2K8z3zUYl6sNdZ7QIgf3mKSVAO0jVOSwFgQy03pp6EuoA9pXcauA~keJ6qPkA_"
           }
         ],
         "content": "Here's the updated file with all imagery scaled to half the original dimensions:\n\n- **\"Thank You\" GIF:** 342px → 171px wide\n- **ApartmentCorp logo GIF:** 170px → 85px wide\n- **Brandon Rose typewriter name GIF:** halved to 150px wide\n- **Overall table width:** 600px → 300px to match\n\nEverything else (links, contact info, dividers) is preserved and proportionally adjusted."
@@ -119,7 +119,7 @@
             "content_type": "image/png",
             "filename": "IMG_0996.PNG",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/6dLojAOcVW9Q6XzNMTKnY1_na1fn_SU1HXzA5OTY.PNG?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvNmRMb2pBT2NWVzlRNlh6Tk1US25ZMV9uYTFmbl9TVTFIWHpBNU9UWS5QTkciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIDTl~RA3EHwZJbtme7esQoEpbyTTOzcZ744yVRlgcY83AiEA0FPib9Qt6HTqj3IuZuipdHifmYtyv1FGvRxK-6GtIrs_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/6dLojAOcVW9Q6XzNMTKnY1_na1fn_SU1HXzA5OTY.PNG?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvNmRMb2pBT2NWVzlRNlh6Tk1US25ZMV9uYTFmbl9TVTFIWHpBNU9UWS5QTkciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDjujmJ5ChKvCpGmCeYFmf4UpJ7GroCa9pdPkJ2q0FU1QIhAIdU~CFByoxkYnVapPmum9njTSlBaY-LCZU-3ZM0Skt9"
           }
         ],
         "content": "This is how it comes up on my phone",
@@ -151,7 +151,7 @@
             "content_type": "text/html",
             "filename": "signature_preview_small.html",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/vaimYuNEIzQsF4JRz3IOIk/sandbox/GZVjuGSBB4nUYUhfRolG4T_1776198286334_na1fn_L2hvbWUvdWJ1bnR1L3VwbG9hZC9zaWduYXR1cmVfcHJldmlld19zbWFsbA.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvdmFpbVl1TkVJelFzRjRKUnozSU9Jay9zYW5kYm94L0daVmp1R1NCQjRuVVlVaGZSb2xHNFRfMTc3NjE5ODI4NjMzNF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNWd2JHOWhaQzl6YVdkdVlYUjFjbVZmY0hKbGRtbGxkMTl6YldGc2JBLmh0bWwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIHjEhY4k9VnG4YlByZ67q-8XopyKLKHUA~eEWUDSosmgAiEAuVKUm9VLcgVe9ILUOUd8E~fkCXWnCIaPfw6xPMWgdRE_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/vaimYuNEIzQsF4JRz3IOIk/sandbox/GZVjuGSBB4nUYUhfRolG4T_1776198286334_na1fn_L2hvbWUvdWJ1bnR1L3VwbG9hZC9zaWduYXR1cmVfcHJldmlld19zbWFsbA.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvdmFpbVl1TkVJelFzRjRKUnozSU9Jay9zYW5kYm94L0daVmp1R1NCQjRuVVlVaGZSb2xHNFRfMTc3NjE5ODI4NjMzNF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNWd2JHOWhaQzl6YVdkdVlYUjFjbVZmY0hKbGRtbGxkMTl6YldGc2JBLmh0bWwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIF9Vw0Ln7pU~ylQiJ2Mxah2slm1-pZoSBPuja8Hl0Jq4AiEAxddJN3HFm0XM8JZGOyhClobS1VRH8y12-mmq44IanVA_"
           }
         ],
         "content": "The GIFs were failing to load because your phone couldn't reach the CDN URLs. I've fixed this by downloading all three GIFs and embedding them directly into the HTML file as base64 data — so it's now fully self-contained and will display correctly on any device without needing an internet connection to load the images."
@@ -307,7 +307,7 @@
             "content_type": "image/png",
             "filename": "sigerror.png",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-83NXeOrbS4FpnCvTOJEmof_na1fn_c2lnZXJyb3I.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC04M05YZU9yYlM0RnBuQ3ZUT0pFbW9mX25hMWZuX2MybG5aWEp5YjNJLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIEYgOSD~3KJZHH~beXq0gKSRso2cNPpwNCH8odGSBTDrAiEA~G4MRcXQAfoVOQPBJo6kh5letxopavbN3H4XeGJZw4o_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-83NXeOrbS4FpnCvTOJEmof_na1fn_c2lnZXJyb3I.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC04M05YZU9yYlM0RnBuQ3ZUT0pFbW9mX25hMWZuX2MybG5aWEp5YjNJLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIFwd6McaahaQWaonoWbvzSYpI~vD4~AD70J3iOtS4vL1AiA8CmwtmonwdZ4ZLsVgSOuD1UEyJvSgCfE~cRMZcbx39A__"
           }
         ],
         "content": "when i compose an email... the phone number extension gets thrown to the next line ",
@@ -455,50 +455,50 @@
       "type": "file",
       "filename": "signature_preview.html",
       "content_type": "text/html",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-na0bPgkJw3L6wADZWrnxTK_na1fn_c2lnbmF0dXJlX3ByZXZpZXc.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1uYTBiUGdrSnczTDZ3QURaV3JueFRLX25hMWZuX2MybG5ibUYwZFhKbFgzQnlaWFpwWlhjLmh0bWwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIFbzPR4izt2mpITbYI07Iz~I9QMtb7meKFtGI3IDiCXyAiEA8A~PPZJKoaLzFjjyw4dkU1Jo5u5YjqquODtexsmBVD0_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-na0bPgkJw3L6wADZWrnxTK_na1fn_c2lnbmF0dXJlX3ByZXZpZXc.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1uYTBiUGdrSnczTDZ3QURaV3JueFRLX25hMWZuX2MybG5ibUYwZFhKbFgzQnlaWFpwWlhjLmh0bWwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIEs4cqdfShGMGhGKK4LUkwLfpbj6by-G2VvaiQ3PnM4WAiB-Sc-aI4JY0ragTDEaML~bQdkF8ntlSLGlpFpsqmtTyw__",
       "status": "archived",
       "bytes": 4497,
-      "archive_path": "attachments/vaimYuNEIzQsF4JRz3IOIk/0-user_message-0_85bc61926cb64721_signature_preview.html"
+      "archive_path": "attachments/vaimYuNEIzQsF4JRz3IOIk/0-user_message-0_c50e45086afb463b_signature_preview.html"
     },
     {
       "event_index": 7,
       "type": "file",
       "filename": "signature_preview_small.html",
       "content_type": "text/html",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/vaimYuNEIzQsF4JRz3IOIk/sandbox/Rad7F5nVkOnHeZhoXO50pm_1776197974121_na1fn_L2hvbWUvdWJ1bnR1L3VwbG9hZC9zaWduYXR1cmVfcHJldmlld19zbWFsbA.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvdmFpbVl1TkVJelFzRjRKUnozSU9Jay9zYW5kYm94L1JhZDdGNW5Wa09uSGVaaG9YTzUwcG1fMTc3NjE5Nzk3NDEyMV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNWd2JHOWhaQzl6YVdkdVlYUjFjbVZmY0hKbGRtbGxkMTl6YldGc2JBLmh0bWwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIFbzz4UZRqvXjmV87iGWZr2duwCWDif72pz5eCVZ2YSBAiAjIXlQWnEXZirqYW46F9hswg2t6Xuj2xdRse5LQcao1A__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/vaimYuNEIzQsF4JRz3IOIk/sandbox/Rad7F5nVkOnHeZhoXO50pm_1776197974121_na1fn_L2hvbWUvdWJ1bnR1L3VwbG9hZC9zaWduYXR1cmVfcHJldmlld19zbWFsbA.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvdmFpbVl1TkVJelFzRjRKUnozSU9Jay9zYW5kYm94L1JhZDdGNW5Wa09uSGVaaG9YTzUwcG1fMTc3NjE5Nzk3NDEyMV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNWd2JHOWhaQzl6YVdkdVlYUjFjbVZmY0hKbGRtbGxkMTl6YldGc2JBLmh0bWwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCzppGTU~Q82QEnKMol4ivysGgNkp2K8z3zUYl6sNdZ7QIgf3mKSVAO0jVOSwFgQy03pp6EuoA9pXcauA~keJ6qPkA_",
       "status": "archived",
       "bytes": 4637,
-      "archive_path": "attachments/vaimYuNEIzQsF4JRz3IOIk/7-assistant_message-0_e0e24c3b2647efb1_signature_preview_small.html"
+      "archive_path": "attachments/vaimYuNEIzQsF4JRz3IOIk/7-assistant_message-0_bec1251531d50782_signature_preview_small.html"
     },
     {
       "event_index": 9,
       "type": "image",
       "filename": "IMG_0996.PNG",
       "content_type": "image/png",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/6dLojAOcVW9Q6XzNMTKnY1_na1fn_SU1HXzA5OTY.PNG?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvNmRMb2pBT2NWVzlRNlh6Tk1US25ZMV9uYTFmbl9TVTFIWHpBNU9UWS5QTkciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIDTl~RA3EHwZJbtme7esQoEpbyTTOzcZ744yVRlgcY83AiEA0FPib9Qt6HTqj3IuZuipdHifmYtyv1FGvRxK-6GtIrs_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/6dLojAOcVW9Q6XzNMTKnY1_na1fn_SU1HXzA5OTY.PNG?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvNmRMb2pBT2NWVzlRNlh6Tk1US25ZMV9uYTFmbl9TVTFIWHpBNU9UWS5QTkciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDjujmJ5ChKvCpGmCeYFmf4UpJ7GroCa9pdPkJ2q0FU1QIhAIdU~CFByoxkYnVapPmum9njTSlBaY-LCZU-3ZM0Skt9",
       "status": "archived",
       "bytes": 226712,
-      "archive_path": "attachments/vaimYuNEIzQsF4JRz3IOIk/9-user_message-0_58568e927464fc9e_IMG_0996.PNG"
+      "archive_path": "attachments/vaimYuNEIzQsF4JRz3IOIk/9-user_message-0_186e4620c0c10f48_IMG_0996.PNG"
     },
     {
       "event_index": 12,
       "type": "file",
       "filename": "signature_preview_small.html",
       "content_type": "text/html",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/vaimYuNEIzQsF4JRz3IOIk/sandbox/GZVjuGSBB4nUYUhfRolG4T_1776198286334_na1fn_L2hvbWUvdWJ1bnR1L3VwbG9hZC9zaWduYXR1cmVfcHJldmlld19zbWFsbA.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvdmFpbVl1TkVJelFzRjRKUnozSU9Jay9zYW5kYm94L0daVmp1R1NCQjRuVVlVaGZSb2xHNFRfMTc3NjE5ODI4NjMzNF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNWd2JHOWhaQzl6YVdkdVlYUjFjbVZmY0hKbGRtbGxkMTl6YldGc2JBLmh0bWwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIHjEhY4k9VnG4YlByZ67q-8XopyKLKHUA~eEWUDSosmgAiEAuVKUm9VLcgVe9ILUOUd8E~fkCXWnCIaPfw6xPMWgdRE_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/vaimYuNEIzQsF4JRz3IOIk/sandbox/GZVjuGSBB4nUYUhfRolG4T_1776198286334_na1fn_L2hvbWUvdWJ1bnR1L3VwbG9hZC9zaWduYXR1cmVfcHJldmlld19zbWFsbA.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvdmFpbVl1TkVJelFzRjRKUnozSU9Jay9zYW5kYm94L0daVmp1R1NCQjRuVVlVaGZSb2xHNFRfMTc3NjE5ODI4NjMzNF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNWd2JHOWhaQzl6YVdkdVlYUjFjbVZmY0hKbGRtbGxkMTl6YldGc2JBLmh0bWwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIF9Vw0Ln7pU~ylQiJ2Mxah2slm1-pZoSBPuja8Hl0Jq4AiEAxddJN3HFm0XM8JZGOyhClobS1VRH8y12-mmq44IanVA_",
       "status": "archived",
       "bytes": 1724272,
-      "archive_path": "attachments/vaimYuNEIzQsF4JRz3IOIk/12-assistant_message-0_29c9c1911d4ab862_signature_preview_small.html"
+      "archive_path": "attachments/vaimYuNEIzQsF4JRz3IOIk/12-assistant_message-0_9c025de424d896f8_signature_preview_small.html"
     },
     {
       "event_index": 28,
       "type": "image",
       "filename": "sigerror.png",
       "content_type": "image/png",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-83NXeOrbS4FpnCvTOJEmof_na1fn_c2lnZXJyb3I.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC04M05YZU9yYlM0RnBuQ3ZUT0pFbW9mX25hMWZuX2MybG5aWEp5YjNJLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIEYgOSD~3KJZHH~beXq0gKSRso2cNPpwNCH8odGSBTDrAiEA~G4MRcXQAfoVOQPBJo6kh5letxopavbN3H4XeGJZw4o_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-83NXeOrbS4FpnCvTOJEmof_na1fn_c2lnZXJyb3I.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC04M05YZU9yYlM0RnBuQ3ZUT0pFbW9mX25hMWZuX2MybG5aWEp5YjNJLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIFwd6McaahaQWaonoWbvzSYpI~vD4~AD70J3iOtS4vL1AiA8CmwtmonwdZ4ZLsVgSOuD1UEyJvSgCfE~cRMZcbx39A__",
       "status": "archived",
       "bytes": 185258,
-      "archive_path": "attachments/vaimYuNEIzQsF4JRz3IOIk/28-user_message-0_c8c8901161e6fded_sigerror.png"
+      "archive_path": "attachments/vaimYuNEIzQsF4JRz3IOIk/28-user_message-0_f0b6273c85a544b1_sigerror.png"
     }
   ]
 }

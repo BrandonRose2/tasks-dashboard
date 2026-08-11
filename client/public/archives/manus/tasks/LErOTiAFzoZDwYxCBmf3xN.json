@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "archived_at": "2026-08-04T18:28:04.673510Z",
+  "archived_at": "2026-08-11T15:04:53.885823Z",
   "task": {
     "id": "LErOTiAFzoZDwYxCBmf3xN",
     "title": "How to Test and Use ClickUp Connector Features",
@@ -49,7 +49,7 @@
             "content_type": "text/markdown; charset=utf-8",
             "filename": "clickup_connector_test_brief.md",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/LErOTiAFzoZDwYxCBmf3xN/sandbox/SimF0T6fBYw7jzs9Md1wZB_1784067512868_na1fn_L2hvbWUvdWJ1bnR1L2NsaWNrdXBfY29ubmVjdG9yX3Rlc3RfYnJpZWY.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvTEVyT1RpQUZ6b1pEd1l4Q0JtZjN4Ti9zYW5kYm94L1NpbUYwVDZmQll3N2p6czlNZDF3WkJfMTc4NDA2NzUxMjg2OF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOc2FXTnJkWEJmWTI5dWJtVmpkRzl5WDNSbGMzUmZZbkpwWldZLm1kIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCpsnvQAbuMNIzw-GvI1lG9CDl37LTTZSuW-I1jvG2dkwIhALOKMKXp0rS-ypikrUcBpv30QQi~A7EXesmDB1bVRg9z"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/LErOTiAFzoZDwYxCBmf3xN/sandbox/SimF0T6fBYw7jzs9Md1wZB_1784067512868_na1fn_L2hvbWUvdWJ1bnR1L2NsaWNrdXBfY29ubmVjdG9yX3Rlc3RfYnJpZWY.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvTEVyT1RpQUZ6b1pEd1l4Q0JtZjN4Ti9zYW5kYm94L1NpbUYwVDZmQll3N2p6czlNZDF3WkJfMTc4NDA2NzUxMjg2OF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOc2FXTnJkWEJmWTI5dWJtVmpkRzl5WDNSbGMzUmZZbkpwWldZLm1kIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDbf1Dfl-uG0sflnFbz8zzE8Gm6owfpWi30MpfvsrDxogIgZR9WQZziKKp8gm5zv1AhIIROcG5UGYVRitwOSYIp5~o_"
           }
         ],
         "content": "**The ClickUp connector passed the test.** It is enabled and successfully performed read-only workspace discovery, hierarchy retrieval, task search, and direct task lookup.\n\nIt found **3 accessible workspaces**. Representative fetched data included the spaces **Apartment Corp Workspace**, **Team Space**, **Vacancy Report Webapp**, and **PropertyMax.ai**. A task search returned examples such as **Collections** (completed), **Vacancy Report App** (Closed), and **Phone Excellence** (completed).\n\nThe connector currently supports **52 operations**, covering task management, search, comments, attachments, time tracking, folders/lists, workspace members, chat, reminders, custom fields, and ClickUp documents. I made no changes to your account.\n\nI attached a concise report with the test evidence, capability table, and natural-language examples showing how to use the connector."
@@ -75,10 +75,10 @@
       "type": "file",
       "filename": "clickup_connector_test_brief.md",
       "content_type": "text/markdown; charset=utf-8",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/LErOTiAFzoZDwYxCBmf3xN/sandbox/SimF0T6fBYw7jzs9Md1wZB_1784067512868_na1fn_L2hvbWUvdWJ1bnR1L2NsaWNrdXBfY29ubmVjdG9yX3Rlc3RfYnJpZWY.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvTEVyT1RpQUZ6b1pEd1l4Q0JtZjN4Ti9zYW5kYm94L1NpbUYwVDZmQll3N2p6czlNZDF3WkJfMTc4NDA2NzUxMjg2OF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOc2FXTnJkWEJmWTI5dWJtVmpkRzl5WDNSbGMzUmZZbkpwWldZLm1kIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCpsnvQAbuMNIzw-GvI1lG9CDl37LTTZSuW-I1jvG2dkwIhALOKMKXp0rS-ypikrUcBpv30QQi~A7EXesmDB1bVRg9z",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/LErOTiAFzoZDwYxCBmf3xN/sandbox/SimF0T6fBYw7jzs9Md1wZB_1784067512868_na1fn_L2hvbWUvdWJ1bnR1L2NsaWNrdXBfY29ubmVjdG9yX3Rlc3RfYnJpZWY.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvTEVyT1RpQUZ6b1pEd1l4Q0JtZjN4Ti9zYW5kYm94L1NpbUYwVDZmQll3N2p6czlNZDF3WkJfMTc4NDA2NzUxMjg2OF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOc2FXTnJkWEJmWTI5dWJtVmpkRzl5WDNSbGMzUmZZbkpwWldZLm1kIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDbf1Dfl-uG0sflnFbz8zzE8Gm6owfpWi30MpfvsrDxogIgZR9WQZziKKp8gm5zv1AhIIROcG5UGYVRitwOSYIp5~o_",
       "status": "archived",
       "bytes": 5156,
-      "archive_path": "attachments/LErOTiAFzoZDwYxCBmf3xN/3-assistant_message-0_efdcd52e8c45d9fc_clickup_connector_test_brief.md"
+      "archive_path": "attachments/LErOTiAFzoZDwYxCBmf3xN/3-assistant_message-0_ce436f889928ae70_clickup_connector_test_brief.md"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "archived_at": "2026-08-04T18:42:52.969597Z",
+  "archived_at": "2026-08-11T15:27:18.726398Z",
   "task": {
     "id": "OUbcwpqWfEUbhSwI4n66PT",
     "title": "How to Test and Use the ClickUp Connector",
@@ -57,7 +57,7 @@
             "content_type": "text/markdown",
             "filename": "ClickUp_MCP_Report.md",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/OUbcwpqWfEUbhSwI4n66PT/sandbox/IQNi9TtVB82kZoeHNEgCXQ_1776297086768_na1fn_L2hvbWUvdWJ1bnR1L0NsaWNrVXBfTUNQX1JlcG9ydA.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvT1ViY3dwcVdmRVViaFN3STRuNjZQVC9zYW5kYm94L0lRTmk5VHRWQjgya1pvZUhORWdDWFFfMTc3NjI5NzA4Njc2OF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBOc2FXTnJWWEJmVFVOUVgxSmxjRzl5ZEEubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDY5srucgdkT9GbschFZV5-zOLQuMXq0vaBVkdpUP7rYQIhAJ6m61Drwu6PJpez1XG~UM9E~XWcuJl5MfKmoK5Kxc2Y"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/OUbcwpqWfEUbhSwI4n66PT/sandbox/IQNi9TtVB82kZoeHNEgCXQ_1776297086768_na1fn_L2hvbWUvdWJ1bnR1L0NsaWNrVXBfTUNQX1JlcG9ydA.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvT1ViY3dwcVdmRVViaFN3STRuNjZQVC9zYW5kYm94L0lRTmk5VHRWQjgya1pvZUhORWdDWFFfMTc3NjI5NzA4Njc2OF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBOc2FXTnJWWEJmVFVOUVgxSmxjRzl5ZEEubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDnXvXlr4IhGTrMPjSTrDBiEinKGpXQQ~ZGXixpMRw9mAIhAM0OjbXyQY8vFmclE81Ow4ldPsD7OHIUe1P6XAfAY276"
           }
         ],
         "content": "I have completed the testing of the ClickUp MCP connector. I explored its available tools, fetched live data from your workspace (including tasks, documents, and chat channels), and compiled a comprehensive brief of its capabilities. \n\nYou can review the detailed findings and live data samples in the attached report. Let me know if you'd like me to test any specific actions, like creating a task or updating a document!"
@@ -83,10 +83,10 @@
       "type": "file",
       "filename": "ClickUp_MCP_Report.md",
       "content_type": "text/markdown",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/OUbcwpqWfEUbhSwI4n66PT/sandbox/IQNi9TtVB82kZoeHNEgCXQ_1776297086768_na1fn_L2hvbWUvdWJ1bnR1L0NsaWNrVXBfTUNQX1JlcG9ydA.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvT1ViY3dwcVdmRVViaFN3STRuNjZQVC9zYW5kYm94L0lRTmk5VHRWQjgya1pvZUhORWdDWFFfMTc3NjI5NzA4Njc2OF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBOc2FXTnJWWEJmVFVOUVgxSmxjRzl5ZEEubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDY5srucgdkT9GbschFZV5-zOLQuMXq0vaBVkdpUP7rYQIhAJ6m61Drwu6PJpez1XG~UM9E~XWcuJl5MfKmoK5Kxc2Y",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/OUbcwpqWfEUbhSwI4n66PT/sandbox/IQNi9TtVB82kZoeHNEgCXQ_1776297086768_na1fn_L2hvbWUvdWJ1bnR1L0NsaWNrVXBfTUNQX1JlcG9ydA.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvT1ViY3dwcVdmRVViaFN3STRuNjZQVC9zYW5kYm94L0lRTmk5VHRWQjgya1pvZUhORWdDWFFfMTc3NjI5NzA4Njc2OF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBOc2FXTnJWWEJmVFVOUVgxSmxjRzl5ZEEubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDnXvXlr4IhGTrMPjSTrDBiEinKGpXQQ~ZGXixpMRw9mAIhAM0OjbXyQY8vFmclE81Ow4ldPsD7OHIUe1P6XAfAY276",
       "status": "archived",
       "bytes": 4792,
-      "archive_path": "attachments/OUbcwpqWfEUbhSwI4n66PT/4-assistant_message-0_d5330617c74557b3_ClickUp_MCP_Report.md"
+      "archive_path": "attachments/OUbcwpqWfEUbhSwI4n66PT/4-assistant_message-0_a3c1cfaf1e16f3ab_ClickUp_MCP_Report.md"
     }
   ]
 }

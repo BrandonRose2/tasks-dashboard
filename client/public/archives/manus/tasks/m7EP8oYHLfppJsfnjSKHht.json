@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "archived_at": "2026-08-04T18:37:40.091911Z",
+  "archived_at": "2026-08-11T15:18:02.307314Z",
   "task": {
     "id": "m7EP8oYHLfppJsfnjSKHht",
     "title": "Evernote : Export & Organize Notes/Notebooks",
@@ -328,7 +328,7 @@
             "content_type": "image/png",
             "filename": "evernote.png",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-SiFTg4eakvmqEQQk7tLRLL_na1fn_ZXZlcm5vdGU.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1TaUZUZzRlYWt2bXFFUVFrN3RMUkxMX25hMWZuX1pYWmxjbTV2ZEdVLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCnUANCXzS8~TWZbL2qRRAmnAeSozXK1EvPl-mpNWn20AIgE60kAw9CeH8XbTgR9mQNczI2KkLo5KwbUPtW99FtuIs_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-SiFTg4eakvmqEQQk7tLRLL_na1fn_ZXZlcm5vdGU.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1TaUZUZzRlYWt2bXFFUVFrN3RMUkxMX25hMWZuX1pYWmxjbTV2ZEdVLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIH4E8wlHsSmO-tUinUFJn0f8DyJB4l~9dS4a1Gtx2FBVAiEA~rCOCy88~ZJdSeIW8~pqMfSOBygQnUDdzhQlVYOJvN8_"
           }
         ],
         "message_type": "text"
@@ -876,7 +876,7 @@
             "content_type": "application/zip",
             "filename": "evernote_export_20260507.zip",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/m7EP8oYHLfppJsfnjSKHht/sandbox/6manWmydAKsBlaoh96dCy5_1778176261148_na1fn_L2hvbWUvdWJ1bnR1L2V2ZXJub3RlX2V4cG9ydF8yMDI2MDUwNw.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvbTdFUDhvWUhMZnBwSnNmbmpTS0hodC9zYW5kYm94LzZtYW5XbXlkQUtzQmxhb2g5NmRDeTVfMTc3ODE3NjI2MTE0OF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJWMlpYSnViM1JsWDJWNGNHOXlkRjh5TURJMk1EVXdOdy56aXAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIARM0l8vGwhDAdI2lfAMGv~Pu687fB1hwdl89DWsN5mpAiBkd8BBS8QoWNZQH~Zl0oxGfIfm4JKx06jJ2ECh87eitg__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/m7EP8oYHLfppJsfnjSKHht/sandbox/6manWmydAKsBlaoh96dCy5_1778176261148_na1fn_L2hvbWUvdWJ1bnR1L2V2ZXJub3RlX2V4cG9ydF8yMDI2MDUwNw.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvbTdFUDhvWUhMZnBwSnNmbmpTS0hodC9zYW5kYm94LzZtYW5XbXlkQUtzQmxhb2g5NmRDeTVfMTc3ODE3NjI2MTE0OF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJWMlpYSnViM1JsWDJWNGNHOXlkRjh5TURJMk1EVXdOdy56aXAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCmuYrEXvTTY7g5XXgBC64ii2-E9i6LdNAjaGAyvB97YQIhANOWenZeX9CCCgdcUwhnOY3iamO-qk0VFnK4SZpVngT4"
           }
         ],
         "content": "Your Evernote export is complete! Here's a summary of what was exported:\n\n| Stat | Value |\n|------|-------|\n| **Total notebooks** | 102 |\n| **Total notes** | 4,874 |\n| **Successfully exported** | 3,600 unique notes |\n| **Duplicate notes (skipped)** | 1,274 (same note appeared in multiple notebooks) |\n| **Failed** | 0 |\n| **Export time** | 14.1 minutes |\n| **Zip file size** | 2.6 MB (compressed) |\n\n**Structure:** Each notebook is a separate folder inside the zip. Every note is saved as a `.txt` file containing the title, notebook name, note ID, creation/update timestamps, and the full note content (converted from Evernote's ENML format to plain text).\n\n**Notable notebooks:**\n- `marcmen's notebook`: 2,194 notes\n- `Documents Desktop`: 1,945 notes\n- `Handwritten notes`: 256 notes\n- `Boat`: 82 notes\n- `Cars`: 47 notes\n- And 67 more notebooks...\n\nThe zip file is attached below."
@@ -954,7 +954,7 @@
             "content_type": "application/zip",
             "filename": "evernote_categorized_20260507.zip",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/m7EP8oYHLfppJsfnjSKHht/sandbox/WL5GTOUflyg729yOsWbYxG_1778177227079_na1fn_L2hvbWUvdWJ1bnR1L2V2ZXJub3RlX2NhdGVnb3JpemVkXzIwMjYwNTA3.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvbTdFUDhvWUhMZnBwSnNmbmpTS0hodC9zYW5kYm94L1dMNUdUT1VmbHlnNzI5eU9zV2JZeEdfMTc3ODE3NzIyNzA3OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJWMlpYSnViM1JsWDJOaGRHVm5iM0pwZW1Wa1h6SXdNall3TlRBMy56aXAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQC8kXFlHPqIlx7RHPL1EELnyOh9Lm2hKSzJO9HE2mjA~AIhAJEZfz4gr7MD9EHKl~3A~JcKDZD6lTNjS0-2SI6pNN6r"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/m7EP8oYHLfppJsfnjSKHht/sandbox/WL5GTOUflyg729yOsWbYxG_1778177227079_na1fn_L2hvbWUvdWJ1bnR1L2V2ZXJub3RlX2NhdGVnb3JpemVkXzIwMjYwNTA3.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvbTdFUDhvWUhMZnBwSnNmbmpTS0hodC9zYW5kYm94L1dMNUdUT1VmbHlnNzI5eU9zV2JZeEdfMTc3ODE3NzIyNzA3OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJWMlpYSnViM1JsWDJOaGRHVm5iM0pwZW1Wa1h6SXdNall3TlRBMy56aXAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIHWWSGBhCDw690cAVMsNOB~ZI9Ag2SE7fTbn7ww8BMQNAiEApQE22WQyd7iHns5TZNYMufEVBRFFv4ycVqMsXZtnGrg_"
           }
         ],
         "content": "Done! All **3,600 notes** have been categorized into your 9 folders. Here's the breakdown:\n\n| Category | Notes |\n|----------|-------|\n| **Finance** | 207 |\n| **Properties** | 1,976 |\n| **Legal** | 62 |\n| **Tech** | 204 |\n| **Personal** | 593 |\n| **Audio-Video** | 241 |\n| **Software** | 106 |\n| **Banking** | 48 |\n| **Cars** | 163 |\n| **Total** | **3,600** |\n\n**How it was categorized:**\n- Notebooks with clear names (e.g., \"Cars\", \"Livescribe Recordings\", \"Hud Rents RCS\") were mapped directly to their category\n- Notes from the two large catch-all notebooks (\"marcmen's notebook\" with 1,913 notes and \"Documents Desktop\" with 965 notes) were categorized using keyword analysis on their titles and content\n\nThe zip file is attached. Each category is a top-level folder containing all relevant `.txt` note files."
@@ -1016,7 +1016,7 @@
             "content_type": "application/zip",
             "filename": "evernote_categorized_v2_20260507.zip",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/m7EP8oYHLfppJsfnjSKHht/sandbox/CNRLQZlEOggFkyO1FtPHna_1778179545348_na1fn_L2hvbWUvdWJ1bnR1L2V2ZXJub3RlX2NhdGVnb3JpemVkX3YyXzIwMjYwNTA3.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvbTdFUDhvWUhMZnBwSnNmbmpTS0hodC9zYW5kYm94L0NOUkxRWmxFT2dnRmt5TzFGdFBIbmFfMTc3ODE3OTU0NTM0OF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJWMlpYSnViM1JsWDJOaGRHVm5iM0pwZW1Wa1gzWXlYekl3TWpZd05UQTMuemlwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQD5zw~JWmrJHH-TG4UoScIiy5L4vPKatlbQx2e5prVpEgIgUaSe~HwAvXKDGxzhzAlHl3WkUZPwUjbGuuosCvoQ5TU_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/m7EP8oYHLfppJsfnjSKHht/sandbox/CNRLQZlEOggFkyO1FtPHna_1778179545348_na1fn_L2hvbWUvdWJ1bnR1L2V2ZXJub3RlX2NhdGVnb3JpemVkX3YyXzIwMjYwNTA3.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvbTdFUDhvWUhMZnBwSnNmbmpTS0hodC9zYW5kYm94L0NOUkxRWmxFT2dnRmt5TzFGdFBIbmFfMTc3ODE3OTU0NTM0OF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJWMlpYSnViM1JsWDJOaGRHVm5iM0pwZW1Wa1gzWXlYekl3TWpZd05UQTMuemlwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCresMk7k65Ghe22-O1EpKo2zoJeZ4~MwcMotQWgUtkSQIhAOVNkZdINnaqvWDzm~Z5pquu6Of7qQaEyBeZ7gTcJiju"
           }
         ],
         "content": "Here is your updated zip with all 10 folders including the new **Boat-Yacht-Tycoon** category:\n\n| Category | Notes |\n|----------|-------|\n| **Finance** | 206 |\n| **Properties** | 1,968 |\n| **Legal** | 62 |\n| **Tech** | 203 |\n| **Personal** | 482 |\n| **Audio-Video** | 242 |\n| **Software** | 106 |\n| **Banking** | 49 |\n| **Cars** | 162 |\n| **Boat-Yacht-Tycoon** | 120 |\n\nThe Boat-Yacht-Tycoon folder correctly captured notes like \"Tycoon Insurance\", \"Bareboat Charter Agmt\", \"TYCOON - RINA Reinstatement of Class\", \"Yacht Insurance\", \"Miami International Boat Show\", and more — pulled from both the dedicated Boat notebook and keyword matches across other notebooks."
@@ -2059,13 +2059,13 @@
             "content_type": "application/pdf",
             "filename": "evernote_reorganization_report.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/m7EP8oYHLfppJsfnjSKHht/sandbox/muoLrLvAuD3xSQwoM5GukE_1778199892270_na1fn_L2hvbWUvdWJ1bnR1L2V2ZXJub3RlX3Jlb3JnYW5pemF0aW9uX3JlcG9ydA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvbTdFUDhvWUhMZnBwSnNmbmpTS0hodC9zYW5kYm94L211b0xyTHZBdUQzeFNRd29NNUd1a0VfMTc3ODE5OTg5MjI3MF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJWMlpYSnViM1JsWDNKbGIzSm5ZVzVwZW1GMGFXOXVYM0psY0c5eWRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDd2hN-1QcHh70cNhA66QHNtWAdIPpZQxAK~Zp5q9GwHAIhALmLN7njIxCx6R895b~LOpeYdDV2Muz6yQpkMEgpNkJZ"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/m7EP8oYHLfppJsfnjSKHht/sandbox/muoLrLvAuD3xSQwoM5GukE_1778199892270_na1fn_L2hvbWUvdWJ1bnR1L2V2ZXJub3RlX3Jlb3JnYW5pemF0aW9uX3JlcG9ydA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvbTdFUDhvWUhMZnBwSnNmbmpTS0hodC9zYW5kYm94L211b0xyTHZBdUQzeFNRd29NNUd1a0VfMTc3ODE5OTg5MjI3MF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJWMlpYSnViM1JsWDNKbGIzSm5ZVzVwZW1GMGFXOXVYM0psY0c5eWRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIGnVj3J8tKf4oVAqovjfqIeW780-KyIuFgQIUZEmUMeLAiA2cNWegqoeXG4p0FuBKeIChNEV6ah7-j5W2OVaWCZtjw__"
           },
           {
             "content_type": "text/markdown",
             "filename": "evernote_reorganization_report.md",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/m7EP8oYHLfppJsfnjSKHht/sandbox/muoLrLvAuD3xSQwoM5GukE_1778199892270_na1fn_L2hvbWUvdWJ1bnR1L2V2ZXJub3RlX3Jlb3JnYW5pemF0aW9uX3JlcG9ydA.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvbTdFUDhvWUhMZnBwSnNmbmpTS0hodC9zYW5kYm94L211b0xyTHZBdUQzeFNRd29NNUd1a0VfMTc3ODE5OTg5MjI3MF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJWMlpYSnViM1JsWDNKbGIzSm5ZVzVwZW1GMGFXOXVYM0psY0c5eWRBLm1kIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDWwRdK9NqfqLTf2V6tJPJqMz-beB1qZkciAJGgaEWSRAIhAOqxC2C2KKKb8s2gWtQ-Lv6LUxWt~b5ZxTqKX-AczwRU"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/m7EP8oYHLfppJsfnjSKHht/sandbox/muoLrLvAuD3xSQwoM5GukE_1778199892270_na1fn_L2hvbWUvdWJ1bnR1L2V2ZXJub3RlX3Jlb3JnYW5pemF0aW9uX3JlcG9ydA.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvbTdFUDhvWUhMZnBwSnNmbmpTS0hodC9zYW5kYm94L211b0xyTHZBdUQzeFNRd29NNUd1a0VfMTc3ODE5OTg5MjI3MF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJWMlpYSnViM1JsWDNKbGIzSm5ZVzVwZW1GMGFXOXVYM0psY0c5eWRBLm1kIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIBmqWlJs6vxTp~q8Y5Z8u1y746oUZBE12kmr8Gy77xNQAiA8onOSwpRR2shaog8ob~7GQ3gCJANooird38~7bPQJww__"
           }
         ],
         "content": "I've generated a detailed report of all the notes being reorganized. \n\nThe report includes:\n- A summary of the overall progress (currently at 500 notes moved in the live Evernote account)\n- A breakdown of the 3,600 categorized notes by category\n- A detailed list of every single note, organized by its new category and showing which original notebook it came from\n\nThe reorganization process is still running in the background and will continue until all 4,874 notes are processed. You can review the attached PDF or Markdown report to see exactly where every note is being placed!"
@@ -2163,13 +2163,13 @@
             "content_type": "application/zip",
             "filename": "evernote_categorized_v2_20260507.zip",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/m7EP8oYHLfppJsfnjSKHht/sandbox/3aP31XoZj9EFAJCWUoDytt_1778209161677_na1fn_L2hvbWUvdWJ1bnR1L2V2ZXJub3RlX2NhdGVnb3JpemVkX3YyXzIwMjYwNTA3.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvbTdFUDhvWUhMZnBwSnNmbmpTS0hodC9zYW5kYm94LzNhUDMxWG9aajlFRkFKQ1dVb0R5dHRfMTc3ODIwOTE2MTY3N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJWMlpYSnViM1JsWDJOaGRHVm5iM0pwZW1Wa1gzWXlYekl3TWpZd05UQTMuemlwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIBnuBZvWvMbh8grbKcnwOH0IrUwZrYx5N91BThExqk-0AiEAjJYt5Hc635D-6KCvH7X26quiJaybG-R~bAOeVM4eWbc_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/m7EP8oYHLfppJsfnjSKHht/sandbox/3aP31XoZj9EFAJCWUoDytt_1778209161677_na1fn_L2hvbWUvdWJ1bnR1L2V2ZXJub3RlX2NhdGVnb3JpemVkX3YyXzIwMjYwNTA3.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvbTdFUDhvWUhMZnBwSnNmbmpTS0hodC9zYW5kYm94LzNhUDMxWG9aajlFRkFKQ1dVb0R5dHRfMTc3ODIwOTE2MTY3N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJWMlpYSnViM1JsWDJOaGRHVm5iM0pwZW1Wa1gzWXlYekl3TWpZd05UQTMuemlwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCRSfl~9EWnuxrQPy69Gyo~BHXikE4Lv4RrgHQgAAkUCwIgAwDhckXu8qUgJG0clLOHnzpXH0IbZkwuJ3gjD8fVFag_"
           },
           {
             "content_type": "application/zip",
             "filename": "evernote_export_20260507.zip",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/m7EP8oYHLfppJsfnjSKHht/sandbox/3aP31XoZj9EFAJCWUoDytt_1778209161677_na1fn_L2hvbWUvdWJ1bnR1L2V2ZXJub3RlX2V4cG9ydF8yMDI2MDUwNw.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvbTdFUDhvWUhMZnBwSnNmbmpTS0hodC9zYW5kYm94LzNhUDMxWG9aajlFRkFKQ1dVb0R5dHRfMTc3ODIwOTE2MTY3N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJWMlpYSnViM1JsWDJWNGNHOXlkRjh5TURJMk1EVXdOdy56aXAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCYUQDGrySHAhk49YlwNyE4hzVEjCftRxhEFLhUmC7HUgIgEE2EDiI883ESoXqpW0nWxLP3jkYiQWIu3jC1ccB0Z~A_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/m7EP8oYHLfppJsfnjSKHht/sandbox/3aP31XoZj9EFAJCWUoDytt_1778209161677_na1fn_L2hvbWUvdWJ1bnR1L2V2ZXJub3RlX2V4cG9ydF8yMDI2MDUwNw.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvbTdFUDhvWUhMZnBwSnNmbmpTS0hodC9zYW5kYm94LzNhUDMxWG9aajlFRkFKQ1dVb0R5dHRfMTc3ODIwOTE2MTY3N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJWMlpYSnViM1JsWDJWNGNHOXlkRjh5TURJMk1EVXdOdy56aXAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIGBzbVknuBuhZZYWSLWqt2FSYYO-I2DbAznXmm9ZSLhkAiEAlI1gB4Dqlz9BjjmTc4eYMwFzaddddfqQmsgJIDZEEow_"
           }
         ],
         "content": "Here are both zip files:\n\n1. **evernote_categorized_v2_20260507.zip** (2.4 MB) — All 3,600 notes organized into the 10 category folders (Finance, Properties, Legal, Tech, Personal, Audio-Video, Software, Banking, Cars, Boat-Yacht-Tycoon). This is the most recent version.\n\n2. **evernote_export_20260507.zip** (2.6 MB) — The original raw export with all 3,600 notes organized by their original Evernote notebook names (80 folders)."
@@ -2195,80 +2195,80 @@
       "type": "image",
       "filename": "evernote.png",
       "content_type": "image/png",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-SiFTg4eakvmqEQQk7tLRLL_na1fn_ZXZlcm5vdGU.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1TaUZUZzRlYWt2bXFFUVFrN3RMUkxMX25hMWZuX1pYWmxjbTV2ZEdVLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCnUANCXzS8~TWZbL2qRRAmnAeSozXK1EvPl-mpNWn20AIgE60kAw9CeH8XbTgR9mQNczI2KkLo5KwbUPtW99FtuIs_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-SiFTg4eakvmqEQQk7tLRLL_na1fn_ZXZlcm5vdGU.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1TaUZUZzRlYWt2bXFFUVFrN3RMUkxMX25hMWZuX1pYWmxjbTV2ZEdVLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIH4E8wlHsSmO-tUinUFJn0f8DyJB4l~9dS4a1Gtx2FBVAiEA~rCOCy88~ZJdSeIW8~pqMfSOBygQnUDdzhQlVYOJvN8_",
       "status": "archived",
       "bytes": 55351,
-      "archive_path": "attachments/m7EP8oYHLfppJsfnjSKHht/31-user_message-0_01dedc81a39e5445_evernote.png"
+      "archive_path": "attachments/m7EP8oYHLfppJsfnjSKHht/31-user_message-0_d35d88a5d74052d4_evernote.png"
     },
     {
       "event_index": 89,
       "type": "file",
       "filename": "evernote_export_20260507.zip",
       "content_type": "application/zip",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/m7EP8oYHLfppJsfnjSKHht/sandbox/6manWmydAKsBlaoh96dCy5_1778176261148_na1fn_L2hvbWUvdWJ1bnR1L2V2ZXJub3RlX2V4cG9ydF8yMDI2MDUwNw.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvbTdFUDhvWUhMZnBwSnNmbmpTS0hodC9zYW5kYm94LzZtYW5XbXlkQUtzQmxhb2g5NmRDeTVfMTc3ODE3NjI2MTE0OF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJWMlpYSnViM1JsWDJWNGNHOXlkRjh5TURJMk1EVXdOdy56aXAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIARM0l8vGwhDAdI2lfAMGv~Pu687fB1hwdl89DWsN5mpAiBkd8BBS8QoWNZQH~Zl0oxGfIfm4JKx06jJ2ECh87eitg__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/m7EP8oYHLfppJsfnjSKHht/sandbox/6manWmydAKsBlaoh96dCy5_1778176261148_na1fn_L2hvbWUvdWJ1bnR1L2V2ZXJub3RlX2V4cG9ydF8yMDI2MDUwNw.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvbTdFUDhvWUhMZnBwSnNmbmpTS0hodC9zYW5kYm94LzZtYW5XbXlkQUtzQmxhb2g5NmRDeTVfMTc3ODE3NjI2MTE0OF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJWMlpYSnViM1JsWDJWNGNHOXlkRjh5TURJMk1EVXdOdy56aXAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCmuYrEXvTTY7g5XXgBC64ii2-E9i6LdNAjaGAyvB97YQIhANOWenZeX9CCCgdcUwhnOY3iamO-qk0VFnK4SZpVngT4",
       "status": "archived",
       "bytes": 2688594,
-      "archive_path": "attachments/m7EP8oYHLfppJsfnjSKHht/89-assistant_message-0_38a04787640e8f98_evernote_export_20260507.zip"
+      "archive_path": "attachments/m7EP8oYHLfppJsfnjSKHht/89-assistant_message-0_7d500eb3896d7a83_evernote_export_20260507.zip"
     },
     {
       "event_index": 97,
       "type": "file",
       "filename": "evernote_categorized_20260507.zip",
       "content_type": "application/zip",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/m7EP8oYHLfppJsfnjSKHht/sandbox/WL5GTOUflyg729yOsWbYxG_1778177227079_na1fn_L2hvbWUvdWJ1bnR1L2V2ZXJub3RlX2NhdGVnb3JpemVkXzIwMjYwNTA3.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvbTdFUDhvWUhMZnBwSnNmbmpTS0hodC9zYW5kYm94L1dMNUdUT1VmbHlnNzI5eU9zV2JZeEdfMTc3ODE3NzIyNzA3OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJWMlpYSnViM1JsWDJOaGRHVm5iM0pwZW1Wa1h6SXdNall3TlRBMy56aXAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQC8kXFlHPqIlx7RHPL1EELnyOh9Lm2hKSzJO9HE2mjA~AIhAJEZfz4gr7MD9EHKl~3A~JcKDZD6lTNjS0-2SI6pNN6r",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/m7EP8oYHLfppJsfnjSKHht/sandbox/WL5GTOUflyg729yOsWbYxG_1778177227079_na1fn_L2hvbWUvdWJ1bnR1L2V2ZXJub3RlX2NhdGVnb3JpemVkXzIwMjYwNTA3.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvbTdFUDhvWUhMZnBwSnNmbmpTS0hodC9zYW5kYm94L1dMNUdUT1VmbHlnNzI5eU9zV2JZeEdfMTc3ODE3NzIyNzA3OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJWMlpYSnViM1JsWDJOaGRHVm5iM0pwZW1Wa1h6SXdNall3TlRBMy56aXAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIHWWSGBhCDw690cAVMsNOB~ZI9Ag2SE7fTbn7ww8BMQNAiEApQE22WQyd7iHns5TZNYMufEVBRFFv4ycVqMsXZtnGrg_",
       "status": "archived",
       "bytes": 2449556,
-      "archive_path": "attachments/m7EP8oYHLfppJsfnjSKHht/97-assistant_message-0_d6fc865723f20cb8_evernote_categorized_20260507.zip"
+      "archive_path": "attachments/m7EP8oYHLfppJsfnjSKHht/97-assistant_message-0_189b6f424a927261_evernote_categorized_20260507.zip"
     },
     {
       "event_index": 103,
       "type": "file",
       "filename": "evernote_categorized_v2_20260507.zip",
       "content_type": "application/zip",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/m7EP8oYHLfppJsfnjSKHht/sandbox/CNRLQZlEOggFkyO1FtPHna_1778179545348_na1fn_L2hvbWUvdWJ1bnR1L2V2ZXJub3RlX2NhdGVnb3JpemVkX3YyXzIwMjYwNTA3.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvbTdFUDhvWUhMZnBwSnNmbmpTS0hodC9zYW5kYm94L0NOUkxRWmxFT2dnRmt5TzFGdFBIbmFfMTc3ODE3OTU0NTM0OF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJWMlpYSnViM1JsWDJOaGRHVm5iM0pwZW1Wa1gzWXlYekl3TWpZd05UQTMuemlwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQD5zw~JWmrJHH-TG4UoScIiy5L4vPKatlbQx2e5prVpEgIgUaSe~HwAvXKDGxzhzAlHl3WkUZPwUjbGuuosCvoQ5TU_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/m7EP8oYHLfppJsfnjSKHht/sandbox/CNRLQZlEOggFkyO1FtPHna_1778179545348_na1fn_L2hvbWUvdWJ1bnR1L2V2ZXJub3RlX2NhdGVnb3JpemVkX3YyXzIwMjYwNTA3.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvbTdFUDhvWUhMZnBwSnNmbmpTS0hodC9zYW5kYm94L0NOUkxRWmxFT2dnRmt5TzFGdFBIbmFfMTc3ODE3OTU0NTM0OF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJWMlpYSnViM1JsWDJOaGRHVm5iM0pwZW1Wa1gzWXlYekl3TWpZd05UQTMuemlwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCresMk7k65Ghe22-O1EpKo2zoJeZ4~MwcMotQWgUtkSQIhAOVNkZdINnaqvWDzm~Z5pquu6Of7qQaEyBeZ7gTcJiju",
       "status": "archived",
       "bytes": 2451906,
-      "archive_path": "attachments/m7EP8oYHLfppJsfnjSKHht/103-assistant_message-0_39f91a02a6c622ce_evernote_categorized_v2_20260507.zip"
+      "archive_path": "attachments/m7EP8oYHLfppJsfnjSKHht/103-assistant_message-0_7ccae60105432bd8_evernote_categorized_v2_20260507.zip"
     },
     {
       "event_index": 215,
       "type": "file",
       "filename": "evernote_reorganization_report.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/m7EP8oYHLfppJsfnjSKHht/sandbox/muoLrLvAuD3xSQwoM5GukE_1778199892270_na1fn_L2hvbWUvdWJ1bnR1L2V2ZXJub3RlX3Jlb3JnYW5pemF0aW9uX3JlcG9ydA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvbTdFUDhvWUhMZnBwSnNmbmpTS0hodC9zYW5kYm94L211b0xyTHZBdUQzeFNRd29NNUd1a0VfMTc3ODE5OTg5MjI3MF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJWMlpYSnViM1JsWDNKbGIzSm5ZVzVwZW1GMGFXOXVYM0psY0c5eWRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDd2hN-1QcHh70cNhA66QHNtWAdIPpZQxAK~Zp5q9GwHAIhALmLN7njIxCx6R895b~LOpeYdDV2Muz6yQpkMEgpNkJZ",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/m7EP8oYHLfppJsfnjSKHht/sandbox/muoLrLvAuD3xSQwoM5GukE_1778199892270_na1fn_L2hvbWUvdWJ1bnR1L2V2ZXJub3RlX3Jlb3JnYW5pemF0aW9uX3JlcG9ydA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvbTdFUDhvWUhMZnBwSnNmbmpTS0hodC9zYW5kYm94L211b0xyTHZBdUQzeFNRd29NNUd1a0VfMTc3ODE5OTg5MjI3MF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJWMlpYSnViM1JsWDNKbGIzSm5ZVzVwZW1GMGFXOXVYM0psY0c5eWRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIGnVj3J8tKf4oVAqovjfqIeW780-KyIuFgQIUZEmUMeLAiA2cNWegqoeXG4p0FuBKeIChNEV6ah7-j5W2OVaWCZtjw__",
       "status": "archived",
       "bytes": 619759,
-      "archive_path": "attachments/m7EP8oYHLfppJsfnjSKHht/215-assistant_message-0_93c6ceb218018e14_evernote_reorganization_report.pdf"
+      "archive_path": "attachments/m7EP8oYHLfppJsfnjSKHht/215-assistant_message-0_a77013aacc55753b_evernote_reorganization_report.pdf"
     },
     {
       "event_index": 215,
       "type": "file",
       "filename": "evernote_reorganization_report.md",
       "content_type": "text/markdown",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/m7EP8oYHLfppJsfnjSKHht/sandbox/muoLrLvAuD3xSQwoM5GukE_1778199892270_na1fn_L2hvbWUvdWJ1bnR1L2V2ZXJub3RlX3Jlb3JnYW5pemF0aW9uX3JlcG9ydA.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvbTdFUDhvWUhMZnBwSnNmbmpTS0hodC9zYW5kYm94L211b0xyTHZBdUQzeFNRd29NNUd1a0VfMTc3ODE5OTg5MjI3MF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJWMlpYSnViM1JsWDNKbGIzSm5ZVzVwZW1GMGFXOXVYM0psY0c5eWRBLm1kIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDWwRdK9NqfqLTf2V6tJPJqMz-beB1qZkciAJGgaEWSRAIhAOqxC2C2KKKb8s2gWtQ-Lv6LUxWt~b5ZxTqKX-AczwRU",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/m7EP8oYHLfppJsfnjSKHht/sandbox/muoLrLvAuD3xSQwoM5GukE_1778199892270_na1fn_L2hvbWUvdWJ1bnR1L2V2ZXJub3RlX3Jlb3JnYW5pemF0aW9uX3JlcG9ydA.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvbTdFUDhvWUhMZnBwSnNmbmpTS0hodC9zYW5kYm94L211b0xyTHZBdUQzeFNRd29NNUd1a0VfMTc3ODE5OTg5MjI3MF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJWMlpYSnViM1JsWDNKbGIzSm5ZVzVwZW1GMGFXOXVYM0psY0c5eWRBLm1kIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIBmqWlJs6vxTp~q8Y5Z8u1y746oUZBE12kmr8Gy77xNQAiA8onOSwpRR2shaog8ob~7GQ3gCJANooird38~7bPQJww__",
       "status": "archived",
       "bytes": 194834,
-      "archive_path": "attachments/m7EP8oYHLfppJsfnjSKHht/215-assistant_message-1_317d039bdbfe61e9_evernote_reorganization_report.md"
+      "archive_path": "attachments/m7EP8oYHLfppJsfnjSKHht/215-assistant_message-1_cefd2d54d98b875b_evernote_reorganization_report.md"
     },
     {
       "event_index": 225,
       "type": "file",
       "filename": "evernote_categorized_v2_20260507.zip",
       "content_type": "application/zip",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/m7EP8oYHLfppJsfnjSKHht/sandbox/3aP31XoZj9EFAJCWUoDytt_1778209161677_na1fn_L2hvbWUvdWJ1bnR1L2V2ZXJub3RlX2NhdGVnb3JpemVkX3YyXzIwMjYwNTA3.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvbTdFUDhvWUhMZnBwSnNmbmpTS0hodC9zYW5kYm94LzNhUDMxWG9aajlFRkFKQ1dVb0R5dHRfMTc3ODIwOTE2MTY3N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJWMlpYSnViM1JsWDJOaGRHVm5iM0pwZW1Wa1gzWXlYekl3TWpZd05UQTMuemlwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIBnuBZvWvMbh8grbKcnwOH0IrUwZrYx5N91BThExqk-0AiEAjJYt5Hc635D-6KCvH7X26quiJaybG-R~bAOeVM4eWbc_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/m7EP8oYHLfppJsfnjSKHht/sandbox/3aP31XoZj9EFAJCWUoDytt_1778209161677_na1fn_L2hvbWUvdWJ1bnR1L2V2ZXJub3RlX2NhdGVnb3JpemVkX3YyXzIwMjYwNTA3.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvbTdFUDhvWUhMZnBwSnNmbmpTS0hodC9zYW5kYm94LzNhUDMxWG9aajlFRkFKQ1dVb0R5dHRfMTc3ODIwOTE2MTY3N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJWMlpYSnViM1JsWDJOaGRHVm5iM0pwZW1Wa1gzWXlYekl3TWpZd05UQTMuemlwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCRSfl~9EWnuxrQPy69Gyo~BHXikE4Lv4RrgHQgAAkUCwIgAwDhckXu8qUgJG0clLOHnzpXH0IbZkwuJ3gjD8fVFag_",
       "status": "archived",
       "bytes": 2451906,
-      "archive_path": "attachments/m7EP8oYHLfppJsfnjSKHht/225-assistant_message-0_8286353d3a21f040_evernote_categorized_v2_20260507.zip"
+      "archive_path": "attachments/m7EP8oYHLfppJsfnjSKHht/225-assistant_message-0_13d8297fb37a3465_evernote_categorized_v2_20260507.zip"
     },
     {
       "event_index": 225,
       "type": "file",
       "filename": "evernote_export_20260507.zip",
       "content_type": "application/zip",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/m7EP8oYHLfppJsfnjSKHht/sandbox/3aP31XoZj9EFAJCWUoDytt_1778209161677_na1fn_L2hvbWUvdWJ1bnR1L2V2ZXJub3RlX2V4cG9ydF8yMDI2MDUwNw.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvbTdFUDhvWUhMZnBwSnNmbmpTS0hodC9zYW5kYm94LzNhUDMxWG9aajlFRkFKQ1dVb0R5dHRfMTc3ODIwOTE2MTY3N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJWMlpYSnViM1JsWDJWNGNHOXlkRjh5TURJMk1EVXdOdy56aXAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCYUQDGrySHAhk49YlwNyE4hzVEjCftRxhEFLhUmC7HUgIgEE2EDiI883ESoXqpW0nWxLP3jkYiQWIu3jC1ccB0Z~A_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/m7EP8oYHLfppJsfnjSKHht/sandbox/3aP31XoZj9EFAJCWUoDytt_1778209161677_na1fn_L2hvbWUvdWJ1bnR1L2V2ZXJub3RlX2V4cG9ydF8yMDI2MDUwNw.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvbTdFUDhvWUhMZnBwSnNmbmpTS0hodC9zYW5kYm94LzNhUDMxWG9aajlFRkFKQ1dVb0R5dHRfMTc3ODIwOTE2MTY3N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJWMlpYSnViM1JsWDJWNGNHOXlkRjh5TURJMk1EVXdOdy56aXAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIGBzbVknuBuhZZYWSLWqt2FSYYO-I2DbAznXmm9ZSLhkAiEAlI1gB4Dqlz9BjjmTc4eYMwFzaddddfqQmsgJIDZEEow_",
       "status": "archived",
       "bytes": 2688594,
-      "archive_path": "attachments/m7EP8oYHLfppJsfnjSKHht/225-assistant_message-1_1a1e2cc705188d9a_evernote_export_20260507.zip"
+      "archive_path": "attachments/m7EP8oYHLfppJsfnjSKHht/225-assistant_message-1_d12eb1614e0e2ef1_evernote_export_20260507.zip"
     }
   ]
 }

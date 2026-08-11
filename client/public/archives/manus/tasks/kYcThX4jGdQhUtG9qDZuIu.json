@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-11T15:01:50.520049Z",
+  "task": {
+    "id": "kYcThX4jGdQhUtG9qDZuIu",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 29,
+    "created_at": "1786394432",
+    "updated_at": "1786394452",
+    "task_url": "https://manus.im/app/kYcThX4jGdQhUtG9qDZuIu",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "RCB4r4dDFUQgnWuK8OqH1K",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786394433279",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "The Form 1065 PDF for Silver_Springs_Housing_LP_2021.pdf has been successfully audited. Pages 1, 4, and 5 were inspected, confirming that Item F on page 1, Schedule K on page 4, and Schedules L/M-1/M-2 on page 5 are fully redacted with no exposed financial figures."
+      },
+      "id": "uYHfOXmieCnOF2MK5anvBJ",
+      "timestamp": "1786394452687",
+      "type": "assistant_message"
+    },
+    {
+      "id": "zjXPXbA6Pcy0H7QUM1Uaer",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786394452859",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

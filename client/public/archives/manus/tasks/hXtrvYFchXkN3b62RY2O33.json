@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "archived_at": "2026-08-04T18:29:07.360841Z",
+  "archived_at": "2026-08-11T15:06:29.622007Z",
   "task": {
     "id": "hXtrvYFchXkN3b62RY2O33",
     "title": "Build and Deploy REST API for SharePoint Excel Rental Data",
@@ -25,7 +25,7 @@
             "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
             "filename": "UpToDateRentComps-Copy.xlsx",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/ZOzU53GX4sDuLRUrx7WaJ5_1782498418249_na1fn_L2hvbWUvdWJ1bnR1L3VwbG9hZC9VcFRvRGF0ZVJlbnRDb21wcy1Db3B5.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L1pPelU1M0dYNHNEdUxSVXJ4N1dhSjVfMTc4MjQ5ODQxODI0OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNWd2JHOWhaQzlWY0ZSdlJHRjBaVkpsYm5SRGIyMXdjeTFEYjNCNS54bHN4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCExPgAr6q9NbBhI2YO8wTa4i6mB69L9SpeMAIwNN49QAIgfiF0jns~bTKr4Vq7Gr3RW~l5WjU6pGMBFw9imPmjPMA_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/ZOzU53GX4sDuLRUrx7WaJ5_1782498418249_na1fn_L2hvbWUvdWJ1bnR1L3VwbG9hZC9VcFRvRGF0ZVJlbnRDb21wcy1Db3B5.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L1pPelU1M0dYNHNEdUxSVXJ4N1dhSjVfMTc4MjQ5ODQxODI0OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNWd2JHOWhaQzlWY0ZSdlJHRjBaVkpsYm5SRGIyMXdjeTFEYjNCNS54bHN4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQD-BtV8-xMQlYJg1lFNdAy1PL-EVErXvUlg5DOsGmFHgQIhALI3my~3tFeV-B6cpsHp7jIT1orRk8MlZsPBsLxilhiE"
           }
         ],
         "content": "Build and deploy a live REST API that reads and writes to a SharePoint Excel file containing rental comp data.\n\nSharePoint/Azure credentials:\n- Tenant ID: bd9ccf0d-36e1-4e75-bcb9-76ea9c3f4a6a\n- Client ID: f336fb24-86b6-46e1-8b5f-2ced3ff2dc17\n- Client Secret: cs18Q~dvtheeKrGB8xhK3eEmWy.DAayj~VcracdO\n\nThe SharePoint file is at: aptrents-my.sharepoint.com, user: brandon@apartmentcorp.com, file: UpToDateRentComps.xlsx\n\nThe Excel file structure:\n- INDEX sheet listing all 43 properties (columns: #, Property Name, City/State, Year Built, Units, Program, Sheet Name, Bedroom Mix)\n- Each property has its own sheet with competitive rent analysis (affordable comps in green, market rate comps in blue)\n- Properties are Section 8/HUD and LIHTC affordable housing across FL, MS, OH, CA, LA, etc.\n\nBuild these API endpoints:\n- GET /properties — list all properties from the INDEX sheet\n- GET /properties/:id — get details for a specific property\n- GET /properties/:id/comps — get the rent comps for a property (affordable + market rate)\n- GET /comps/search?city=&bedrooms=&program= — search comps across all properties\n- GET /summary — portfolio-wide summary stats\n- POST /properties/:id/comps — add a new comp to a property\n- PUT /properties/:id/comps/:compId — update an existing comp\n- DELETE /properties/:id/comps/:compId — remove a comp\n\nUse Microsoft Graph API to read/write the SharePoint Excel file directly. Deploy as a live web service.\n\nI've attached the Excel file so you can see the exact structure.",
@@ -297,10 +297,10 @@
       "type": "file",
       "filename": "UpToDateRentComps-Copy.xlsx",
       "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/ZOzU53GX4sDuLRUrx7WaJ5_1782498418249_na1fn_L2hvbWUvdWJ1bnR1L3VwbG9hZC9VcFRvRGF0ZVJlbnRDb21wcy1Db3B5.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L1pPelU1M0dYNHNEdUxSVXJ4N1dhSjVfMTc4MjQ5ODQxODI0OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNWd2JHOWhaQzlWY0ZSdlJHRjBaVkpsYm5SRGIyMXdjeTFEYjNCNS54bHN4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCExPgAr6q9NbBhI2YO8wTa4i6mB69L9SpeMAIwNN49QAIgfiF0jns~bTKr4Vq7Gr3RW~l5WjU6pGMBFw9imPmjPMA_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/ZOzU53GX4sDuLRUrx7WaJ5_1782498418249_na1fn_L2hvbWUvdWJ1bnR1L3VwbG9hZC9VcFRvRGF0ZVJlbnRDb21wcy1Db3B5.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L1pPelU1M0dYNHNEdUxSVXJ4N1dhSjVfMTc4MjQ5ODQxODI0OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNWd2JHOWhaQzlWY0ZSdlJHRjBaVkpsYm5SRGIyMXdjeTFEYjNCNS54bHN4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQD-BtV8-xMQlYJg1lFNdAy1PL-EVErXvUlg5DOsGmFHgQIhALI3my~3tFeV-B6cpsHp7jIT1orRk8MlZsPBsLxilhiE",
       "status": "archived",
       "bytes": 478288,
-      "archive_path": "attachments/hXtrvYFchXkN3b62RY2O33/0-user_message-0_7530909e633bed90_UpToDateRentComps-Copy.xlsx"
+      "archive_path": "attachments/hXtrvYFchXkN3b62RY2O33/0-user_message-0_a05acb0bf7d955c0_UpToDateRentComps-Copy.xlsx"
     }
   ]
 }

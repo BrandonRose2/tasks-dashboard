@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-11T15:01:59.513848Z",
+  "task": {
+    "id": "0M7ybe8qOtjJ4x5K99liv8",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 45,
+    "created_at": "1786394410",
+    "updated_at": "1786394432",
+    "task_url": "https://manus.im/app/0M7ybe8qOtjJ4x5K99liv8",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "3T481HpXgVGkC3FihxLsGj",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786394410612",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Audited Marrero_3_LP_2020.pdf pages 1, 4, and 5 successfully. No financial figures are exposed in the required redaction scopes."
+      },
+      "id": "gB9u9Pih3ArCVsLY1rcfY9",
+      "timestamp": "1786394432580",
+      "type": "assistant_message"
+    },
+    {
+      "id": "2oHn92Po6L7wWjyhqFSoFy",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786394432713",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

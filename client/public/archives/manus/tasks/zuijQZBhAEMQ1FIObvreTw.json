@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "archived_at": "2026-08-04T18:33:46.000794Z",
+  "archived_at": "2026-08-11T15:12:25.212926Z",
   "task": {
     "id": "zuijQZBhAEMQ1FIObvreTw",
     "title": "How to Install and Deploy Listed Tools and Adapters",
@@ -65,91 +65,91 @@
             "content_type": "application/octet-stream",
             "filename": "academic-research-skills-adapter.skill",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9hY2FkZW1pYy1yZXNlYXJjaC1za2lsbHMtYWRhcHRlcg.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5aFkyRmtaVzFwWXkxeVpYTmxZWEpqYUMxemEybHNiSE10WVdSaGNIUmxjZy5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIA4pdhqypetLcKIvLmpead1qVTIUE6cnQsDzJnl8mt4tAiEA8Nl9~YGWCA9bI5ANfKfxGD7mFLA6yCtHpIIH5coMl5Q_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9hY2FkZW1pYy1yZXNlYXJjaC1za2lsbHMtYWRhcHRlcg.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5aFkyRmtaVzFwWXkxeVpYTmxZWEpqYUMxemEybHNiSE10WVdSaGNIUmxjZy5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDhDdvhRy924nJqlvQ3fM6Lpshck~SyLB6pqpFYqbFsFQIhAM20vhozTTqKfohddD-c3s5RXSuwhV6ETNEFeETM3lNQ"
           },
           {
             "content_type": "application/octet-stream",
             "filename": "anthropic-skills-reference.skill",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9hbnRocm9waWMtc2tpbGxzLXJlZmVyZW5jZQ.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5aGJuUm9jbTl3YVdNdGMydHBiR3h6TFhKbFptVnlaVzVqWlEuc2tpbGwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIAwTUxqSqtRvLFQ53r3h6KWoE6Q0tdldaOTTfgMcLWvpAiB8mdGeppu59m0iNFCRtO~9VhYYoTXoD170doWuHCTGKA__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9hbnRocm9waWMtc2tpbGxzLXJlZmVyZW5jZQ.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5aGJuUm9jbTl3YVdNdGMydHBiR3h6TFhKbFptVnlaVzVqWlEuc2tpbGwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIBQMH1C5jmQDHBaFE~gUSH6al7M7H7VmmrEp1ivb3EtaAiEAxVSRPWPTFDw6PQXKdjydAc1MQrRDr8x-1Nr7N4OZsqY_"
           },
           {
             "content_type": "application/octet-stream",
             "filename": "codegraph-assistant.skill",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9jb2RlZ3JhcGgtYXNzaXN0YW50.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5amIyUmxaM0poY0dndFlYTnphWE4wWVc1MC5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIEj1m7vtKi0ceBg~NgrRwpT06WrvYYDGBsadhEqSz234AiA-iz~y~tGlj85~lmOvDKqce5DpHzssHNqguwTgJD~lVA__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9jb2RlZ3JhcGgtYXNzaXN0YW50.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5amIyUmxaM0poY0dndFlYTnphWE4wWVc1MC5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCqplexKhw3Sho4mglArd7WiWgVWACMi8AgrYCtO9gTrQIhAP7~yKHHCN7ndVgQD2VOv88nKW7jEEBoneDQH3P9-OXI"
           },
           {
             "content_type": "application/octet-stream",
             "filename": "cybersecurity-skills-adapter.skill",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9jeWJlcnNlY3VyaXR5LXNraWxscy1hZGFwdGVy.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5amVXSmxjbk5sWTNWeWFYUjVMWE5yYVd4c2N5MWhaR0Z3ZEdWeS5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDg0XaP1AWglJUflijANVDiiuEr5ZsIjpayEqaSoKNzNgIhALu4YELQ9po76CizSvLN2rKVRFHA2FF7t9WID1XM89OR"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9jeWJlcnNlY3VyaXR5LXNraWxscy1hZGFwdGVy.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5amVXSmxjbk5sWTNWeWFYUjVMWE5yYVd4c2N5MWhaR0Z3ZEdWeS5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDET6LhfKdbHXNdTp7lHtXC1l8hU5kkWaKYat3CRuKcWAiBF79cWdHYbhgywUZanfnJJyA0oCLTgrVe4E8fUAxq9Xw__"
           },
           {
             "content_type": "application/octet-stream",
             "filename": "ecc-agent-enhancer.skill",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9lY2MtYWdlbnQtZW5oYW5jZXI.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5bFkyTXRZV2RsYm5RdFpXNW9ZVzVqWlhJLnNraWxsIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIFpB1BxnbEANu8~93-JVLfa-nSKDMIM-rGGj0wQ7DGtRAiBJKE04ybfv~IjmwTD33HAFK5MiRAxLZ-y-r6a70DrwpA__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9lY2MtYWdlbnQtZW5oYW5jZXI.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5bFkyTXRZV2RsYm5RdFpXNW9ZVzVqWlhJLnNraWxsIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICN6kMj4t5xLbAzqu5EZMlnnT4IwPWU8r08af89a774HAiEA4LBXQSB4BRpZuYWdFTq8x6zXWZOVV67oRiZZGtRJ4Cc_"
           },
           {
             "content_type": "application/octet-stream",
             "filename": "excel-generator.skill",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9leGNlbC1nZW5lcmF0b3I.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5bGVHTmxiQzFuWlc1bGNtRjBiM0kuc2tpbGwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIGcdv7IuVcisSGRVI9l2Pl0H6IaFmhhiAjtphh7m21kfAiBYRsfkpzaqbS~TitHWJXt7dQe~s9rqNP7JizilttdLdw__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9leGNlbC1nZW5lcmF0b3I.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5bGVHTmxiQzFuWlc1bGNtRjBiM0kuc2tpbGwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDTDkTo39pVNJ3TVrv1K395SJSP0pyWGEMXll2LCu0bsQIhAN-EM7JfmUATx2-fqhAfgf3zf3yxufmXgxnd9k1SiIaD"
           },
           {
             "content_type": "application/octet-stream",
             "filename": "github-gem-seeker.skill",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9naXRodWItZ2VtLXNlZWtlcg.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5bmFYUm9kV0l0WjJWdExYTmxaV3RsY2cuc2tpbGwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIBsCATEu-sleMXa0DlWrBoMms~eZ8FepZnjlrXVsxpI-AiARN045acBA7zV~znbfn6FvyoK92V5tA90pEqmTtkZPCg__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9naXRodWItZ2VtLXNlZWtlcg.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5bmFYUm9kV0l0WjJWdExYTmxaV3RsY2cuc2tpbGwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIEmcbSy2hr9XZn1-2LT5rsR6WIr-ByqZDa9xBFIb4aH0AiAH9oFqTT8k-01twNIw1WfKd~pZjz-MlEM0M8JfeKiijQ__"
           },
           {
             "content_type": "application/octet-stream",
             "filename": "graffiti-style-synthesizer.skill",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9ncmFmZml0aS1zdHlsZS1zeW50aGVzaXplcg.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5bmNtRm1abWwwYVMxemRIbHNaUzF6ZVc1MGFHVnphWHBsY2cuc2tpbGwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDOGKpR003yvM8J3zRkT8tTLsAwgaDTolOiEbnW8NLnpwIgSi7ag9xweYWljrmOFWuY6Km0vCx04QEfutVviyxy1bg_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9ncmFmZml0aS1zdHlsZS1zeW50aGVzaXplcg.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5bmNtRm1abWwwYVMxemRIbHNaUzF6ZVc1MGFHVnphWHBsY2cuc2tpbGwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIG6smb9xi6pkrAkaOhyRI3mZQxrR9G1XhhlLgwEmmFO9AiEA3AmlHdQPX1aSAYI56WXhmM7wSYTlyt7p32Z8RQovJSA_"
           },
           {
             "content_type": "application/octet-stream",
             "filename": "html-video-production.skill",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9odG1sLXZpZGVvLXByb2R1Y3Rpb24.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5b2RHMXNMWFpwWkdWdkxYQnliMlIxWTNScGIyNC5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDW3sborkzv2KyQrLWYo8EhoBCOsY3yQHK3jmhZgld5SwIhAOjV1j38nbGseCdoP1rnxRhdRE6iGc3zNLplltvPYGtV"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9odG1sLXZpZGVvLXByb2R1Y3Rpb24.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5b2RHMXNMWFpwWkdWdkxYQnliMlIxWTNScGIyNC5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCmGbmBbtgu1pA40qURwpufBwj4VDpXUHf0LZgV69zUpgIgBbt8C257Ms9ODZMv3O~RcE2ZVI8AmOkPu6Np6QWXFPM_"
           },
           {
             "content_type": "application/octet-stream",
             "filename": "knowledge-work-plugins-adapter.skill",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9rbm93bGVkZ2Utd29yay1wbHVnaW5zLWFkYXB0ZXI.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5cmJtOTNiR1ZrWjJVdGQyOXlheTF3YkhWbmFXNXpMV0ZrWVhCMFpYSS5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCaz-wriuOhlF7fi5EKhH3xBnXf~cFUemnNpCEZOf8xNwIge~Dlyoa209nct1IMY~9hijAMnHnCxP9UJJSFlrRmfkE_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9rbm93bGVkZ2Utd29yay1wbHVnaW5zLWFkYXB0ZXI.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5cmJtOTNiR1ZrWjJVdGQyOXlheTF3YkhWbmFXNXpMV0ZrWVhCMFpYSS5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQD9WKl7PtNSX-uY73h-oBJmvpzuJ7laP-GYYgegHYNrIQIhAL5QWp1lFhVPmdYSWK3cq-bnWYwtUgjt2XQRCgpgE-8Z"
           },
           {
             "content_type": "application/octet-stream",
             "filename": "manim-animator.skill",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9tYW5pbS1hbmltYXRvcg.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5dFlXNXBiUzFoYm1sdFlYUnZjZy5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIE7vmNNxtfPIQnIssAevwCDZGR3PEkY~ZdLI5w0k-cbnAiEA5FQmPRiBiMahGQL2037kpopmUpQp3nBEV0M1rzBi4LY_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9tYW5pbS1hbmltYXRvcg.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5dFlXNXBiUzFoYm1sdFlYUnZjZy5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDLDNRDFKo5OJNkeqjOsgDiF00KqLr907zqkOZkbXyUGAIgOpj1rvyRZC~ETlhTWqwaylDggDLD9KaxdylD1Crp5N0_"
           },
           {
             "content_type": "application/octet-stream",
             "filename": "moneyprinterturbo-video.skill",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9tb25leXByaW50ZXJ0dXJiby12aWRlbw.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5dGIyNWxlWEJ5YVc1MFpYSjBkWEppYnkxMmFXUmxidy5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIDYZOPJQA2Z4RcgVVAHvAkNRDrCRTLwRlDKE2gnJCcxBAiEA3UlgONM8z4wS4ls7r5OxwVPBjYfINlLDfBbz0aq3hSo_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9tb25leXByaW50ZXJ0dXJiby12aWRlbw.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5dGIyNWxlWEJ5YVc1MFpYSjBkWEppYnkxMmFXUmxidy5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDlj-ua35-2lFk8o-mew3CwMAbuAs1w5PPfBjFtLMyxsQIgQldJa3M0l4coZ1kUGdCBcvELCJZqVMJ6lXqBS4UxrcE_"
           },
           {
             "content_type": "application/octet-stream",
             "filename": "pi-agent-toolkit.skill",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9waS1hZ2VudC10b29sa2l0.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5d2FTMWhaMlZ1ZEMxMGIyOXNhMmwwLnNraWxsIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCMtP5WP~ang3Y7lg4v7MlJ~x0rFsJ25aZlnmSVqKCMWgIgBipSRJwZbaCDaCG7hBT5XKDh5kysXgrXIFmC51FOmmM_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9waS1hZ2VudC10b29sa2l0.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5d2FTMWhaMlZ1ZEMxMGIyOXNhMmwwLnNraWxsIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIFhKp0uBN7ypnQ-yvnNw0E2q84X1Wnt8BDHKgefKNeCqAiEArrMVDeDZwvbxmY1yfWkA6FEUFQuFr67hluN~x6zDYyA_"
           },
           {
             "content_type": "application/octet-stream",
             "filename": "taste-skill-adapter.skill",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC90YXN0ZS1za2lsbC1hZGFwdGVy.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5MFlYTjBaUzF6YTJsc2JDMWhaR0Z3ZEdWeS5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQD0aUSTY2ZZ6jNgMLgIa~F0ZH0isH50H48o~nQyln8I5QIgclY1hFLVwvgAs0VlIM9I0EfqIPqToZE8e-jjMoPjnWs_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC90YXN0ZS1za2lsbC1hZGFwdGVy.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5MFlYTjBaUzF6YTJsc2JDMWhaR0Z3ZEdWeS5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIH2MC1pH2eUfOMfL3ro79rNYxRMDfdxBxT53~HHfM-B6AiEAyTUNcwX7Mmm~jzax7b-0Xlg1EGIBXW3dGvQDOPcwK1w_"
           },
           {
             "content_type": "application/octet-stream",
             "filename": "understand-anything.skill",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC91bmRlcnN0YW5kLWFueXRoaW5n.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5MWJtUmxjbk4wWVc1a0xXRnVlWFJvYVc1bi5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCAODsgjOO08rW3LotDWadVlLQlyq1v0Wa8~znNeeqT3AIgVxEj9UOp0NwF7lS-zGoEUfvTu7Wjr3EDDJD87f0ULZI_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC91bmRlcnN0YW5kLWFueXRoaW5n.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5MWJtUmxjbk4wWVc1a0xXRnVlWFJvYVc1bi5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDF3FwLOe3iwg9wUnc~bgAMXH-gVmblyEeBQhJcWiD8zgIgfnX9eHGilH7kY2cSOX2Cjfd7iYEGl37h8fFx97Ye8U0_"
           }
         ],
         "content": "All **24 skills** have been successfully installed and deployed. Here is the complete status summary:\n\n---\n\n## Skill Installation Report\n\n### Already Installed (Pre-existing)\nThese skills were already present in the environment and required no changes:\n\n| # | Skill | Source |\n|---|-------|--------|\n| 3 | automation-and-scheduling | Custom/Manus |\n| 11 | imagegen | Custom/Manus |\n| 12 | internet-skill-finder | Custom/Manus |\n| 15 | manus-api | Manus Official |\n| 16 | manus-config | Manus Official |\n| 18 | music-prompter | Custom/Manus |\n| 19 | persistent-computing | Custom/Manus |\n| 21 | skill-creator | Manus Official |\n| 23 | tts-prompter | Custom/Manus |\n\n### Newly Created & Validated (15 skills — all passed validation)\n\n| # | Skill | Source | Status |\n|---|-------|--------|--------|\n| 1 | academic-research-skills-adapter | GitHub (Imbad0202/academic-research-skills) | ✅ |\n| 2 | anthropic-skills-reference | GitHub (anthropics/skills) | ✅ |\n| 4 | codegraph-assistant | GitHub (colbymchenry/codegraph) | ✅ |\n| 5 | cybersecurity-skills-adapter | GitHub (mukul975/Anthropic-Cybersecurity-Skills) | ✅ |\n| 6 | ecc-agent-enhancer | GitHub (affaan-m/ECC) | ✅ |\n| 7 | excel-generator | Custom/Manus | ✅ |\n| 8 | github-gem-seeker | Custom/Manus | ✅ |\n| 9 | graffiti-style-synthesizer | Custom/Manus | ✅ |\n| 10 | html-video-production | HeyGen/HyperFrames | ✅ |\n| 13 | knowledge-work-plugins-adapter | GitHub (anthropics/knowledge-work-plugins) | ✅ |\n| 14 | manim-animator | Custom/Manus | ✅ |\n| 17 | moneyprinterturbo-video | GitHub (harry0703/MoneyPrinterTurbo) | ✅ |\n| 20 | pi-agent-toolkit | GitHub (earendil-works/pi) | ✅ |\n| 22 | taste-skill-adapter | GitHub (Leonxlnx/taste-skill) | ✅ |\n| 24 | understand-anything | GitHub (Egonex-AI/Understand-Anything) | ✅ |\n\n---\n\n**Total skills in environment: 28** (24 requested + 4 pre-existing unrelated skills: `aptcorp-property-directory`, `inspection-checklist-app`, `rental-property-marketing`, `video-generator`)\n\nEach skill has a properly structured `SKILL.md` with frontmatter (`name` + `description`), workflow instructions, code examples, and source attribution. They are all active and will be automatically triggered when relevant tasks are requested."
@@ -239,145 +239,145 @@
             "content_type": "application/octet-stream",
             "filename": "academic-research-skills-adapter.skill",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9hY2FkZW1pYy1yZXNlYXJjaC1za2lsbHMtYWRhcHRlcg.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5aFkyRmtaVzFwWXkxeVpYTmxZWEpqYUMxemEybHNiSE10WVdSaGNIUmxjZy5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIEywcSkBpSny5jD1DIrsLsIf-aNpazWQWPILKseGWfyoAiEArGaIyEkmM7A~9BWmoo~7GP4XTfh68hevr-jkDLD7FCE_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9hY2FkZW1pYy1yZXNlYXJjaC1za2lsbHMtYWRhcHRlcg.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5aFkyRmtaVzFwWXkxeVpYTmxZWEpqYUMxemEybHNiSE10WVdSaGNIUmxjZy5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCVZ7DAD0Y00G4vHGxGiwtS7Gy9GW2tGRomO8q79g3CvAIgW7CPk4O-~Eymiq2JEH8WCyw5ZjKn41bSfFaNSJwhjr0_"
           },
           {
             "content_type": "application/octet-stream",
             "filename": "anthropic-skills-reference.skill",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9hbnRocm9waWMtc2tpbGxzLXJlZmVyZW5jZQ.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5aGJuUm9jbTl3YVdNdGMydHBiR3h6TFhKbFptVnlaVzVqWlEuc2tpbGwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQC-8UvLaUfKUXxYtzZqq1pRTlF1aTObyar-xLyh1hGNvwIgL-VDPPW7A3s4W3O~qP-3GJD~6-R~Fl-qwf~33eQRytU_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9hbnRocm9waWMtc2tpbGxzLXJlZmVyZW5jZQ.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5aGJuUm9jbTl3YVdNdGMydHBiR3h6TFhKbFptVnlaVzVqWlEuc2tpbGwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQD71Jr8iNLGwJhsk92WlCI3cOjmkZIs2ccDjFE~6W4XfAIhAL6x2RgMSxiMsGpfLCAekymu3c59QFQwpLU4qEROPnur"
           },
           {
             "content_type": "application/octet-stream",
             "filename": "automation-and-scheduling.skill",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9hdXRvbWF0aW9uLWFuZC1zY2hlZHVsaW5n.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5aGRYUnZiV0YwYVc5dUxXRnVaQzF6WTJobFpIVnNhVzVuLnNraWxsIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIFegJGninXDE3G8KMqZ4Ng0KCJiz~EqXGzIAyV9f9NqSAiEA4wZWk7~QIjtHBmDPe~BfJbZlnWUwNJChjAGjcY2015c_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9hdXRvbWF0aW9uLWFuZC1zY2hlZHVsaW5n.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5aGRYUnZiV0YwYVc5dUxXRnVaQzF6WTJobFpIVnNhVzVuLnNraWxsIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIERqmmbt18mC0aw-wnzDbhidQHw5SUhrA9nUNh~3rhtyAiEAkuY7EtN9DzkJJsTOLmJ~tmeldDcmLGcbWR8GKJ0XzVg_"
           },
           {
             "content_type": "application/octet-stream",
             "filename": "codegraph-assistant.skill",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9jb2RlZ3JhcGgtYXNzaXN0YW50.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5amIyUmxaM0poY0dndFlYTnphWE4wWVc1MC5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIEHzQ8Tk95ZOhRl0igOtblWaQNDJu69s04~Y90Bq6IZaAiEAxrDzczdGF1BLiUgmx-Ig~Um1h68-w4E6W-utbhT5jis_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9jb2RlZ3JhcGgtYXNzaXN0YW50.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5amIyUmxaM0poY0dndFlYTnphWE4wWVc1MC5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCEtxi~b2sj1iQ9BDxgbvfoiBnK1XhmAQwlpY0tjgRUZgIhAKwOkyzr~wvB9NHt98MZPNEsQyt2YU0pkzvsHBrPAsAl"
           },
           {
             "content_type": "application/octet-stream",
             "filename": "cybersecurity-skills-adapter.skill",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9jeWJlcnNlY3VyaXR5LXNraWxscy1hZGFwdGVy.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5amVXSmxjbk5sWTNWeWFYUjVMWE5yYVd4c2N5MWhaR0Z3ZEdWeS5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDXVQvEKGaveyCYWOT1mZ1XDSY-tCyLhbXueGIylM78tAiALRI5L0TE4HclKNBUynWMkKzdb2zvj-Y7FsSmK2quksQ__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9jeWJlcnNlY3VyaXR5LXNraWxscy1hZGFwdGVy.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5amVXSmxjbk5sWTNWeWFYUjVMWE5yYVd4c2N5MWhaR0Z3ZEdWeS5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIBW8k7d2Id4J0aknyqRSPEHfXW-nKJpeUCDOwPnezOgQAiEAtUhoWQYLh4so-ltjmdML1uzTga~yJf6Cn5b241z9v74_"
           },
           {
             "content_type": "application/octet-stream",
             "filename": "ecc-agent-enhancer.skill",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9lY2MtYWdlbnQtZW5oYW5jZXI.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5bFkyTXRZV2RsYm5RdFpXNW9ZVzVqWlhJLnNraWxsIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICE2zrvvuf8SUiruKzjodCuHPuECGSGI7wNBKo3wZ~r9AiEApP7VYq~LVDaCtuQiEIJZrzQSJjbM2ohcUAe-vmHXPjQ_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9lY2MtYWdlbnQtZW5oYW5jZXI.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5bFkyTXRZV2RsYm5RdFpXNW9ZVzVqWlhJLnNraWxsIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQC057RRkTKn1tDCr857Xk43sepwQYWsPBGnhC9RigzPbwIhAOmjCwJcCLboUOnftrTjaordfCTmc624N-SYmqYsIGXu"
           },
           {
             "content_type": "application/octet-stream",
             "filename": "excel-generator.skill",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9leGNlbC1nZW5lcmF0b3I.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5bGVHTmxiQzFuWlc1bGNtRjBiM0kuc2tpbGwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIHt9dFd57Fp08BREmSQ5jg191YgcgkmcPPxo3BwsizrHAiAw3fWAopZ24PxVu1wFeXkl7keyhH-VU92Q~edDkEGLog__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9leGNlbC1nZW5lcmF0b3I.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5bGVHTmxiQzFuWlc1bGNtRjBiM0kuc2tpbGwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICi2zDtLp2QCtg-Esix8sxmwQMaxkgrz6CoIPOFh2fa8AiEAibc~omJi7mzTm~wvfU3eHy53tcq9WqckAhyZuPSUdsM_"
           },
           {
             "content_type": "application/octet-stream",
             "filename": "github-gem-seeker.skill",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9naXRodWItZ2VtLXNlZWtlcg.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5bmFYUm9kV0l0WjJWdExYTmxaV3RsY2cuc2tpbGwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIAWGUea1~dPBlHmCFPsYlzq-u9F4G2K1LKTwXLm8kt9TAiBt5~KyiFvrH9RjayEHXEkmdpixdUvIHXqN80-I-RncuA__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9naXRodWItZ2VtLXNlZWtlcg.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5bmFYUm9kV0l0WjJWdExYTmxaV3RsY2cuc2tpbGwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICP2dWRCOMXG8OmScZeYFqmMrP2cba7wnoaLNZgqR2zvAiEAoW73P-ysg4BNujjNK2sGlG-UwrFdMyiXJ6kYw-Fz22s_"
           },
           {
             "content_type": "application/octet-stream",
             "filename": "graffiti-style-synthesizer.skill",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9ncmFmZml0aS1zdHlsZS1zeW50aGVzaXplcg.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5bmNtRm1abWwwYVMxemRIbHNaUzF6ZVc1MGFHVnphWHBsY2cuc2tpbGwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCR7wnL17argvA~7MDO80oE76MsdzffZVzx~MsijEchYwIhAMkX3~-3WWQ-8XU3MOosEmPgL5kacV40jSf937qeYPiz"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9ncmFmZml0aS1zdHlsZS1zeW50aGVzaXplcg.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5bmNtRm1abWwwYVMxemRIbHNaUzF6ZVc1MGFHVnphWHBsY2cuc2tpbGwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCWcGgCI1I4W8wy8XAiP93FlFWVlMz0hQhQrVVHeLCkQAIhANf4vqZVWE29dH37ZINEFV3bNBHipML0oPxw~UXh9z~f"
           },
           {
             "content_type": "application/octet-stream",
             "filename": "html-video-production.skill",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9odG1sLXZpZGVvLXByb2R1Y3Rpb24.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5b2RHMXNMWFpwWkdWdkxYQnliMlIxWTNScGIyNC5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQC8qfriI8ZWSf2FR1EqYXa4gHgmJHM3FmCZh5OPuFWHmAIgdWV3IJHGkx3wCHyo-bOrkFl5o4FNRl2qcYeQDjSgB6o_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9odG1sLXZpZGVvLXByb2R1Y3Rpb24.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5b2RHMXNMWFpwWkdWdkxYQnliMlIxWTNScGIyNC5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDeQQ2bc5eL824oK~rBdEn3BphTc9FSfY8a9O6c58laygIhAMV0od7fgmFk6EvtV~UYx1PlPZ1woMR41ehm9OMExoNj"
           },
           {
             "content_type": "application/octet-stream",
             "filename": "imagegen.skill",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9pbWFnZWdlbg.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5cGJXRm5aV2RsYmcuc2tpbGwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIFcuExXSPXWfAOkZSqFBGxUbtRV4Yg3oYDFe-gXfIV95AiEAoDHh3h8q9yVEL5SzVfsYq8vNbpmXsMhNAfjd3y6TjSg_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9pbWFnZWdlbg.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5cGJXRm5aV2RsYmcuc2tpbGwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIBkdPqoKPI8wTLYjEQynQ5HmiSFvQve3sL3~jxe~VU8mAiBSdszrd2XDfJFRlytC6FOFnl2L-9eABv0xwg8zS-ZmhA__"
           },
           {
             "content_type": "application/octet-stream",
             "filename": "internet-skill-finder.skill",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9pbnRlcm5ldC1za2lsbC1maW5kZXI.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5cGJuUmxjbTVsZEMxemEybHNiQzFtYVc1a1pYSS5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDrgn6tmtp1Lf1kCyigUk8QrgTf628JoZM~Yjtg3bqH5AIgLxm~CVrWgZyr32BQV2Yu1rSOb9kmZdWEVr7eBa5xn3c_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9pbnRlcm5ldC1za2lsbC1maW5kZXI.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5cGJuUmxjbTVsZEMxemEybHNiQzFtYVc1a1pYSS5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDZQ-rWArClCA0JSAMwaoyqvbDe4f-UEyS~mGpcMTc0xAIgc-yDDm0ksU-eh7Cfip5bNNO-cmtUozLJilimxMu1bGA_"
           },
           {
             "content_type": "application/octet-stream",
             "filename": "knowledge-work-plugins-adapter.skill",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9rbm93bGVkZ2Utd29yay1wbHVnaW5zLWFkYXB0ZXI.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5cmJtOTNiR1ZrWjJVdGQyOXlheTF3YkhWbmFXNXpMV0ZrWVhCMFpYSS5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIBBAIPRJ7R588ZEM38NmPx36glDgy9X62cnsPZMw6Ju2AiAaQC62nurZvJqNYXkQMxB3r0b-PDGcT~mPd0RFKHmM8Q__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9rbm93bGVkZ2Utd29yay1wbHVnaW5zLWFkYXB0ZXI.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5cmJtOTNiR1ZrWjJVdGQyOXlheTF3YkhWbmFXNXpMV0ZrWVhCMFpYSS5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICVUDg2iKBTX-VCFsLb2nTJBuwfuJT0pGtdj3Av0G1WuAiEA9~pRJJyzIXHbpD-ZEgCxEo254Glxc0lLUG~T3Je6heI_"
           },
           {
             "content_type": "application/octet-stream",
             "filename": "manim-animator.skill",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9tYW5pbS1hbmltYXRvcg.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5dFlXNXBiUzFoYm1sdFlYUnZjZy5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIEJhYsxc5Axs~r0muc9lLNlTbqsdbXel2tHbX0VUoP2eAiAX9skDNg6qX2L0Wwdqkpaye1u-~kIhBzk~bHXImkdKSg__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9tYW5pbS1hbmltYXRvcg.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5dFlXNXBiUzFoYm1sdFlYUnZjZy5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIByPKD0EygH8bu3lrhB4F1U4JcjGq7qUwYCFLr4IntJ5AiEAp9X8aMo9AOaVrpWqX-LGaKybU4ByMBzOX902XMOe19w_"
           },
           {
             "content_type": "application/octet-stream",
             "filename": "manus-api.skill",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9tYW51cy1hcGk.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5dFlXNTFjeTFoY0drLnNraWxsIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIA0U7~x1YkWpw17fjg-hdg2d8I7g3PHiB6dFCP-U53pxAiEAmPKI-sga~w9Ncc~r7U8ROp3YVK5P9iqRATi-DHdt2ys_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9tYW51cy1hcGk.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5dFlXNTFjeTFoY0drLnNraWxsIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQD243yS~foGy4GsR7s68OA0vm~MGAfACWz6lIu~ZcNzsgIhAOhTEsPJ8YjfTQl4qXtfpImd6omsosrKNSO6qWktlodT"
           },
           {
             "content_type": "application/octet-stream",
             "filename": "manus-config.skill",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9tYW51cy1jb25maWc.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5dFlXNTFjeTFqYjI1bWFXYy5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICkmSd8ZZQ6ASMZ5vgf59By4iQlEhjYF8uKT0fDFP0IYAiEA3ygxiBP-VUlySpJMBMB9qZeVoEmtnQz5jQ6rztIQHLo_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9tYW51cy1jb25maWc.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5dFlXNTFjeTFqYjI1bWFXYy5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCICD~WcviR8U-1M7N8rhdFUiyXKnWyQI0BtiOztFtRriLAiBpwwpA3CNeu5r-OAwjhzvg92o2s0bmlZUHY43sJ-iDrg__"
           },
           {
             "content_type": "application/octet-stream",
             "filename": "moneyprinterturbo-video.skill",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9tb25leXByaW50ZXJ0dXJiby12aWRlbw.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5dGIyNWxlWEJ5YVc1MFpYSjBkWEppYnkxMmFXUmxidy5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIBUqiwPOG35i3ZuUc~qkCj7KuCzgF8vPlAqmfxmw37oyAiEA9bFA0AlpBr3tm3tRXyV04KNcC15~j7HsfSQisEzHv-c_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9tb25leXByaW50ZXJ0dXJiby12aWRlbw.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5dGIyNWxlWEJ5YVc1MFpYSjBkWEppYnkxMmFXUmxidy5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIFOODJoJkZwD3qkJ6otdiSDUVRyR5c2TPydtHIaQmSZNAiEAny47imGMFBGmXNPD52GEU2D3TkIDh04E7aPrYG3F8cU_"
           },
           {
             "content_type": "application/octet-stream",
             "filename": "music-prompter.skill",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9tdXNpYy1wcm9tcHRlcg.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5dGRYTnBZeTF3Y205dGNIUmxjZy5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCiUb9cePhMOZItp65cMYGMti8pYuONN2Gp9QfuH00r1wIgFtH7PhIrFrSzjKlha-pN6gSBAoUt3BAgKH6M59NhzCs_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9tdXNpYy1wcm9tcHRlcg.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5dGRYTnBZeTF3Y205dGNIUmxjZy5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDIYThurYYHpdNkMAQUVQakTbzvWVeFiPOe7Wb4JpwGEAIhAKbtov1okyqqG---~To~W381t6P7yRkHhyafxbECP6ED"
           },
           {
             "content_type": "application/octet-stream",
             "filename": "persistent-computing.skill",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9wZXJzaXN0ZW50LWNvbXB1dGluZw.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5d1pYSnphWE4wWlc1MExXTnZiWEIxZEdsdVp3LnNraWxsIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICNsnEo~IxvWLET0e7xXZpQIJnjjqmRHew6sjrMnxDj7AiEAhJ6mBRGTFgVe4IwlGwZNRS1i~A4DY~APHRBmLYSXAbc_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9wZXJzaXN0ZW50LWNvbXB1dGluZw.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5d1pYSnphWE4wWlc1MExXTnZiWEIxZEdsdVp3LnNraWxsIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIG54TBw1wj4v~EOHoID4ddAhoPtYOmq-CW~qyZ46M0KvAiBTRnXFOGKry2jVYR95zPxQzv4Xki~HlsMPzhYXSqwnBQ__"
           },
           {
             "content_type": "application/octet-stream",
             "filename": "pi-agent-toolkit.skill",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9waS1hZ2VudC10b29sa2l0.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5d2FTMWhaMlZ1ZEMxMGIyOXNhMmwwLnNraWxsIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCU5RTZtQAoH52X5TGM6emsEC0QBHNOxtFpi6wZuij9JQIgZ3-Iq8ql5NQqgF03ZtKAJi4zUS8fI1oM36Je5pqX5Wg_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9waS1hZ2VudC10b29sa2l0.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5d2FTMWhaMlZ1ZEMxMGIyOXNhMmwwLnNraWxsIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIFjm28Gk1OLiJl9IQFrYamM-5rBNPFHD62y8GI57ftlWAiEAkAffyW1cTajlPPc6QZwMOrySm18Un-pP-C55cFUZo4c_"
           },
           {
             "content_type": "application/octet-stream",
             "filename": "skill-creator.skill",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9za2lsbC1jcmVhdG9y.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5emEybHNiQzFqY21WaGRHOXkuc2tpbGwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCeBH-rplTwnOZ2Z-~2UjRAy2HkKP7Evnu2smysqPfP9gIgL9wus4CSHYIxpAbT0SRUuGx-L3701JtSuXRDUHwdPyM_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9za2lsbC1jcmVhdG9y.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5emEybHNiQzFqY21WaGRHOXkuc2tpbGwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIDLe9mQg74EItpLmyQxkNyDYxAfE-lkTGYbXm25YUL0IAiEA~7wYQDhYbpzO2ifw97i3yQMW7YfBJ-xfCSdu116H3po_"
           },
           {
             "content_type": "application/octet-stream",
             "filename": "taste-skill-adapter.skill",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC90YXN0ZS1za2lsbC1hZGFwdGVy.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5MFlYTjBaUzF6YTJsc2JDMWhaR0Z3ZEdWeS5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIGRIPAcejO2dxiYWXs2n4uLDFRgeuS3t4iQWw8fkhwJKAiBFtYJS8J8d-Kz6sYiHZH6tWVkGp9qAAkdI733IngW1Hw__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC90YXN0ZS1za2lsbC1hZGFwdGVy.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5MFlYTjBaUzF6YTJsc2JDMWhaR0Z3ZEdWeS5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCLdLCbOVxM3AYJ9QgnrYYRc4CjaRka8rTTGYrTGL1M9gIgcfgdOtmtwxv5xlop5-Kwyqa5zWnvLV3tUkPNo6jSzTE_"
           },
           {
             "content_type": "application/octet-stream",
             "filename": "tts-prompter.skill",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC90dHMtcHJvbXB0ZXI.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5MGRITXRjSEp2YlhCMFpYSS5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIGuvY5-uHZFH3kNDwLFtTAYbAA6cuDrk4LST3XDu9ia8AiEA8xi9xtqaK-KaFY41nYFVOKMOF~flKY5W1kjEgvcZlPU_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC90dHMtcHJvbXB0ZXI.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5MGRITXRjSEp2YlhCMFpYSS5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDzYHmY35lTFLwSi~RZd8lWxf-atTWw0tLFfdsddQLYMAIgc~AVs-udSn5ZyFr8o5Bb0c8iOtBAV-fVkwmAp9f8Upg_"
           },
           {
             "content_type": "application/octet-stream",
             "filename": "understand-anything.skill",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC91bmRlcnN0YW5kLWFueXRoaW5n.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5MWJtUmxjbk4wWVc1a0xXRnVlWFJvYVc1bi5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQC-t4H3nb5QatBeSaTPu5qBSxrvn~R6XARQXxeVxUHkPQIgPek9JEBhieOQu7bt-DXH-LOCPafGXrCI1EcAlJKFJug_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC91bmRlcnN0YW5kLWFueXRoaW5n.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5MWJtUmxjbk4wWVc1a0xXRnVlWFJvYVc1bi5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIFgXsGBmV0OV6tuhNFeJyGIzp5An4Sl2VRX8SIE9VOKiAiBeLMcIr~VD~lNZVN65VVUbeKj4fqXPVwFqh9rKjiIVyg__"
           }
         ],
         "content": "Here are all **24 skill cards**. For each one, click **\"Add to My Skills\"** to save it to your account permanently. Once added, the skill will be available in every future Manus task automatically.\n\nThe skills are listed in the same order as your original request:\n1. academic-research-skills-adapter\n2. anthropic-skills-reference\n3. automation-and-scheduling\n4. codegraph-assistant\n5. cybersecurity-skills-adapter\n6. ecc-agent-enhancer\n7. excel-generator\n8. github-gem-seeker\n9. graffiti-style-synthesizer\n10. html-video-production\n11. imagegen\n12. internet-skill-finder\n13. knowledge-work-plugins-adapter\n14. manim-animator\n15. manus-api\n16. manus-config\n17. moneyprinterturbo-video\n18. music-prompter\n19. persistent-computing\n20. pi-agent-toolkit\n21. skill-creator\n22. taste-skill-adapter\n23. tts-prompter\n24. understand-anything"
@@ -403,390 +403,390 @@
       "type": "file",
       "filename": "academic-research-skills-adapter.skill",
       "content_type": "application/octet-stream",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9hY2FkZW1pYy1yZXNlYXJjaC1za2lsbHMtYWRhcHRlcg.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5aFkyRmtaVzFwWXkxeVpYTmxZWEpqYUMxemEybHNiSE10WVdSaGNIUmxjZy5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIA4pdhqypetLcKIvLmpead1qVTIUE6cnQsDzJnl8mt4tAiEA8Nl9~YGWCA9bI5ANfKfxGD7mFLA6yCtHpIIH5coMl5Q_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9hY2FkZW1pYy1yZXNlYXJjaC1za2lsbHMtYWRhcHRlcg.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5aFkyRmtaVzFwWXkxeVpYTmxZWEpqYUMxemEybHNiSE10WVdSaGNIUmxjZy5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDhDdvhRy924nJqlvQ3fM6Lpshck~SyLB6pqpFYqbFsFQIhAM20vhozTTqKfohddD-c3s5RXSuwhV6ETNEFeETM3lNQ",
       "status": "archived",
       "bytes": 3424,
-      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/5-assistant_message-0_9e0756557262a20f_academic-research-skills-adapter.skill"
+      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/5-assistant_message-0_769d200c6b133093_academic-research-skills-adapter.skill"
     },
     {
       "event_index": 5,
       "type": "file",
       "filename": "anthropic-skills-reference.skill",
       "content_type": "application/octet-stream",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9hbnRocm9waWMtc2tpbGxzLXJlZmVyZW5jZQ.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5aGJuUm9jbTl3YVdNdGMydHBiR3h6TFhKbFptVnlaVzVqWlEuc2tpbGwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIAwTUxqSqtRvLFQ53r3h6KWoE6Q0tdldaOTTfgMcLWvpAiB8mdGeppu59m0iNFCRtO~9VhYYoTXoD170doWuHCTGKA__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9hbnRocm9waWMtc2tpbGxzLXJlZmVyZW5jZQ.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5aGJuUm9jbTl3YVdNdGMydHBiR3h6TFhKbFptVnlaVzVqWlEuc2tpbGwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIBQMH1C5jmQDHBaFE~gUSH6al7M7H7VmmrEp1ivb3EtaAiEAxVSRPWPTFDw6PQXKdjydAc1MQrRDr8x-1Nr7N4OZsqY_",
       "status": "archived",
       "bytes": 2994,
-      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/5-assistant_message-1_045f9449a5950696_anthropic-skills-reference.skill"
+      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/5-assistant_message-1_9aac457e709d0b7d_anthropic-skills-reference.skill"
     },
     {
       "event_index": 5,
       "type": "file",
       "filename": "codegraph-assistant.skill",
       "content_type": "application/octet-stream",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9jb2RlZ3JhcGgtYXNzaXN0YW50.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5amIyUmxaM0poY0dndFlYTnphWE4wWVc1MC5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIEj1m7vtKi0ceBg~NgrRwpT06WrvYYDGBsadhEqSz234AiA-iz~y~tGlj85~lmOvDKqce5DpHzssHNqguwTgJD~lVA__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9jb2RlZ3JhcGgtYXNzaXN0YW50.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5amIyUmxaM0poY0dndFlYTnphWE4wWVc1MC5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCqplexKhw3Sho4mglArd7WiWgVWACMi8AgrYCtO9gTrQIhAP7~yKHHCN7ndVgQD2VOv88nKW7jEEBoneDQH3P9-OXI",
       "status": "archived",
       "bytes": 3075,
-      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/5-assistant_message-2_bb49d12dd8bb90e5_codegraph-assistant.skill"
+      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/5-assistant_message-2_be7903a29056bdbb_codegraph-assistant.skill"
     },
     {
       "event_index": 5,
       "type": "file",
       "filename": "cybersecurity-skills-adapter.skill",
       "content_type": "application/octet-stream",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9jeWJlcnNlY3VyaXR5LXNraWxscy1hZGFwdGVy.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5amVXSmxjbk5sWTNWeWFYUjVMWE5yYVd4c2N5MWhaR0Z3ZEdWeS5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDg0XaP1AWglJUflijANVDiiuEr5ZsIjpayEqaSoKNzNgIhALu4YELQ9po76CizSvLN2rKVRFHA2FF7t9WID1XM89OR",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9jeWJlcnNlY3VyaXR5LXNraWxscy1hZGFwdGVy.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5amVXSmxjbk5sWTNWeWFYUjVMWE5yYVd4c2N5MWhaR0Z3ZEdWeS5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDET6LhfKdbHXNdTp7lHtXC1l8hU5kkWaKYat3CRuKcWAiBF79cWdHYbhgywUZanfnJJyA0oCLTgrVe4E8fUAxq9Xw__",
       "status": "archived",
       "bytes": 3267,
-      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/5-assistant_message-3_5b6de8b83678f8cc_cybersecurity-skills-adapter.skill"
+      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/5-assistant_message-3_8cd1e7e37744f964_cybersecurity-skills-adapter.skill"
     },
     {
       "event_index": 5,
       "type": "file",
       "filename": "ecc-agent-enhancer.skill",
       "content_type": "application/octet-stream",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9lY2MtYWdlbnQtZW5oYW5jZXI.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5bFkyTXRZV2RsYm5RdFpXNW9ZVzVqWlhJLnNraWxsIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIFpB1BxnbEANu8~93-JVLfa-nSKDMIM-rGGj0wQ7DGtRAiBJKE04ybfv~IjmwTD33HAFK5MiRAxLZ-y-r6a70DrwpA__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9lY2MtYWdlbnQtZW5oYW5jZXI.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5bFkyTXRZV2RsYm5RdFpXNW9ZVzVqWlhJLnNraWxsIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICN6kMj4t5xLbAzqu5EZMlnnT4IwPWU8r08af89a774HAiEA4LBXQSB4BRpZuYWdFTq8x6zXWZOVV67oRiZZGtRJ4Cc_",
       "status": "archived",
       "bytes": 3274,
-      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/5-assistant_message-4_0d78e65378741693_ecc-agent-enhancer.skill"
+      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/5-assistant_message-4_ed3a4336fe6d03c9_ecc-agent-enhancer.skill"
     },
     {
       "event_index": 5,
       "type": "file",
       "filename": "excel-generator.skill",
       "content_type": "application/octet-stream",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9leGNlbC1nZW5lcmF0b3I.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5bGVHTmxiQzFuWlc1bGNtRjBiM0kuc2tpbGwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIGcdv7IuVcisSGRVI9l2Pl0H6IaFmhhiAjtphh7m21kfAiBYRsfkpzaqbS~TitHWJXt7dQe~s9rqNP7JizilttdLdw__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9leGNlbC1nZW5lcmF0b3I.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5bGVHTmxiQzFuWlc1bGNtRjBiM0kuc2tpbGwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDTDkTo39pVNJ3TVrv1K395SJSP0pyWGEMXll2LCu0bsQIhAN-EM7JfmUATx2-fqhAfgf3zf3yxufmXgxnd9k1SiIaD",
       "status": "archived",
       "bytes": 3313,
-      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/5-assistant_message-5_47af3fe96626a069_excel-generator.skill"
+      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/5-assistant_message-5_dbccc470f763aa0b_excel-generator.skill"
     },
     {
       "event_index": 5,
       "type": "file",
       "filename": "github-gem-seeker.skill",
       "content_type": "application/octet-stream",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9naXRodWItZ2VtLXNlZWtlcg.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5bmFYUm9kV0l0WjJWdExYTmxaV3RsY2cuc2tpbGwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIBsCATEu-sleMXa0DlWrBoMms~eZ8FepZnjlrXVsxpI-AiARN045acBA7zV~znbfn6FvyoK92V5tA90pEqmTtkZPCg__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9naXRodWItZ2VtLXNlZWtlcg.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5bmFYUm9kV0l0WjJWdExYTmxaV3RsY2cuc2tpbGwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIEmcbSy2hr9XZn1-2LT5rsR6WIr-ByqZDa9xBFIb4aH0AiAH9oFqTT8k-01twNIw1WfKd~pZjz-MlEM0M8JfeKiijQ__",
       "status": "archived",
       "bytes": 3028,
-      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/5-assistant_message-6_22682001022ddba4_github-gem-seeker.skill"
+      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/5-assistant_message-6_0e0f6abc85a58586_github-gem-seeker.skill"
     },
     {
       "event_index": 5,
       "type": "file",
       "filename": "graffiti-style-synthesizer.skill",
       "content_type": "application/octet-stream",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9ncmFmZml0aS1zdHlsZS1zeW50aGVzaXplcg.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5bmNtRm1abWwwYVMxemRIbHNaUzF6ZVc1MGFHVnphWHBsY2cuc2tpbGwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDOGKpR003yvM8J3zRkT8tTLsAwgaDTolOiEbnW8NLnpwIgSi7ag9xweYWljrmOFWuY6Km0vCx04QEfutVviyxy1bg_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9ncmFmZml0aS1zdHlsZS1zeW50aGVzaXplcg.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5bmNtRm1abWwwYVMxemRIbHNaUzF6ZVc1MGFHVnphWHBsY2cuc2tpbGwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIG6smb9xi6pkrAkaOhyRI3mZQxrR9G1XhhlLgwEmmFO9AiEA3AmlHdQPX1aSAYI56WXhmM7wSYTlyt7p32Z8RQovJSA_",
       "status": "archived",
       "bytes": 3233,
-      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/5-assistant_message-7_0411291cc20d37ff_graffiti-style-synthesizer.skill"
+      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/5-assistant_message-7_228bbdbb1049c1fc_graffiti-style-synthesizer.skill"
     },
     {
       "event_index": 5,
       "type": "file",
       "filename": "html-video-production.skill",
       "content_type": "application/octet-stream",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9odG1sLXZpZGVvLXByb2R1Y3Rpb24.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5b2RHMXNMWFpwWkdWdkxYQnliMlIxWTNScGIyNC5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDW3sborkzv2KyQrLWYo8EhoBCOsY3yQHK3jmhZgld5SwIhAOjV1j38nbGseCdoP1rnxRhdRE6iGc3zNLplltvPYGtV",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9odG1sLXZpZGVvLXByb2R1Y3Rpb24.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5b2RHMXNMWFpwWkdWdkxYQnliMlIxWTNScGIyNC5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCmGbmBbtgu1pA40qURwpufBwj4VDpXUHf0LZgV69zUpgIgBbt8C257Ms9ODZMv3O~RcE2ZVI8AmOkPu6Np6QWXFPM_",
       "status": "archived",
       "bytes": 3398,
-      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/5-assistant_message-8_49392ced75ad3cca_html-video-production.skill"
+      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/5-assistant_message-8_ab6724f131e441d9_html-video-production.skill"
     },
     {
       "event_index": 5,
       "type": "file",
       "filename": "knowledge-work-plugins-adapter.skill",
       "content_type": "application/octet-stream",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9rbm93bGVkZ2Utd29yay1wbHVnaW5zLWFkYXB0ZXI.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5cmJtOTNiR1ZrWjJVdGQyOXlheTF3YkhWbmFXNXpMV0ZrWVhCMFpYSS5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCaz-wriuOhlF7fi5EKhH3xBnXf~cFUemnNpCEZOf8xNwIge~Dlyoa209nct1IMY~9hijAMnHnCxP9UJJSFlrRmfkE_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9rbm93bGVkZ2Utd29yay1wbHVnaW5zLWFkYXB0ZXI.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5cmJtOTNiR1ZrWjJVdGQyOXlheTF3YkhWbmFXNXpMV0ZrWVhCMFpYSS5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQD9WKl7PtNSX-uY73h-oBJmvpzuJ7laP-GYYgegHYNrIQIhAL5QWp1lFhVPmdYSWK3cq-bnWYwtUgjt2XQRCgpgE-8Z",
       "status": "archived",
       "bytes": 3218,
-      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/5-assistant_message-9_ba9a268ba9d49012_knowledge-work-plugins-adapter.skill"
+      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/5-assistant_message-9_49a5168e0850d1ce_knowledge-work-plugins-adapter.skill"
     },
     {
       "event_index": 5,
       "type": "file",
       "filename": "manim-animator.skill",
       "content_type": "application/octet-stream",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9tYW5pbS1hbmltYXRvcg.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5dFlXNXBiUzFoYm1sdFlYUnZjZy5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIE7vmNNxtfPIQnIssAevwCDZGR3PEkY~ZdLI5w0k-cbnAiEA5FQmPRiBiMahGQL2037kpopmUpQp3nBEV0M1rzBi4LY_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9tYW5pbS1hbmltYXRvcg.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5dFlXNXBiUzFoYm1sdFlYUnZjZy5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDLDNRDFKo5OJNkeqjOsgDiF00KqLr907zqkOZkbXyUGAIgOpj1rvyRZC~ETlhTWqwaylDggDLD9KaxdylD1Crp5N0_",
       "status": "archived",
       "bytes": 3421,
-      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/5-assistant_message-10_8e766122289d0c6e_manim-animator.skill"
+      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/5-assistant_message-10_f3750e6e8bcd6f09_manim-animator.skill"
     },
     {
       "event_index": 5,
       "type": "file",
       "filename": "moneyprinterturbo-video.skill",
       "content_type": "application/octet-stream",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9tb25leXByaW50ZXJ0dXJiby12aWRlbw.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5dGIyNWxlWEJ5YVc1MFpYSjBkWEppYnkxMmFXUmxidy5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIDYZOPJQA2Z4RcgVVAHvAkNRDrCRTLwRlDKE2gnJCcxBAiEA3UlgONM8z4wS4ls7r5OxwVPBjYfINlLDfBbz0aq3hSo_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9tb25leXByaW50ZXJ0dXJiby12aWRlbw.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5dGIyNWxlWEJ5YVc1MFpYSjBkWEppYnkxMmFXUmxidy5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDlj-ua35-2lFk8o-mew3CwMAbuAs1w5PPfBjFtLMyxsQIgQldJa3M0l4coZ1kUGdCBcvELCJZqVMJ6lXqBS4UxrcE_",
       "status": "archived",
       "bytes": 3573,
-      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/5-assistant_message-11_894c79e84cee4dfd_moneyprinterturbo-video.skill"
+      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/5-assistant_message-11_a14c585c3a1b514b_moneyprinterturbo-video.skill"
     },
     {
       "event_index": 5,
       "type": "file",
       "filename": "pi-agent-toolkit.skill",
       "content_type": "application/octet-stream",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9waS1hZ2VudC10b29sa2l0.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5d2FTMWhaMlZ1ZEMxMGIyOXNhMmwwLnNraWxsIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCMtP5WP~ang3Y7lg4v7MlJ~x0rFsJ25aZlnmSVqKCMWgIgBipSRJwZbaCDaCG7hBT5XKDh5kysXgrXIFmC51FOmmM_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC9waS1hZ2VudC10b29sa2l0.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5d2FTMWhaMlZ1ZEMxMGIyOXNhMmwwLnNraWxsIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIFhKp0uBN7ypnQ-yvnNw0E2q84X1Wnt8BDHKgefKNeCqAiEArrMVDeDZwvbxmY1yfWkA6FEUFQuFr67hluN~x6zDYyA_",
       "status": "archived",
       "bytes": 3075,
-      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/5-assistant_message-12_762e2f9b5b3c193f_pi-agent-toolkit.skill"
+      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/5-assistant_message-12_5dc6ad145c46f3ed_pi-agent-toolkit.skill"
     },
     {
       "event_index": 5,
       "type": "file",
       "filename": "taste-skill-adapter.skill",
       "content_type": "application/octet-stream",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC90YXN0ZS1za2lsbC1hZGFwdGVy.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5MFlYTjBaUzF6YTJsc2JDMWhaR0Z3ZEdWeS5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQD0aUSTY2ZZ6jNgMLgIa~F0ZH0isH50H48o~nQyln8I5QIgclY1hFLVwvgAs0VlIM9I0EfqIPqToZE8e-jjMoPjnWs_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC90YXN0ZS1za2lsbC1hZGFwdGVy.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5MFlYTjBaUzF6YTJsc2JDMWhaR0Z3ZEdWeS5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIH2MC1pH2eUfOMfL3ro79rNYxRMDfdxBxT53~HHfM-B6AiEAyTUNcwX7Mmm~jzax7b-0Xlg1EGIBXW3dGvQDOPcwK1w_",
       "status": "archived",
       "bytes": 3221,
-      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/5-assistant_message-13_47b719d098858da8_taste-skill-adapter.skill"
+      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/5-assistant_message-13_de831ab5d16ffbd0_taste-skill-adapter.skill"
     },
     {
       "event_index": 5,
       "type": "file",
       "filename": "understand-anything.skill",
       "content_type": "application/octet-stream",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC91bmRlcnN0YW5kLWFueXRoaW5n.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5MWJtUmxjbk4wWVc1a0xXRnVlWFJvYVc1bi5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCAODsgjOO08rW3LotDWadVlLQlyq1v0Wa8~znNeeqT3AIgVxEj9UOp0NwF7lS-zGoEUfvTu7Wjr3EDDJD87f0ULZI_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/zW1R9rchanCrTulSD07jSd_1781566495615_na1fn_L3RtcC91bmRlcnN0YW5kLWFueXRoaW5n.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3pXMVI5cmNoYW5DclR1bFNEMDdqU2RfMTc4MTU2NjQ5NTYxNV9uYTFmbl9MM1J0Y0M5MWJtUmxjbk4wWVc1a0xXRnVlWFJvYVc1bi5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDF3FwLOe3iwg9wUnc~bgAMXH-gVmblyEeBQhJcWiD8zgIgfnX9eHGilH7kY2cSOX2Cjfd7iYEGl37h8fFx97Ye8U0_",
       "status": "archived",
       "bytes": 3218,
-      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/5-assistant_message-14_224d939b5d0622aa_understand-anything.skill"
+      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/5-assistant_message-14_568905c47751776d_understand-anything.skill"
     },
     {
       "event_index": 14,
       "type": "file",
       "filename": "academic-research-skills-adapter.skill",
       "content_type": "application/octet-stream",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9hY2FkZW1pYy1yZXNlYXJjaC1za2lsbHMtYWRhcHRlcg.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5aFkyRmtaVzFwWXkxeVpYTmxZWEpqYUMxemEybHNiSE10WVdSaGNIUmxjZy5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIEywcSkBpSny5jD1DIrsLsIf-aNpazWQWPILKseGWfyoAiEArGaIyEkmM7A~9BWmoo~7GP4XTfh68hevr-jkDLD7FCE_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9hY2FkZW1pYy1yZXNlYXJjaC1za2lsbHMtYWRhcHRlcg.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5aFkyRmtaVzFwWXkxeVpYTmxZWEpqYUMxemEybHNiSE10WVdSaGNIUmxjZy5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCVZ7DAD0Y00G4vHGxGiwtS7Gy9GW2tGRomO8q79g3CvAIgW7CPk4O-~Eymiq2JEH8WCyw5ZjKn41bSfFaNSJwhjr0_",
       "status": "archived",
       "bytes": 3424,
-      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-0_0688bb2fc3af3a05_academic-research-skills-adapter.skill"
+      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-0_7efb0c027600848f_academic-research-skills-adapter.skill"
     },
     {
       "event_index": 14,
       "type": "file",
       "filename": "anthropic-skills-reference.skill",
       "content_type": "application/octet-stream",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9hbnRocm9waWMtc2tpbGxzLXJlZmVyZW5jZQ.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5aGJuUm9jbTl3YVdNdGMydHBiR3h6TFhKbFptVnlaVzVqWlEuc2tpbGwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQC-8UvLaUfKUXxYtzZqq1pRTlF1aTObyar-xLyh1hGNvwIgL-VDPPW7A3s4W3O~qP-3GJD~6-R~Fl-qwf~33eQRytU_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9hbnRocm9waWMtc2tpbGxzLXJlZmVyZW5jZQ.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5aGJuUm9jbTl3YVdNdGMydHBiR3h6TFhKbFptVnlaVzVqWlEuc2tpbGwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQD71Jr8iNLGwJhsk92WlCI3cOjmkZIs2ccDjFE~6W4XfAIhAL6x2RgMSxiMsGpfLCAekymu3c59QFQwpLU4qEROPnur",
       "status": "archived",
       "bytes": 2994,
-      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-1_793f71a6bbd01ec4_anthropic-skills-reference.skill"
+      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-1_ddfbf9356ed8d58a_anthropic-skills-reference.skill"
     },
     {
       "event_index": 14,
       "type": "file",
       "filename": "automation-and-scheduling.skill",
       "content_type": "application/octet-stream",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9hdXRvbWF0aW9uLWFuZC1zY2hlZHVsaW5n.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5aGRYUnZiV0YwYVc5dUxXRnVaQzF6WTJobFpIVnNhVzVuLnNraWxsIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIFegJGninXDE3G8KMqZ4Ng0KCJiz~EqXGzIAyV9f9NqSAiEA4wZWk7~QIjtHBmDPe~BfJbZlnWUwNJChjAGjcY2015c_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9hdXRvbWF0aW9uLWFuZC1zY2hlZHVsaW5n.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5aGRYUnZiV0YwYVc5dUxXRnVaQzF6WTJobFpIVnNhVzVuLnNraWxsIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIERqmmbt18mC0aw-wnzDbhidQHw5SUhrA9nUNh~3rhtyAiEAkuY7EtN9DzkJJsTOLmJ~tmeldDcmLGcbWR8GKJ0XzVg_",
       "status": "archived",
       "bytes": 11070,
-      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-2_ddcb38944aa13d63_automation-and-scheduling.skill"
+      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-2_c414fc21f3370c40_automation-and-scheduling.skill"
     },
     {
       "event_index": 14,
       "type": "file",
       "filename": "codegraph-assistant.skill",
       "content_type": "application/octet-stream",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9jb2RlZ3JhcGgtYXNzaXN0YW50.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5amIyUmxaM0poY0dndFlYTnphWE4wWVc1MC5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIEHzQ8Tk95ZOhRl0igOtblWaQNDJu69s04~Y90Bq6IZaAiEAxrDzczdGF1BLiUgmx-Ig~Um1h68-w4E6W-utbhT5jis_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9jb2RlZ3JhcGgtYXNzaXN0YW50.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5amIyUmxaM0poY0dndFlYTnphWE4wWVc1MC5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCEtxi~b2sj1iQ9BDxgbvfoiBnK1XhmAQwlpY0tjgRUZgIhAKwOkyzr~wvB9NHt98MZPNEsQyt2YU0pkzvsHBrPAsAl",
       "status": "archived",
       "bytes": 3075,
-      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-3_2b5a518efad4c4ba_codegraph-assistant.skill"
+      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-3_f10394460f31ce1d_codegraph-assistant.skill"
     },
     {
       "event_index": 14,
       "type": "file",
       "filename": "cybersecurity-skills-adapter.skill",
       "content_type": "application/octet-stream",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9jeWJlcnNlY3VyaXR5LXNraWxscy1hZGFwdGVy.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5amVXSmxjbk5sWTNWeWFYUjVMWE5yYVd4c2N5MWhaR0Z3ZEdWeS5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDXVQvEKGaveyCYWOT1mZ1XDSY-tCyLhbXueGIylM78tAiALRI5L0TE4HclKNBUynWMkKzdb2zvj-Y7FsSmK2quksQ__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9jeWJlcnNlY3VyaXR5LXNraWxscy1hZGFwdGVy.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5amVXSmxjbk5sWTNWeWFYUjVMWE5yYVd4c2N5MWhaR0Z3ZEdWeS5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIBW8k7d2Id4J0aknyqRSPEHfXW-nKJpeUCDOwPnezOgQAiEAtUhoWQYLh4so-ltjmdML1uzTga~yJf6Cn5b241z9v74_",
       "status": "archived",
       "bytes": 3267,
-      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-4_c40eda5138fff72b_cybersecurity-skills-adapter.skill"
+      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-4_353ae51399978a01_cybersecurity-skills-adapter.skill"
     },
     {
       "event_index": 14,
       "type": "file",
       "filename": "ecc-agent-enhancer.skill",
       "content_type": "application/octet-stream",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9lY2MtYWdlbnQtZW5oYW5jZXI.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5bFkyTXRZV2RsYm5RdFpXNW9ZVzVqWlhJLnNraWxsIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICE2zrvvuf8SUiruKzjodCuHPuECGSGI7wNBKo3wZ~r9AiEApP7VYq~LVDaCtuQiEIJZrzQSJjbM2ohcUAe-vmHXPjQ_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9lY2MtYWdlbnQtZW5oYW5jZXI.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5bFkyTXRZV2RsYm5RdFpXNW9ZVzVqWlhJLnNraWxsIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQC057RRkTKn1tDCr857Xk43sepwQYWsPBGnhC9RigzPbwIhAOmjCwJcCLboUOnftrTjaordfCTmc624N-SYmqYsIGXu",
       "status": "archived",
       "bytes": 3274,
-      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-5_5b55176f1593204e_ecc-agent-enhancer.skill"
+      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-5_7b095c867585177d_ecc-agent-enhancer.skill"
     },
     {
       "event_index": 14,
       "type": "file",
       "filename": "excel-generator.skill",
       "content_type": "application/octet-stream",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9leGNlbC1nZW5lcmF0b3I.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5bGVHTmxiQzFuWlc1bGNtRjBiM0kuc2tpbGwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIHt9dFd57Fp08BREmSQ5jg191YgcgkmcPPxo3BwsizrHAiAw3fWAopZ24PxVu1wFeXkl7keyhH-VU92Q~edDkEGLog__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9leGNlbC1nZW5lcmF0b3I.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5bGVHTmxiQzFuWlc1bGNtRjBiM0kuc2tpbGwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICi2zDtLp2QCtg-Esix8sxmwQMaxkgrz6CoIPOFh2fa8AiEAibc~omJi7mzTm~wvfU3eHy53tcq9WqckAhyZuPSUdsM_",
       "status": "archived",
       "bytes": 3313,
-      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-6_7f3909179130f464_excel-generator.skill"
+      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-6_5ab8d1f63cf332dc_excel-generator.skill"
     },
     {
       "event_index": 14,
       "type": "file",
       "filename": "github-gem-seeker.skill",
       "content_type": "application/octet-stream",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9naXRodWItZ2VtLXNlZWtlcg.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5bmFYUm9kV0l0WjJWdExYTmxaV3RsY2cuc2tpbGwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIAWGUea1~dPBlHmCFPsYlzq-u9F4G2K1LKTwXLm8kt9TAiBt5~KyiFvrH9RjayEHXEkmdpixdUvIHXqN80-I-RncuA__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9naXRodWItZ2VtLXNlZWtlcg.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5bmFYUm9kV0l0WjJWdExYTmxaV3RsY2cuc2tpbGwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICP2dWRCOMXG8OmScZeYFqmMrP2cba7wnoaLNZgqR2zvAiEAoW73P-ysg4BNujjNK2sGlG-UwrFdMyiXJ6kYw-Fz22s_",
       "status": "archived",
       "bytes": 3028,
-      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-7_76ac0a1fdebe6fbe_github-gem-seeker.skill"
+      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-7_65aa8e3dfc28447c_github-gem-seeker.skill"
     },
     {
       "event_index": 14,
       "type": "file",
       "filename": "graffiti-style-synthesizer.skill",
       "content_type": "application/octet-stream",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9ncmFmZml0aS1zdHlsZS1zeW50aGVzaXplcg.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5bmNtRm1abWwwYVMxemRIbHNaUzF6ZVc1MGFHVnphWHBsY2cuc2tpbGwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCR7wnL17argvA~7MDO80oE76MsdzffZVzx~MsijEchYwIhAMkX3~-3WWQ-8XU3MOosEmPgL5kacV40jSf937qeYPiz",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9ncmFmZml0aS1zdHlsZS1zeW50aGVzaXplcg.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5bmNtRm1abWwwYVMxemRIbHNaUzF6ZVc1MGFHVnphWHBsY2cuc2tpbGwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCWcGgCI1I4W8wy8XAiP93FlFWVlMz0hQhQrVVHeLCkQAIhANf4vqZVWE29dH37ZINEFV3bNBHipML0oPxw~UXh9z~f",
       "status": "archived",
       "bytes": 3233,
-      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-8_342c0342212e1976_graffiti-style-synthesizer.skill"
+      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-8_4e2bb60b5d781a95_graffiti-style-synthesizer.skill"
     },
     {
       "event_index": 14,
       "type": "file",
       "filename": "html-video-production.skill",
       "content_type": "application/octet-stream",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9odG1sLXZpZGVvLXByb2R1Y3Rpb24.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5b2RHMXNMWFpwWkdWdkxYQnliMlIxWTNScGIyNC5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQC8qfriI8ZWSf2FR1EqYXa4gHgmJHM3FmCZh5OPuFWHmAIgdWV3IJHGkx3wCHyo-bOrkFl5o4FNRl2qcYeQDjSgB6o_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9odG1sLXZpZGVvLXByb2R1Y3Rpb24.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5b2RHMXNMWFpwWkdWdkxYQnliMlIxWTNScGIyNC5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDeQQ2bc5eL824oK~rBdEn3BphTc9FSfY8a9O6c58laygIhAMV0od7fgmFk6EvtV~UYx1PlPZ1woMR41ehm9OMExoNj",
       "status": "archived",
       "bytes": 3398,
-      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-9_c2c98db4961d2ee1_html-video-production.skill"
+      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-9_a26295c1dafd983b_html-video-production.skill"
     },
     {
       "event_index": 14,
       "type": "file",
       "filename": "imagegen.skill",
       "content_type": "application/octet-stream",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9pbWFnZWdlbg.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5cGJXRm5aV2RsYmcuc2tpbGwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIFcuExXSPXWfAOkZSqFBGxUbtRV4Yg3oYDFe-gXfIV95AiEAoDHh3h8q9yVEL5SzVfsYq8vNbpmXsMhNAfjd3y6TjSg_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9pbWFnZWdlbg.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5cGJXRm5aV2RsYmcuc2tpbGwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIBkdPqoKPI8wTLYjEQynQ5HmiSFvQve3sL3~jxe~VU8mAiBSdszrd2XDfJFRlytC6FOFnl2L-9eABv0xwg8zS-ZmhA__",
       "status": "archived",
       "bytes": 24401,
-      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-10_7fb28e2f13632947_imagegen.skill"
+      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-10_894db7ce00c1a23c_imagegen.skill"
     },
     {
       "event_index": 14,
       "type": "file",
       "filename": "internet-skill-finder.skill",
       "content_type": "application/octet-stream",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9pbnRlcm5ldC1za2lsbC1maW5kZXI.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5cGJuUmxjbTVsZEMxemEybHNiQzFtYVc1a1pYSS5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDrgn6tmtp1Lf1kCyigUk8QrgTf628JoZM~Yjtg3bqH5AIgLxm~CVrWgZyr32BQV2Yu1rSOb9kmZdWEVr7eBa5xn3c_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9pbnRlcm5ldC1za2lsbC1maW5kZXI.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5cGJuUmxjbTVsZEMxemEybHNiQzFtYVc1a1pYSS5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDZQ-rWArClCA0JSAMwaoyqvbDe4f-UEyS~mGpcMTc0xAIgc-yDDm0ksU-eh7Cfip5bNNO-cmtUozLJilimxMu1bGA_",
       "status": "archived",
       "bytes": 15031,
-      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-11_5e342ec016705575_internet-skill-finder.skill"
+      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-11_30168a71cfc58c2d_internet-skill-finder.skill"
     },
     {
       "event_index": 14,
       "type": "file",
       "filename": "knowledge-work-plugins-adapter.skill",
       "content_type": "application/octet-stream",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9rbm93bGVkZ2Utd29yay1wbHVnaW5zLWFkYXB0ZXI.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5cmJtOTNiR1ZrWjJVdGQyOXlheTF3YkhWbmFXNXpMV0ZrWVhCMFpYSS5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIBBAIPRJ7R588ZEM38NmPx36glDgy9X62cnsPZMw6Ju2AiAaQC62nurZvJqNYXkQMxB3r0b-PDGcT~mPd0RFKHmM8Q__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9rbm93bGVkZ2Utd29yay1wbHVnaW5zLWFkYXB0ZXI.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5cmJtOTNiR1ZrWjJVdGQyOXlheTF3YkhWbmFXNXpMV0ZrWVhCMFpYSS5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICVUDg2iKBTX-VCFsLb2nTJBuwfuJT0pGtdj3Av0G1WuAiEA9~pRJJyzIXHbpD-ZEgCxEo254Glxc0lLUG~T3Je6heI_",
       "status": "archived",
       "bytes": 3218,
-      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-12_2089df5cc8c00f27_knowledge-work-plugins-adapter.skill"
+      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-12_342efd770b4ba4f9_knowledge-work-plugins-adapter.skill"
     },
     {
       "event_index": 14,
       "type": "file",
       "filename": "manim-animator.skill",
       "content_type": "application/octet-stream",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9tYW5pbS1hbmltYXRvcg.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5dFlXNXBiUzFoYm1sdFlYUnZjZy5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIEJhYsxc5Axs~r0muc9lLNlTbqsdbXel2tHbX0VUoP2eAiAX9skDNg6qX2L0Wwdqkpaye1u-~kIhBzk~bHXImkdKSg__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9tYW5pbS1hbmltYXRvcg.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5dFlXNXBiUzFoYm1sdFlYUnZjZy5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIByPKD0EygH8bu3lrhB4F1U4JcjGq7qUwYCFLr4IntJ5AiEAp9X8aMo9AOaVrpWqX-LGaKybU4ByMBzOX902XMOe19w_",
       "status": "archived",
       "bytes": 3421,
-      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-13_f38a3e41edefd76c_manim-animator.skill"
+      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-13_d52ee307d3909ff0_manim-animator.skill"
     },
     {
       "event_index": 14,
       "type": "file",
       "filename": "manus-api.skill",
       "content_type": "application/octet-stream",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9tYW51cy1hcGk.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5dFlXNTFjeTFoY0drLnNraWxsIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIA0U7~x1YkWpw17fjg-hdg2d8I7g3PHiB6dFCP-U53pxAiEAmPKI-sga~w9Ncc~r7U8ROp3YVK5P9iqRATi-DHdt2ys_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9tYW51cy1hcGk.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5dFlXNTFjeTFoY0drLnNraWxsIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQD243yS~foGy4GsR7s68OA0vm~MGAfACWz6lIu~ZcNzsgIhAOhTEsPJ8YjfTQl4qXtfpImd6omsosrKNSO6qWktlodT",
       "status": "archived",
       "bytes": 121173,
-      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-14_ae75e9124d5a390c_manus-api.skill"
+      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-14_4fac30670aafd953_manus-api.skill"
     },
     {
       "event_index": 14,
       "type": "file",
       "filename": "manus-config.skill",
       "content_type": "application/octet-stream",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9tYW51cy1jb25maWc.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5dFlXNTFjeTFqYjI1bWFXYy5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICkmSd8ZZQ6ASMZ5vgf59By4iQlEhjYF8uKT0fDFP0IYAiEA3ygxiBP-VUlySpJMBMB9qZeVoEmtnQz5jQ6rztIQHLo_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9tYW51cy1jb25maWc.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5dFlXNTFjeTFqYjI1bWFXYy5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCICD~WcviR8U-1M7N8rhdFUiyXKnWyQI0BtiOztFtRriLAiBpwwpA3CNeu5r-OAwjhzvg92o2s0bmlZUHY43sJ-iDrg__",
       "status": "archived",
       "bytes": 3598,
-      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-15_e57d9b68ad1059a0_manus-config.skill"
+      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-15_d7ca0bd1ff10458e_manus-config.skill"
     },
     {
       "event_index": 14,
       "type": "file",
       "filename": "moneyprinterturbo-video.skill",
       "content_type": "application/octet-stream",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9tb25leXByaW50ZXJ0dXJiby12aWRlbw.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5dGIyNWxlWEJ5YVc1MFpYSjBkWEppYnkxMmFXUmxidy5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIBUqiwPOG35i3ZuUc~qkCj7KuCzgF8vPlAqmfxmw37oyAiEA9bFA0AlpBr3tm3tRXyV04KNcC15~j7HsfSQisEzHv-c_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9tb25leXByaW50ZXJ0dXJiby12aWRlbw.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5dGIyNWxlWEJ5YVc1MFpYSjBkWEppYnkxMmFXUmxidy5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIFOODJoJkZwD3qkJ6otdiSDUVRyR5c2TPydtHIaQmSZNAiEAny47imGMFBGmXNPD52GEU2D3TkIDh04E7aPrYG3F8cU_",
       "status": "archived",
       "bytes": 3573,
-      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-16_c2628bcb70046d9f_moneyprinterturbo-video.skill"
+      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-16_0481446de3fb4840_moneyprinterturbo-video.skill"
     },
     {
       "event_index": 14,
       "type": "file",
       "filename": "music-prompter.skill",
       "content_type": "application/octet-stream",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9tdXNpYy1wcm9tcHRlcg.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5dGRYTnBZeTF3Y205dGNIUmxjZy5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCiUb9cePhMOZItp65cMYGMti8pYuONN2Gp9QfuH00r1wIgFtH7PhIrFrSzjKlha-pN6gSBAoUt3BAgKH6M59NhzCs_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9tdXNpYy1wcm9tcHRlcg.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5dGRYTnBZeTF3Y205dGNIUmxjZy5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDIYThurYYHpdNkMAQUVQakTbzvWVeFiPOe7Wb4JpwGEAIhAKbtov1okyqqG---~To~W381t6P7yRkHhyafxbECP6ED",
       "status": "archived",
       "bytes": 4954,
-      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-17_741556727a809ae6_music-prompter.skill"
+      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-17_ab079ecf1bda7be6_music-prompter.skill"
     },
     {
       "event_index": 14,
       "type": "file",
       "filename": "persistent-computing.skill",
       "content_type": "application/octet-stream",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9wZXJzaXN0ZW50LWNvbXB1dGluZw.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5d1pYSnphWE4wWlc1MExXTnZiWEIxZEdsdVp3LnNraWxsIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICNsnEo~IxvWLET0e7xXZpQIJnjjqmRHew6sjrMnxDj7AiEAhJ6mBRGTFgVe4IwlGwZNRS1i~A4DY~APHRBmLYSXAbc_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9wZXJzaXN0ZW50LWNvbXB1dGluZw.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5d1pYSnphWE4wWlc1MExXTnZiWEIxZEdsdVp3LnNraWxsIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIG54TBw1wj4v~EOHoID4ddAhoPtYOmq-CW~qyZ46M0KvAiBTRnXFOGKry2jVYR95zPxQzv4Xki~HlsMPzhYXSqwnBQ__",
       "status": "archived",
       "bytes": 14687,
-      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-18_a4a677311374a688_persistent-computing.skill"
+      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-18_6102bdbb98ac746c_persistent-computing.skill"
     },
     {
       "event_index": 14,
       "type": "file",
       "filename": "pi-agent-toolkit.skill",
       "content_type": "application/octet-stream",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9waS1hZ2VudC10b29sa2l0.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5d2FTMWhaMlZ1ZEMxMGIyOXNhMmwwLnNraWxsIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCU5RTZtQAoH52X5TGM6emsEC0QBHNOxtFpi6wZuij9JQIgZ3-Iq8ql5NQqgF03ZtKAJi4zUS8fI1oM36Je5pqX5Wg_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9waS1hZ2VudC10b29sa2l0.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5d2FTMWhaMlZ1ZEMxMGIyOXNhMmwwLnNraWxsIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIFjm28Gk1OLiJl9IQFrYamM-5rBNPFHD62y8GI57ftlWAiEAkAffyW1cTajlPPc6QZwMOrySm18Un-pP-C55cFUZo4c_",
       "status": "archived",
       "bytes": 3075,
-      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-19_f052f92166ccf967_pi-agent-toolkit.skill"
+      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-19_d0bcf9528caf7d92_pi-agent-toolkit.skill"
     },
     {
       "event_index": 14,
       "type": "file",
       "filename": "skill-creator.skill",
       "content_type": "application/octet-stream",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9za2lsbC1jcmVhdG9y.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5emEybHNiQzFqY21WaGRHOXkuc2tpbGwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCeBH-rplTwnOZ2Z-~2UjRAy2HkKP7Evnu2smysqPfP9gIgL9wus4CSHYIxpAbT0SRUuGx-L3701JtSuXRDUHwdPyM_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC9za2lsbC1jcmVhdG9y.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5emEybHNiQzFqY21WaGRHOXkuc2tpbGwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIDLe9mQg74EItpLmyQxkNyDYxAfE-lkTGYbXm25YUL0IAiEA~7wYQDhYbpzO2ifw97i3yQMW7YfBJ-xfCSdu116H3po_",
       "status": "archived",
       "bytes": 17668,
-      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-20_7ffa3b9c5f47ea97_skill-creator.skill"
+      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-20_b26ecc3a6ef1320a_skill-creator.skill"
     },
     {
       "event_index": 14,
       "type": "file",
       "filename": "taste-skill-adapter.skill",
       "content_type": "application/octet-stream",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC90YXN0ZS1za2lsbC1hZGFwdGVy.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5MFlYTjBaUzF6YTJsc2JDMWhaR0Z3ZEdWeS5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIGRIPAcejO2dxiYWXs2n4uLDFRgeuS3t4iQWw8fkhwJKAiBFtYJS8J8d-Kz6sYiHZH6tWVkGp9qAAkdI733IngW1Hw__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC90YXN0ZS1za2lsbC1hZGFwdGVy.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5MFlYTjBaUzF6YTJsc2JDMWhaR0Z3ZEdWeS5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCLdLCbOVxM3AYJ9QgnrYYRc4CjaRka8rTTGYrTGL1M9gIgcfgdOtmtwxv5xlop5-Kwyqa5zWnvLV3tUkPNo6jSzTE_",
       "status": "archived",
       "bytes": 3221,
-      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-21_616eed3044481440_taste-skill-adapter.skill"
+      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-21_464a4b54fa5bd58f_taste-skill-adapter.skill"
     },
     {
       "event_index": 14,
       "type": "file",
       "filename": "tts-prompter.skill",
       "content_type": "application/octet-stream",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC90dHMtcHJvbXB0ZXI.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5MGRITXRjSEp2YlhCMFpYSS5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIGuvY5-uHZFH3kNDwLFtTAYbAA6cuDrk4LST3XDu9ia8AiEA8xi9xtqaK-KaFY41nYFVOKMOF~flKY5W1kjEgvcZlPU_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC90dHMtcHJvbXB0ZXI.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5MGRITXRjSEp2YlhCMFpYSS5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDzYHmY35lTFLwSi~RZd8lWxf-atTWw0tLFfdsddQLYMAIgc~AVs-udSn5ZyFr8o5Bb0c8iOtBAV-fVkwmAp9f8Upg_",
       "status": "archived",
       "bytes": 6203,
-      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-22_c3d525a63225e2f0_tts-prompter.skill"
+      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-22_a94c22cbf842cac5_tts-prompter.skill"
     },
     {
       "event_index": 14,
       "type": "file",
       "filename": "understand-anything.skill",
       "content_type": "application/octet-stream",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC91bmRlcnN0YW5kLWFueXRoaW5n.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5MWJtUmxjbk4wWVc1a0xXRnVlWFJvYVc1bi5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQC-t4H3nb5QatBeSaTPu5qBSxrvn~R6XARQXxeVxUHkPQIgPek9JEBhieOQu7bt-DXH-LOCPafGXrCI1EcAlJKFJug_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/zuijQZBhAEMQ1FIObvreTw/sandbox/uWtfZ5Kc0pqVtyaKEEU31p_1781567549746_na1fn_L3RtcC91bmRlcnN0YW5kLWFueXRoaW5n.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvenVpalFaQmhBRU1RMUZJT2J2cmVUdy9zYW5kYm94L3VXdGZaNUtjMHBxVnR5YUtFRVUzMXBfMTc4MTU2NzU0OTc0Nl9uYTFmbl9MM1J0Y0M5MWJtUmxjbk4wWVc1a0xXRnVlWFJvYVc1bi5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIFgXsGBmV0OV6tuhNFeJyGIzp5An4Sl2VRX8SIE9VOKiAiBeLMcIr~VD~lNZVN65VVUbeKj4fqXPVwFqh9rKjiIVyg__",
       "status": "archived",
       "bytes": 3218,
-      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-23_097d5f774b77aa17_understand-anything.skill"
+      "archive_path": "attachments/zuijQZBhAEMQ1FIObvreTw/14-assistant_message-23_f39a5bdcb5ec72ee_understand-anything.skill"
     }
   ]
 }

@@ -1,0 +1,156 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-11T15:01:35.306253Z",
+  "task": {
+    "id": "tD9lKunekvxL3bZuqLEN5s",
+    "title": "Backup and Push Tasks to GitHub",
+    "status": "running",
+    "type": "standard",
+    "agent_profile": "manus-1.6",
+    "credits_used": 0,
+    "created_at": "1786459796",
+    "updated_at": "1786459983",
+    "task_url": "https://manus.im/app/tD9lKunekvxL3bZuqLEN5s",
+    "message_count": 0
+  },
+  "event_count": 9,
+  "events": [
+    {
+      "id": "s9cKvS0YAlnIW8Fa9Bxct9",
+      "timestamp": "1786459796166",
+      "type": "user_message",
+      "user_message": {
+        "content": "i need you to back up all of my tasks and push them to my github now ",
+        "message_type": "text"
+      }
+    },
+    {
+      "id": "xWBtHvTbn0zaSL9wrJG2Iu-1",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786459797892",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Understood. I’ll locate your available task records, create a backup, and push it to a private GitHub repository."
+      },
+      "id": "LIhHYHE1KrAmkRE5781q14",
+      "timestamp": "1786459801324",
+      "type": "assistant_message"
+    },
+    {
+      "id": "NLzHVtwewD4fs6wSpxHDJ2",
+      "timestamp": "1786459818027",
+      "type": "user_message",
+      "user_message": {
+        "content": "there are already a few repositorys to push it do ",
+        "message_type": "text"
+      }
+    },
+    {
+      "assistant_message": {
+        "content": "I’ll use one of your existing repositories, identify the appropriate backup destination, and continue the export and push."
+      },
+      "id": "tS9M5EGJACISh2tHu6NsLr",
+      "timestamp": "1786459820772",
+      "type": "assistant_message"
+    },
+    {
+      "id": "1DUAVKPI1jNp1DTQe97l13",
+      "timestamp": "1786459867536",
+      "type": "user_message",
+      "user_message": {
+        "content": "push it to all of them with names that sound similar to all-tasks-portal. or brandons-task-vault or anything closely related",
+        "message_type": "text"
+      }
+    },
+    {
+      "assistant_message": {
+        "content": "Understood. I’ll create the backup once and push identical copies to every existing repository whose name closely matches **all-tasks-portal**, **brandons-task-vault**, or a similar task-backup name."
+      },
+      "id": "gqBOjcXUlvd47i74ZNSJYe",
+      "timestamp": "1786459871707",
+      "type": "assistant_message"
+    },
+    {
+      "id": "hQBlyN6aytpmNq9gWnPVsW",
+      "status_update": {
+        "agent_status": "waiting",
+        "brief": "Manus is waiting for your reply",
+        "description": "Manus will continue working after your reply",
+        "status_detail": {
+          "confirm_input_schema": {
+            "properties": {
+              "action": {
+                "enum": [
+                  "apply",
+                  "skip"
+                ],
+                "type": "string"
+              },
+              "applyScope": {
+                "enum": [
+                  "current_task",
+                  "current_and_future",
+                  "current_future_and_project"
+                ],
+                "type": "string"
+              },
+              "connectors": {
+                "items": {
+                  "properties": {
+                    "allowedAccountUids": {
+                      "items": {
+                        "type": "string"
+                      },
+                      "type": "array"
+                    },
+                    "targetState": {
+                      "enum": [
+                        "enable",
+                        "disable"
+                      ],
+                      "type": "string"
+                    },
+                    "uid": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "uid",
+                    "targetState"
+                  ],
+                  "type": "object"
+                },
+                "type": "array"
+              }
+            },
+            "required": [
+              "action"
+            ],
+            "type": "object"
+          },
+          "waiting_for_event_id": "kdjm30m9MxA1SCIgu7Y22i",
+          "waiting_for_event_type": "selfConfigSaveAction"
+        }
+      },
+      "timestamp": "1786459951126",
+      "type": "status_update"
+    },
+    {
+      "id": "hLn0sEtZN9CSrh1LaAbPd5",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786459982996",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "archived_at": "2026-08-04T18:41:25.420253Z",
+  "archived_at": "2026-08-11T15:25:01.623248Z",
   "task": {
     "id": "xh21KIrBcLu6d15hK3Qxyf",
     "title": "Testing ClickUp Connector and Exploring Its Features",
@@ -57,7 +57,7 @@
             "content_type": "text/markdown",
             "filename": "clickup_mcp_report.md",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/xh21KIrBcLu6d15hK3Qxyf/sandbox/MwpCPHtOg4lCk7dGpLQuK3_1776634446403_na1fn_L2hvbWUvdWJ1bnR1L2NsaWNrdXBfbWNwX3JlcG9ydA.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUveGgyMUtJckJjTHU2ZDE1aEszUXh5Zi9zYW5kYm94L013cENQSHRPZzRsQ2s3ZEdwTFF1SzNfMTc3NjYzNDQ0NjQwM19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOc2FXTnJkWEJmYldOd1gzSmxjRzl5ZEEubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIEEW~DpPwcPTRb9kkzymzFRlv-tNoM7o2DkEKMM8spqOAiBsrgRqY9yXJ2tcZZe3CRIMrEN4LM-4-k140td1Q71rWg__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/xh21KIrBcLu6d15hK3Qxyf/sandbox/MwpCPHtOg4lCk7dGpLQuK3_1776634446403_na1fn_L2hvbWUvdWJ1bnR1L2NsaWNrdXBfbWNwX3JlcG9ydA.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUveGgyMUtJckJjTHU2ZDE1aEszUXh5Zi9zYW5kYm94L013cENQSHRPZzRsQ2s3ZEdwTFF1SzNfMTc3NjYzNDQ0NjQwM19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOc2FXTnJkWEJmYldOd1gzSmxjRzl5ZEEubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCZLkREerNu~QmZy78doonl1Y7VWJKJY7qnjuEfd8iCOgIhANhdTi9S5mzjdivZz3RFeHn9IKeb3ZMt8DBMhBpfQ2Qh"
           }
         ],
         "content": "I've tested the ClickUp MCP connector and compiled a comprehensive capability brief along with live data samples fetched from your workspace. \n\nThe connector is incredibly powerful, offering 51 tools that cover everything from task and document management to time tracking and team communication. I successfully fetched your workspace hierarchy, tasks from your \"Projects\" and \"🤖 Ai & Apps\" lists, workspace members, chat channels, and even searched through your documents.\n\nYou can review the detailed report in the attached Markdown file. Let me know if you'd like to dive deeper into any specific feature or perform any actions in your ClickUp workspace!"
@@ -83,10 +83,10 @@
       "type": "file",
       "filename": "clickup_mcp_report.md",
       "content_type": "text/markdown",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/xh21KIrBcLu6d15hK3Qxyf/sandbox/MwpCPHtOg4lCk7dGpLQuK3_1776634446403_na1fn_L2hvbWUvdWJ1bnR1L2NsaWNrdXBfbWNwX3JlcG9ydA.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUveGgyMUtJckJjTHU2ZDE1aEszUXh5Zi9zYW5kYm94L013cENQSHRPZzRsQ2s3ZEdwTFF1SzNfMTc3NjYzNDQ0NjQwM19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOc2FXTnJkWEJmYldOd1gzSmxjRzl5ZEEubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIEEW~DpPwcPTRb9kkzymzFRlv-tNoM7o2DkEKMM8spqOAiBsrgRqY9yXJ2tcZZe3CRIMrEN4LM-4-k140td1Q71rWg__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/xh21KIrBcLu6d15hK3Qxyf/sandbox/MwpCPHtOg4lCk7dGpLQuK3_1776634446403_na1fn_L2hvbWUvdWJ1bnR1L2NsaWNrdXBfbWNwX3JlcG9ydA.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUveGgyMUtJckJjTHU2ZDE1aEszUXh5Zi9zYW5kYm94L013cENQSHRPZzRsQ2s3ZEdwTFF1SzNfMTc3NjYzNDQ0NjQwM19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOc2FXTnJkWEJmYldOd1gzSmxjRzl5ZEEubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCZLkREerNu~QmZy78doonl1Y7VWJKJY7qnjuEfd8iCOgIhANhdTi9S5mzjdivZz3RFeHn9IKeb3ZMt8DBMhBpfQ2Qh",
       "status": "archived",
       "bytes": 4267,
-      "archive_path": "attachments/xh21KIrBcLu6d15hK3Qxyf/4-assistant_message-0_c2b818664ba46adc_clickup_mcp_report.md"
+      "archive_path": "attachments/xh21KIrBcLu6d15hK3Qxyf/4-assistant_message-0_81419abb0e80fbf3_clickup_mcp_report.md"
     }
   ]
 }

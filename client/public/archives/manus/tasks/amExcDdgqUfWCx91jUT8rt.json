@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "archived_at": "2026-08-04T18:40:21.331617Z",
+  "archived_at": "2026-08-11T15:23:43.919017Z",
   "task": {
     "id": "amExcDdgqUfWCx91jUT8rt",
     "title": "Cheapest State Sales Tax in the US",
@@ -139,7 +139,7 @@
             "content_type": "application/pdf",
             "filename": "lowest_sales_tax_report.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/amExcDdgqUfWCx91jUT8rt/sandbox/hQLQdTDBtsJDyWeNP2ZT4M_1776714240976_na1fn_L2hvbWUvdWJ1bnR1L2xvd2VzdF9zYWxlc190YXhfcmVwb3J0.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvYW1FeGNEZGdxVWZXQ3g5MWpVVDhydC9zYW5kYm94L2hRTFFkVERCdHNKRHlXZU5QMlpUNE1fMTc3NjcxNDI0MDk3Nl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJ4dmQyVnpkRjl6WVd4bGMxOTBZWGhmY21Wd2IzSjAucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCICZGhZnTl-G4621zB2n5a4Dx2kVP1KIAYChYA58UUewIhAMFdP6esJdOybIACFAONSxtHyIT3TKMZBjjNB8I5AeM5"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/amExcDdgqUfWCx91jUT8rt/sandbox/hQLQdTDBtsJDyWeNP2ZT4M_1776714240976_na1fn_L2hvbWUvdWJ1bnR1L2xvd2VzdF9zYWxlc190YXhfcmVwb3J0.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvYW1FeGNEZGdxVWZXQ3g5MWpVVDhydC9zYW5kYm94L2hRTFFkVERCdHNKRHlXZU5QMlpUNE1fMTc3NjcxNDI0MDk3Nl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJ4dmQyVnpkRjl6WVd4bGMxOTBZWGhmY21Wd2IzSjAucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCgty74KT04aQh7XEzILocrQSHM5IFfIyIo9jtEloOXMgIgXmXTyabMi5tgTB8Dpb1IC6s5nCEQ9tUK3IUqCNSZDWE_"
           }
         ],
         "content": "Your PDF report on the **Top 10 US States with the Lowest Sales Tax Rates (2026)** is ready. It includes the full ranked table, key findings, and important considerations about combined rates and tax base differences."
@@ -249,10 +249,10 @@
       "type": "file",
       "filename": "lowest_sales_tax_report.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/amExcDdgqUfWCx91jUT8rt/sandbox/hQLQdTDBtsJDyWeNP2ZT4M_1776714240976_na1fn_L2hvbWUvdWJ1bnR1L2xvd2VzdF9zYWxlc190YXhfcmVwb3J0.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvYW1FeGNEZGdxVWZXQ3g5MWpVVDhydC9zYW5kYm94L2hRTFFkVERCdHNKRHlXZU5QMlpUNE1fMTc3NjcxNDI0MDk3Nl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJ4dmQyVnpkRjl6WVd4bGMxOTBZWGhmY21Wd2IzSjAucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCICZGhZnTl-G4621zB2n5a4Dx2kVP1KIAYChYA58UUewIhAMFdP6esJdOybIACFAONSxtHyIT3TKMZBjjNB8I5AeM5",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/amExcDdgqUfWCx91jUT8rt/sandbox/hQLQdTDBtsJDyWeNP2ZT4M_1776714240976_na1fn_L2hvbWUvdWJ1bnR1L2xvd2VzdF9zYWxlc190YXhfcmVwb3J0.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvYW1FeGNEZGdxVWZXQ3g5MWpVVDhydC9zYW5kYm94L2hRTFFkVERCdHNKRHlXZU5QMlpUNE1fMTc3NjcxNDI0MDk3Nl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJ4dmQyVnpkRjl6WVd4bGMxOTBZWGhmY21Wd2IzSjAucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCgty74KT04aQh7XEzILocrQSHM5IFfIyIo9jtEloOXMgIgXmXTyabMi5tgTB8Dpb1IC6s5nCEQ9tUK3IUqCNSZDWE_",
       "status": "archived",
       "bytes": 79549,
-      "archive_path": "attachments/amExcDdgqUfWCx91jUT8rt/13-assistant_message-0_d896b721931904c7_lowest_sales_tax_report.pdf"
+      "archive_path": "attachments/amExcDdgqUfWCx91jUT8rt/13-assistant_message-0_700cf1198bec9aed_lowest_sales_tax_report.pdf"
     }
   ]
 }

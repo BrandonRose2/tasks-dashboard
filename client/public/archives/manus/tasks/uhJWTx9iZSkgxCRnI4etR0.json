@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-11T15:02:02.897750Z",
+  "task": {
+    "id": "uhJWTx9iZSkgxCRnI4etR0",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 45,
+    "created_at": "1786394409",
+    "updated_at": "1786394434",
+    "task_url": "https://manus.im/app/uhJWTx9iZSkgxCRnI4etR0",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "UUVv1Mw65jnKDiA23DCt1H",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786394410453",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "The Form 1065 PDF for Coral_Village_Housing_LP_2021.pdf has been audited. Pages 1, 4, and 5 were rendered and visually inspected. Item F on page 1 is fully covered, page 4 Schedule K financial-entry fields are fully blacked out, and page 5 Schedule L/M-1/M-2 financial-entry fields are fully blacked out. No actual financial figures are visibly exposed in the required redaction scopes."
+      },
+      "id": "8sNaWJVffMl5GPWL7QNTLO",
+      "timestamp": "1786394434134",
+      "type": "assistant_message"
+    },
+    {
+      "id": "pdoAkBCmcM8K0GyDA1k2UC",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786394434294",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

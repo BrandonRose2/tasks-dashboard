@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-11T15:01:53.483152Z",
+  "task": {
+    "id": "M6Jp2OLqwWWpvshaHyVSop",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 41,
+    "created_at": "1786394427",
+    "updated_at": "1786394447",
+    "task_url": "https://manus.im/app/M6Jp2OLqwWWpvshaHyVSop",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "MvNI1QcZTpep7Ond4qFyfq",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786394428022",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "The PDF Lexington_Housing_LLC_2021.pdf was independently audited for pages 1, 4, and 5. Item F on page 1, Schedule K on page 4, and Schedule L/M-1/M-2 on page 5 are fully covered with proper redactions, with no exposed actual financial figures found."
+      },
+      "id": "ccrJPonljrBk9ZYwRqNOO7",
+      "timestamp": "1786394447341",
+      "type": "assistant_message"
+    },
+    {
+      "id": "bKQxXo0RjcB4UPha8rNIjr",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786394447541",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

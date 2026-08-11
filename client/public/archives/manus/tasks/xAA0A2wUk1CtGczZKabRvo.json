@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-11T15:02:03.741204Z",
+  "task": {
+    "id": "xAA0A2wUk1CtGczZKabRvo",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 46,
+    "created_at": "1786394409",
+    "updated_at": "1786394467",
+    "task_url": "https://manus.im/app/xAA0A2wUk1CtGczZKabRvo",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "evJIpLD4M7luuFy49YSRXt",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786394410650",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Successfully audited Arbor_Crest_Housing_LP_2020.pdf. Pages 1, 4, and 5 are properly redacted and pass visual inspection with no exposed financial figures."
+      },
+      "id": "ap0r1spKVwesnivzH0VsEY",
+      "timestamp": "1786394467832",
+      "type": "assistant_message"
+    },
+    {
+      "id": "U8w3FAzMUFTf8MkwAgPJFh",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786394468025",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

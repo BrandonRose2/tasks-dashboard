@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "archived_at": "2026-08-04T18:35:53.115030Z",
+  "archived_at": "2026-08-11T15:15:25.889023Z",
   "task": {
     "id": "DQRlpBStneJSu30axh4xru",
     "title": "Create GIF and HTML Email Signature for Outlook",
@@ -109,13 +109,13 @@
             "content_type": "video/quicktime",
             "filename": "signature.mov",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-e4bngNjKZjoAcYA9nzOXlA_na1fn_c2lnbmF0dXJl.mov?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1lNGJuZ05qS1pqb0FjWUE5bnpPWGxBX25hMWZuX2MybG5ibUYwZFhKbC5tb3YiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIGpVrjAA5VMJiGac281Z4orJVjtHaS8kuEJch1tns1EtAiAvVooiWZusN6uUNAG0VhwwkddS1mNn7aom0lYjUvMDCA__"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-e4bngNjKZjoAcYA9nzOXlA_na1fn_c2lnbmF0dXJl.mov?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1lNGJuZ05qS1pqb0FjWUE5bnpPWGxBX25hMWZuX2MybG5ibUYwZFhKbC5tb3YiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDxxkvUo6RIIdCTwA2RrJzhL6V1rRfxOw2VI6nOC4oGUQIhANLoBspK4lWz0aw2foV0-5cnJiSjiO0TY-S2EwkXuVWk"
           },
           {
             "content_type": "image/png",
             "filename": "BrandonRoseHeadShot.png",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-4ZqHYy4jddItlCHV93ElnI_na1fn_QnJhbmRvblJvc2VIZWFkU2hvdA.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC00WnFIWXk0amRkSXRsQ0hWOTNFbG5JX25hMWZuX1FuSmhibVJ2YmxKdmMyVklaV0ZrVTJodmRBLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDD-lHdFwxdlEXxKUqFI5ZDQrTv2J4Vef730awDS69y9AIhAIc14XFTVICaJl1IDXSmEBRja3d0Fz8jOLjhdyPslaVY"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-4ZqHYy4jddItlCHV93ElnI_na1fn_QnJhbmRvblJvc2VIZWFkU2hvdA.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC00WnFIWXk0amRkSXRsQ0hWOTNFbG5JX25hMWZuX1FuSmhibVJ2YmxKdmMyVklaV0ZrVTJodmRBLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIAYRlOf1O~nc~bxPdzRNzskVMN5OR4jt3CuFGN53GtPNAiEA5VaGFmVNWEo0B3ih96-aBd765gXfLnlhwcEpf2mLwv4_"
           }
         ],
         "content": "\n put the photo to the right of the signature where this is the empty space and make it all into one ",
@@ -182,13 +182,13 @@
             "content_type": "image/gif",
             "filename": "PropertyMaxShimmer.gif",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-P1QGdJOIl6YbtDn5BfUO7X_na1fn_UHJvcGVydHlNYXhTaGltbWVy.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1QMVFHZEpPSWw2WWJ0RG41QmZVTzdYX25hMWZuX1VISnZjR1Z5ZEhsTllYaFRhR2x0YldWeS5naWYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQD5tVxZ8rCLKEBjZHql1FABaLl2NuQlKXlz310sxbznSwIgLmzAWXV7SRQzjQVtyJJ4UJjSEXY6ZoJ7oXGRi6NyKs0_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-P1QGdJOIl6YbtDn5BfUO7X_na1fn_UHJvcGVydHlNYXhTaGltbWVy.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1QMVFHZEpPSWw2WWJ0RG41QmZVTzdYX25hMWZuX1VISnZjR1Z5ZEhsTllYaFRhR2x0YldWeS5naWYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCkNPEXC7WQX0wufx9vDSZAuGHGe19e3vLjRZqSe9mIjQIhANKK7QzUo0iJWOIgO9cGJfto9DUgX-LmsizJJyGA~SwC"
           },
           {
             "content_type": "image/gif",
             "filename": "AptCorpShimmer.gif",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-7xJ9RxFFKl4AhK4r9H6ddG_na1fn_QXB0Q29ycFNoaW1tZXI.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC03eEo5UnhGRktsNEFoSzRyOUg2ZGRHX25hMWZuX1FYQjBRMjl5Y0ZOb2FXMXRaWEkuZ2lmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIEWgMjoDZdRdMGsc4sj2p0hDKWEttOpPOTxQbDjYCdaaAiBmG0anzGxqwO0SZzqdn92MIYc8Elqqflx0dKdKuRMiVQ__"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-7xJ9RxFFKl4AhK4r9H6ddG_na1fn_QXB0Q29ycFNoaW1tZXI.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC03eEo5UnhGRktsNEFoSzRyOUg2ZGRHX25hMWZuX1FYQjBRMjl5Y0ZOb2FXMXRaWEkuZ2lmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIHypwCoAvo6O68Pyf-HRZ2JNxzFGUExzxinpEX3eyV~mAiBNGgfIUy-pRtHbKjPt1VGCkuUzQaYtZUwTO~nq49aZiw__"
           }
         ],
         "content": "https://apartmentcorp.com/ ; ",
@@ -344,19 +344,19 @@
             "content_type": "application/zip",
             "filename": "BrandonRose_EmailSignature.zip",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/ejdSiBowD6ac8BbjYLtU1j_1779138475613_na1fn_L2hvbWUvdWJ1bnR1L0JyYW5kb25Sb3NlX0VtYWlsU2lnbmF0dXJl.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L2VqZFNpQm93RDZhYzhCYmpZTHRVMWpfMTc3OTEzODQ3NTYxM19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBKeVlXNWtiMjVTYjNObFgwVnRZV2xzVTJsbmJtRjBkWEpsLnppcCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDAXtShYc1Zj61dGp4PF2SwDgnoQ4751849ZN6khxNt9gIgedAk41fwiC7wjCEcwZpS-qJ9z8x~OLybF4ysp~-kWQk_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/ejdSiBowD6ac8BbjYLtU1j_1779138475613_na1fn_L2hvbWUvdWJ1bnR1L0JyYW5kb25Sb3NlX0VtYWlsU2lnbmF0dXJl.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L2VqZFNpQm93RDZhYzhCYmpZTHRVMWpfMTc3OTEzODQ3NTYxM19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBKeVlXNWtiMjVTYjNObFgwVnRZV2xzVTJsbmJtRjBkWEpsLnppcCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDkIPJg-gzaKukVMSipjYUY07Xx61OKBye55XHCyvGSRQIgFAIm-ej3NCFEy5E7I86poYxpKpAk9YKLpsr~sBR9NN4_"
           },
           {
             "content_type": "image/gif",
             "filename": "BrandonRose_Signature.gif",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/ejdSiBowD6ac8BbjYLtU1j_1779138475613_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL0JyYW5kb25Sb3NlX1NpZ25hdHVyZQ.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L2VqZFNpQm93RDZhYzhCYmpZTHRVMWpfMTc3OTEzODQ3NTYxM19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDBKeVlXNWtiMjVTYjNObFgxTnBaMjVoZEhWeVpRLmdpZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCUmibNhLRUU-yA1XPw0CiQGKYdeMD-TpdhYuCYrYb0ZAIgBogOffSbIZIAvX-j1oU~vMUYIFrPY5wcEf9qu7xfe8k_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/ejdSiBowD6ac8BbjYLtU1j_1779138475613_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL0JyYW5kb25Sb3NlX1NpZ25hdHVyZQ.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L2VqZFNpQm93RDZhYzhCYmpZTHRVMWpfMTc3OTEzODQ3NTYxM19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDBKeVlXNWtiMjVTYjNObFgxTnBaMjVoZEhWeVpRLmdpZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDqY860uojaovxKTzXNRX5GnlSMZTDe4ULnpdyLAQscDQIhAK38wW8UNOCvKL2Tw2uirX~vCwGatXZawnGmb8Fl30aF"
           },
           {
             "content_type": "text/html; charset=utf-8",
             "filename": "signature.html",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/ejdSiBowD6ac8BbjYLtU1j_1779138475613_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZQ.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L2VqZFNpQm93RDZhYzhCYmpZTHRVMWpfMTc3OTEzODQ3NTYxM19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlEuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIGnag2fXT-H5NSuThqg9yWnnySyvNQdoJQ-icVwvfc9mAiAUDueH2lRBzQZGEzXY~I6NKkCrA4JzhlV8fQgZQvBr-A__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/ejdSiBowD6ac8BbjYLtU1j_1779138475613_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZQ.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L2VqZFNpQm93RDZhYzhCYmpZTHRVMWpfMTc3OTEzODQ3NTYxM19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlEuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIE62qQ2rAVJG3ptUs1gngGjOA0sD6tbhPnP2DhxTFFJ-AiB0p94HLGDEtysF~-TesbelWcYilm5fzzyBaCtTuD5rhQ__"
           }
         ],
         "content": "Your email signature is ready! Here's what's included in the zip package:\n\n**Files delivered:**\n\n| File | Description |\n|---|---|\n| `signature.html` | Outlook Exchange-compatible HTML signature |\n| `BrandonRose_Signature.gif` | Animated GIF version of the full signature |\n| `AptCorpShimmer.gif` | ApartmentCorp logo (links to apartmentcorp.com) |\n| `PropertyMaxShimmer.gif` | PropertyMax.ai logo (links to propertymax.ai) |\n| `BrandonRoseHeadShot.png` | Your headshot (used in both files) |\n\n**Signature layout includes:**\n- \"Thank You,\" in gold cursive at the top\n- ApartmentCorp shimmer GIF on the left (clickable → apartmentcorp.com)\n- Your name, Office/Cell phone, email, and address in the center\n- PropertyMax.ai shimmer GIF below the address (clickable → propertymax.ai)\n- Your headshot on the right\n\n**How to install in Outlook:**\n1. Go to **File → Options → Mail → Signatures → New**\n2. Name your signature, then click the **\"...\"** or use the **Insert HTML** option\n3. Paste the contents of `signature.html` — or use **Insert → Signature → Edit Signatures** and paste via the HTML editor\n4. Make sure all image files (`AptCorpShimmer.gif`, `PropertyMaxShimmer.gif`, `BrandonRoseHeadShot.png`) are in the **same folder** as `signature.html`\n\n> **Note:** For the GIF animations to display in Outlook, the images need to either be in the same directory as the HTML file, or you can host them online and update the `src` paths in the HTML to absolute URLs. Outlook on Windows does not animate GIFs in the compose window, but recipients using Outlook Web, Apple Mail, Gmail, etc. will see the full animation."
@@ -433,19 +433,19 @@
             "content_type": "application/zip",
             "filename": "BrandonRose_EmailSignature.zip",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/6rZEHEFPctzHU2w56Mw96H_1779139979641_na1fn_L2hvbWUvdWJ1bnR1L0JyYW5kb25Sb3NlX0VtYWlsU2lnbmF0dXJl.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94LzZyWkVIRUZQY3R6SFUydzU2TXc5NkhfMTc3OTEzOTk3OTY0MV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBKeVlXNWtiMjVTYjNObFgwVnRZV2xzVTJsbmJtRjBkWEpsLnppcCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQC31Zo~7ItMlT1ST5a-kucJZJWvYOHnBuSJiVp-tAgtHwIgQLCurxQvTFoBc~Kq7VVKH0cVWDwoldcQHpCMrDfSutc_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/6rZEHEFPctzHU2w56Mw96H_1779139979641_na1fn_L2hvbWUvdWJ1bnR1L0JyYW5kb25Sb3NlX0VtYWlsU2lnbmF0dXJl.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94LzZyWkVIRUZQY3R6SFUydzU2TXc5NkhfMTc3OTEzOTk3OTY0MV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBKeVlXNWtiMjVTYjNObFgwVnRZV2xzVTJsbmJtRjBkWEpsLnppcCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDZg23KYh6pKycI247P2YSOG-LyTacYaHmdni1CRWTlgAIgJdRy~8YL9IH8eEe9iZAXSrrT9mccB7vFyu6kqIUhk~U_"
           },
           {
             "content_type": "image/gif",
             "filename": "BrandonRose_Signature.gif",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/6rZEHEFPctzHU2w56Mw96H_1779139979641_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL0JyYW5kb25Sb3NlX1NpZ25hdHVyZQ.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94LzZyWkVIRUZQY3R6SFUydzU2TXc5NkhfMTc3OTEzOTk3OTY0MV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDBKeVlXNWtiMjVTYjNObFgxTnBaMjVoZEhWeVpRLmdpZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIFQM7cCi06ueGX3GtrQgYG-5lp2hhLY~FPDH2rLxMOSBAiBUhXAAAhl1UZ17ZMwf6c3-REkPKtjZqebelE2dTWzTeA__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/6rZEHEFPctzHU2w56Mw96H_1779139979641_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL0JyYW5kb25Sb3NlX1NpZ25hdHVyZQ.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94LzZyWkVIRUZQY3R6SFUydzU2TXc5NkhfMTc3OTEzOTk3OTY0MV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDBKeVlXNWtiMjVTYjNObFgxTnBaMjVoZEhWeVpRLmdpZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIH94ul--KwRmHltpvpvnM7gsPkZEaOwPyXZxCKzPmjCkAiEA3dpngKWAQbZEamMNkyiZsa7cHjW0A51c6fmC0~V74Ko_"
           },
           {
             "content_type": "text/html; charset=utf-8",
             "filename": "signature.html",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/6rZEHEFPctzHU2w56Mw96H_1779139979641_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZQ.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94LzZyWkVIRUZQY3R6SFUydzU2TXc5NkhfMTc3OTEzOTk3OTY0MV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlEuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCICk-xdWbciiEub6P-tuATmE2t67RxvrlpCnG3O7-aRTcAiBXLidVzkIAihIU~5Huy725BoBvtFnV0bVzlXBUXHF~AQ__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/6rZEHEFPctzHU2w56Mw96H_1779139979641_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZQ.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94LzZyWkVIRUZQY3R6SFUydzU2TXc5NkhfMTc3OTEzOTk3OTY0MV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlEuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIA9c1xzILCuH-Hvn0IBGVqQ-fWBy~7ps2JkLlm-O59aYAiEA1m16iD3Y1R3CAqCUYxLVdjimfhU-wHKx~xZJcy4iGzI_"
           }
         ],
         "content": "Here's the updated, compact signature! Here's what changed:\n\n- Both the **ApartmentCorp** and **PropertyMax.ai** logos are now smaller (50px tall) and sit **side-by-side at the bottom** of the contact info area\n- No more wasted vertical space — the whole signature is a tight 600 × 210px\n- Your headshot fills the right column cleanly\n\n**The zip contains all 5 files** — keep them all in the same folder when installing in Outlook. Let me know if you'd like any further tweaks to sizing, spacing, or colors!"
@@ -539,19 +539,19 @@
             "content_type": "application/zip",
             "filename": "BrandonRose_EmailSignature.zip",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/uJpH1qfpJUsy5pfFXV45qr_1779140475289_na1fn_L2hvbWUvdWJ1bnR1L0JyYW5kb25Sb3NlX0VtYWlsU2lnbmF0dXJl.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L3VKcEgxcWZwSlVzeTVwZkZYVjQ1cXJfMTc3OTE0MDQ3NTI4OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBKeVlXNWtiMjVTYjNObFgwVnRZV2xzVTJsbmJtRjBkWEpsLnppcCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDhT0jdI2a4ctH-Ms8a6CrhNkZ1UfQ2~h6tQdDuxLTdngIhAKChctTq9Gly7XSTAgNIuUF2m~MfrvdnGPdS657QPzYv"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/uJpH1qfpJUsy5pfFXV45qr_1779140475289_na1fn_L2hvbWUvdWJ1bnR1L0JyYW5kb25Sb3NlX0VtYWlsU2lnbmF0dXJl.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L3VKcEgxcWZwSlVzeTVwZkZYVjQ1cXJfMTc3OTE0MDQ3NTI4OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBKeVlXNWtiMjVTYjNObFgwVnRZV2xzVTJsbmJtRjBkWEpsLnppcCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIBKmqUbQuN7J3~mQOfnD5WDHvJNKwGvTOGrLUp9Di4RHAiB2t0Qhzsc~jLV4QbV85dRZX7G7UJmTjfc8T67Ipv-MSw__"
           },
           {
             "content_type": "image/gif",
             "filename": "BrandonRose_Signature.gif",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/uJpH1qfpJUsy5pfFXV45qr_1779140475289_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL0JyYW5kb25Sb3NlX1NpZ25hdHVyZQ.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L3VKcEgxcWZwSlVzeTVwZkZYVjQ1cXJfMTc3OTE0MDQ3NTI4OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDBKeVlXNWtiMjVTYjNObFgxTnBaMjVoZEhWeVpRLmdpZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIBj9slgcLgRooryyOe9loB~JPeHYlKJfCwPuFOdqSoBDAiEAu7BxUxrD5hDKw4CRjs2jT6w84atE3IM5hqD9AyBpSRE_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/uJpH1qfpJUsy5pfFXV45qr_1779140475289_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL0JyYW5kb25Sb3NlX1NpZ25hdHVyZQ.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L3VKcEgxcWZwSlVzeTVwZkZYVjQ1cXJfMTc3OTE0MDQ3NTI4OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDBKeVlXNWtiMjVTYjNObFgxTnBaMjVoZEhWeVpRLmdpZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQD2AiBm1Dy1HEkc7ygaZmCdAd6~JE-L~Vsnxzeh-TNnMwIhAMWf8yNQOU09saSm~wvyljRnsbIGjt14Pv8AJwoq6-~9"
           },
           {
             "content_type": "text/html; charset=utf-8",
             "filename": "signature.html",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/uJpH1qfpJUsy5pfFXV45qr_1779140475289_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZQ.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L3VKcEgxcWZwSlVzeTVwZkZYVjQ1cXJfMTc3OTE0MDQ3NTI4OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlEuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIE4Quwc0yokg562R4vrUCchY3gmzyabKXLAN7e01e-7TAiADeCEwwVthRhPEQ-BaGAgJZR5g4kVMtMjYcUOUk4r7Eg__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/uJpH1qfpJUsy5pfFXV45qr_1779140475289_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZQ.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L3VKcEgxcWZwSlVzeTVwZkZYVjQ1cXJfMTc3OTE0MDQ3NTI4OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlEuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQC5Nw88eWUmM0IAIi15jl106FHbUBvE08FIYXqM5oQQDwIhAMi~3-ew3JGgW7xy3ilUxCe9NQTXPmoI-wHVe1Ysm1T8"
           }
         ],
         "content": "Fixed! Both text elements now use the **exact originals from your signature**:\n\n- **\"Thank You,\"** — the real gold cursive script, pixel-perfect from your original\n- **\"Brandon Rose 🌹\"** — the exact typewriter-style font, lifted directly from your signature video\n\nEverything else remains the same: compact layout, both logos small at the bottom, headshot on the right.\n\nThe zip now includes 7 files — keep them all in the same folder when setting up in Outlook. Let me know if you'd like any other adjustments!"
@@ -620,19 +620,19 @@
             "content_type": "application/zip",
             "filename": "BrandonRose_EmailSignature.zip",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/TARXcq8ecQyog3jclobTe3_1779141680604_na1fn_L2hvbWUvdWJ1bnR1L0JyYW5kb25Sb3NlX0VtYWlsU2lnbmF0dXJl.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L1RBUlhjcThlY1F5b2czamNsb2JUZTNfMTc3OTE0MTY4MDYwNF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBKeVlXNWtiMjVTYjNObFgwVnRZV2xzVTJsbmJtRjBkWEpsLnppcCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQD5T4aWy6Rp7il-6R2svFC8Qg2Hu3TWgFU1kfQU2wFoAgIgXLn5W6Ar898clsizTSAVNexL8jL4itmpEQubiT~rnOs_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/TARXcq8ecQyog3jclobTe3_1779141680604_na1fn_L2hvbWUvdWJ1bnR1L0JyYW5kb25Sb3NlX0VtYWlsU2lnbmF0dXJl.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L1RBUlhjcThlY1F5b2czamNsb2JUZTNfMTc3OTE0MTY4MDYwNF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBKeVlXNWtiMjVTYjNObFgwVnRZV2xzVTJsbmJtRjBkWEpsLnppcCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQC-XdU5xyY8OgjCk9JH3hrrN4d0YlppseI-AR9uOLPtrQIgP0J~HFW1bAsgDsInjfBvOd2ddkAI0KJ0NPnPZ9cSwFo_"
           },
           {
             "content_type": "text/html; charset=utf-8",
             "filename": "signature.html",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/TARXcq8ecQyog3jclobTe3_1779141680604_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZQ.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L1RBUlhjcThlY1F5b2czamNsb2JUZTNfMTc3OTE0MTY4MDYwNF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlEuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCICD0I1xzSOJaBSyejFEivvf7Mdqt8iLtB6iD8ro5gypsAiAt9wrac7MWjNxhV4BqrWr1FYU9CuQMjLRMncvEkG0AAA__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/TARXcq8ecQyog3jclobTe3_1779141680604_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZQ.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L1RBUlhjcThlY1F5b2czamNsb2JUZTNfMTc3OTE0MTY4MDYwNF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlEuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCwmu7rrf9AZRnYdTxl2UJR-XP9tLkqlU5YeodDu7GMuQIhAKbbQUXqKX8LKjbiiUTZsws36AEBdKo3Re1QoySwUq2U"
           },
           {
             "content_type": "image/gif",
             "filename": "BrandonRose_Signature.gif",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/TARXcq8ecQyog3jclobTe3_1779141680604_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL0JyYW5kb25Sb3NlX1NpZ25hdHVyZQ.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L1RBUlhjcThlY1F5b2czamNsb2JUZTNfMTc3OTE0MTY4MDYwNF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDBKeVlXNWtiMjVTYjNObFgxTnBaMjVoZEhWeVpRLmdpZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIHM5TLthMHB2iYn4HzmgnsAdw5FyS3YG6Fm92GzRk-QSAiAbWriWLOU1W15AIOyZR0Zqc6b~RfE0iHVd5OSwbko6hQ__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/TARXcq8ecQyog3jclobTe3_1779141680604_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL0JyYW5kb25Sb3NlX1NpZ25hdHVyZQ.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L1RBUlhjcThlY1F5b2czamNsb2JUZTNfMTc3OTE0MTY4MDYwNF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDBKeVlXNWtiMjVTYjNObFgxTnBaMjVoZEhWeVpRLmdpZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIEVebJ6XqU9xb8LOiJqmp7yOK5960LvGUW6ax5fNzknOAiEA1X6wpt9AGmSL3GfOyT4Tcv~JSEoJY7x2QKwRaqo353U_"
           }
         ],
         "content": "Fixed! The `signature.html` is now **fully self-contained** — all images (headshot, both logo GIFs, \"Thank You,\" and \"Brandon Rose\") are embedded directly inside the HTML file as Base64 data. You can open it on any computer and everything will display without needing any other files nearby.\n\n**How to install in Outlook Exchange:**\n1. Open **Outlook → File → Options → Mail → Signatures → New**\n2. Give it a name (e.g. \"Brandon Rose\")\n3. In the signature editor, click the **\"...\"** menu or switch to **HTML source view**\n4. Paste the entire contents of `signature.html`\n5. Save and set as your default signature\n\n> **Note:** Outlook on Windows does not animate GIFs in the compose window preview, but recipients on Outlook Web (OWA), Apple Mail, Gmail, and most other clients will see the full shimmer animations on both logos."
@@ -661,7 +661,7 @@
             "content_type": "image/gif",
             "filename": "PropertyMax_FINAL.gif",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-qVt3eCKgjma3Lflf9lcmCJ_na1fn_UHJvcGVydHlNYXhfRklOQUw.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1xVnQzZUNLZ2ptYTNMZmxmOWxjbUNKX25hMWZuX1VISnZjR1Z5ZEhsTllYaGZSa2xPUVV3LmdpZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCw~BR9tWiiVRQT5zifqgnpQd60kszWCva1EGEXEe49qwIhANTQUii72FacIVki98t0d3nbE4EVcx-04YtV1j~fuxj8"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-qVt3eCKgjma3Lflf9lcmCJ_na1fn_UHJvcGVydHlNYXhfRklOQUw.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1xVnQzZUNLZ2ptYTNMZmxmOWxjbUNKX25hMWZuX1VISnZjR1Z5ZEhsTllYaGZSa2xPUVV3LmdpZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIDqZ4l9dp77L0cKcHoun4jl35NldSm9zxX0up5Jk5egIAiEA0JQtUCWCuZ6kuJM3u17bobw2fjxRhv3H22XmawGvQog_"
           }
         ],
         "content": "use this for the propertymax emblem instead ",
@@ -726,19 +726,19 @@
             "content_type": "application/zip",
             "filename": "BrandonRose_EmailSignature.zip",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/2brRHpWWFoD6mbEHPJu5hb_1779158803208_na1fn_L2hvbWUvdWJ1bnR1L0JyYW5kb25Sb3NlX0VtYWlsU2lnbmF0dXJl.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94LzJiclJIcFdXRm9ENm1iRUhQSnU1aGJfMTc3OTE1ODgwMzIwOF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBKeVlXNWtiMjVTYjNObFgwVnRZV2xzVTJsbmJtRjBkWEpsLnppcCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDpDqd~UAu8A2bntG5uW-xJ25PHCRcXX9Nkphs7oOH~MgIgOAiRcSAkk97RGih1SPyLJAkgaWHXD4hrmXVlWnUh-Qw_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/2brRHpWWFoD6mbEHPJu5hb_1779158803208_na1fn_L2hvbWUvdWJ1bnR1L0JyYW5kb25Sb3NlX0VtYWlsU2lnbmF0dXJl.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94LzJiclJIcFdXRm9ENm1iRUhQSnU1aGJfMTc3OTE1ODgwMzIwOF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBKeVlXNWtiMjVTYjNObFgwVnRZV2xzVTJsbmJtRjBkWEpsLnppcCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIBBfWgOEZcCE0Afp4iVMeV-FqILaGS3LDywgHQXm2QAkAiEAgViNAh7BT6LqenkVI7qVRQwnxdygqAwlpJjKlZ~W0SA_"
           },
           {
             "content_type": "image/gif",
             "filename": "BrandonRose_Signature.gif",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/2brRHpWWFoD6mbEHPJu5hb_1779158803208_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL0JyYW5kb25Sb3NlX1NpZ25hdHVyZQ.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94LzJiclJIcFdXRm9ENm1iRUhQSnU1aGJfMTc3OTE1ODgwMzIwOF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDBKeVlXNWtiMjVTYjNObFgxTnBaMjVoZEhWeVpRLmdpZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIGW5LoDr7oHjBOSzYECPf4ahbAvvHB7LJ82rBfkFF9YPAiArd3tyZfFkMIVBlzEyuXKfSDZ21J4~xihcPQU0yWUGPw__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/2brRHpWWFoD6mbEHPJu5hb_1779158803208_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL0JyYW5kb25Sb3NlX1NpZ25hdHVyZQ.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94LzJiclJIcFdXRm9ENm1iRUhQSnU1aGJfMTc3OTE1ODgwMzIwOF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDBKeVlXNWtiMjVTYjNObFgxTnBaMjVoZEhWeVpRLmdpZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDY84qBcuAvKvKBa5Vv5767cWPsmgcmcJmpzlL67NAjzQIgArhfzzE4ENfo4HnRTNB47Fj36mEo4ztNM83PrBk5dv4_"
           },
           {
             "content_type": "text/html; charset=utf-8",
             "filename": "signature.html",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/2brRHpWWFoD6mbEHPJu5hb_1779158803208_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZQ.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94LzJiclJIcFdXRm9ENm1iRUhQSnU1aGJfMTc3OTE1ODgwMzIwOF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlEuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDURWkT8tHcj5LAx1yDueHIT4avhO98drJcdJ9AfWAwwwIhAPGDSWAH8z2AyjrzxdHKcs9jJ5fRB2zhH1eimcL4S-p~"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/2brRHpWWFoD6mbEHPJu5hb_1779158803208_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZQ.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94LzJiclJIcFdXRm9ENm1iRUhQSnU1aGJfMTc3OTE1ODgwMzIwOF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlEuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDqz~908EtjYPW8JNGhfemXgvtwGwwgDj~pQ4GkQ1u-HAiBCe04mM~YgrHy3QlfwXfd-xsKQEGzcWH65sQrEj6l8mg__"
           }
         ],
         "content": "Done! The new **PropertyMax.ai** emblem is now in both the GIF and the self-contained HTML — black background fully removed, clean white. Both logos sit neatly side-by-side at the bottom as before. Let me know if you'd like any other tweaks!"
@@ -1022,7 +1022,7 @@
             "content_type": "text/html; charset=utf-8",
             "filename": "signature_cdn.html",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/25mflvbJgnhqSVPJCpxag3_1779159662943_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZV9jZG4.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94LzI1bWZsdmJKZ25ocVNWUEpDcHhhZzNfMTc3OTE1OTY2Mjk0M19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlY5alpHNC5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDumFMZj9fG2uqkJax1UI0h4O5WK-v--URz0Ywi2HLb9AiAED9oW4UoxNwyIOTpc3uWk2bYmeMkMlr0M3Xh5m4MxJQ__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/25mflvbJgnhqSVPJCpxag3_1779159662943_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZV9jZG4.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94LzI1bWZsdmJKZ25ocVNWUEpDcHhhZzNfMTc3OTE1OTY2Mjk0M19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlY5alpHNC5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCV5Vc1-8HgoevJwdQELtoHe2g3YTRozyiv28njmyRUiwIgKznUPmnZVzP9ZStEvVFajdzC6~VH8FB1f9gf1nbYaak_"
           }
         ],
         "content": "Perfect — here's the clean HTML file. Just open it in your browser, select all (Ctrl+A), copy (Ctrl+C), then paste it directly into your OWA signature editor under Settings → Mail → Email Signature."
@@ -1109,7 +1109,7 @@
             "content_type": "text/html; charset=utf-8",
             "filename": "signature_cdn.html",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/ehRevlmBBBhTScm4xNXEQw_1779159996039_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZV9jZG4.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L2VoUmV2bG1CQkJoVFNjbTR4TlhFUXdfMTc3OTE1OTk5NjAzOV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlY5alpHNC5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCtatOrJZK6nmVANQTmgb9TQTCIRBLUATm1fl-yR~dsyAIhAM6bfANhFDmWt4~s4WcWtiL5~8GnSeXwrdde3S3HRRHk"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/ehRevlmBBBhTScm4xNXEQw_1779159996039_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZV9jZG4.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L2VoUmV2bG1CQkJoVFNjbTR4TlhFUXdfMTc3OTE1OTk5NjAzOV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlY5alpHNC5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQD1eASYxjaMPTypkIMvkl~kQ0ghc1FP9ko2zV7eeMO29AIgLsQyDtKQ2hX1YqbUczzYucgCqg9QiKStrnVBTVwfANQ_"
           }
         ],
         "content": "Done! Here's the updated HTML file with:\n\n- **\"Thank You,\"** in gold cursive (Dancing Script font)\n- **\"Brandon Rose\"** in typewriter style (Courier monospace, bold) with a clean **metallic chrome rose** icon next to it\n- **Both logos** (ApartmentCorp + PropertyMax.ai) side-by-side at the bottom\n- **Your headshot** on the right\n\nOpen the file in your browser, select all (Ctrl+A), copy, and paste into your OWA signature editor. Let me know if you'd like any sizing or spacing tweaks!"
@@ -1186,7 +1186,7 @@
             "content_type": "text/html; charset=utf-8",
             "filename": "signature_cdn.html",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/2MsDPy0zUPnO3R56UqmUsc_1779160381031_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZV9jZG4.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94LzJNc0RQeTB6VVBuTzNSNTZVcW1Vc2NfMTc3OTE2MDM4MTAzMV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlY5alpHNC5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIHclolKr1Dgma7Jh2TichSh5Cax4q7NBKB6wHqnh6WVOAiEAu8tffnekv1wZgxtBdG6DgfVtQ2PuDQva~Lh-RlDThho_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/2MsDPy0zUPnO3R56UqmUsc_1779160381031_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZV9jZG4.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94LzJNc0RQeTB6VVBuTzNSNTZVcW1Vc2NfMTc3OTE2MDM4MTAzMV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlY5alpHNC5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQC08zTSKk-iVWuEqhW7kofkm~7FMI0usjoKUnVzzfZlYQIhANvoxWXbUPJO5t5FsXJmoIu7Outl1wz76CoH3dgzPONs"
           }
         ],
         "content": "Here's the clean, professionally aligned signature! Layout summary:\n\n- **Gold divider lines** top and bottom frame the whole signature\n- **\"Thank You,\"** in gold cursive (Dancing Script)\n- **\"Brandon Rose\"** in bold typewriter font with the metallic chrome rose icon\n- **OFFICE / CELL** labels in gold with phone numbers, email, and address neatly aligned\n- **ApartmentCorp + PropertyMax.ai** logos side-by-side at the bottom (both clickable)\n- **Your headshot** vertically aligned on the right\n\nOpen in your browser → Select All (Ctrl+A) → Copy → Paste into your OWA signature editor. Let me know if you'd like any tweaks!"
@@ -1247,7 +1247,7 @@
             "content_type": "text/html; charset=utf-8",
             "filename": "signature_cdn.html",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/pPgKbfTUZUDYmhqtnw0mif_1779160705856_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZV9jZG4.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L3BQZ0tiZlRVWlVEWW1ocXRudzBtaWZfMTc3OTE2MDcwNTg1Nl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlY5alpHNC5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIB2JKZz1Uw3ZCzBaQv4AAGFmC73upnSjLvUHtAhuxCXvAiAHv2df9Ek1NoKT7VKX8jCJvEmx7N9QNqSIg0LRJuT~iA__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/pPgKbfTUZUDYmhqtnw0mif_1779160705856_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZV9jZG4.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L3BQZ0tiZlRVWlVEWW1ocXRudzBtaWZfMTc3OTE2MDcwNTg1Nl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlY5alpHNC5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDChljrLZXrTMd7UtZrpF3JHuTm6ZM2yjuZurV~PIpajgIgCxA125IlAbY1akcoQw3ngDo7JxD9PfyaKxlyOom8UAg_"
           }
         ],
         "content": "Here's the final signature HTML. Open it in your browser → **Select All (Ctrl+A)** → **Copy (Ctrl+C)** → paste into your OWA signature editor under **Settings → Mail → Email Signature**. Let me know if you'd like any final tweaks!"
@@ -1348,25 +1348,25 @@
             "content_type": "text/html; charset=utf-8",
             "filename": "signature_cdn.html",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/fhR9cUjGiQLhvonVjasgXJ_1779161240049_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZV9jZG4.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L2ZoUjljVWpHaVFMaHZvblZqYXNnWEpfMTc3OTE2MTI0MDA0OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlY5alpHNC5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQC2Gdtoo1pBgAJkXdRCAdvYaQSWXoRn0-MpIrpyx7zz6gIgaU7WIdewox68pDHnlkgVAg3~6jNXv2GCVgUeMthShOU_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/fhR9cUjGiQLhvonVjasgXJ_1779161240049_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZV9jZG4.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L2ZoUjljVWpHaVFMaHZvblZqYXNnWEpfMTc3OTE2MTI0MDA0OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlY5alpHNC5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQD47KzrZI4z5458C7tDB3QPVTmw5PC-r6sbigElDf9ufwIhAJggrkug88dzA0Yri6miT~ZUiKDHMW0cgoyxIpaYP8Yt"
           },
           {
             "content_type": "image/gif",
             "filename": "thank_you.gif",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/fhR9cUjGiQLhvonVjasgXJ_1779161240049_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3RoYW5rX3lvdQ.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L2ZoUjljVWpHaVFMaHZvblZqYXNnWEpfMTc3OTE2MTI0MDA0OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNSb1lXNXJYM2x2ZFEuZ2lmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCBaZ1pseJ04r9KOyM1g0OJmV7HT24Jc4KliV3fTRy8TwIgaMdcJrRDjsPN6tmMwJNoilWtXHartdvHk0KKTUUdzrw_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/fhR9cUjGiQLhvonVjasgXJ_1779161240049_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3RoYW5rX3lvdQ.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L2ZoUjljVWpHaVFMaHZvblZqYXNnWEpfMTc3OTE2MTI0MDA0OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNSb1lXNXJYM2x2ZFEuZ2lmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIB2ovyylOUhLcoNUerZ3-YChiPBipggCadMfurGzJf66AiAj0PLQiYUIKY1xLUvpvtZAyAaqWQFiqstU9up7fp1VCA__"
           },
           {
             "content_type": "image/gif",
             "filename": "brandon_rose.gif",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/fhR9cUjGiQLhvonVjasgXJ_1779161240049_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL2JyYW5kb25fcm9zZQ.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L2ZoUjljVWpHaVFMaHZvblZqYXNnWEpfMTc3OTE2MTI0MDA0OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDJKeVlXNWtiMjVmY205elpRLmdpZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDH~cfzJ0OdQt5-NrGmdLwnMxyI2dx~dLKeM06Xx3hBDAiAD0ixIkm5KCa6rTcR7CH7zeLvR8SOX4tOOf-V1I6zawg__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/fhR9cUjGiQLhvonVjasgXJ_1779161240049_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL2JyYW5kb25fcm9zZQ.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L2ZoUjljVWpHaVFMaHZvblZqYXNnWEpfMTc3OTE2MTI0MDA0OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDJKeVlXNWtiMjVmY205elpRLmdpZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDc1QsSEgI9-ZhyktLttVOU3T-aqYQDDebkvleWIrLZtQIgf7HOUcAGGpehFu58MBVzphjWxrKfJ5nFw3wXrrZ6Esg_"
           },
           {
             "content_type": "image/gif",
             "filename": "rose_shimmer.gif",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/fhR9cUjGiQLhvonVjasgXJ_1779161240049_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3Jvc2Vfc2hpbW1lcg.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L2ZoUjljVWpHaVFMaHZvblZqYXNnWEpfMTc3OTE2MTI0MDA0OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNKdmMyVmZjMmhwYlcxbGNnLmdpZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDGCQY7wA-YYEQlr59WAq-TF6yd20q3thA5cUvEfR5U8QIhAOMpbkS1JokdlgNm3mSkyLeOpuBXCEr36tPLgxVv12f0"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/fhR9cUjGiQLhvonVjasgXJ_1779161240049_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3Jvc2Vfc2hpbW1lcg.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L2ZoUjljVWpHaVFMaHZvblZqYXNnWEpfMTc3OTE2MTI0MDA0OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNKdmMyVmZjMmhwYlcxbGNnLmdpZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDseP35woylP9O0xU5qb6G3KFIGgFMk2yIx6IkLbJf5TAIgFU4yIxNsWALaAvsahuqjuh4uYpZ-R2Zh8NVIHsb1juc_"
           }
         ],
         "content": "Here's everything! All three animated GIFs are attached so you can preview them individually too:\n\n| File | Description |\n|---|---|\n| `signature_cdn.html` | The complete signature — open in browser, Ctrl+A, copy, paste into OWA |\n| `thank_you.gif` | Gold cursive \"Thank You,\" writing itself out |\n| `brandon_rose.gif` | Bold typewriter \"Brandon Rose\" typing letter by letter with cursor blink |\n| `rose_shimmer.gif` | Silver metallic rose with diagonal shimmer/glimmer effect |\n\n**To install in OWA:** Open `signature_cdn.html` in your browser → **Ctrl+A** → **Ctrl+C** → Go to OWA Settings → Mail → Email Signature → paste → Save.\n\nLet me know if you'd like any tweaks to the animation speed, font size, or layout!"
@@ -1459,7 +1459,7 @@
             "content_type": "image/png",
             "filename": "pasted_file_kYpGDN_image.png",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-wIC37f31KLvSgJ7sEn5Vqj_na1fn_cGFzdGVkX2ZpbGVfa1lwR0ROX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC13SUMzN2YzMUtMdlNnSjdzRW41VnFqX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZhMWx3UjBST1gybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIBFXeVLQ0qnsBc7w1N8e6iFkguwsb8IbMV5xlI4k-z0BAiEAsV12oXiaGAxgja8CPN9B5btTkgl7SWbedHpFnDOyZiM_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-wIC37f31KLvSgJ7sEn5Vqj_na1fn_cGFzdGVkX2ZpbGVfa1lwR0ROX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC13SUMzN2YzMUtMdlNnSjdzRW41VnFqX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZhMWx3UjBST1gybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDvppm-vdJLYz~VtaAx2mWMMmkr~WeIS38V5qnOIcDN2wIhAPAkZT3HOJKkkxiHTRznXiuq22Dc4Sri~QpGmeU0s0w6"
           }
         ],
         "message_type": "text"
@@ -1517,7 +1517,7 @@
             "content_type": "text/html; charset=utf-8",
             "filename": "signature_cdn.html",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/xEKNlaWjx4PsCtFIG4nRn6_1779161950820_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZV9jZG4.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L3hFS05sYVdqeDRQc0N0RklHNG5SbjZfMTc3OTE2MTk1MDgyMF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlY5alpHNC5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDjClUW-7Nz2GUGfmX23cCMhAAANnSnZoWFJjUCLqgm2AiB-uP-SXqsAlQURTI3miBwdz2iJBuEVEtDxLlCb~Gz5~Q__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/xEKNlaWjx4PsCtFIG4nRn6_1779161950820_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZV9jZG4.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L3hFS05sYVdqeDRQc0N0RklHNG5SbjZfMTc3OTE2MTk1MDgyMF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlY5alpHNC5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQC6yNjtkMwIsuOr2HfU3-zIPUO17WGIIZ4qNp6iLMLKegIhAOA63yeWnISyrqXtfhGOsneVbv5daIQ27AVGJSslrwUK"
           }
         ],
         "content": "Here it is! This is the compact 3KB version with short URLs.\n\n**To install manually in OWA:**\n1. Open this HTML file in **Chrome or Edge**\n2. Press **Ctrl+A** then **Ctrl+C** to copy\n3. Go to [https://mail.aptrents.com/owa](https://mail.aptrents.com/owa) → **Settings ⚙️ → Options → Mail → Email Signature**\n4. Click inside the signature box, press **Ctrl+A** to clear it, then **Ctrl+V** to paste\n5. Check **\"Automatically include my signature\"** and click **Save**"
@@ -1546,7 +1546,7 @@
             "content_type": "application/pdf",
             "filename": "Brandon_Rose_Biography.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-QDOftia7wqfThSk1ZNsCwo_na1fn_QnJhbmRvbl9Sb3NlX0Jpb2dyYXBoeQ.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1RRE9mdGlhN3dxZlRoU2sxWk5zQ3dvX25hMWZuX1FuSmhibVJ2Ymw5U2IzTmxYMEpwYjJkeVlYQm9lUS5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIELl577kzGznVzrstg7LeHFXdXINQofG6M8dTTq~xmWoAiAbhHfQqEXXnBmvjog81859p~UtBF4mcQ8ER9yHqmRGRA__"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-QDOftia7wqfThSk1ZNsCwo_na1fn_QnJhbmRvbl9Sb3NlX0Jpb2dyYXBoeQ.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1RRE9mdGlhN3dxZlRoU2sxWk5zQ3dvX25hMWZuX1FuSmhibVJ2Ymw5U2IzTmxYMEpwYjJkeVlYQm9lUS5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICHe7~kqN4X~Y6~xRgR52puvCZD337ph3i~TJrWzffpmAiEAiuw~TqEgxtP2LnYzRjsZdUZWkXiqQ0egL3xDUEJ6d2U_"
           }
         ],
         "content": "perfect - lastly I'm like to add one more thing, I was a \"Click Here to learn more about Brandon!\" that links to a website i'd like you to create with this - Make the website look professional and have an awesome wow factor ",
@@ -1635,7 +1635,7 @@
             "content_type": "text/html; charset=utf-8",
             "filename": "signature_cdn.html",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/k7abLAG4H27KSsHoNYbBKM_1779162794150_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZV9jZG4.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L2s3YWJMQUc0SDI3S1NzSG9OWWJCS01fMTc3OTE2Mjc5NDE1MF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlY5alpHNC5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCNdhBoB03R97tZDYVNF8Oel1FgLBYq-DqZy1iiv6kaiAIhANapsQmzj6uN7aok4cAn1Iyn~bABagXf~PCPy7sMVL8V"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/k7abLAG4H27KSsHoNYbBKM_1779162794150_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZV9jZG4.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L2s3YWJMQUc0SDI3S1NzSG9OWWJCS01fMTc3OTE2Mjc5NDE1MF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlY5alpHNC5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIH6UThRZkhvqP0U2JVuMCS5nBQjMQPNx3M0SRocTQ6MyAiEAhxgPiZYZoCdlup~VSjZBIFvv9o4NkDoECdZGtqySrak_"
           }
         ],
         "content": "Everything is done! Here's a summary of what was delivered:\n\n**Biography Website** — Dark Luxury / Executive Noir design featuring:\n- Animated gold particle network hero with your headshot\n- Scroll-triggered animated stat counters (7+ years, 47 employees, etc.)\n- Expertise cards, career timeline, skills bars, and contact section\n- Gold accent throughout matching your email signature branding\n\n**Updated Email Signature** — now includes:\n- A shimmering metallic rose icon next to **\"Click Here to learn more about Brandon!\"** in gold italic, linking to the bio website\n- Already pushed to your OWA mailbox — sign out and back in to see it\n\n> **Important:** Once you click **Publish** on the bio website (using the Publish button in the top-right of the Management UI), replace the bio link in the signature HTML with your final public URL (e.g. `yourname.manus.space`). I can update it for you automatically once you publish — just say the word.\n\n**Suggested next steps:**\n1. **Publish the website** — click the Publish button in the Management UI to get your permanent public URL, then I'll update the signature link\n2. **Add a headshot hover effect** — a subtle zoom or gold-border glow on the hero photo would add extra polish\n3. **Add a LinkedIn or social link** — a small LinkedIn icon in the contact section or footer would make it easy for people to connect professionally"
@@ -1696,7 +1696,7 @@
             "content_type": "text/html; charset=utf-8",
             "filename": "signature_cdn.html",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/cgKJK3UBtY8s3NyxN0DAaZ_1779162913894_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZV9jZG4.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L2NnS0pLM1VCdFk4czNOeXhOMERBYVpfMTc3OTE2MjkxMzg5NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlY5alpHNC5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCTrJT0vvlfhebyVrOkZxRjggQMnKpyhpcyxWi1inTzmQIge~AIXGBdOPLo7hLS1SUnVXCFfNFFAtn3WT7gzWeA-24_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/cgKJK3UBtY8s3NyxN0DAaZ_1779162913894_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZV9jZG4.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L2NnS0pLM1VCdFk4czNOeXhOMERBYVpfMTc3OTE2MjkxMzg5NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlY5alpHNC5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCqcVFYBuCjkApjN9kaayGeyi1ZajdPSFDJrSR5J24oqQIhAI6AZxi5MV5yiZcuLbBVFWLt48OViwxcXBv7KyyrBSjh"
           }
         ],
         "content": "All done! Here's what's live:\n\n**Biography Website** → [https://brandonbio-fxr7r4er.manus.space](https://brandonbio-fxr7r4er.manus.space)\n\n**Email Signature** — already updated in your OWA mailbox. The \"Click Here to learn more about Brandon!\" link (with the metallic rose) now points to the permanent public URL. Sign out and back in to your OWA to see the final version.\n\nThe updated `signature_cdn.html` is also attached if you ever need to manually re-paste it."
@@ -1749,7 +1749,7 @@
             "content_type": "text/html; charset=utf-8",
             "filename": "signature_cdn.html",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/duOzLtjVoqHCvZjwzyv1kQ_1779162991521_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZV9jZG4.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L2R1T3pMdGpWb3FIQ3Zaand6eXYxa1FfMTc3OTE2Mjk5MTUyMV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlY5alpHNC5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDuF7sN3dpx2YrYb0TJdB-baJshcCFn0PVjAINhSvnDGAIhAKjfH6TA~HgwJggswTcGYxhZpWn5wmVCwRpnebIkD5An"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/duOzLtjVoqHCvZjwzyv1kQ_1779162991521_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZV9jZG4.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L2R1T3pMdGpWb3FIQ3Zaand6eXYxa1FfMTc3OTE2Mjk5MTUyMV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlY5alpHNC5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIB2UDiUj2sJkOFHkQDmWuZJ2MYAqasd6BX9gepKQoWw6AiA57Rjn9CkpSIrZzGHpkuCA3wCcAV7h8iPJSHgEWN3QmQ__"
           }
         ],
         "content": "Done! The link now reads:\n\n🌹 **\"Click Here\"** in deep red · **\"to learn more about Brandon!\"** in forest green\n\nAlready pushed to your OWA mailbox — sign out and back in to see it. The updated HTML file is attached as well!"
@@ -1778,7 +1778,7 @@
             "content_type": "image/png",
             "filename": "professional_portrait_blazer_office.png",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-N6nKKPAjjYNJW0hWpJYuXm_na1fn_cHJvZmVzc2lvbmFsX3BvcnRyYWl0X2JsYXplcl9vZmZpY2U.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1ONm5LS1BBampZTkpXMGhXcEpZdVhtX25hMWZuX2NISnZabVZ6YzJsdmJtRnNYM0J2Y25SeVlXbDBYMkpzWVhwbGNsOXZabVpwWTJVLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCRofGPLM-177shBdLLn2pkTng9ITlevy-YBTOAgdYBpQIhAP6KM27kfb4Xfi~yvY-2FHAeOOCRHSDbWWMVOHa0UPQe"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-N6nKKPAjjYNJW0hWpJYuXm_na1fn_cHJvZmVzc2lvbmFsX3BvcnRyYWl0X2JsYXplcl9vZmZpY2U.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1ONm5LS1BBampZTkpXMGhXcEpZdVhtX25hMWZuX2NISnZabVZ6YzJsdmJtRnNYM0J2Y25SeVlXbDBYMkpzWVhwbGNsOXZabVpwWTJVLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCg4WLI-reo0vaA6winKWDKcRSNmycChJzKF~BdJn4vJAIgWc7bIwku3zeMp3uYLhIT-IcqsFEiZ1r-2vF~svD1qJo_"
           }
         ],
         "content": "use this photo instead on the website ",
@@ -1848,350 +1848,350 @@
       "type": "file",
       "filename": "signature.mov",
       "content_type": "video/quicktime",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-e4bngNjKZjoAcYA9nzOXlA_na1fn_c2lnbmF0dXJl.mov?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1lNGJuZ05qS1pqb0FjWUE5bnpPWGxBX25hMWZuX2MybG5ibUYwZFhKbC5tb3YiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIGpVrjAA5VMJiGac281Z4orJVjtHaS8kuEJch1tns1EtAiAvVooiWZusN6uUNAG0VhwwkddS1mNn7aom0lYjUvMDCA__",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-e4bngNjKZjoAcYA9nzOXlA_na1fn_c2lnbmF0dXJl.mov?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1lNGJuZ05qS1pqb0FjWUE5bnpPWGxBX25hMWZuX2MybG5ibUYwZFhKbC5tb3YiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDxxkvUo6RIIdCTwA2RrJzhL6V1rRfxOw2VI6nOC4oGUQIhANLoBspK4lWz0aw2foV0-5cnJiSjiO0TY-S2EwkXuVWk",
       "status": "archived",
       "bytes": 222606,
-      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/8-user_message-0_5ca8cb338934f059_signature.mov"
+      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/8-user_message-0_81291fb921a774c0_signature.mov"
     },
     {
       "event_index": 8,
       "type": "image",
       "filename": "BrandonRoseHeadShot.png",
       "content_type": "image/png",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-4ZqHYy4jddItlCHV93ElnI_na1fn_QnJhbmRvblJvc2VIZWFkU2hvdA.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC00WnFIWXk0amRkSXRsQ0hWOTNFbG5JX25hMWZuX1FuSmhibVJ2YmxKdmMyVklaV0ZrVTJodmRBLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDD-lHdFwxdlEXxKUqFI5ZDQrTv2J4Vef730awDS69y9AIhAIc14XFTVICaJl1IDXSmEBRja3d0Fz8jOLjhdyPslaVY",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-4ZqHYy4jddItlCHV93ElnI_na1fn_QnJhbmRvblJvc2VIZWFkU2hvdA.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC00WnFIWXk0amRkSXRsQ0hWOTNFbG5JX25hMWZuX1FuSmhibVJ2YmxKdmMyVklaV0ZrVTJodmRBLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIAYRlOf1O~nc~bxPdzRNzskVMN5OR4jt3CuFGN53GtPNAiEA5VaGFmVNWEo0B3ih96-aBd765gXfLnlhwcEpf2mLwv4_",
       "status": "archived",
       "bytes": 2039863,
-      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/8-user_message-1_47222c1bced59837_BrandonRoseHeadShot.png"
+      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/8-user_message-1_ce4f18d7ce0d6d99_BrandonRoseHeadShot.png"
     },
     {
       "event_index": 14,
       "type": "image",
       "filename": "PropertyMaxShimmer.gif",
       "content_type": "image/gif",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-P1QGdJOIl6YbtDn5BfUO7X_na1fn_UHJvcGVydHlNYXhTaGltbWVy.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1QMVFHZEpPSWw2WWJ0RG41QmZVTzdYX25hMWZuX1VISnZjR1Z5ZEhsTllYaFRhR2x0YldWeS5naWYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQD5tVxZ8rCLKEBjZHql1FABaLl2NuQlKXlz310sxbznSwIgLmzAWXV7SRQzjQVtyJJ4UJjSEXY6ZoJ7oXGRi6NyKs0_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-P1QGdJOIl6YbtDn5BfUO7X_na1fn_UHJvcGVydHlNYXhTaGltbWVy.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1QMVFHZEpPSWw2WWJ0RG41QmZVTzdYX25hMWZuX1VISnZjR1Z5ZEhsTllYaFRhR2x0YldWeS5naWYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCkNPEXC7WQX0wufx9vDSZAuGHGe19e3vLjRZqSe9mIjQIhANKK7QzUo0iJWOIgO9cGJfto9DUgX-LmsizJJyGA~SwC",
       "status": "archived",
       "bytes": 129988,
-      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/14-user_message-0_074239e258b0366f_PropertyMaxShimmer.gif"
+      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/14-user_message-0_34551d1c591a4e26_PropertyMaxShimmer.gif"
     },
     {
       "event_index": 14,
       "type": "image",
       "filename": "AptCorpShimmer.gif",
       "content_type": "image/gif",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-7xJ9RxFFKl4AhK4r9H6ddG_na1fn_QXB0Q29ycFNoaW1tZXI.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC03eEo5UnhGRktsNEFoSzRyOUg2ZGRHX25hMWZuX1FYQjBRMjl5Y0ZOb2FXMXRaWEkuZ2lmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIEWgMjoDZdRdMGsc4sj2p0hDKWEttOpPOTxQbDjYCdaaAiBmG0anzGxqwO0SZzqdn92MIYc8Elqqflx0dKdKuRMiVQ__",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-7xJ9RxFFKl4AhK4r9H6ddG_na1fn_QXB0Q29ycFNoaW1tZXI.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC03eEo5UnhGRktsNEFoSzRyOUg2ZGRHX25hMWZuX1FYQjBRMjl5Y0ZOb2FXMXRaWEkuZ2lmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIHypwCoAvo6O68Pyf-HRZ2JNxzFGUExzxinpEX3eyV~mAiBNGgfIUy-pRtHbKjPt1VGCkuUzQaYtZUwTO~nq49aZiw__",
       "status": "archived",
       "bytes": 608130,
-      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/14-user_message-1_667731644c83076b_AptCorpShimmer.gif"
+      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/14-user_message-1_45ffff6bb89031f0_AptCorpShimmer.gif"
     },
     {
       "event_index": 28,
       "type": "file",
       "filename": "BrandonRose_EmailSignature.zip",
       "content_type": "application/zip",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/ejdSiBowD6ac8BbjYLtU1j_1779138475613_na1fn_L2hvbWUvdWJ1bnR1L0JyYW5kb25Sb3NlX0VtYWlsU2lnbmF0dXJl.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L2VqZFNpQm93RDZhYzhCYmpZTHRVMWpfMTc3OTEzODQ3NTYxM19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBKeVlXNWtiMjVTYjNObFgwVnRZV2xzVTJsbmJtRjBkWEpsLnppcCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDAXtShYc1Zj61dGp4PF2SwDgnoQ4751849ZN6khxNt9gIgedAk41fwiC7wjCEcwZpS-qJ9z8x~OLybF4ysp~-kWQk_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/ejdSiBowD6ac8BbjYLtU1j_1779138475613_na1fn_L2hvbWUvdWJ1bnR1L0JyYW5kb25Sb3NlX0VtYWlsU2lnbmF0dXJl.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L2VqZFNpQm93RDZhYzhCYmpZTHRVMWpfMTc3OTEzODQ3NTYxM19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBKeVlXNWtiMjVTYjNObFgwVnRZV2xzVTJsbmJtRjBkWEpsLnppcCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDkIPJg-gzaKukVMSipjYUY07Xx61OKBye55XHCyvGSRQIgFAIm-ej3NCFEy5E7I86poYxpKpAk9YKLpsr~sBR9NN4_",
       "status": "archived",
       "bytes": 3660269,
-      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/28-assistant_message-0_67e35b8bbcbd1045_BrandonRose_EmailSignature.zip"
+      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/28-assistant_message-0_7d65e684dd0931c5_BrandonRose_EmailSignature.zip"
     },
     {
       "event_index": 28,
       "type": "image",
       "filename": "BrandonRose_Signature.gif",
       "content_type": "image/gif",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/ejdSiBowD6ac8BbjYLtU1j_1779138475613_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL0JyYW5kb25Sb3NlX1NpZ25hdHVyZQ.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L2VqZFNpQm93RDZhYzhCYmpZTHRVMWpfMTc3OTEzODQ3NTYxM19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDBKeVlXNWtiMjVTYjNObFgxTnBaMjVoZEhWeVpRLmdpZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCUmibNhLRUU-yA1XPw0CiQGKYdeMD-TpdhYuCYrYb0ZAIgBogOffSbIZIAvX-j1oU~vMUYIFrPY5wcEf9qu7xfe8k_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/ejdSiBowD6ac8BbjYLtU1j_1779138475613_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL0JyYW5kb25Sb3NlX1NpZ25hdHVyZQ.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L2VqZFNpQm93RDZhYzhCYmpZTHRVMWpfMTc3OTEzODQ3NTYxM19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDBKeVlXNWtiMjVTYjNObFgxTnBaMjVoZEhWeVpRLmdpZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDqY860uojaovxKTzXNRX5GnlSMZTDe4ULnpdyLAQscDQIhAK38wW8UNOCvKL2Tw2uirX~vCwGatXZawnGmb8Fl30aF",
       "status": "archived",
       "bytes": 1008908,
-      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/28-assistant_message-1_0d32511092680cac_BrandonRose_Signature.gif"
+      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/28-assistant_message-1_db36adf6cec04d83_BrandonRose_Signature.gif"
     },
     {
       "event_index": 28,
       "type": "file",
       "filename": "signature.html",
       "content_type": "text/html; charset=utf-8",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/ejdSiBowD6ac8BbjYLtU1j_1779138475613_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZQ.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L2VqZFNpQm93RDZhYzhCYmpZTHRVMWpfMTc3OTEzODQ3NTYxM19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlEuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIGnag2fXT-H5NSuThqg9yWnnySyvNQdoJQ-icVwvfc9mAiAUDueH2lRBzQZGEzXY~I6NKkCrA4JzhlV8fQgZQvBr-A__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/ejdSiBowD6ac8BbjYLtU1j_1779138475613_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZQ.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L2VqZFNpQm93RDZhYzhCYmpZTHRVMWpfMTc3OTEzODQ3NTYxM19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlEuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIE62qQ2rAVJG3ptUs1gngGjOA0sD6tbhPnP2DhxTFFJ-AiB0p94HLGDEtysF~-TesbelWcYilm5fzzyBaCtTuD5rhQ__",
       "status": "archived",
       "bytes": 5206,
-      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/28-assistant_message-2_241b6544e8675b42_signature.html"
+      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/28-assistant_message-2_5c4eac1f5ba6bb1b_signature.html"
     },
     {
       "event_index": 36,
       "type": "file",
       "filename": "BrandonRose_EmailSignature.zip",
       "content_type": "application/zip",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/6rZEHEFPctzHU2w56Mw96H_1779139979641_na1fn_L2hvbWUvdWJ1bnR1L0JyYW5kb25Sb3NlX0VtYWlsU2lnbmF0dXJl.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94LzZyWkVIRUZQY3R6SFUydzU2TXc5NkhfMTc3OTEzOTk3OTY0MV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBKeVlXNWtiMjVTYjNObFgwVnRZV2xzVTJsbmJtRjBkWEpsLnppcCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQC31Zo~7ItMlT1ST5a-kucJZJWvYOHnBuSJiVp-tAgtHwIgQLCurxQvTFoBc~Kq7VVKH0cVWDwoldcQHpCMrDfSutc_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/6rZEHEFPctzHU2w56Mw96H_1779139979641_na1fn_L2hvbWUvdWJ1bnR1L0JyYW5kb25Sb3NlX0VtYWlsU2lnbmF0dXJl.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94LzZyWkVIRUZQY3R6SFUydzU2TXc5NkhfMTc3OTEzOTk3OTY0MV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBKeVlXNWtiMjVTYjNObFgwVnRZV2xzVTJsbmJtRjBkWEpsLnppcCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDZg23KYh6pKycI247P2YSOG-LyTacYaHmdni1CRWTlgAIgJdRy~8YL9IH8eEe9iZAXSrrT9mccB7vFyu6kqIUhk~U_",
       "status": "archived",
       "bytes": 3172894,
-      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/36-assistant_message-0_3b3bec165aaa674d_BrandonRose_EmailSignature.zip"
+      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/36-assistant_message-0_310041b6d81a17c2_BrandonRose_EmailSignature.zip"
     },
     {
       "event_index": 36,
       "type": "image",
       "filename": "BrandonRose_Signature.gif",
       "content_type": "image/gif",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/6rZEHEFPctzHU2w56Mw96H_1779139979641_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL0JyYW5kb25Sb3NlX1NpZ25hdHVyZQ.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94LzZyWkVIRUZQY3R6SFUydzU2TXc5NkhfMTc3OTEzOTk3OTY0MV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDBKeVlXNWtiMjVTYjNObFgxTnBaMjVoZEhWeVpRLmdpZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIFQM7cCi06ueGX3GtrQgYG-5lp2hhLY~FPDH2rLxMOSBAiBUhXAAAhl1UZ17ZMwf6c3-REkPKtjZqebelE2dTWzTeA__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/6rZEHEFPctzHU2w56Mw96H_1779139979641_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL0JyYW5kb25Sb3NlX1NpZ25hdHVyZQ.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94LzZyWkVIRUZQY3R6SFUydzU2TXc5NkhfMTc3OTEzOTk3OTY0MV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDBKeVlXNWtiMjVTYjNObFgxTnBaMjVoZEhWeVpRLmdpZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIH94ul--KwRmHltpvpvnM7gsPkZEaOwPyXZxCKzPmjCkAiEA3dpngKWAQbZEamMNkyiZsa7cHjW0A51c6fmC0~V74Ko_",
       "status": "archived",
       "bytes": 520914,
-      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/36-assistant_message-1_e625102009c2dd7c_BrandonRose_Signature.gif"
+      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/36-assistant_message-1_534d03d35b4766df_BrandonRose_Signature.gif"
     },
     {
       "event_index": 36,
       "type": "file",
       "filename": "signature.html",
       "content_type": "text/html; charset=utf-8",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/6rZEHEFPctzHU2w56Mw96H_1779139979641_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZQ.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94LzZyWkVIRUZQY3R6SFUydzU2TXc5NkhfMTc3OTEzOTk3OTY0MV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlEuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCICk-xdWbciiEub6P-tuATmE2t67RxvrlpCnG3O7-aRTcAiBXLidVzkIAihIU~5Huy725BoBvtFnV0bVzlXBUXHF~AQ__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/6rZEHEFPctzHU2w56Mw96H_1779139979641_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZQ.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94LzZyWkVIRUZQY3R6SFUydzU2TXc5NkhfMTc3OTEzOTk3OTY0MV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlEuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIA9c1xzILCuH-Hvn0IBGVqQ-fWBy~7ps2JkLlm-O59aYAiEA1m16iD3Y1R3CAqCUYxLVdjimfhU-wHKx~xZJcy4iGzI_",
       "status": "archived",
       "bytes": 5361,
-      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/36-assistant_message-2_bc8afaf85d379c49_signature.html"
+      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/36-assistant_message-2_69b2af7f40543f15_signature.html"
     },
     {
       "event_index": 46,
       "type": "file",
       "filename": "BrandonRose_EmailSignature.zip",
       "content_type": "application/zip",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/uJpH1qfpJUsy5pfFXV45qr_1779140475289_na1fn_L2hvbWUvdWJ1bnR1L0JyYW5kb25Sb3NlX0VtYWlsU2lnbmF0dXJl.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L3VKcEgxcWZwSlVzeTVwZkZYVjQ1cXJfMTc3OTE0MDQ3NTI4OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBKeVlXNWtiMjVTYjNObFgwVnRZV2xzVTJsbmJtRjBkWEpsLnppcCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDhT0jdI2a4ctH-Ms8a6CrhNkZ1UfQ2~h6tQdDuxLTdngIhAKChctTq9Gly7XSTAgNIuUF2m~MfrvdnGPdS657QPzYv",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/uJpH1qfpJUsy5pfFXV45qr_1779140475289_na1fn_L2hvbWUvdWJ1bnR1L0JyYW5kb25Sb3NlX0VtYWlsU2lnbmF0dXJl.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L3VKcEgxcWZwSlVzeTVwZkZYVjQ1cXJfMTc3OTE0MDQ3NTI4OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBKeVlXNWtiMjVTYjNObFgwVnRZV2xzVTJsbmJtRjBkWEpsLnppcCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIBKmqUbQuN7J3~mQOfnD5WDHvJNKwGvTOGrLUp9Di4RHAiB2t0Qhzsc~jLV4QbV85dRZX7G7UJmTjfc8T67Ipv-MSw__",
       "status": "archived",
       "bytes": 3302717,
-      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/46-assistant_message-0_9a35dbddf943fc17_BrandonRose_EmailSignature.zip"
+      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/46-assistant_message-0_a9ead06e278b84e7_BrandonRose_EmailSignature.zip"
     },
     {
       "event_index": 46,
       "type": "image",
       "filename": "BrandonRose_Signature.gif",
       "content_type": "image/gif",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/uJpH1qfpJUsy5pfFXV45qr_1779140475289_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL0JyYW5kb25Sb3NlX1NpZ25hdHVyZQ.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L3VKcEgxcWZwSlVzeTVwZkZYVjQ1cXJfMTc3OTE0MDQ3NTI4OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDBKeVlXNWtiMjVTYjNObFgxTnBaMjVoZEhWeVpRLmdpZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIBj9slgcLgRooryyOe9loB~JPeHYlKJfCwPuFOdqSoBDAiEAu7BxUxrD5hDKw4CRjs2jT6w84atE3IM5hqD9AyBpSRE_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/uJpH1qfpJUsy5pfFXV45qr_1779140475289_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL0JyYW5kb25Sb3NlX1NpZ25hdHVyZQ.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L3VKcEgxcWZwSlVzeTVwZkZYVjQ1cXJfMTc3OTE0MDQ3NTI4OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDBKeVlXNWtiMjVTYjNObFgxTnBaMjVoZEhWeVpRLmdpZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQD2AiBm1Dy1HEkc7ygaZmCdAd6~JE-L~Vsnxzeh-TNnMwIhAMWf8yNQOU09saSm~wvyljRnsbIGjt14Pv8AJwoq6-~9",
       "status": "archived",
       "bytes": 627682,
-      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/46-assistant_message-1_090fe26cd79516d0_BrandonRose_Signature.gif"
+      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/46-assistant_message-1_67c7bea7808a576a_BrandonRose_Signature.gif"
     },
     {
       "event_index": 46,
       "type": "file",
       "filename": "signature.html",
       "content_type": "text/html; charset=utf-8",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/uJpH1qfpJUsy5pfFXV45qr_1779140475289_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZQ.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L3VKcEgxcWZwSlVzeTVwZkZYVjQ1cXJfMTc3OTE0MDQ3NTI4OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlEuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIE4Quwc0yokg562R4vrUCchY3gmzyabKXLAN7e01e-7TAiADeCEwwVthRhPEQ-BaGAgJZR5g4kVMtMjYcUOUk4r7Eg__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/uJpH1qfpJUsy5pfFXV45qr_1779140475289_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZQ.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L3VKcEgxcWZwSlVzeTVwZkZYVjQ1cXJfMTc3OTE0MDQ3NTI4OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlEuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQC5Nw88eWUmM0IAIi15jl106FHbUBvE08FIYXqM5oQQDwIhAMi~3-ew3JGgW7xy3ilUxCe9NQTXPmoI-wHVe1Ysm1T8",
       "status": "archived",
       "bytes": 5455,
-      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/46-assistant_message-2_c5c0cb4c633af821_signature.html"
+      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/46-assistant_message-2_02f575838ec23f1d_signature.html"
     },
     {
       "event_index": 53,
       "type": "file",
       "filename": "BrandonRose_EmailSignature.zip",
       "content_type": "application/zip",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/TARXcq8ecQyog3jclobTe3_1779141680604_na1fn_L2hvbWUvdWJ1bnR1L0JyYW5kb25Sb3NlX0VtYWlsU2lnbmF0dXJl.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L1RBUlhjcThlY1F5b2czamNsb2JUZTNfMTc3OTE0MTY4MDYwNF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBKeVlXNWtiMjVTYjNObFgwVnRZV2xzVTJsbmJtRjBkWEpsLnppcCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQD5T4aWy6Rp7il-6R2svFC8Qg2Hu3TWgFU1kfQU2wFoAgIgXLn5W6Ar898clsizTSAVNexL8jL4itmpEQubiT~rnOs_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/TARXcq8ecQyog3jclobTe3_1779141680604_na1fn_L2hvbWUvdWJ1bnR1L0JyYW5kb25Sb3NlX0VtYWlsU2lnbmF0dXJl.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L1RBUlhjcThlY1F5b2czamNsb2JUZTNfMTc3OTE0MTY4MDYwNF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBKeVlXNWtiMjVTYjNObFgwVnRZV2xzVTJsbmJtRjBkWEpsLnppcCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQC-XdU5xyY8OgjCk9JH3hrrN4d0YlppseI-AR9uOLPtrQIgP0J~HFW1bAsgDsInjfBvOd2ddkAI0KJ0NPnPZ9cSwFo_",
       "status": "archived",
       "bytes": 6068484,
-      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/53-assistant_message-0_748e030eec99889a_BrandonRose_EmailSignature.zip"
+      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/53-assistant_message-0_2255153cc929116b_BrandonRose_EmailSignature.zip"
     },
     {
       "event_index": 53,
       "type": "file",
       "filename": "signature.html",
       "content_type": "text/html; charset=utf-8",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/TARXcq8ecQyog3jclobTe3_1779141680604_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZQ.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L1RBUlhjcThlY1F5b2czamNsb2JUZTNfMTc3OTE0MTY4MDYwNF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlEuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCICD0I1xzSOJaBSyejFEivvf7Mdqt8iLtB6iD8ro5gypsAiAt9wrac7MWjNxhV4BqrWr1FYU9CuQMjLRMncvEkG0AAA__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/TARXcq8ecQyog3jclobTe3_1779141680604_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZQ.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L1RBUlhjcThlY1F5b2czamNsb2JUZTNfMTc3OTE0MTY4MDYwNF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlEuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCwmu7rrf9AZRnYdTxl2UJR-XP9tLkqlU5YeodDu7GMuQIhAKbbQUXqKX8LKjbiiUTZsws36AEBdKo3Re1QoySwUq2U",
       "status": "archived",
       "bytes": 3727201,
-      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/53-assistant_message-1_f298c5a2c941335d_signature.html"
+      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/53-assistant_message-1_3049038df6f66ea9_signature.html"
     },
     {
       "event_index": 53,
       "type": "image",
       "filename": "BrandonRose_Signature.gif",
       "content_type": "image/gif",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/TARXcq8ecQyog3jclobTe3_1779141680604_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL0JyYW5kb25Sb3NlX1NpZ25hdHVyZQ.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L1RBUlhjcThlY1F5b2czamNsb2JUZTNfMTc3OTE0MTY4MDYwNF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDBKeVlXNWtiMjVTYjNObFgxTnBaMjVoZEhWeVpRLmdpZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIHM5TLthMHB2iYn4HzmgnsAdw5FyS3YG6Fm92GzRk-QSAiAbWriWLOU1W15AIOyZR0Zqc6b~RfE0iHVd5OSwbko6hQ__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/TARXcq8ecQyog3jclobTe3_1779141680604_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL0JyYW5kb25Sb3NlX1NpZ25hdHVyZQ.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L1RBUlhjcThlY1F5b2czamNsb2JUZTNfMTc3OTE0MTY4MDYwNF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDBKeVlXNWtiMjVTYjNObFgxTnBaMjVoZEhWeVpRLmdpZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIEVebJ6XqU9xb8LOiJqmp7yOK5960LvGUW6ax5fNzknOAiEA1X6wpt9AGmSL3GfOyT4Tcv~JSEoJY7x2QKwRaqo353U_",
       "status": "archived",
       "bytes": 627682,
-      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/53-assistant_message-2_3ef715e1a685119c_BrandonRose_Signature.gif"
+      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/53-assistant_message-2_be91f8457d0b4e93_BrandonRose_Signature.gif"
     },
     {
       "event_index": 55,
       "type": "image",
       "filename": "PropertyMax_FINAL.gif",
       "content_type": "image/gif",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-qVt3eCKgjma3Lflf9lcmCJ_na1fn_UHJvcGVydHlNYXhfRklOQUw.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1xVnQzZUNLZ2ptYTNMZmxmOWxjbUNKX25hMWZuX1VISnZjR1Z5ZEhsTllYaGZSa2xPUVV3LmdpZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCw~BR9tWiiVRQT5zifqgnpQd60kszWCva1EGEXEe49qwIhANTQUii72FacIVki98t0d3nbE4EVcx-04YtV1j~fuxj8",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-qVt3eCKgjma3Lflf9lcmCJ_na1fn_UHJvcGVydHlNYXhfRklOQUw.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1xVnQzZUNLZ2ptYTNMZmxmOWxjbUNKX25hMWZuX1VISnZjR1Z5ZEhsTllYaGZSa2xPUVV3LmdpZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIDqZ4l9dp77L0cKcHoun4jl35NldSm9zxX0up5Jk5egIAiEA0JQtUCWCuZ6kuJM3u17bobw2fjxRhv3H22XmawGvQog_",
       "status": "archived",
       "bytes": 56175,
-      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/55-user_message-0_246e327878ce5b6e_PropertyMax_FINAL.gif"
+      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/55-user_message-0_6988851e83317343_PropertyMax_FINAL.gif"
     },
     {
       "event_index": 62,
       "type": "file",
       "filename": "BrandonRose_EmailSignature.zip",
       "content_type": "application/zip",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/2brRHpWWFoD6mbEHPJu5hb_1779158803208_na1fn_L2hvbWUvdWJ1bnR1L0JyYW5kb25Sb3NlX0VtYWlsU2lnbmF0dXJl.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94LzJiclJIcFdXRm9ENm1iRUhQSnU1aGJfMTc3OTE1ODgwMzIwOF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBKeVlXNWtiMjVTYjNObFgwVnRZV2xzVTJsbmJtRjBkWEpsLnppcCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDpDqd~UAu8A2bntG5uW-xJ25PHCRcXX9Nkphs7oOH~MgIgOAiRcSAkk97RGih1SPyLJAkgaWHXD4hrmXVlWnUh-Qw_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/2brRHpWWFoD6mbEHPJu5hb_1779158803208_na1fn_L2hvbWUvdWJ1bnR1L0JyYW5kb25Sb3NlX0VtYWlsU2lnbmF0dXJl.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94LzJiclJIcFdXRm9ENm1iRUhQSnU1aGJfMTc3OTE1ODgwMzIwOF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBKeVlXNWtiMjVTYjNObFgwVnRZV2xzVTJsbmJtRjBkWEpsLnppcCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIBBfWgOEZcCE0Afp4iVMeV-FqILaGS3LDywgHQXm2QAkAiEAgViNAh7BT6LqenkVI7qVRQwnxdygqAwlpJjKlZ~W0SA_",
       "status": "archived",
       "bytes": 6163536,
-      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/62-assistant_message-0_0a6ed1da8dfa4ad0_BrandonRose_EmailSignature.zip"
+      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/62-assistant_message-0_02739fd4a2396942_BrandonRose_EmailSignature.zip"
     },
     {
       "event_index": 62,
       "type": "image",
       "filename": "BrandonRose_Signature.gif",
       "content_type": "image/gif",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/2brRHpWWFoD6mbEHPJu5hb_1779158803208_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL0JyYW5kb25Sb3NlX1NpZ25hdHVyZQ.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94LzJiclJIcFdXRm9ENm1iRUhQSnU1aGJfMTc3OTE1ODgwMzIwOF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDBKeVlXNWtiMjVTYjNObFgxTnBaMjVoZEhWeVpRLmdpZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIGW5LoDr7oHjBOSzYECPf4ahbAvvHB7LJ82rBfkFF9YPAiArd3tyZfFkMIVBlzEyuXKfSDZ21J4~xihcPQU0yWUGPw__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/2brRHpWWFoD6mbEHPJu5hb_1779158803208_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL0JyYW5kb25Sb3NlX1NpZ25hdHVyZQ.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94LzJiclJIcFdXRm9ENm1iRUhQSnU1aGJfMTc3OTE1ODgwMzIwOF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDBKeVlXNWtiMjVTYjNObFgxTnBaMjVoZEhWeVpRLmdpZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDY84qBcuAvKvKBa5Vv5767cWPsmgcmcJmpzlL67NAjzQIgArhfzzE4ENfo4HnRTNB47Fj36mEo4ztNM83PrBk5dv4_",
       "status": "archived",
       "bytes": 800839,
-      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/62-assistant_message-1_8a0da93fe729c00f_BrandonRose_Signature.gif"
+      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/62-assistant_message-1_8b72053f0a30cc86_BrandonRose_Signature.gif"
     },
     {
       "event_index": 62,
       "type": "file",
       "filename": "signature.html",
       "content_type": "text/html; charset=utf-8",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/2brRHpWWFoD6mbEHPJu5hb_1779158803208_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZQ.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94LzJiclJIcFdXRm9ENm1iRUhQSnU1aGJfMTc3OTE1ODgwMzIwOF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlEuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDURWkT8tHcj5LAx1yDueHIT4avhO98drJcdJ9AfWAwwwIhAPGDSWAH8z2AyjrzxdHKcs9jJ5fRB2zhH1eimcL4S-p~",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/2brRHpWWFoD6mbEHPJu5hb_1779158803208_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZQ.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94LzJiclJIcFdXRm9ENm1iRUhQSnU1aGJfMTc3OTE1ODgwMzIwOF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlEuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDqz~908EtjYPW8JNGhfemXgvtwGwwgDj~pQ4GkQ1u-HAiBCe04mM~YgrHy3QlfwXfd-xsKQEGzcWH65sQrEj6l8mg__",
       "status": "archived",
       "bytes": 3727201,
-      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/62-assistant_message-2_c51708baee17abe6_signature.html"
+      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/62-assistant_message-2_4d593bfb739753ce_signature.html"
     },
     {
       "event_index": 93,
       "type": "file",
       "filename": "signature_cdn.html",
       "content_type": "text/html; charset=utf-8",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/25mflvbJgnhqSVPJCpxag3_1779159662943_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZV9jZG4.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94LzI1bWZsdmJKZ25ocVNWUEpDcHhhZzNfMTc3OTE1OTY2Mjk0M19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlY5alpHNC5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDumFMZj9fG2uqkJax1UI0h4O5WK-v--URz0Ywi2HLb9AiAED9oW4UoxNwyIOTpc3uWk2bYmeMkMlr0M3Xh5m4MxJQ__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/25mflvbJgnhqSVPJCpxag3_1779159662943_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZV9jZG4.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94LzI1bWZsdmJKZ25ocVNWUEpDcHhhZzNfMTc3OTE1OTY2Mjk0M19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlY5alpHNC5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCV5Vc1-8HgoevJwdQELtoHe2g3YTRozyiv28njmyRUiwIgKznUPmnZVzP9ZStEvVFajdzC6~VH8FB1f9gf1nbYaak_",
       "status": "archived",
       "bytes": 3553,
-      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/93-assistant_message-0_f0b01954d157c3a8_signature_cdn.html"
+      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/93-assistant_message-0_17cb69c4e2fb9e77_signature_cdn.html"
     },
     {
       "event_index": 102,
       "type": "file",
       "filename": "signature_cdn.html",
       "content_type": "text/html; charset=utf-8",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/ehRevlmBBBhTScm4xNXEQw_1779159996039_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZV9jZG4.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L2VoUmV2bG1CQkJoVFNjbTR4TlhFUXdfMTc3OTE1OTk5NjAzOV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlY5alpHNC5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCtatOrJZK6nmVANQTmgb9TQTCIRBLUATm1fl-yR~dsyAIhAM6bfANhFDmWt4~s4WcWtiL5~8GnSeXwrdde3S3HRRHk",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/ehRevlmBBBhTScm4xNXEQw_1779159996039_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZV9jZG4.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L2VoUmV2bG1CQkJoVFNjbTR4TlhFUXdfMTc3OTE1OTk5NjAzOV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlY5alpHNC5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQD1eASYxjaMPTypkIMvkl~kQ0ghc1FP9ko2zV7eeMO29AIgLsQyDtKQ2hX1YqbUczzYucgCqg9QiKStrnVBTVwfANQ_",
       "status": "archived",
       "bytes": 3826,
-      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/102-assistant_message-0_3a25bbc57589bb2c_signature_cdn.html"
+      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/102-assistant_message-0_ba9d62d371c92936_signature_cdn.html"
     },
     {
       "event_index": 110,
       "type": "file",
       "filename": "signature_cdn.html",
       "content_type": "text/html; charset=utf-8",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/2MsDPy0zUPnO3R56UqmUsc_1779160381031_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZV9jZG4.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94LzJNc0RQeTB6VVBuTzNSNTZVcW1Vc2NfMTc3OTE2MDM4MTAzMV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlY5alpHNC5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIHclolKr1Dgma7Jh2TichSh5Cax4q7NBKB6wHqnh6WVOAiEAu8tffnekv1wZgxtBdG6DgfVtQ2PuDQva~Lh-RlDThho_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/2MsDPy0zUPnO3R56UqmUsc_1779160381031_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZV9jZG4.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94LzJNc0RQeTB6VVBuTzNSNTZVcW1Vc2NfMTc3OTE2MDM4MTAzMV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlY5alpHNC5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQC08zTSKk-iVWuEqhW7kofkm~7FMI0usjoKUnVzzfZlYQIhANvoxWXbUPJO5t5FsXJmoIu7Outl1wz76CoH3dgzPONs",
       "status": "archived",
       "bytes": 4504,
-      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/110-assistant_message-0_2092659c30b1815e_signature_cdn.html"
+      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/110-assistant_message-0_0f42c334fd3e6e62_signature_cdn.html"
     },
     {
       "event_index": 116,
       "type": "file",
       "filename": "signature_cdn.html",
       "content_type": "text/html; charset=utf-8",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/pPgKbfTUZUDYmhqtnw0mif_1779160705856_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZV9jZG4.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L3BQZ0tiZlRVWlVEWW1ocXRudzBtaWZfMTc3OTE2MDcwNTg1Nl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlY5alpHNC5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIB2JKZz1Uw3ZCzBaQv4AAGFmC73upnSjLvUHtAhuxCXvAiAHv2df9Ek1NoKT7VKX8jCJvEmx7N9QNqSIg0LRJuT~iA__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/pPgKbfTUZUDYmhqtnw0mif_1779160705856_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZV9jZG4.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L3BQZ0tiZlRVWlVEWW1ocXRudzBtaWZfMTc3OTE2MDcwNTg1Nl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlY5alpHNC5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDChljrLZXrTMd7UtZrpF3JHuTm6ZM2yjuZurV~PIpajgIgCxA125IlAbY1akcoQw3ngDo7JxD9PfyaKxlyOom8UAg_",
       "status": "archived",
       "bytes": 4913,
-      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/116-assistant_message-0_0257124926ddeab6_signature_cdn.html"
+      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/116-assistant_message-0_6fe2beffba30b7c1_signature_cdn.html"
     },
     {
       "event_index": 127,
       "type": "file",
       "filename": "signature_cdn.html",
       "content_type": "text/html; charset=utf-8",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/fhR9cUjGiQLhvonVjasgXJ_1779161240049_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZV9jZG4.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L2ZoUjljVWpHaVFMaHZvblZqYXNnWEpfMTc3OTE2MTI0MDA0OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlY5alpHNC5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQC2Gdtoo1pBgAJkXdRCAdvYaQSWXoRn0-MpIrpyx7zz6gIgaU7WIdewox68pDHnlkgVAg3~6jNXv2GCVgUeMthShOU_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/fhR9cUjGiQLhvonVjasgXJ_1779161240049_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZV9jZG4.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L2ZoUjljVWpHaVFMaHZvblZqYXNnWEpfMTc3OTE2MTI0MDA0OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlY5alpHNC5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQD47KzrZI4z5458C7tDB3QPVTmw5PC-r6sbigElDf9ufwIhAJggrkug88dzA0Yri6miT~ZUiKDHMW0cgoyxIpaYP8Yt",
       "status": "archived",
       "bytes": 5147,
-      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/127-assistant_message-0_5fb120ca34bbe888_signature_cdn.html"
+      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/127-assistant_message-0_8f3087afca3db736_signature_cdn.html"
     },
     {
       "event_index": 127,
       "type": "image",
       "filename": "thank_you.gif",
       "content_type": "image/gif",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/fhR9cUjGiQLhvonVjasgXJ_1779161240049_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3RoYW5rX3lvdQ.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L2ZoUjljVWpHaVFMaHZvblZqYXNnWEpfMTc3OTE2MTI0MDA0OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNSb1lXNXJYM2x2ZFEuZ2lmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCBaZ1pseJ04r9KOyM1g0OJmV7HT24Jc4KliV3fTRy8TwIgaMdcJrRDjsPN6tmMwJNoilWtXHartdvHk0KKTUUdzrw_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/fhR9cUjGiQLhvonVjasgXJ_1779161240049_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3RoYW5rX3lvdQ.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L2ZoUjljVWpHaVFMaHZvblZqYXNnWEpfMTc3OTE2MTI0MDA0OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNSb1lXNXJYM2x2ZFEuZ2lmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIB2ovyylOUhLcoNUerZ3-YChiPBipggCadMfurGzJf66AiAj0PLQiYUIKY1xLUvpvtZAyAaqWQFiqstU9up7fp1VCA__",
       "status": "archived",
       "bytes": 41001,
-      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/127-assistant_message-1_a67e3c7f956e979f_thank_you.gif"
+      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/127-assistant_message-1_fa20e0ca57f4023d_thank_you.gif"
     },
     {
       "event_index": 127,
       "type": "image",
       "filename": "brandon_rose.gif",
       "content_type": "image/gif",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/fhR9cUjGiQLhvonVjasgXJ_1779161240049_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL2JyYW5kb25fcm9zZQ.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L2ZoUjljVWpHaVFMaHZvblZqYXNnWEpfMTc3OTE2MTI0MDA0OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDJKeVlXNWtiMjVmY205elpRLmdpZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDH~cfzJ0OdQt5-NrGmdLwnMxyI2dx~dLKeM06Xx3hBDAiAD0ixIkm5KCa6rTcR7CH7zeLvR8SOX4tOOf-V1I6zawg__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/fhR9cUjGiQLhvonVjasgXJ_1779161240049_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL2JyYW5kb25fcm9zZQ.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L2ZoUjljVWpHaVFMaHZvblZqYXNnWEpfMTc3OTE2MTI0MDA0OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDJKeVlXNWtiMjVmY205elpRLmdpZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDc1QsSEgI9-ZhyktLttVOU3T-aqYQDDebkvleWIrLZtQIgf7HOUcAGGpehFu58MBVzphjWxrKfJ5nFw3wXrrZ6Esg_",
       "status": "archived",
       "bytes": 15105,
-      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/127-assistant_message-2_5a92176f1eae18be_brandon_rose.gif"
+      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/127-assistant_message-2_76f5725d284fecef_brandon_rose.gif"
     },
     {
       "event_index": 127,
       "type": "image",
       "filename": "rose_shimmer.gif",
       "content_type": "image/gif",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/fhR9cUjGiQLhvonVjasgXJ_1779161240049_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3Jvc2Vfc2hpbW1lcg.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L2ZoUjljVWpHaVFMaHZvblZqYXNnWEpfMTc3OTE2MTI0MDA0OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNKdmMyVmZjMmhwYlcxbGNnLmdpZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDGCQY7wA-YYEQlr59WAq-TF6yd20q3thA5cUvEfR5U8QIhAOMpbkS1JokdlgNm3mSkyLeOpuBXCEr36tPLgxVv12f0",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/fhR9cUjGiQLhvonVjasgXJ_1779161240049_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3Jvc2Vfc2hpbW1lcg.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L2ZoUjljVWpHaVFMaHZvblZqYXNnWEpfMTc3OTE2MTI0MDA0OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNKdmMyVmZjMmhwYlcxbGNnLmdpZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDseP35woylP9O0xU5qb6G3KFIGgFMk2yIx6IkLbJf5TAIgFU4yIxNsWALaAvsahuqjuh4uYpZ-R2Zh8NVIHsb1juc_",
       "status": "archived",
       "bytes": 70406,
-      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/127-assistant_message-3_603d12172438e667_rose_shimmer.gif"
+      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/127-assistant_message-3_675d6064a0b99675_rose_shimmer.gif"
     },
     {
       "event_index": 136,
       "type": "image",
       "filename": "pasted_file_kYpGDN_image.png",
       "content_type": "image/png",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-wIC37f31KLvSgJ7sEn5Vqj_na1fn_cGFzdGVkX2ZpbGVfa1lwR0ROX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC13SUMzN2YzMUtMdlNnSjdzRW41VnFqX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZhMWx3UjBST1gybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIBFXeVLQ0qnsBc7w1N8e6iFkguwsb8IbMV5xlI4k-z0BAiEAsV12oXiaGAxgja8CPN9B5btTkgl7SWbedHpFnDOyZiM_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-wIC37f31KLvSgJ7sEn5Vqj_na1fn_cGFzdGVkX2ZpbGVfa1lwR0ROX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC13SUMzN2YzMUtMdlNnSjdzRW41VnFqX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZhMWx3UjBST1gybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDvppm-vdJLYz~VtaAx2mWMMmkr~WeIS38V5qnOIcDN2wIhAPAkZT3HOJKkkxiHTRznXiuq22Dc4Sri~QpGmeU0s0w6",
       "status": "archived",
       "bytes": 112421,
-      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/136-user_message-0_21f6322ca0117b97_pasted_file_kYpGDN_image.png"
+      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/136-user_message-0_ae4e4ae94420ae04_pasted_file_kYpGDN_image.png"
     },
     {
       "event_index": 142,
       "type": "file",
       "filename": "signature_cdn.html",
       "content_type": "text/html; charset=utf-8",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/xEKNlaWjx4PsCtFIG4nRn6_1779161950820_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZV9jZG4.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L3hFS05sYVdqeDRQc0N0RklHNG5SbjZfMTc3OTE2MTk1MDgyMF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlY5alpHNC5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDjClUW-7Nz2GUGfmX23cCMhAAANnSnZoWFJjUCLqgm2AiB-uP-SXqsAlQURTI3miBwdz2iJBuEVEtDxLlCb~Gz5~Q__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/xEKNlaWjx4PsCtFIG4nRn6_1779161950820_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZV9jZG4.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L3hFS05sYVdqeDRQc0N0RklHNG5SbjZfMTc3OTE2MTk1MDgyMF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlY5alpHNC5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQC6yNjtkMwIsuOr2HfU3-zIPUO17WGIIZ4qNp6iLMLKegIhAOA63yeWnISyrqXtfhGOsneVbv5daIQ27AVGJSslrwUK",
       "status": "archived",
       "bytes": 3021,
-      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/142-assistant_message-0_e228d5315c00a5ba_signature_cdn.html"
+      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/142-assistant_message-0_bee44db760fbcaec_signature_cdn.html"
     },
     {
       "event_index": 144,
       "type": "file",
       "filename": "Brandon_Rose_Biography.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-QDOftia7wqfThSk1ZNsCwo_na1fn_QnJhbmRvbl9Sb3NlX0Jpb2dyYXBoeQ.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1RRE9mdGlhN3dxZlRoU2sxWk5zQ3dvX25hMWZuX1FuSmhibVJ2Ymw5U2IzTmxYMEpwYjJkeVlYQm9lUS5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIELl577kzGznVzrstg7LeHFXdXINQofG6M8dTTq~xmWoAiAbhHfQqEXXnBmvjog81859p~UtBF4mcQ8ER9yHqmRGRA__",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-QDOftia7wqfThSk1ZNsCwo_na1fn_QnJhbmRvbl9Sb3NlX0Jpb2dyYXBoeQ.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1RRE9mdGlhN3dxZlRoU2sxWk5zQ3dvX25hMWZuX1FuSmhibVJ2Ymw5U2IzTmxYMEpwYjJkeVlYQm9lUS5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICHe7~kqN4X~Y6~xRgR52puvCZD337ph3i~TJrWzffpmAiEAiuw~TqEgxtP2LnYzRjsZdUZWkXiqQ0egL3xDUEJ6d2U_",
       "status": "archived",
       "bytes": 18247,
-      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/144-user_message-0_e64740a0bd37c675_Brandon_Rose_Biography.pdf"
+      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/144-user_message-0_8709b8611b0d18ca_Brandon_Rose_Biography.pdf"
     },
     {
       "event_index": 154,
       "type": "file",
       "filename": "signature_cdn.html",
       "content_type": "text/html; charset=utf-8",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/k7abLAG4H27KSsHoNYbBKM_1779162794150_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZV9jZG4.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L2s3YWJMQUc0SDI3S1NzSG9OWWJCS01fMTc3OTE2Mjc5NDE1MF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlY5alpHNC5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCNdhBoB03R97tZDYVNF8Oel1FgLBYq-DqZy1iiv6kaiAIhANapsQmzj6uN7aok4cAn1Iyn~bABagXf~PCPy7sMVL8V",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/k7abLAG4H27KSsHoNYbBKM_1779162794150_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZV9jZG4.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L2s3YWJMQUc0SDI3S1NzSG9OWWJCS01fMTc3OTE2Mjc5NDE1MF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlY5alpHNC5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIH6UThRZkhvqP0U2JVuMCS5nBQjMQPNx3M0SRocTQ6MyAiEAhxgPiZYZoCdlup~VSjZBIFvv9o4NkDoECdZGtqySrak_",
       "status": "archived",
       "bytes": 3684,
-      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/154-assistant_message-0_2935513b0f487e6b_signature_cdn.html"
+      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/154-assistant_message-0_952e914f52415912_signature_cdn.html"
     },
     {
       "event_index": 160,
       "type": "file",
       "filename": "signature_cdn.html",
       "content_type": "text/html; charset=utf-8",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/cgKJK3UBtY8s3NyxN0DAaZ_1779162913894_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZV9jZG4.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L2NnS0pLM1VCdFk4czNOeXhOMERBYVpfMTc3OTE2MjkxMzg5NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlY5alpHNC5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCTrJT0vvlfhebyVrOkZxRjggQMnKpyhpcyxWi1inTzmQIge~AIXGBdOPLo7hLS1SUnVXCFfNFFAtn3WT7gzWeA-24_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/cgKJK3UBtY8s3NyxN0DAaZ_1779162913894_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZV9jZG4.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L2NnS0pLM1VCdFk4czNOeXhOMERBYVpfMTc3OTE2MjkxMzg5NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlY5alpHNC5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCqcVFYBuCjkApjN9kaayGeyi1ZajdPSFDJrSR5J24oqQIhAI6AZxi5MV5yiZcuLbBVFWLt48OViwxcXBv7KyyrBSjh",
       "status": "archived",
       "bytes": 3638,
-      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/160-assistant_message-0_b426b1b2e21a5511_signature_cdn.html"
+      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/160-assistant_message-0_4189864c029f1bd5_signature_cdn.html"
     },
     {
       "event_index": 165,
       "type": "file",
       "filename": "signature_cdn.html",
       "content_type": "text/html; charset=utf-8",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/duOzLtjVoqHCvZjwzyv1kQ_1779162991521_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZV9jZG4.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L2R1T3pMdGpWb3FIQ3Zaand6eXYxa1FfMTc3OTE2Mjk5MTUyMV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlY5alpHNC5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDuF7sN3dpx2YrYb0TJdB-baJshcCFn0PVjAINhSvnDGAIhAKjfH6TA~HgwJggswTcGYxhZpWn5wmVCwRpnebIkD5An",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/DQRlpBStneJSu30axh4xru/sandbox/duOzLtjVoqHCvZjwzyv1kQ_1779162991521_na1fn_L2hvbWUvdWJ1bnR1L3NpZ193b3JrL3NpZ25hdHVyZV9jZG4.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRFFSbHBCU3RuZUpTdTMwYXhoNHhydS9zYW5kYm94L2R1T3pMdGpWb3FIQ3Zaand6eXYxa1FfMTc3OTE2Mjk5MTUyMV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOcFoxOTNiM0pyTDNOcFoyNWhkSFZ5WlY5alpHNC5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIB2UDiUj2sJkOFHkQDmWuZJ2MYAqasd6BX9gepKQoWw6AiA57Rjn9CkpSIrZzGHpkuCA3wCcAV7h8iPJSHgEWN3QmQ__",
       "status": "archived",
       "bytes": 3696,
-      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/165-assistant_message-0_cbebf6b35321c122_signature_cdn.html"
+      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/165-assistant_message-0_c2da792fe5a5416e_signature_cdn.html"
     },
     {
       "event_index": 167,
       "type": "image",
       "filename": "professional_portrait_blazer_office.png",
       "content_type": "image/png",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-N6nKKPAjjYNJW0hWpJYuXm_na1fn_cHJvZmVzc2lvbmFsX3BvcnRyYWl0X2JsYXplcl9vZmZpY2U.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1ONm5LS1BBampZTkpXMGhXcEpZdVhtX25hMWZuX2NISnZabVZ6YzJsdmJtRnNYM0J2Y25SeVlXbDBYMkpzWVhwbGNsOXZabVpwWTJVLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCRofGPLM-177shBdLLn2pkTng9ITlevy-YBTOAgdYBpQIhAP6KM27kfb4Xfi~yvY-2FHAeOOCRHSDbWWMVOHa0UPQe",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-N6nKKPAjjYNJW0hWpJYuXm_na1fn_cHJvZmVzc2lvbmFsX3BvcnRyYWl0X2JsYXplcl9vZmZpY2U.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1ONm5LS1BBampZTkpXMGhXcEpZdVhtX25hMWZuX2NISnZabVZ6YzJsdmJtRnNYM0J2Y25SeVlXbDBYMkpzWVhwbGNsOXZabVpwWTJVLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCg4WLI-reo0vaA6winKWDKcRSNmycChJzKF~BdJn4vJAIgWc7bIwku3zeMp3uYLhIT-IcqsFEiZ1r-2vF~svD1qJo_",
       "status": "archived",
       "bytes": 2154755,
-      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/167-user_message-0_f6ff9908fac6d121_professional_portrait_blazer_office.png"
+      "archive_path": "attachments/DQRlpBStneJSu30axh4xru/167-user_message-0_d59a25455b95d7da_professional_portrait_blazer_office.png"
     }
   ]
 }

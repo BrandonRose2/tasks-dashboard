@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "archived_at": "2026-08-04T18:28:40.298689Z",
+  "archived_at": "2026-08-11T15:05:50.472804Z",
   "task": {
     "id": "0OVc8ddtS3sYVs2iO3XLCD",
     "title": "Can You Help Me Improve This Task?",
@@ -44,7 +44,7 @@
             "content_type": "text/plain",
             "filename": "pasted_content.txt",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-TmwvNQ8RdTdOScM1iEqhEa_na1fn_cGFzdGVkX2NvbnRlbnQ.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1UbXd2TlE4UmRUZE9TY00xaUVxaEVhX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDiPYruNTUFfifAPIvxr4hnDAlQTVVwL4vXZenGg~9XVAIhAJKJ398fi7cQVcvth7qSlU3okEe-vgzvqby0IxFjfaGy"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-TmwvNQ8RdTdOScM1iEqhEa_na1fn_cGFzdGVkX2NvbnRlbnQ.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1UbXd2TlE4UmRUZE9TY00xaUVxaEVhX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIA4NV2A-PoOSBlegBux~GEgCQp6dpH0PvoMOOKrd1NjSAiEAvxaj6Vlqkis~bdKqpBCXDTnh2ZjD~E0T6cvqdwvYt8s_"
           }
         ],
         "message_type": "text"
@@ -73,7 +73,7 @@
             "content_type": "text/markdown; charset=utf-8",
             "filename": "AWS_WIOA_PropTech_Roadmap.md",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/0OVc8ddtS3sYVs2iO3XLCD/sandbox/ukl6pBSPDrKiWutJ3INqKp_1783144406798_na1fn_L2hvbWUvdWJ1bnR1L2F3c193aW9hL0FXU19XSU9BX1Byb3BUZWNoX1JvYWRtYXA.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvME9WYzhkZHRTM3NZVnMyaU8zWExDRC9zYW5kYm94L3VrbDZwQlNQRHJLaVd1dEozSU5xS3BfMTc4MzE0NDQwNjc5OF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJGM2MxOTNhVzloTDBGWFUxOVhTVTlCWDFCeWIzQlVaV05vWDFKdllXUnRZWEEubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQD3M8ORD3WJW-~JD5A5eJ2MTex4ssf9Ff6bhWlb2fWR7gIhAPCEysuA0QHoqGxzd8R4ou3uTa8rrAp6gJVQrzYlV69R"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/0OVc8ddtS3sYVs2iO3XLCD/sandbox/ukl6pBSPDrKiWutJ3INqKp_1783144406798_na1fn_L2hvbWUvdWJ1bnR1L2F3c193aW9hL0FXU19XSU9BX1Byb3BUZWNoX1JvYWRtYXA.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvME9WYzhkZHRTM3NZVnMyaU8zWExDRC9zYW5kYm94L3VrbDZwQlNQRHJLaVd1dEozSU5xS3BfMTc4MzE0NDQwNjc5OF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJGM2MxOTNhVzloTDBGWFUxOVhTVTlCWDFCeWIzQlVaV05vWDFKdllXUnRZWEEubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQD6hCb2Ui6QgTqFziCfpFVwLJYAFhf-RBT29StuzJeYeQIhAP3gg0MgF8mjfHRhoT4L-0oFOKwsAKhFuIqvFqkVP765"
           }
         ],
         "content": "Done! I've completed a much more rigorous version of the analysis. The full report is attached, and here's what makes it better than the previous one:\n\n**Key corrections I found through verified research:**\n\n1. **The expensive courses ChatGPT ranked #2–#6 are actually 2–3 day seminars.** \"Developing on AWS\" ($2,095), \"Developing Generative AI Applications on AWS\" ($1,390), and \"MLOps Engineering on AWS\" ($2,099) are official AWS classroom courses lasting only 2–3 days — and **none includes a certification exam**. Spending your capped WIOA funds there would be the worst allocation on your list.\n\n2. **The SCSU sequence is even stronger than ChatGPT claimed.** I verified on SCSU's own website: it's explicitly marked \"WIOA-approved,\" runs 18–20 weeks of live instructor-led evening classes, and **includes both official AWS exam fees** (Cloud Practitioner + Solutions Architect) in the $1,250 price. It remains the clear #1 — now with proof.\n\n3. **WIOA funding caps matter.** Workforce Alliance documentation has cited a ~$3,500 ITA cap, so \"price doesn't matter\" was wrong — it matters to your counselor's approval decision, and the SCSU sequence fits comfortably.\n\n4. **Real salary data replaces made-up scores.** SAA holders average ~$127K (Payscale); entry cloud roles post at $63K–$90K — your $30/hr target is conservative and realistic.\n\n5. **A phased roadmap tied to your PropTech platform.** The report includes a 4-phase plan (SCSU sequence → self-study Developer cert + job search → AI specialization → Puerto Rico scale-up with Act 60 incentives), plus a 5-question filter to quickly triage the remaining 64 pages of the CTHires list.\n\nIf you upload the CTHires PDFs or more pages from the list, I can score those programs with the same verified methodology."
@@ -200,13 +200,13 @@
             "content_type": "application/pdf",
             "filename": "AWS_WIOA_Task_Summary.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/0OVc8ddtS3sYVs2iO3XLCD/sandbox/GK9m8yDP9o9Tp8k5KCVCyG_1783145165130_na1fn_L2hvbWUvdWJ1bnR1L2F3c193aW9hL3JlcG8vQVdTX1dJT0FfVGFza19TdW1tYXJ5.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvME9WYzhkZHRTM3NZVnMyaU8zWExDRC9zYW5kYm94L0dLOW04eURQOW85VHA4azVLQ1ZDeUdfMTc4MzE0NTE2NTEzMF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJGM2MxOTNhVzloTDNKbGNHOHZRVmRUWDFkSlQwRmZWR0Z6YTE5VGRXMXRZWEo1LnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIHhcA1U1HuClxYM9TDu4ULdowr8fxB8fpKmyz591ZE2DAiEAhVDiOSwC8~f-rjWq3zpqTcrkdzuoee7GZ92PvcTgPxY_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/0OVc8ddtS3sYVs2iO3XLCD/sandbox/GK9m8yDP9o9Tp8k5KCVCyG_1783145165130_na1fn_L2hvbWUvdWJ1bnR1L2F3c193aW9hL3JlcG8vQVdTX1dJT0FfVGFza19TdW1tYXJ5.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvME9WYzhkZHRTM3NZVnMyaU8zWExDRC9zYW5kYm94L0dLOW04eURQOW85VHA4azVLQ1ZDeUdfMTc4MzE0NTE2NTEzMF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJGM2MxOTNhVzloTDNKbGNHOHZRVmRUWDFkSlQwRmZWR0Z6YTE5VGRXMXRZWEo1LnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIG3CQLuO8K--ko6SAdoH2NkVPF29uEc171jk4DrGXaUxAiBGP8rglWtzqoprOwhXvzrHvksXZUqsItWiHYNTFPaXBw__"
           },
           {
             "content_type": "text/markdown; charset=utf-8",
             "filename": "AWS_WIOA_Task_Summary.md",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/0OVc8ddtS3sYVs2iO3XLCD/sandbox/GK9m8yDP9o9Tp8k5KCVCyG_1783145165130_na1fn_L2hvbWUvdWJ1bnR1L2F3c193aW9hL3JlcG8vQVdTX1dJT0FfVGFza19TdW1tYXJ5.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvME9WYzhkZHRTM3NZVnMyaU8zWExDRC9zYW5kYm94L0dLOW04eURQOW85VHA4azVLQ1ZDeUdfMTc4MzE0NTE2NTEzMF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJGM2MxOTNhVzloTDNKbGNHOHZRVmRUWDFkSlQwRmZWR0Z6YTE5VGRXMXRZWEo1Lm1kIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDBkqy0wVdeffUpmrcH8etQnFz3CzV37Xv~bggpRMOmBQIgNqW9OiR6uxTKgw8JmgceA61EW0S~KRMCxsqMi5NSnUQ_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/0OVc8ddtS3sYVs2iO3XLCD/sandbox/GK9m8yDP9o9Tp8k5KCVCyG_1783145165130_na1fn_L2hvbWUvdWJ1bnR1L2F3c193aW9hL3JlcG8vQVdTX1dJT0FfVGFza19TdW1tYXJ5.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvME9WYzhkZHRTM3NZVnMyaU8zWExDRC9zYW5kYm94L0dLOW04eURQOW85VHA4azVLQ1ZDeUdfMTc4MzE0NTE2NTEzMF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJGM2MxOTNhVzloTDNKbGNHOHZRVmRUWDFkSlQwRmZWR0Z6YTE5VGRXMXRZWEo1Lm1kIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDwL7aeDiB6X8cLuk3ThdSHfDjmm9OGRyU-ca9ygc~z0QIhAIzxVkhkIBXb3bv8DhOX21aB7lBlSbcvYyMNWqqd1sI-"
           }
         ],
         "content": "All done! I've summarized the entire task as a PDF and pushed it to your GitHub.\n\n**Repository:** https://github.com/BrandonRose2/aws-info (created as private to protect your info — you can make it public in repo settings if you'd like)\n\n**What's in the repo:**\n- `AWS_WIOA_Task_Summary.pdf` — the complete task summary covering the original ChatGPT analysis review, the corrected rankings with verified data, why the SCSU price is legitimate, and the 4-phase roadmap\n- `AWS_WIOA_Task_Summary.md` — markdown source of the summary\n- `AWS_WIOA_PropTech_Roadmap.md` — the full detailed report with scoring methodology and all references\n- `README.md` — quick overview with the key takeaway\n\nThe PDF is also attached here for direct viewing. Let me know if you'd like the repo made public, any content changes, or additional pages of the CTHires list analyzed."
@@ -232,40 +232,40 @@
       "type": "file",
       "filename": "pasted_content.txt",
       "content_type": "text/plain",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-TmwvNQ8RdTdOScM1iEqhEa_na1fn_cGFzdGVkX2NvbnRlbnQ.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1UbXd2TlE4UmRUZE9TY00xaUVxaEVhX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDiPYruNTUFfifAPIvxr4hnDAlQTVVwL4vXZenGg~9XVAIhAJKJ398fi7cQVcvth7qSlU3okEe-vgzvqby0IxFjfaGy",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-TmwvNQ8RdTdOScM1iEqhEa_na1fn_cGFzdGVkX2NvbnRlbnQ.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1UbXd2TlE4UmRUZE9TY00xaUVxaEVhX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIA4NV2A-PoOSBlegBux~GEgCQp6dpH0PvoMOOKrd1NjSAiEAvxaj6Vlqkis~bdKqpBCXDTnh2ZjD~E0T6cvqdwvYt8s_",
       "status": "archived",
       "bytes": 23122,
-      "archive_path": "attachments/0OVc8ddtS3sYVs2iO3XLCD/2-user_message-0_fbd940a5eb914562_pasted_content.txt"
+      "archive_path": "attachments/0OVc8ddtS3sYVs2iO3XLCD/2-user_message-0_2e05a019d3c4ed66_pasted_content.txt"
     },
     {
       "event_index": 5,
       "type": "file",
       "filename": "AWS_WIOA_PropTech_Roadmap.md",
       "content_type": "text/markdown; charset=utf-8",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/0OVc8ddtS3sYVs2iO3XLCD/sandbox/ukl6pBSPDrKiWutJ3INqKp_1783144406798_na1fn_L2hvbWUvdWJ1bnR1L2F3c193aW9hL0FXU19XSU9BX1Byb3BUZWNoX1JvYWRtYXA.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvME9WYzhkZHRTM3NZVnMyaU8zWExDRC9zYW5kYm94L3VrbDZwQlNQRHJLaVd1dEozSU5xS3BfMTc4MzE0NDQwNjc5OF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJGM2MxOTNhVzloTDBGWFUxOVhTVTlCWDFCeWIzQlVaV05vWDFKdllXUnRZWEEubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQD3M8ORD3WJW-~JD5A5eJ2MTex4ssf9Ff6bhWlb2fWR7gIhAPCEysuA0QHoqGxzd8R4ou3uTa8rrAp6gJVQrzYlV69R",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/0OVc8ddtS3sYVs2iO3XLCD/sandbox/ukl6pBSPDrKiWutJ3INqKp_1783144406798_na1fn_L2hvbWUvdWJ1bnR1L2F3c193aW9hL0FXU19XSU9BX1Byb3BUZWNoX1JvYWRtYXA.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvME9WYzhkZHRTM3NZVnMyaU8zWExDRC9zYW5kYm94L3VrbDZwQlNQRHJLaVd1dEozSU5xS3BfMTc4MzE0NDQwNjc5OF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJGM2MxOTNhVzloTDBGWFUxOVhTVTlCWDFCeWIzQlVaV05vWDFKdllXUnRZWEEubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQD6hCb2Ui6QgTqFziCfpFVwLJYAFhf-RBT29StuzJeYeQIhAP3gg0MgF8mjfHRhoT4L-0oFOKwsAKhFuIqvFqkVP765",
       "status": "archived",
       "bytes": 16600,
-      "archive_path": "attachments/0OVc8ddtS3sYVs2iO3XLCD/5-assistant_message-0_72b287465b70f078_AWS_WIOA_PropTech_Roadmap.md"
+      "archive_path": "attachments/0OVc8ddtS3sYVs2iO3XLCD/5-assistant_message-0_1bc241e4dc5a3e5c_AWS_WIOA_PropTech_Roadmap.md"
     },
     {
       "event_index": 18,
       "type": "file",
       "filename": "AWS_WIOA_Task_Summary.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/0OVc8ddtS3sYVs2iO3XLCD/sandbox/GK9m8yDP9o9Tp8k5KCVCyG_1783145165130_na1fn_L2hvbWUvdWJ1bnR1L2F3c193aW9hL3JlcG8vQVdTX1dJT0FfVGFza19TdW1tYXJ5.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvME9WYzhkZHRTM3NZVnMyaU8zWExDRC9zYW5kYm94L0dLOW04eURQOW85VHA4azVLQ1ZDeUdfMTc4MzE0NTE2NTEzMF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJGM2MxOTNhVzloTDNKbGNHOHZRVmRUWDFkSlQwRmZWR0Z6YTE5VGRXMXRZWEo1LnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIHhcA1U1HuClxYM9TDu4ULdowr8fxB8fpKmyz591ZE2DAiEAhVDiOSwC8~f-rjWq3zpqTcrkdzuoee7GZ92PvcTgPxY_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/0OVc8ddtS3sYVs2iO3XLCD/sandbox/GK9m8yDP9o9Tp8k5KCVCyG_1783145165130_na1fn_L2hvbWUvdWJ1bnR1L2F3c193aW9hL3JlcG8vQVdTX1dJT0FfVGFza19TdW1tYXJ5.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvME9WYzhkZHRTM3NZVnMyaU8zWExDRC9zYW5kYm94L0dLOW04eURQOW85VHA4azVLQ1ZDeUdfMTc4MzE0NTE2NTEzMF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJGM2MxOTNhVzloTDNKbGNHOHZRVmRUWDFkSlQwRmZWR0Z6YTE5VGRXMXRZWEo1LnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIG3CQLuO8K--ko6SAdoH2NkVPF29uEc171jk4DrGXaUxAiBGP8rglWtzqoprOwhXvzrHvksXZUqsItWiHYNTFPaXBw__",
       "status": "archived",
       "bytes": 113002,
-      "archive_path": "attachments/0OVc8ddtS3sYVs2iO3XLCD/18-assistant_message-0_283bb035f42c1bb4_AWS_WIOA_Task_Summary.pdf"
+      "archive_path": "attachments/0OVc8ddtS3sYVs2iO3XLCD/18-assistant_message-0_76c78b797ada5dbf_AWS_WIOA_Task_Summary.pdf"
     },
     {
       "event_index": 18,
       "type": "file",
       "filename": "AWS_WIOA_Task_Summary.md",
       "content_type": "text/markdown; charset=utf-8",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/0OVc8ddtS3sYVs2iO3XLCD/sandbox/GK9m8yDP9o9Tp8k5KCVCyG_1783145165130_na1fn_L2hvbWUvdWJ1bnR1L2F3c193aW9hL3JlcG8vQVdTX1dJT0FfVGFza19TdW1tYXJ5.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvME9WYzhkZHRTM3NZVnMyaU8zWExDRC9zYW5kYm94L0dLOW04eURQOW85VHA4azVLQ1ZDeUdfMTc4MzE0NTE2NTEzMF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJGM2MxOTNhVzloTDNKbGNHOHZRVmRUWDFkSlQwRmZWR0Z6YTE5VGRXMXRZWEo1Lm1kIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDBkqy0wVdeffUpmrcH8etQnFz3CzV37Xv~bggpRMOmBQIgNqW9OiR6uxTKgw8JmgceA61EW0S~KRMCxsqMi5NSnUQ_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/0OVc8ddtS3sYVs2iO3XLCD/sandbox/GK9m8yDP9o9Tp8k5KCVCyG_1783145165130_na1fn_L2hvbWUvdWJ1bnR1L2F3c193aW9hL3JlcG8vQVdTX1dJT0FfVGFza19TdW1tYXJ5.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvME9WYzhkZHRTM3NZVnMyaU8zWExDRC9zYW5kYm94L0dLOW04eURQOW85VHA4azVLQ1ZDeUdfMTc4MzE0NTE2NTEzMF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJGM2MxOTNhVzloTDNKbGNHOHZRVmRUWDFkSlQwRmZWR0Z6YTE5VGRXMXRZWEo1Lm1kIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDwL7aeDiB6X8cLuk3ThdSHfDjmm9OGRyU-ca9ygc~z0QIhAIzxVkhkIBXb3bv8DhOX21aB7lBlSbcvYyMNWqqd1sI-",
       "status": "archived",
       "bytes": 12791,
-      "archive_path": "attachments/0OVc8ddtS3sYVs2iO3XLCD/18-assistant_message-1_57f2fa60d913ea28_AWS_WIOA_Task_Summary.md"
+      "archive_path": "attachments/0OVc8ddtS3sYVs2iO3XLCD/18-assistant_message-1_185ced81b5586b25_AWS_WIOA_Task_Summary.md"
     }
   ]
 }
