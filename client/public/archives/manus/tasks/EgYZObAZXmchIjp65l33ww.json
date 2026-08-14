@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-14T13:08:07.536045Z",
+  "task": {
+    "id": "EgYZObAZXmchIjp65l33ww",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786486692",
+    "updated_at": "1786487236",
+    "task_url": "https://manus.im/app/EgYZObAZXmchIjp65l33ww",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "Syd7D7inBV7yKKwZ3CKLpP",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786486692979",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Successfully completed the strict audit of Riverchase Housing LP 2020 provisional return federal K-1 pages, identified all actual investor SSN/TIN fields and precise mask locations, and excluded partnership/entity EIN pages per instructions."
+      },
+      "id": "eDEx6ckPtYuCMUXjlvUJil",
+      "timestamp": "1786487236235",
+      "type": "assistant_message"
+    },
+    {
+      "id": "oyYOJk2mVxs3qR2Ws1DMfn",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786487236428",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

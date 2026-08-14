@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-14T13:07:34.044633Z",
+  "task": {
+    "id": "PFgSF9TvFHcyhPwxQo8XcQ",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786649190",
+    "updated_at": "1786649249",
+    "task_url": "https://manus.im/app/PFgSF9TvFHcyhPwxQo8XcQ",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "y4cVzPWj0K0QuKnDlLEleD",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786649192237",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "The source PDF file specified in the task input was not found on disk in the sandbox environment. Consequently, read-only intake audit inspection could not be performed, and the approval status has been set to review_required."
+      },
+      "id": "AMkKp4Bj5104Y3geDvs9Ho",
+      "timestamp": "1786649249767",
+      "type": "assistant_message"
+    },
+    {
+      "id": "wWffoEOv8zViInJZAhqUth",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786649249920",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-14T13:07:32.747794Z",
+  "task": {
+    "id": "RUWnX9qDkL0GOfyMHMWyFe",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786664374",
+    "updated_at": "1786664386",
+    "task_url": "https://manus.im/app/RUWnX9qDkL0GOfyMHMWyFe",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "NoipyHrfvbKv2OUcFyB0En",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786664374536",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Validation completed successfully for BRENCKENRIDG_V1_2021_SMLLC_TEXAS_RETURN.pdf. The PDF is accessible, has 4 pages, consists of Texas franchise tax documents (extension, public information report, and no tax due report), and does not contain a federal Form 1065 partnership return or embedded Schedule K-1 pages."
+      },
+      "id": "CzwVfztdefkUbRczl0fQ0d",
+      "timestamp": "1786664386648",
+      "type": "assistant_message"
+    },
+    {
+      "id": "IsiKfwFu0Yj4vkjka83MPP",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786664386823",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

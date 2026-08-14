@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-14T13:07:31.316774Z",
+  "task": {
+    "id": "7GXBNcS39mS4ntwpcvBtH2",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786664374",
+    "updated_at": "1786664910",
+    "task_url": "https://manus.im/app/7GXBNcS39mS4ntwpcvBtH2",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "J3o5qEsPDKHwFUSETlymqS",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786664374868",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Successfully validated the source PDF WINDSORHSGLP_V1_ 2020 RETURN.pdf: accessible, 119 pages, federal Form 1065 partnership return present, embedded federal Schedule K-1 pages present up to page 119, and marked ready for scope review."
+      },
+      "id": "M9U5hWtQA9lyq0Hrz5jkdA",
+      "timestamp": "1786664909923",
+      "type": "assistant_message"
+    },
+    {
+      "id": "tVv2hxRHP1WMPRO8EgwPxR",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786664910062",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

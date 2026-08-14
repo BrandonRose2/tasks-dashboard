@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-14T13:08:07.080364Z",
+  "task": {
+    "id": "axWDo29d5DJ1vgV8WerP83",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786486745",
+    "updated_at": "1786486872",
+    "task_url": "https://manus.im/app/axWDo29d5DJ1vgV8WerP83",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "ICflxUrPeNXkrgeiWxLDXP",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786486745727",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Completed the strict legal-document redaction audit for Granite Ridge Housing LP (2021 return). Retained federal K-1 pages from the first K-1 (page 29) through cutoff page 31 were audited. Identified actual investor/partner TIN fields on page 29 (Part II Item E) and page 31 (top right header), established precise PDF coordinate mask rectangles, confirmed partnership EINs are excluded, and verified high confidence scope status."
+      },
+      "id": "JMcaHSa3oHi7OM4OCDBl9D",
+      "timestamp": "1786486872889",
+      "type": "assistant_message"
+    },
+    {
+      "id": "kAKEfshfw0D3Gj4xMhpFro",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786486873021",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

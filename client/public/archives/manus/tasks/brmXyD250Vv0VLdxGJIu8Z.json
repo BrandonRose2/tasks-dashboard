@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-14T13:08:15.675731Z",
+  "task": {
+    "id": "brmXyD250Vv0VLdxGJIu8Z",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786486691",
+    "updated_at": "1786486844",
+    "task_url": "https://manus.im/app/brmXyD250Vv0VLdxGJIu8Z",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "3rx3dDkaX97BkRI7HFvSgQ",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786486691942",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Successfully completed the strict legal-document redaction audit for Grace Townhomes Housing LP (2020 return). Audited retained pages 38 through cutoff page 40. Identified actual investor SSN/TIN field on page 40 (Item E) with precise PDF-coordinate mask rectangle, while properly excluding the corporate entity EIN on page 38."
+      },
+      "id": "PVadDMSQNra8UdMy6JoKUa",
+      "timestamp": "1786486844394",
+      "type": "assistant_message"
+    },
+    {
+      "id": "K1aT8CkqAzknMfqsZgaS5O",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786486844503",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-14T13:07:36.971262Z",
+  "task": {
+    "id": "VuWSs2fDAHG3AenPnqXl40",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786649190",
+    "updated_at": "1786649249",
+    "task_url": "https://manus.im/app/VuWSs2fDAHG3AenPnqXl40",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "prFNdWh58DVr3Sz2x3kWkM",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786649191435",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "The source PDF file CUMBERLAND APARTMENTS, LP 2021 Client Copy.pdf was not found in the specified path /home/ubuntu/court_production/archive_returns_input/. Therefore, the read-only confidential intake audit could not be performed, and approval_status is set to review_required."
+      },
+      "id": "gZZLaRi3CKONgBtezvSsEz",
+      "timestamp": "1786649249006",
+      "type": "assistant_message"
+    },
+    {
+      "id": "zw6WsX79ChS6PL65uWYFvR",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786649249220",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

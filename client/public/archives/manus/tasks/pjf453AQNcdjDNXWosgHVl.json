@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-14T13:08:11.937774Z",
+  "task": {
+    "id": "pjf453AQNcdjDNXWosgHVl",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786486691",
+    "updated_at": "1786487184",
+    "task_url": "https://manus.im/app/pjf453AQNcdjDNXWosgHVl",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "5yhpg7rChkWV2WDGxLzgAR",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786486692216",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Successfully completed the legal-document redaction audit for Marrero 3 LP 2020 return, identifying all actual investor SSN fields and precise mask coordinates across retained federal K-1 form pages."
+      },
+      "id": "wU3GmYRtJRifwKQYC9RoaN",
+      "timestamp": "1786487183957",
+      "type": "assistant_message"
+    },
+    {
+      "id": "orB2ff5HxxSf1e7eGxfTcD",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786487184154",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

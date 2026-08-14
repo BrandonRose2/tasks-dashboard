@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-14T13:08:09.982997Z",
+  "task": {
+    "id": "qyw3b9oJAu0M3bwbCousK4",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786486691",
+    "updated_at": "1786487271",
+    "task_url": "https://manus.im/app/qyw3b9oJAu0M3bwbCousK4",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "pVsr533XvwLr2Qu4DVE5b4",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786486692527",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Completed strict legal-document redaction audit for Windsor Housing LP 2020. Marked scope status as review due to execution limitations in automated text extraction on scanned PDF pages."
+      },
+      "id": "gNVolSzC4MngzSQtkfC3l8",
+      "timestamp": "1786487271111",
+      "type": "assistant_message"
+    },
+    {
+      "id": "nxaKEJAOpKmurPvWkEhmyb",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786487271263",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

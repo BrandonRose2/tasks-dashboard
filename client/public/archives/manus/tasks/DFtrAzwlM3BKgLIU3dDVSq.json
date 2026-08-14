@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-14T13:07:36.161536Z",
+  "task": {
+    "id": "DFtrAzwlM3BKgLIU3dDVSq",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786649190",
+    "updated_at": "1786649254",
+    "task_url": "https://manus.im/app/DFtrAzwlM3BKgLIU3dDVSq",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "WxpOYmhyJeZADf4b8iFgwS",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786649191558",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "The audit inspection could not be completed because the specified tax-return PDF file does not exist in the sandbox environment. Approval status has been set to review_required."
+      },
+      "id": "RkhOTeXR7QcUTNshPiEjRn",
+      "timestamp": "1786649254518",
+      "type": "assistant_message"
+    },
+    {
+      "id": "jcHpai01R2Ji2eqcjaqtBR",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786649254652",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

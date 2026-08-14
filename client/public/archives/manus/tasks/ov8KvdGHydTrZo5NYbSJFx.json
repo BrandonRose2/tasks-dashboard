@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-14T13:08:10.923285Z",
+  "task": {
+    "id": "ov8KvdGHydTrZo5NYbSJFx",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786486691",
+    "updated_at": "1786486804",
+    "task_url": "https://manus.im/app/ov8KvdGHydTrZo5NYbSJFx",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "gyhJofJJ8HUXfwnSvXvpqK",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786486692536",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Successfully audited the federal tax return for Star Homes I LP (2020) from page 27 through cutoff page 29. Identified 1 actual investor identifier field (Part II Item E Partner's SSN/TIN) on page 27 at exact PDF coordinates 27:45.12,289.92,114.72,298.08. Confirmed that the partnership EIN (Item A) and supplemental pages (pages 28-29) contain no redactable investor identifiers. Audit status is pass with no issues."
+      },
+      "id": "b0ZOZ60ZCCyv6ayF6WQqqD",
+      "timestamp": "1786486804749",
+      "type": "assistant_message"
+    },
+    {
+      "id": "JpHpnMwtwWDLz1aA0D3XfH",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786486804891",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

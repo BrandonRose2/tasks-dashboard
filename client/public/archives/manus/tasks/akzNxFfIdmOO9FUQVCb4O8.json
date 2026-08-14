@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-14T13:08:02.085497Z",
+  "task": {
+    "id": "akzNxFfIdmOO9FUQVCb4O8",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786487002",
+    "updated_at": "1786487160",
+    "task_url": "https://manus.im/app/akzNxFfIdmOO9FUQVCb4O8",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "xbia6FVL2U7GXrYS5JNFUu",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786487002726",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Successfully audited the retained federal K-1 pages for Star Homes I LP (2021 return). The audit confirmed that the sole partner is an entity (Star Homes GP I LLC) whose identifier in Box E is a partnership/entity EIN (46-5689946). In accordance with the redaction rules, partnership/entity EINs are not treatable as redactable investor SSN/TIN fields. Therefore, no actual investor identifier fields require redaction across the retained K-1 pages (pages 25 through cutoff page 27)."
+      },
+      "id": "y88Mg5U2EyC03SmqYNwbcD",
+      "timestamp": "1786487160097",
+      "type": "assistant_message"
+    },
+    {
+      "id": "IcEP9iSoZdL5T5SccIpgxa",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786487160239",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

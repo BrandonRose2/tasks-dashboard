@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-14T13:07:31.743290Z",
+  "task": {
+    "id": "gA1pYsyyBkqc4Io2BC6SnK",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786664374",
+    "updated_at": "1786664431",
+    "task_url": "https://manus.im/app/gA1pYsyyBkqc4Io2BC6SnK",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "lRy0dQV7huCRqzCbcjTfKJ",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786664375159",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Validation completed successfully for RIVERPOINTE_V1_ 2020 RETURN.pdf."
+      },
+      "id": "UXvZI6RZvHkegt6RpcF53K",
+      "timestamp": "1786664431799",
+      "type": "assistant_message"
+    },
+    {
+      "id": "mTdMQeZH1FQzs1x75n0R1i",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786664431937",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

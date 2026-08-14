@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-14T13:07:37.421384Z",
+  "task": {
+    "id": "vpxlVDDtLDCar5WJuWcMVE",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786649190",
+    "updated_at": "1786649242",
+    "task_url": "https://manus.im/app/vpxlVDDtLDCar5WJuWcMVE",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "oOa2NlnVeIa8nEBtJ9HAIY",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786649191541",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "The source PDF file /home/ubuntu/court_production/archive_returns_input/CUMBERLAND APARTMENTS, LP 2020 RETURNS - FINAL.pdf was not found in the sandbox environment. Consequently, read-only intake audit could not be performed, and approval status has been set to review_required."
+      },
+      "id": "wPozMjdfj4IDQi8DczwU8q",
+      "timestamp": "1786649242566",
+      "type": "assistant_message"
+    },
+    {
+      "id": "KXwOIgJmPMCrYn2h64Zi2U",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786649242765",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

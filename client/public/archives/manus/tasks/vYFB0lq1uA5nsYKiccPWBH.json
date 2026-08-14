@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-14T13:07:27.779178Z",
+  "task": {
+    "id": "vYFB0lq1uA5nsYKiccPWBH",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786698094",
+    "updated_at": "1786698239",
+    "task_url": "https://manus.im/app/vYFB0lq1uA5nsYKiccPWBH",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "fSQCZEUM1X0diCDMZgdlOU",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786698095181",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Completed confidential read-only audit of VILLAGE GREEN - 2021 RETURN revised.pdf. Identified page count (285), federal Schedule K-1 form pages (34, 38, 42, 46, 50, 54, 58, 62, 66, 70, 74, 78, 82, 86, 90), final federal K-1 form page (90), first proposed excluded page (94), high-confidence identifier count (15), safe identifier context, and confirmed proposal readiness."
+      },
+      "id": "uu46lgOoW2d6NkCULuwzNV",
+      "timestamp": "1786698239785",
+      "type": "assistant_message"
+    },
+    {
+      "id": "zMF2zSFaIQPONSlRC3VEuS",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786698239942",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

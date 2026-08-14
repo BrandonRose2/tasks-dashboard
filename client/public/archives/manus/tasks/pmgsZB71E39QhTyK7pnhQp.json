@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-14T13:08:08.543697Z",
+  "task": {
+    "id": "pmgsZB71E39QhTyK7pnhQp",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786486691",
+    "updated_at": "1786486893",
+    "task_url": "https://manus.im/app/pmgsZB71E39QhTyK7pnhQp",
+    "message_count": 0
+  },
+  "event_count": 5,
+  "events": [
+    {
+      "id": "9mysmkMdmX3EjwCTC4Kjd7",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786486692439",
+      "type": "status_update"
+    },
+    {
+      "id": "i5Qq3wohIjEhZNI3vWdflo",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is resetting the computer",
+        "description": "Manus is resetting the computer, please wait for a while."
+      },
+      "timestamp": "1786486855746",
+      "type": "status_update"
+    },
+    {
+      "id": "hcG4RL45BcySqzeQtyunK3",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus has reset the computer successfully",
+        "description": "Manus has successfully reset the computer. You may now continue with the previous task."
+      },
+      "timestamp": "1786486856322",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "The strict legal-document redaction audit for St Charles Housing LP (2020 return) has been completed. Due to the absence of the source PDF file in the sandbox environment, physical inspection of pages 35 through 93 and coordinate determination of investor identifiers could not be performed. Consequently, the audit status is marked as review with issues noted."
+      },
+      "id": "XJYYPCUQVUST8NGidyeSZA",
+      "timestamp": "1786486893629",
+      "type": "assistant_message"
+    },
+    {
+      "id": "ijqNEav2vTioGtS0Dcna5j",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786486893857",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

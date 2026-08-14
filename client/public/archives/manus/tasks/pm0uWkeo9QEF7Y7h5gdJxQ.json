@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-14T13:08:15.216703Z",
+  "task": {
+    "id": "pm0uWkeo9QEF7Y7h5gdJxQ",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786486691",
+    "updated_at": "1786486834",
+    "task_url": "https://manus.im/app/pm0uWkeo9QEF7Y7h5gdJxQ",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "qqaZxwT4sA8oZIRBV23Y03",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786486692014",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Successfully audited PACIFICPOINT_V1_ 2020 RETURN.pdf. Identified retained federal K-1 pages through cutoff page 29, located actual investor SSN/TIN fields on pages 27 and 29, determined precise PDF-coordinate mask rectangles without exposing identifier values, and confirmed high confidence audit status."
+      },
+      "id": "9MwKRyUPAs1QmQSC6RHG9h",
+      "timestamp": "1786486834506",
+      "type": "assistant_message"
+    },
+    {
+      "id": "sLxGHw6hVYqjVZR47peeUl",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786486834648",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

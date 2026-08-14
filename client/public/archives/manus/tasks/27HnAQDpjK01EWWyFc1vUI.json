@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-14T13:08:01.632722Z",
+  "task": {
+    "id": "27HnAQDpjK01EWWyFc1vUI",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786487020",
+    "updated_at": "1786487216",
+    "task_url": "https://manus.im/app/27HnAQDpjK01EWWyFc1vUI",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "Q5HCoUS4B6UnD05KFrallW",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786487021813",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Successfully completed the strict legal-document redaction audit for WILMARMSHSG 2021 return. Identified the federal K-1 cutoff page, distinguished entity EINs from individual investor SSNs, and precisely mapped the investor SSN field coordinates on page 50."
+      },
+      "id": "orHgMFZPJ4cnfYC4wlvlX4",
+      "timestamp": "1786487216163",
+      "type": "assistant_message"
+    },
+    {
+      "id": "y57miDc5foSKaeThR1hTIm",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786487216288",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

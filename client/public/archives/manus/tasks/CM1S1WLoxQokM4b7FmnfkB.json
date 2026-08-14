@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-14T13:08:11.444719Z",
+  "task": {
+    "id": "CM1S1WLoxQokM4b7FmnfkB",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786486691",
+    "updated_at": "1786487292",
+    "task_url": "https://manus.im/app/CM1S1WLoxQokM4b7FmnfkB",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "r9mtLNccLWUQMDEfvLouHt",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786486692396",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Successfully audited GRACETWNHOME_V1_ 2021 RETURN.pdf and identified all actual investor SSN fields and precise mask locations without modifying the PDF."
+      },
+      "id": "PObjsXYwr4SmLsUQpf6U85",
+      "timestamp": "1786487292261",
+      "type": "assistant_message"
+    },
+    {
+      "id": "nIgsPV5S1wZyW4aa8K0jFl",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786487292397",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-14T13:07:28.205863Z",
+  "task": {
+    "id": "Ic5wUwm6kXNtmftw2ZbMeV",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786698094",
+    "updated_at": "1786698191",
+    "task_url": "https://manus.im/app/Ic5wUwm6kXNtmftw2ZbMeV",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "lK70aX2nBrBkQxSGFZiCf6",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786698095103",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Successfully completed the read-only confidential audit of VILLAGEGRHSG_V1_2020_RETURN.pdf, identifying the 15 federal Schedule K-1 form pages, the final K-1 page (93), the first proposed excluded page (97), original page count (290), and safely tokenized investor identifier occurrences on retained pages."
+      },
+      "id": "ofI3VQMAO3HtsOc76aY6xj",
+      "timestamp": "1786698191292",
+      "type": "assistant_message"
+    },
+    {
+      "id": "XVQ82ZQAQShXIxtvrhCVrO",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786698191567",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-14T13:07:27.321004Z",
+  "task": {
+    "id": "q1OlHRUz5f3JswDxZ4wAc3",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786698094",
+    "updated_at": "1786700229",
+    "task_url": "https://manus.im/app/q1OlHRUz5f3JswDxZ4wAc3",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "pEyn2xIFkvl7wtT9mqBRmh",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786698095376",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Completed confidential read-only scope audit for STCHASHOUSIN_V1_ 2020 RETURN.pdf. Identified 15 embedded federal Schedule K-1 packets spanning pages 35 through 93, with the final Schedule K-1 form page at 91 and 15 safely tokenized partner identifier occurrences."
+      },
+      "id": "rzRV1wrcFl1QtEIOiPGrGd",
+      "timestamp": "1786700228972",
+      "type": "assistant_message"
+    },
+    {
+      "id": "sLA6vvAuPIkpUii91Yf65e",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786700229105",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

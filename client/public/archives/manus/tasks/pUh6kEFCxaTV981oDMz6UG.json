@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-14T13:07:29.193814Z",
+  "task": {
+    "id": "pUh6kEFCxaTV981oDMz6UG",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786698094",
+    "updated_at": "1786698181",
+    "task_url": "https://manus.im/app/pUh6kEFCxaTV981oDMz6UG",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "z0s08Q2CDJbmNOci3pzGjO",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786698095674",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Successfully conducted a confidential read-only audit of RIVERPOINTE_V1_ 2020 RETURN.pdf. Identified page count (134), federal K-1 packet pages (36–50), final federal K-1 page (50), first proposed excluded page (51), high-confidence investor SSN/TIN occurrences (5), and safe identifier context without modifying or exposing sensitive data."
+      },
+      "id": "xOoNdPJJmUvnaAw7oap7xb",
+      "timestamp": "1786698181780",
+      "type": "assistant_message"
+    },
+    {
+      "id": "sWRErGtUdkLS3ytZwIL97v",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786698182005",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

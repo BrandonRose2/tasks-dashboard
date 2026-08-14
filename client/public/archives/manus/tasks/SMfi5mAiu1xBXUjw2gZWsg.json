@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-14T13:08:14.312392Z",
+  "task": {
+    "id": "SMfi5mAiu1xBXUjw2gZWsg",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786486691",
+    "updated_at": "1786487369",
+    "task_url": "https://manus.im/app/SMfi5mAiu1xBXUjw2gZWsg",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "znUFTGsOfqhYwCpPmxlqgV",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786486692117",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Completed strict redaction audit of Gates on Manhattan LP 2020 return (GATESONMANH_V1_ 2020 RETURN.pdf). Identified all actual investor SSN/TIN fields across retained K-1 form pages, correctly excluded entity EIN pages (38, 82, 94, 98), determined precise field-specific coordinate rectangles, and verified all audit criteria with high confidence."
+      },
+      "id": "KaqVYWp7iDGKkDPTbX5pQR",
+      "timestamp": "1786487369444",
+      "type": "assistant_message"
+    },
+    {
+      "id": "fqRwIRqgbPQCEtqK9AAbBP",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786487369564",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

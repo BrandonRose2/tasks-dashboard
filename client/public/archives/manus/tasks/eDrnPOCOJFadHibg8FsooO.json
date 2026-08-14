@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-14T13:07:35.259311Z",
+  "task": {
+    "id": "eDrnPOCOJFadHibg8FsooO",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786649190",
+    "updated_at": "1786649223",
+    "task_url": "https://manus.im/app/eDrnPOCOJFadHibg8FsooO",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "6vS6qtMGNjyk1jPKpP1yWN",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786649191482",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "The source PDF file /home/ubuntu/court_production/archive_returns_input/MACEDONIA APARTMENTS, LLC 2021 RETURN.pdf was not found in the sandbox environment. Therefore, review is required as inspection cannot be performed."
+      },
+      "id": "YvuJDfmiYPow29h2wUR4x5",
+      "timestamp": "1786649223473",
+      "type": "assistant_message"
+    },
+    {
+      "id": "TP6sEOfaXfzSq9hmwQepV7",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786649223592",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-14T13:07:30.878077Z",
+  "task": {
+    "id": "PZI7pkkeXwxCzpYDoUJj2a",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786664374",
+    "updated_at": "1786664436",
+    "task_url": "https://manus.im/app/PZI7pkkeXwxCzpYDoUJj2a",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "IVktQes4Fom67ElABoEiI2",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786664374883",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Successfully validated the source PDF file VILLAGEGRHSG_V1_2020_RETURN.pdf as an accessible federal Form 1065 partnership return with embedded federal Schedule K-1 pages."
+      },
+      "id": "L10pYocBooyvEoE4XMSCKU",
+      "timestamp": "1786664436786",
+      "type": "assistant_message"
+    },
+    {
+      "id": "oX7Nsqx79rfBMImK4MN2Jg",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786664436948",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

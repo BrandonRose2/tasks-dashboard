@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-14T13:08:17.017816Z",
+  "task": {
+    "id": "67cAjgwUKB81K6YOUloceo",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786486691",
+    "updated_at": "1786486744",
+    "task_url": "https://manus.im/app/67cAjgwUKB81K6YOUloceo",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "YVtmHsMNzt5OLJAyjkdTxD",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786486691830",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Successfully audited the 2021 federal tax return for Grove Park Housing LP (pages 32 through 38). Both partners are legal entities (Grove Park MT Investments, LLC and Crossroads Housing Development Corp.) with Employer Identification Numbers (EINs) displayed in Part II, rather than individual SSNs. Per instructions, partnership/entity EINs are not treated as redactable. No actual individual investor SSN/TIN fields were found."
+      },
+      "id": "7aaohRF91BH3mgidRmFVnu",
+      "timestamp": "1786486744684",
+      "type": "assistant_message"
+    },
+    {
+      "id": "A0wJ2OFPwgMqHiJOytLm5d",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786486744814",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

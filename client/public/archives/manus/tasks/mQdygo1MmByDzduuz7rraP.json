@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-14T13:07:38.435877Z",
+  "task": {
+    "id": "mQdygo1MmByDzduuz7rraP",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786649190",
+    "updated_at": "1786649258",
+    "task_url": "https://manus.im/app/mQdygo1MmByDzduuz7rraP",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "52PrFjzqx71twFYZmJHUCF",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786649191607",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "The specified tax-return PDF file was not found in the sandbox environment, requiring review."
+      },
+      "id": "zBSSdxcE4p0aXrQnexaurH",
+      "timestamp": "1786649258649",
+      "type": "assistant_message"
+    },
+    {
+      "id": "CmFauSG2hbUQT2S4V5k7Tt",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786649258785",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

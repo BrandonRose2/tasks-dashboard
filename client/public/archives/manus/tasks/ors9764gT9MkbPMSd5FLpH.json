@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-14T13:08:05.039534Z",
+  "task": {
+    "id": "ors9764gT9MkbPMSd5FLpH",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786486835",
+    "updated_at": "1786487001",
+    "task_url": "https://manus.im/app/ors9764gT9MkbPMSd5FLpH",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "xS9JAAft9gIrWFNLF3nuya",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786486835767",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Completed the strict redaction audit for 2021 Pacific Pointe Housing LP. Inspected all retained pages through the cutoff page (page 34), identified actual partner/investor TIN fields on pages 32 and 34, determined exact field-specific PDF coordinate mask rectangles, distinguished partnership EINs and supplemental pages without investor identifiers, and established high confidence."
+      },
+      "id": "HfxjnX1kU0gM7Q0nu3CqMd",
+      "timestamp": "1786487001461",
+      "type": "assistant_message"
+    },
+    {
+      "id": "B3vii2xjLj5X8QzqRs7Yjq",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786487001662",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

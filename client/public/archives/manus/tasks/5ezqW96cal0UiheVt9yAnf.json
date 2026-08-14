@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-14T13:08:14.778346Z",
+  "task": {
+    "id": "5ezqW96cal0UiheVt9yAnf",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786486691",
+    "updated_at": "1786487318",
+    "task_url": "https://manus.im/app/5ezqW96cal0UiheVt9yAnf",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "EfgfMAA3XOkGY6iJXgmXHU",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786486692167",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Successfully audited Silver Spring Housing 2020 return, identifying retained federal K-1 pages with actual investor SSN/TIN fields and precise mask rectangles."
+      },
+      "id": "FscK4E0LA6XSqp9l8e99JT",
+      "timestamp": "1786487318567",
+      "type": "assistant_message"
+    },
+    {
+      "id": "hxd2wEXN9rZU1unemavOFT",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786487318687",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

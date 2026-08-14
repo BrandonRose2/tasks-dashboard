@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-14T13:07:33.618960Z",
+  "task": {
+    "id": "QkjAB6wVmNSjSQqjRasv6O",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786649190",
+    "updated_at": "1786649287",
+    "task_url": "https://manus.im/app/QkjAB6wVmNSjSQqjRasv6O",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "4wl1av1ch5l3ooImQnnFOK",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786649192211",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Completed intake audit of THOMASVILLE CHURCH HOUSING LLC 2021 RETURN.pdf. The PDF is password-protected/encrypted (AESV3), preventing text extraction and page inspection. Approval status is set to review_required."
+      },
+      "id": "iIVZlUB1N6bs7PDZexsmnl",
+      "timestamp": "1786649286926",
+      "type": "assistant_message"
+    },
+    {
+      "id": "5Rz0wHgb7o5MKN12LdmxLM",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786649287052",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

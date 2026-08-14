@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-14T13:08:16.590547Z",
+  "task": {
+    "id": "8K9Rlwr9NZz1V54CprTO6V",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786486691",
+    "updated_at": "1786486914",
+    "task_url": "https://manus.im/app/8K9Rlwr9NZz1V54CprTO6V",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "biwg8vlUjq2ol2AoCe6u1P",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786486691782",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Successfully audited the 2020 Ruby Diamond Housing LP return PDF, established the final retained federal K-1 cutoff at page 42, identified actual investor/partner TIN and SSN fields on pages 32, 36, and 40 while excluding partnership/LLC entity EINs (such as page 28), determined precise PDF coordinate mask rectangles, and verified all criteria with high confidence."
+      },
+      "id": "wmTurpYHRcXTTiCHdzZr4J",
+      "timestamp": "1786486914544",
+      "type": "assistant_message"
+    },
+    {
+      "id": "2c3UwUzpnWD4HJPDfeaGb8",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786486914690",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

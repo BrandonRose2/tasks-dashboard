@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-14T13:08:04.596843Z",
+  "task": {
+    "id": "xLzVuQ9ZUnmsMcCw2O51xl",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786486845",
+    "updated_at": "1786487074",
+    "task_url": "https://manus.im/app/xLzVuQ9ZUnmsMcCw2O51xl",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "YScwMbBSC0yrmzNs8NHmhS",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786486845561",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "The legal-document redaction audit for River Pointe Housing LLC (2021) has been successfully completed. All retained pages from the first embedded federal K-1 (page 46) through the audited cutoff page (page 56) were thoroughly inspected. Actual individual investor SSN/TIN fields were identified on pages 46, 49, and 54 with precise PDF-coordinate mask rectangles. Partnership/entity EINs (such as on pages 50 and 53) were correctly excluded from redaction per instructions. All output fields adhere strictly to the required formats."
+      },
+      "id": "6sG02PWXBqHdZjB21EjOWi",
+      "timestamp": "1786487074726",
+      "type": "assistant_message"
+    },
+    {
+      "id": "43yNdgNCopLI7r6zau67sj",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786487074867",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

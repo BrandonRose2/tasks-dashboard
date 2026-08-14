@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-14T13:08:03.600390Z",
+  "task": {
+    "id": "lGECFRDdVZk6bZfZpz1myh",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786486894",
+    "updated_at": "1786487123",
+    "task_url": "https://manus.im/app/lGECFRDdVZk6bZfZpz1myh",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "VrQfM2bsbVtR7g7Jzw5cKx",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786486894873",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Completed strict redaction audit for Ruby Diamond Housing LP 2021 return. Identified retained federal K-1 form pages with actual investor/partner SSN/TIN fields (pages 48, 52, and 56), correctly excluding the entity EIN on page 44 and all supplemental/statement pages. Determined exact PDF-coordinate mask rectangles and field descriptions without exposing sensitive values."
+      },
+      "id": "nNRlJfdj0TM302hkyWrWWr",
+      "timestamp": "1786487122986",
+      "type": "assistant_message"
+    },
+    {
+      "id": "aFzSVTjUWqU7RN6rQ8NVID",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786487123128",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

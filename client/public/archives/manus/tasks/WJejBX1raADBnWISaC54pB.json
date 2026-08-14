@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-14T13:07:33.199747Z",
+  "task": {
+    "id": "WJejBX1raADBnWISaC54pB",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786649190",
+    "updated_at": "1786649289",
+    "task_url": "https://manus.im/app/WJejBX1raADBnWISaC54pB",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "EM35W9KQc38wQufGx5JDCU",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786649192480",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Completed confidential intake audit of THOMASVILLE CHURCH HOUSING LLC 2020 RETURN - FINAL.pdf. The source PDF is encrypted and password-protected; without the decryption password, page-level inspection, entity-year verification from content, Form 1065/K-1 cutoff determination, and investor identifier occurrence counting cannot be performed. Therefore, approval_status is set to review_required."
+      },
+      "id": "JejwliQI3Rrv6UboZUxpzQ",
+      "timestamp": "1786649289104",
+      "type": "assistant_message"
+    },
+    {
+      "id": "3sMan9MxUQFV3aSlWrF7hB",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786649289253",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

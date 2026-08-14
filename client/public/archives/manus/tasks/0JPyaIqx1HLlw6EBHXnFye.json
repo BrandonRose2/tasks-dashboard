@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-14T13:08:17.495508Z",
+  "task": {
+    "id": "0JPyaIqx1HLlw6EBHXnFye",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786486691",
+    "updated_at": "1786487259",
+    "task_url": "https://manus.im/app/0JPyaIqx1HLlw6EBHXnFye",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "PCQbZ2w33hqxdD3aMGJMqm",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786486691675",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Completed the strict legal-document redaction audit for Lexington Housing LLC 2020 return. Identified all actual investor SSN/TIN fields across the retained federal K-1 form pages up to cutoff page 74, determined precise PDF-coordinate mask rectangles, and verified scope status with high confidence."
+      },
+      "id": "4pX8JFXrDxu8oENDGEjbyh",
+      "timestamp": "1786487259578",
+      "type": "assistant_message"
+    },
+    {
+      "id": "E7jAL9urj4kgBupgeXaBTP",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786487259707",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

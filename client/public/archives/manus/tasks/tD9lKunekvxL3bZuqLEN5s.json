@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
-  "archived_at": "2026-08-11T15:01:35.306253Z",
+  "archived_at": "2026-08-14T13:08:18.122422Z",
   "task": {
     "id": "tD9lKunekvxL3bZuqLEN5s",
     "title": "Backup and Push Tasks to GitHub",
-    "status": "running",
+    "status": "stopped",
     "type": "standard",
     "agent_profile": "manus-1.6",
-    "credits_used": 0,
+    "credits_used": 4,
     "created_at": "1786459796",
-    "updated_at": "1786459983",
+    "updated_at": "1786469868",
     "task_url": "https://manus.im/app/tD9lKunekvxL3bZuqLEN5s",
     "message_count": 0
   },
-  "event_count": 9,
+  "event_count": 17,
   "events": [
     {
       "id": "s9cKvS0YAlnIW8Fa9Bxct9",
@@ -149,6 +149,77 @@
         "description": "Manus is working on your request"
       },
       "timestamp": "1786459982996",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "The full archival refresh is in progress and has successfully rebuilt the current task index. It is now archiving the individual task conversations and accessible attachments; once that completes, I’ll replicate the refreshed backup to the matching task vault repository and verify both destinations."
+      },
+      "id": "D6ct7JuCrNig8emOvIb7Qw",
+      "timestamp": "1786460621131",
+      "type": "assistant_message"
+    },
+    {
+      "assistant_message": {
+        "content": "## Task backup completed\n\nYour full task archive has been refreshed and stored in **both** matching GitHub destinations. The archive contains **823 indexed tasks**, with **821 complete conversation archives**, **4 partial attachment archives**, and **0 failed archives**.\n\n| Destination | Backup location | Verification |\n| --- | --- | --- |\n| [all-tasks-backup-portal](https://github.com/BrandonRose2/all-tasks-backup-portal) | `main` commit [`e3a5791`](https://github.com/BrandonRose2/all-tasks-backup-portal/commit/e3a579106c54d03c4fbabe84975565e273684f19) | Full index and archive refreshed successfully. |\n| [brandons-task-vault](https://github.com/BrandonRose2/brandons-task-vault) | Private release [`manus-task-archive-2026-08-11`](https://github.com/BrandonRose2/brandons-task-vault/releases/tag/manus-task-archive-2026-08-11) and repository manifest commit [`d57a4e1`](https://github.com/BrandonRose2/brandons-task-vault/commit/d57a4e123dac33a68abae45e5e1c9b79d7cadfc2) | Complete restore-ready archive split into six segments plus SHA-256 checksums. |\n\nThe vault release contains the full task index, task conversation archives, and accessible attachments. Its repository manifest includes the exact restore and checksum-verification commands.\n\n> **Security note:** `all-tasks-backup-portal` is currently public, while `brandons-task-vault` is private. Because the refreshed portal contains task records and accessible attachments, change the portal’s visibility if that public exposure is not intentional."
+      },
+      "id": "MnaDaVukDHwXxvRHvDPU56",
+      "timestamp": "1786463327833",
+      "type": "assistant_message"
+    },
+    {
+      "id": "jqnAo9eeUdsFHBQSlz3z5w",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786463328128",
+      "type": "status_update"
+    },
+    {
+      "id": "Lhg5VTtnnrHRswqFZFEpLY",
+      "timestamp": "1786469752846",
+      "type": "user_message",
+      "user_message": {
+        "content": "Show me a summary breakdown of the 823 backed-up tasks by category or date.",
+        "message_type": "text"
+      }
+    },
+    {
+      "id": "V7HQZ8DlHmF2TULiY0hdE8",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786469752954",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "I’ll analyze the refreshed task archive and provide a concise breakdown by date and task category."
+      },
+      "id": "uPswRXoQIKnl8MVIj5JcbS",
+      "timestamp": "1786469757001",
+      "type": "assistant_message"
+    },
+    {
+      "assistant_message": {
+        "content": "## Backed-up task summary\n\nThe archive spans **823 tasks** created from **March 17 through August 11, 2026**. The strongest concentration occurred in **April 2026**, which accounts for just over half of all archived tasks.\n\n| Creation month | Tasks | Share |\n| --- | ---: | ---: |\n| April 2026 | 414 | 50.3% |\n| June 2026 | 156 | 19.0% |\n| May 2026 | 79 | 9.6% |\n| July 2026 | 69 | 8.4% |\n| August 2026 through Aug. 11 | 65 | 7.9% |\n| March 2026 from Mar. 17 | 40 | 4.9% |\n| **Total** | **823** | **100.0%** |\n\n> **Peak period:** April plus June accounts for **570 tasks (69.3%)** of the complete backup.\n\n### Title-based category breakdown\n\nBecause the archive does not carry a native category field, I classified each task from its title using a consistent first-match keyword taxonomy. The large **Research & general inquiries** group includes tasks whose titles did not contain the specific business, technology, media, AI, or lifestyle signals used by the other categories.\n\n| Category | Tasks | Share |\n| --- | ---: | ---: |\n| Research & general inquiries | 663 | 80.6% |\n| Software, automation & integrations | 57 | 6.9% |\n| Property & real estate | 44 | 5.3% |\n| Business operations & communications | 21 | 2.6% |\n| AI, Manus & agent workflows | 15 | 1.8% |\n| Media, design & music | 13 | 1.6% |\n| Personal, travel & lifestyle | 10 | 1.2% |\n| **Total** | **823** | **100.0%** |\n\n### Archive status and type\n\n| Measure | Count | Share |\n| --- | ---: | ---: |\n| Completed/stopped tasks | 788 | 95.7% |\n| Waiting tasks | 34 | 4.1% |\n| Running task at backup time | 1 | 0.1% |\n| Standard tasks | 784 | 95.3% |\n| Project tasks | 24 | 2.9% |\n| Agent subtasks | 15 | 1.8% |\n\nThe most recent archived task was **“Backup and Push Tasks to GitHub”** on August 11, followed by a third-amendment research task and a Connecteam Breadcrumbs API task on August 10. The monthly figures are derived from the archive timestamps; categories are a useful organizational approximation rather than original Manus labels."
+      },
+      "id": "4TOdS756XenhgMcXbHt8en",
+      "timestamp": "1786469868443",
+      "type": "assistant_message"
+    },
+    {
+      "id": "k1m8fYXPP9bfBO7yGV1Byj",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786469868724",
       "type": "status_update"
     }
   ],

@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-14T13:07:26.830726Z",
+  "task": {
+    "id": "0AUGWZacTcEVSorhpSDy35",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786698094",
+    "updated_at": "1786699193",
+    "task_url": "https://manus.im/app/0AUGWZacTcEVSorhpSDy35",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "OBLWuScZFOO7e3TZcgrb4r",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786698095133",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "The confidential read-only scope audit for WINDSORHSGLP_V1_ 2020 RETURN.pdf has been successfully completed. All 119 pages were thoroughly inspected using local OCR. The document contains 18 embedded federal Schedule K-1 form pages (49, 53, 57, 61, 65, 69, 73, 77, 81, 85, 89, 93, 97, 101, 105, 109, 113, 117) with corresponding supporting statements running through page 119. There are no post-K-1 state filings or extraneous pages. High-confidence investor SSN/TIN occurrences total 18 (one on each K-1 Part II Item E). The proposal status is ready."
+      },
+      "id": "RtkEzqNmLOMK6fDvoW66Y1",
+      "timestamp": "1786699193850",
+      "type": "assistant_message"
+    },
+    {
+      "id": "EF8uw3kK0G6xPmsuL6mnPR",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786699194006",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

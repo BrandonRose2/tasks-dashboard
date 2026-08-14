@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-14T13:08:09.527384Z",
+  "task": {
+    "id": "lN6fnJpiZRFm61VZMLmuv9",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786486691",
+    "updated_at": "1786486797",
+    "task_url": "https://manus.im/app/lN6fnJpiZRFm61VZMLmuv9",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "jQA9l7VtRlEiqbtiSWTynH",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786486692370",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Successfully completed the strict audit for 2020 Wilmington Arms Housing LP return. Inspected retained pages 30 through 32. Identified partner TIN in Box E as an entity EIN (belonging to an exempt organization/corporation), which is excluded from redaction per instructions. No individual investor SSNs or redactable TINs were found."
+      },
+      "id": "L8c6OOZg9s2mdmvh1vZh20",
+      "timestamp": "1786486797677",
+      "type": "assistant_message"
+    },
+    {
+      "id": "BChnWWHFZtYs31svdKbEBn",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786486797828",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

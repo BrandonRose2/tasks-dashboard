@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-14T13:07:36.566162Z",
+  "task": {
+    "id": "hPwWKxPzbgtm4CaMc5H8jp",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786649190",
+    "updated_at": "1786649234",
+    "task_url": "https://manus.im/app/hPwWKxPzbgtm4CaMc5H8jp",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "Y5DKlHIbR8L8XtzL5HNkvV",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786649191256",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "The input PDF file was not found in the sandbox environment, so review is required."
+      },
+      "id": "5AGdzwfDK03pOgAn0hNlOy",
+      "timestamp": "1786649234564",
+      "type": "assistant_message"
+    },
+    {
+      "id": "FtMdf5skC75enFUQMn9BOc",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786649234716",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-14T13:07:51.842971Z",
+  "task": {
+    "id": "jD5RvI0y1MyguX9cNviv9d",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786555044",
+    "updated_at": "1786555738",
+    "task_url": "https://manus.im/app/jD5RvI0y1MyguX9cNviv9d",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "XKSGGHcazQ8YY3L2m7QhtK",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786555044872",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "The confidential redaction review for Windsor Housing LP (2021) has been successfully completed without modifying the source document or disclosing sensitive identifier values. The review assessed the page cutoff, identified investor SSN/TIN locations on federal K-1 Item E pages, and noted that the tentative cutoff page 114 stops short of page 115 (the final Schedule of Activities page for partner 20), requiring review."
+      },
+      "id": "uI6pyBi5USUOCuQkHDASwv",
+      "timestamp": "1786555737899",
+      "type": "assistant_message"
+    },
+    {
+      "id": "L0pEjotGuUlCrNsqLNuTg5",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786555738045",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}
