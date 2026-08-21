@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-21T12:52:03.560915Z",
+  "task": {
+    "id": "7d2vef7THEMtwSc2iho1eY",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786743100",
+    "updated_at": "1786743106",
+    "task_url": "https://manus.im/app/7d2vef7THEMtwSc2iho1eY",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "GFwTpK3aZMKlCZngOK0EqV",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786743101374",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Successfully created the design brief for the Hospitality and events vendor invoice archetype."
+      },
+      "id": "5njO6KolB3VH8W34NdSTtH",
+      "timestamp": "1786743106621",
+      "type": "assistant_message"
+    },
+    {
+      "id": "rOmxpbxvMlNXFZAaU6vNzg",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786743106761",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

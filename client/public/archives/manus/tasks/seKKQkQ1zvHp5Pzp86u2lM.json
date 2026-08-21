@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-21T12:52:00.544753Z",
+  "task": {
+    "id": "seKKQkQ1zvHp5Pzp86u2lM",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786743100",
+    "updated_at": "1786743106",
+    "task_url": "https://manus.im/app/seKKQkQ1zvHp5Pzp86u2lM",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "cASl6mc1luWncybSRGAMdR",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786743101115",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "The design brief for the Construction Progress-Billing Contractor archetype has been successfully created."
+      },
+      "id": "fcw9l7aXSiezdA5iJuSLZb",
+      "timestamp": "1786743106763",
+      "type": "assistant_message"
+    },
+    {
+      "id": "uEdJZRQolOgLFlgzP3cQAY",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786743106880",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

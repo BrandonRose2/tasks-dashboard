@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
-  "archived_at": "2026-08-14T13:09:23.140478Z",
+  "archived_at": "2026-08-21T12:54:26.000654Z",
   "task": {
     "id": "BvyRzDSo0q65Ax2lWvL9Pz",
     "title": "Finish Task Quickly",
-    "status": "waiting",
+    "status": "stopped",
     "type": "standard",
     "agent_profile": "manus-1.6",
     "credits_used": 918,
     "created_at": "1786393412",
-    "updated_at": "1786700555",
+    "updated_at": "1786730213",
     "task_url": "https://manus.im/app/BvyRzDSo0q65Ax2lWvL9Pz",
     "message_count": 0
   },
-  "event_count": 358,
+  "event_count": 372,
   "events": [
     {
       "id": "AGON5W04m5BQmYLcFOomUW",
@@ -4036,6 +4036,186 @@
       },
       "timestamp": "1786700555768",
       "type": "status_update"
+    },
+    {
+      "id": "uvi1XGDBZet0Z8LXpxLd7H",
+      "timestamp": "1786729064516",
+      "type": "user_message",
+      "user_message": {
+        "content": "approved",
+        "message_type": "text"
+      }
+    },
+    {
+      "id": "BRLYwlcg3jRpKsX0c7H4r2",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786729064644",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "**Test3 — approval recorded.** I will now create the six approved true-redaction productions from their untouched originals, run the full verification checks, and file only passing outputs in their matching redacted folders."
+      },
+      "id": "QTrkIiw8jxk5fCmpqFJvc8",
+      "timestamp": "1786729070793",
+      "type": "assistant_message"
+    },
+    {
+      "assistant_message": {
+        "attachments": [
+          {
+            "content_type": "application/zip",
+            "filename": "ALL_49_VERIFIED_TAX_RETURN_REDACTIONS_2026-08-13.zip",
+            "type": "file",
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/BvyRzDSo0q65Ax2lWvL9Pz/sandbox/UGQ3BxyjSVoeb5QDC19b6Y_1786729337646_na1fn_L2hvbWUvdWJ1bnR1L2NvdXJ0X3Byb2R1Y3Rpb24vQUxMXzQ5X1ZFUklGSUVEX1RBWF9SRVRVUk5fUkVEQUNUSU9OU18yMDI2LTA4LTEz.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvQnZ5UnpEU28wcTY1QXgybFd2TDlQei9zYW5kYm94L1VHUTNCeHlqU1ZvZWI1UURDMTliNllfMTc4NjcyOTMzNzY0Nl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOdmRYSjBYM0J5YjJSMVkzUnBiMjR2UVV4TVh6UTVYMVpGVWtsR1NVVkVYMVJCV0Y5U1JWUlZVazVmVWtWRVFVTlVTVTlPVTE4eU1ESTJMVEE0TFRFei56aXAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCICt2L6ltGfcx8kH35OJLNvr7h8I5J1rHG3wSOvOHsT9oAiBCaP9oa~RdAWvBvlKqsoyqHhIg2T5urX4jfiJ52fgzNg__"
+          },
+          {
+            "content_type": "text/markdown; charset=utf-8",
+            "filename": "CURRENT_2020_2021_REDACTION_STATUS_49_COMPLETE.md",
+            "type": "file",
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/BvyRzDSo0q65Ax2lWvL9Pz/sandbox/UGQ3BxyjSVoeb5QDC19b6Y_1786729337646_na1fn_L2hvbWUvdWJ1bnR1L2NvdXJ0X3Byb2R1Y3Rpb24vQ1VSUkVOVF8yMDIwXzIwMjFfUkVEQUNUSU9OX1NUQVRVU180OV9DT01QTEVURQ.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvQnZ5UnpEU28wcTY1QXgybFd2TDlQei9zYW5kYm94L1VHUTNCeHlqU1ZvZWI1UURDMTliNllfMTc4NjcyOTMzNzY0Nl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOdmRYSjBYM0J5YjJSMVkzUnBiMjR2UTFWU1VrVk9WRjh5TURJd1h6SXdNakZmVWtWRVFVTlVTVTlPWDFOVVFWUlZVMTgwT1Y5RFQwMVFURVZVUlEubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDcKcz20HUDhKWKzlg3Y57omgxQHiimrzBP1hffq-~yPAIgc2H313b-c2rTY42Evl7ReZVMH4aXVqK3HVhVeJ8Yp7U_"
+          },
+          {
+            "content_type": "application/json",
+            "filename": "approved_remaining_six_redactions_v1_verification.json",
+            "type": "file",
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/BvyRzDSo0q65Ax2lWvL9Pz/sandbox/UGQ3BxyjSVoeb5QDC19b6Y_1786729337646_na1fn_L2hvbWUvdWJ1bnR1L2NvdXJ0X3Byb2R1Y3Rpb24vYXBwcm92ZWRfcmVtYWluaW5nX3NpeF9yZWRhY3Rpb25zX3YxX3ZlcmlmaWNhdGlvbg.json?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvQnZ5UnpEU28wcTY1QXgybFd2TDlQei9zYW5kYm94L1VHUTNCeHlqU1ZvZWI1UURDMTliNllfMTc4NjcyOTMzNzY0Nl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOdmRYSjBYM0J5YjJSMVkzUnBiMjR2WVhCd2NtOTJaV1JmY21WdFlXbHVhVzVuWDNOcGVGOXlaV1JoWTNScGIyNXpYM1l4WDNabGNtbG1hV05oZEdsdmJnLmpzb24iLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIFtexHJ8W-4SCtcwc4mKctC7Yw7sTDBBlc27~v5LcaQhAiEArQKyY6Sr6qfgJgpXKal1~8dPNqS1YgqbuJOl2DBvZB0_"
+          },
+          {
+            "content_type": "application/json",
+            "filename": "six_approved_final_k1_redaction_v4_verification.json",
+            "type": "file",
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/BvyRzDSo0q65Ax2lWvL9Pz/sandbox/UGQ3BxyjSVoeb5QDC19b6Y_1786729337646_na1fn_L2hvbWUvdWJ1bnR1L2NvdXJ0X3Byb2R1Y3Rpb24vc2l4X2FwcHJvdmVkX2ZpbmFsX2sxX3JlZGFjdGlvbl92NF92ZXJpZmljYXRpb24.json?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvQnZ5UnpEU28wcTY1QXgybFd2TDlQei9zYW5kYm94L1VHUTNCeHlqU1ZvZWI1UURDMTliNllfMTc4NjcyOTMzNzY0Nl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOdmRYSjBYM0J5YjJSMVkzUnBiMjR2YzJsNFgyRndjSEp2ZG1Wa1gyWnBibUZzWDJzeFgzSmxaR0ZqZEdsdmJsOTJORjkyWlhKcFptbGpZWFJwYjI0Lmpzb24iLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDPdNPcer~BxQHLzGyx2DiKBrY~XZrVN4~tLbySYyxONAIgP6KnVOA6EXtr6U-8CgUZqiPAmOKSY6NK24E--yavdmI_"
+          }
+        ],
+        "content": "**Test3 — I completed every currently producible 2020–2021 return.** The updated package now contains **49 verified redacted tax-return PDFs**, all filed in their matching `2020-2021-Tax Returns` folders. The ZIP integrity check passed and contains exactly 49 PDFs plus the inventory and current-status register.\n\nThe remaining **12 of 61 applicable owner-years** cannot be completed safely yet: **8** supplied returns are password-protected, and **4** still need complete federal Form 1065 returns (Boca Ciega 2020/2021 and Breckenridge 2020/2021; the available Breckenridge files are state-only Texas franchise returns).\n\nThe attached status register identifies every blocker and the exact source needed. Once you provide accessible originals, I can immediately prepare their approval proposals and finish them."
+      },
+      "id": "UHJaqOTEC2NEFY2G6ywTBB",
+      "timestamp": "1786729338769",
+      "type": "assistant_message"
+    },
+    {
+      "id": "V6v7svgB51Fzo0w4nZc1bp",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786729339031",
+      "type": "status_update"
+    },
+    {
+      "id": "WAuM0iYpBPIDIKLdZ5Mz8V",
+      "timestamp": "1786730051859",
+      "type": "user_message",
+      "user_message": {
+        "attachments": [
+          {
+            "content_type": "application/x-zip-compressed",
+            "filename": "pasted_file_f2ebL7_Redacted.zip",
+            "type": "file",
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-W7mhlbn3nDXqoEhIzU3U3u_na1fn_cGFzdGVkX2ZpbGVfZjJlYkw3X1JlZGFjdGVk.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1XN21obGJuM25EWHFvRWhJelUzVTN1X25hMWZuX2NHRnpkR1ZrWDJacGJHVmZaakpsWWt3M1gxSmxaR0ZqZEdWay56aXAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQD4C5Y6cVxbg5sS3AvTsSBGnSM6kDGYNnaSMB90cL9R7QIhAKHdf80l1k5wyGE~A8oYGHscJgwi8AtF~A9kJn8G96Pj"
+          }
+        ],
+        "content": "removed the word REDACTED in the names of the files and replace \"II\" and send back to me",
+        "message_type": "text"
+      }
+    },
+    {
+      "id": "suXBVzbsBzQRIkSJNwukVy",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786730052018",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "**Test3 — I received the archive.** To avoid renaming the productions incorrectly, please confirm the exact filename rule: should every occurrence of `REDACTED` be **replaced with `II`** (for example, `RETURN_REDACTED.pdf` → `RETURN_II.pdf`), or should `REDACTED` simply be **removed** with no replacement?"
+      },
+      "id": "c2eDOB6oic1sT6dB5rcddA",
+      "timestamp": "1786730060240",
+      "type": "assistant_message"
+    },
+    {
+      "id": "qToCtOoomzBel1Ea3BmPAz",
+      "status_update": {
+        "agent_status": "waiting",
+        "brief": "Manus is waiting for your reply",
+        "description": "Manus will continue working after your reply",
+        "status_detail": {
+          "waiting_description": "**Test3 — I received the archive.** To avoid renaming the productions incorrectly, please confirm the exact filename rule: should every occurrence of `REDACTED` be **replaced with `II`** (for example, `RETURN_REDACTED.pdf` → `RETURN_II.pdf`), or should `REDACTED` simply be **removed** with no replacement?",
+          "waiting_for_event_id": "c2eDOB6oic1sT6dB5rcddA",
+          "waiting_for_event_type": "messageAskUser"
+        }
+      },
+      "timestamp": "1786730060440",
+      "type": "status_update"
+    },
+    {
+      "id": "WaNPT6jxt0hAUvYzkdjmkr",
+      "timestamp": "1786730094291",
+      "type": "user_message",
+      "user_message": {
+        "content": "the first option ",
+        "message_type": "text"
+      }
+    },
+    {
+      "id": "mGSYaqgCPM6UiYamYgIORY",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786730094499",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "**Test3 — confirmed.** I will replace every filename occurrence of `REDACTED` with `II`, preserve all document contents and folder structure, and return a new renamed ZIP package."
+      },
+      "id": "7ghqfC2GrhLJBSx5y7JgsW",
+      "timestamp": "1786730102760",
+      "type": "assistant_message"
+    },
+    {
+      "assistant_message": {
+        "attachments": [
+          {
+            "content_type": "application/zip",
+            "filename": "Tax_Return_Redactions_II.zip",
+            "type": "file",
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/BvyRzDSo0q65Ax2lWvL9Pz/sandbox/0GMFSSVl0huPa7nWlYtZZV_1786730212622_na1fn_L2hvbWUvdWJ1bnR1L2NvdXJ0X3Byb2R1Y3Rpb24vVGF4X1JldHVybl9SZWRhY3Rpb25zX0lJ.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvQnZ5UnpEU28wcTY1QXgybFd2TDlQei9zYW5kYm94LzBHTUZTU1ZsMGh1UGE3bldsWXRaWlZfMTc4NjczMDIxMjYyMl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOdmRYSjBYM0J5YjJSMVkzUnBiMjR2VkdGNFgxSmxkSFZ5Ymw5U1pXUmhZM1JwYjI1elgwbEouemlwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDvkQLfjrMXeFaMZvwiNbhvUi3WUfDcku2NPbouKkCINQIhAM3dgoCL8FxhmFvo7Nnw3Iuzjh6xypfS3thRz5OV-amD"
+          },
+          {
+            "content_type": "application/json",
+            "filename": "Tax_Return_Redactions_II_verification.json",
+            "type": "file",
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/BvyRzDSo0q65Ax2lWvL9Pz/sandbox/0GMFSSVl0huPa7nWlYtZZV_1786730212622_na1fn_L2hvbWUvdWJ1bnR1L2NvdXJ0X3Byb2R1Y3Rpb24vVGF4X1JldHVybl9SZWRhY3Rpb25zX0lJX3ZlcmlmaWNhdGlvbg.json?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvQnZ5UnpEU28wcTY1QXgybFd2TDlQei9zYW5kYm94LzBHTUZTU1ZsMGh1UGE3bldsWXRaWlZfMTc4NjczMDIxMjYyMl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOdmRYSjBYM0J5YjJSMVkzUnBiMjR2VkdGNFgxSmxkSFZ5Ymw5U1pXUmhZM1JwYjI1elgwbEpYM1psY21sbWFXTmhkR2x2YmcuanNvbiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIGYCy0RpTP~XfCHlw7iSutN4WyHxHdkfyaybmYwXYOgVAiB5NZN5lxkFDmEzLwDLx7AC6e7ENpNg39GZ9z4eneHGqQ__"
+          }
+        ],
+        "content": "**Test3 — completed.** I replaced `REDACTED` with `II` in all **49 production filenames** and returned the renamed archive.\n\nThe new ZIP passed integrity checks: all 50 entries are present, no filename still contains `REDACTED`, and every file’s content matches the source archive byte-for-byte."
+      },
+      "id": "p2tNo1iknD3HpDca0ZIDmr",
+      "timestamp": "1786730213586",
+      "type": "assistant_message"
+    },
+    {
+      "id": "EyPv1kOi8nM1A5lWlPocy6",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786730214168",
+      "type": "status_update"
     }
   ],
   "attachments": [
@@ -4884,6 +5064,76 @@
       "status": "archived",
       "bytes": 4038,
       "archive_path": "attachments/BvyRzDSo0q65Ax2lWvL9Pz/356-assistant_message-2_2879c05a2a9c4e7d_UPDATED_2020_2021_REDACTION_COMPLETION_REGISTER.md"
+    },
+    {
+      "event_index": 361,
+      "type": "file",
+      "filename": "ALL_49_VERIFIED_TAX_RETURN_REDACTIONS_2026-08-13.zip",
+      "content_type": "application/zip",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/BvyRzDSo0q65Ax2lWvL9Pz/sandbox/UGQ3BxyjSVoeb5QDC19b6Y_1786729337646_na1fn_L2hvbWUvdWJ1bnR1L2NvdXJ0X3Byb2R1Y3Rpb24vQUxMXzQ5X1ZFUklGSUVEX1RBWF9SRVRVUk5fUkVEQUNUSU9OU18yMDI2LTA4LTEz.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvQnZ5UnpEU28wcTY1QXgybFd2TDlQei9zYW5kYm94L1VHUTNCeHlqU1ZvZWI1UURDMTliNllfMTc4NjcyOTMzNzY0Nl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOdmRYSjBYM0J5YjJSMVkzUnBiMjR2UVV4TVh6UTVYMVpGVWtsR1NVVkVYMVJCV0Y5U1JWUlZVazVmVWtWRVFVTlVTVTlPVTE4eU1ESTJMVEE0TFRFei56aXAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCICt2L6ltGfcx8kH35OJLNvr7h8I5J1rHG3wSOvOHsT9oAiBCaP9oa~RdAWvBvlKqsoyqHhIg2T5urX4jfiJ52fgzNg__",
+      "status": "referenced_only",
+      "bytes": 101221350,
+      "reason": "Attachment exceeds configured limit of 99614720 bytes"
+    },
+    {
+      "event_index": 361,
+      "type": "file",
+      "filename": "CURRENT_2020_2021_REDACTION_STATUS_49_COMPLETE.md",
+      "content_type": "text/markdown; charset=utf-8",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/BvyRzDSo0q65Ax2lWvL9Pz/sandbox/UGQ3BxyjSVoeb5QDC19b6Y_1786729337646_na1fn_L2hvbWUvdWJ1bnR1L2NvdXJ0X3Byb2R1Y3Rpb24vQ1VSUkVOVF8yMDIwXzIwMjFfUkVEQUNUSU9OX1NUQVRVU180OV9DT01QTEVURQ.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvQnZ5UnpEU28wcTY1QXgybFd2TDlQei9zYW5kYm94L1VHUTNCeHlqU1ZvZWI1UURDMTliNllfMTc4NjcyOTMzNzY0Nl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOdmRYSjBYM0J5YjJSMVkzUnBiMjR2UTFWU1VrVk9WRjh5TURJd1h6SXdNakZmVWtWRVFVTlVTVTlPWDFOVVFWUlZVMTgwT1Y5RFQwMVFURVZVUlEubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDcKcz20HUDhKWKzlg3Y57omgxQHiimrzBP1hffq-~yPAIgc2H313b-c2rTY42Evl7ReZVMH4aXVqK3HVhVeJ8Yp7U_",
+      "status": "archived",
+      "bytes": 4029,
+      "archive_path": "attachments/BvyRzDSo0q65Ax2lWvL9Pz/361-assistant_message-1_83ccce0cb7933155_CURRENT_2020_2021_REDACTION_STATUS_49_COMPLETE.md"
+    },
+    {
+      "event_index": 361,
+      "type": "file",
+      "filename": "approved_remaining_six_redactions_v1_verification.json",
+      "content_type": "application/json",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/BvyRzDSo0q65Ax2lWvL9Pz/sandbox/UGQ3BxyjSVoeb5QDC19b6Y_1786729337646_na1fn_L2hvbWUvdWJ1bnR1L2NvdXJ0X3Byb2R1Y3Rpb24vYXBwcm92ZWRfcmVtYWluaW5nX3NpeF9yZWRhY3Rpb25zX3YxX3ZlcmlmaWNhdGlvbg.json?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvQnZ5UnpEU28wcTY1QXgybFd2TDlQei9zYW5kYm94L1VHUTNCeHlqU1ZvZWI1UURDMTliNllfMTc4NjcyOTMzNzY0Nl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOdmRYSjBYM0J5YjJSMVkzUnBiMjR2WVhCd2NtOTJaV1JmY21WdFlXbHVhVzVuWDNOcGVGOXlaV1JoWTNScGIyNXpYM1l4WDNabGNtbG1hV05oZEdsdmJnLmpzb24iLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIFtexHJ8W-4SCtcwc4mKctC7Yw7sTDBBlc27~v5LcaQhAiEArQKyY6Sr6qfgJgpXKal1~8dPNqS1YgqbuJOl2DBvZB0_",
+      "status": "archived",
+      "bytes": 4177,
+      "archive_path": "attachments/BvyRzDSo0q65Ax2lWvL9Pz/361-assistant_message-2_66a880e9c1c31faf_approved_remaining_six_redactions_v1_verification.json"
+    },
+    {
+      "event_index": 361,
+      "type": "file",
+      "filename": "six_approved_final_k1_redaction_v4_verification.json",
+      "content_type": "application/json",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/BvyRzDSo0q65Ax2lWvL9Pz/sandbox/UGQ3BxyjSVoeb5QDC19b6Y_1786729337646_na1fn_L2hvbWUvdWJ1bnR1L2NvdXJ0X3Byb2R1Y3Rpb24vc2l4X2FwcHJvdmVkX2ZpbmFsX2sxX3JlZGFjdGlvbl92NF92ZXJpZmljYXRpb24.json?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvQnZ5UnpEU28wcTY1QXgybFd2TDlQei9zYW5kYm94L1VHUTNCeHlqU1ZvZWI1UURDMTliNllfMTc4NjcyOTMzNzY0Nl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOdmRYSjBYM0J5YjJSMVkzUnBiMjR2YzJsNFgyRndjSEp2ZG1Wa1gyWnBibUZzWDJzeFgzSmxaR0ZqZEdsdmJsOTJORjkyWlhKcFptbGpZWFJwYjI0Lmpzb24iLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDPdNPcer~BxQHLzGyx2DiKBrY~XZrVN4~tLbySYyxONAIgP6KnVOA6EXtr6U-8CgUZqiPAmOKSY6NK24E--yavdmI_",
+      "status": "archived",
+      "bytes": 2150,
+      "archive_path": "attachments/BvyRzDSo0q65Ax2lWvL9Pz/361-assistant_message-3_84ead2b2257472a9_six_approved_final_k1_redaction_v4_verification.json"
+    },
+    {
+      "event_index": 363,
+      "type": "file",
+      "filename": "pasted_file_f2ebL7_Redacted.zip",
+      "content_type": "application/x-zip-compressed",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-W7mhlbn3nDXqoEhIzU3U3u_na1fn_cGFzdGVkX2ZpbGVfZjJlYkw3X1JlZGFjdGVk.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1XN21obGJuM25EWHFvRWhJelUzVTN1X25hMWZuX2NHRnpkR1ZrWDJacGJHVmZaakpsWWt3M1gxSmxaR0ZqZEdWay56aXAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQD4C5Y6cVxbg5sS3AvTsSBGnSM6kDGYNnaSMB90cL9R7QIhAKHdf80l1k5wyGE~A8oYGHscJgwi8AtF~A9kJn8G96Pj",
+      "status": "referenced_only",
+      "bytes": 100469171,
+      "reason": "Attachment exceeds configured limit of 99614720 bytes"
+    },
+    {
+      "event_index": 370,
+      "type": "file",
+      "filename": "Tax_Return_Redactions_II.zip",
+      "content_type": "application/zip",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/BvyRzDSo0q65Ax2lWvL9Pz/sandbox/0GMFSSVl0huPa7nWlYtZZV_1786730212622_na1fn_L2hvbWUvdWJ1bnR1L2NvdXJ0X3Byb2R1Y3Rpb24vVGF4X1JldHVybl9SZWRhY3Rpb25zX0lJ.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvQnZ5UnpEU28wcTY1QXgybFd2TDlQei9zYW5kYm94LzBHTUZTU1ZsMGh1UGE3bldsWXRaWlZfMTc4NjczMDIxMjYyMl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOdmRYSjBYM0J5YjJSMVkzUnBiMjR2VkdGNFgxSmxkSFZ5Ymw5U1pXUmhZM1JwYjI1elgwbEouemlwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDvkQLfjrMXeFaMZvwiNbhvUi3WUfDcku2NPbouKkCINQIhAM3dgoCL8FxhmFvo7Nnw3Iuzjh6xypfS3thRz5OV-amD",
+      "status": "referenced_only",
+      "bytes": 101972345,
+      "reason": "Attachment exceeds configured limit of 99614720 bytes"
+    },
+    {
+      "event_index": 370,
+      "type": "file",
+      "filename": "Tax_Return_Redactions_II_verification.json",
+      "content_type": "application/json",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/BvyRzDSo0q65Ax2lWvL9Pz/sandbox/0GMFSSVl0huPa7nWlYtZZV_1786730212622_na1fn_L2hvbWUvdWJ1bnR1L2NvdXJ0X3Byb2R1Y3Rpb24vVGF4X1JldHVybl9SZWRhY3Rpb25zX0lJX3ZlcmlmaWNhdGlvbg.json?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvQnZ5UnpEU28wcTY1QXgybFd2TDlQei9zYW5kYm94LzBHTUZTU1ZsMGh1UGE3bldsWXRaWlZfMTc4NjczMDIxMjYyMl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOdmRYSjBYM0J5YjJSMVkzUnBiMjR2VkdGNFgxSmxkSFZ5Ymw5U1pXUmhZM1JwYjI1elgwbEpYM1psY21sbWFXTmhkR2x2YmcuanNvbiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIGYCy0RpTP~XfCHlw7iSutN4WyHxHdkfyaybmYwXYOgVAiB5NZN5lxkFDmEzLwDLx7AC6e7ENpNg39GZ9z4eneHGqQ__",
+      "status": "archived",
+      "bytes": 243,
+      "archive_path": "attachments/BvyRzDSo0q65Ax2lWvL9Pz/370-assistant_message-1_1ec2f666fa83d72b_Tax_Return_Redactions_II_verification.json"
     }
   ]
 }

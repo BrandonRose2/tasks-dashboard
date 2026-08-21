@@ -1,0 +1,150 @@
+unit,tenant,floorplan,square_feet,lease_rent,manager_verified,effective_rent,move_in,lease_end,reconciliation_result
+101-A,"Brown, Chessie",2BR 2BA,985,1695.00,N,1695.00,05/09/2016,07/31/2027,No matching filed case
+101-C,"Hartley, Alexis",2BR 2BA,985,1325.00,N,1325.00,03/24/2023,03/23/2025,No matching filed case
+101-D,"Fisher, Bryant",2BR 2BA,985,1325.00,N,1325.00,08/01/2015,07/31/2027,No matching filed case
+101-E,"Mason, Earl",2BR 2BA,985,1690.00,N,1690.00,10/15/2015,01/14/2027,No matching filed case
+101-F,"Howard, Lily Nicole",2BR 2BA,985,1346.00,N,1346.00,07/19/2026,07/31/2027,No matching filed case
+101-G,"Hayes, Tamara",2BR 2BA,985,1325.00,N,1325.00,11/21/2009,11/20/2024,No matching filed case
+101-H,"Trapp, Sherry",2BR 2BA,985,1690.00,N,1690.00,10/01/2014,09/30/2025,No matching filed case
+101-I,"Shell, Jamice Cierra",2BR 2BA,985,1346.00,N,1346.00,11/14/2025,10/31/2026,No matching filed case
+101-J,"Thomas, Roshawn L",2BR 2BA,985,1346.00,Y,1346.00,03/27/2026,03/31/2027,No matching filed case
+101-K,"Smith, Tauryn M",2BR 2BA,985,1346.00,N,1346.00,01/09/2025,01/08/2027,No matching filed case
+101-L,"Smith, KyJaun",2BR 2BA,985,1346.00,N,1346.00,07/03/2025,06/30/2026,No matching filed case
+103-A,"Williams, Shamyria",2BR 2BA,985,1346.00,Y,1346.00,04/14/2026,03/31/2027,No matching filed case
+103-B,"Lopez Gonzalez, Evelyn Wanda",2BR 2BA,985,1346.00,N,1346.00,09/26/2025,08/31/2026,No matching filed case
+103-C,"Reid, Cary",2BR 2BA,985,1346.00,N,1346.00,11/03/2025,10/31/2026,No matching filed case
+103-D,"Washington, Patrick Anthony",2BR 2BA,985,1566.00,N,1566.00,12/15/2025,12/18/2026,No matching filed case
+103-E,"Kelley, Stephenantoine",2BR 2BA,985,1346.00,N,1346.00,11/03/2025,10/31/2026,No matching filed case
+103-F,"Fitzgerald, Brenda",2BR 2BA,985,1518.00,N,1518.00,04/17/2026,04/30/2027,No matching filed case
+103-G,"Clement, WilliamRavenel",2BR 2BA,985,1346.00,N,1346.00,11/21/2025,11/30/2026,No matching filed case
+103-I,"Scott, MaKayla",2BR 2BA,985,1346.00,N,1346.00,05/11/2023,04/30/2027,No matching filed case
+103-J,"Boone, Tiera S",2BR 2BA,985,1325.00,Y,1325.00,02/10/2025,01/31/2026,No matching filed case
+103-K,"Williamson, Abeni",2BR 2BA,985,1325.00,N,1325.00,08/01/2024,07/31/2025,No matching filed case
+103-L,"Morrell, Quantavia Andrea",2BR 2BA,985,1346.00,N,1346.00,03/12/2026,02/28/2027,No matching filed case
+104-A,"Crittendon, Tiara",3BR 2BA,1208,1518.00,N,1518.00,06/30/2026,06/30/2027,No matching filed case
+104-C,"Hines, Andrea",3BR 2BA,1208,1518.00,N,1518.00,09/26/2025,09/30/2026,No matching filed case
+104-D,"Trisvan, Wadeisha",3BR 2BA,1208,1482.00,N,1482.00,09/16/2023,08/31/2026,No matching filed case
+104-E,"Taylor, Juaron Martaze",3BR 2BA,1208,1518.00,N,1518.00,07/02/2026,06/30/2027,No matching filed case
+104-F,"King, Tewana L",3BR 2BA,1208,1482.00,N,1482.00,12/06/2024,12/31/2025,No matching filed case
+104-G,"Lewis, Tierra",3BR 2BA,1208,1482.00,N,1482.00,12/29/2008,12/28/2024,No matching filed case
+104-I,"Guerrero, Marisa",3BR 2BA,1208,1482.00,N,1482.00,04/15/2024,03/31/2026,No matching filed case
+104-J,"Jackson, Porchelle",3BR 2BA,1208,1482.00,N,1482.00,03/13/2020,02/28/2027,No matching filed case
+104-K,"Morgan, Latanya",3BR 2BA,1208,1518.00,N,1518.00,05/17/2024,04/30/2026,No matching filed case
+104-L,"Bonner, Tequitsha",3BR 2BA,1208,2100.00,N,2100.00,06/01/2014,05/31/2025,No matching filed case
+105-A,"Bell, Jalayla",2BR 2BA,985,1325.00,N,1325.00,12/20/2022,10/31/2026,No matching filed case
+105-B,"Johnson, Maurissa",2BR 2BA,985,1690.00,N,1690.00,10/27/2023,10/26/2026,No matching filed case
+105-C,"Mckinnie, Ta'Mika",2BR 2BA,985,1690.00,N,1690.00,07/17/2020,07/31/2025,No matching filed case
+105-D,"Drake, Jennifer",2BR 2BA,985,1695.00,N,1695.00,06/28/2024,06/30/2026,No matching filed case
+105-E,"Granderson, Darlean",2BR 2BA,985,1695.00,N,1695.00,09/01/2012,08/31/2026,No matching filed case
+105-F,"Wyche, Khalilha Mi'yuana Rolinda",2BR 2BA,985,1346.00,N,1346.00,10/28/2025,10/31/2026,No matching filed case
+105-G,"Davis, Cynthia",2BR 2BA,985,1346.00,N,1346.00,08/13/2025,07/31/2026,No matching filed case
+105-H,"Vaughan, Cynthia",2BR 2BA,985,1690.00,N,1690.00,09/18/2023,09/17/2025,No matching filed case
+105-I,"Harris, Chandra",2BR 2BA,985,1346.00,N,1346.00,08/14/2026,08/13/2027,No matching filed case
+105-J,"Davis, Qy'ashaUnique",2BR 2BA,985,1495.00,N,1495.00,01/21/2026,01/31/2027,No matching filed case
+105-L,"Geter, Marche",2BR 2BA,985,1695.00,N,1695.00,11/12/2018,10/31/2025,No matching filed case
+201-A,"Smith, Barbara",2BR 2BA,985,1325.00,N,1325.00,06/29/2024,06/28/2025,No matching filed case
+201-B,"Johnson, Jamar",2BR 2BA,985,1346.00,N,1346.00,11/14/2025,10/31/2026,No matching filed case
+201-C,"Dowe, Brianna",2BR 2BA,985,1346.00,N,1346.00,07/31/2026,07/31/2027,No matching filed case
+201-E,"Byrd-Smith, Royshawnda Leeshae",2BR 2BA,985,1346.00,N,1346.00,11/12/2025,11/11/2026,No matching filed case
+201-F,"Adkins, Sitaracarmelita",2BR 2BA,985,1560.00,N,1560.00,11/04/2025,10/31/2026,No matching filed case
+201-G,"Foster, Amari",2BR 2BA,985,1695.00,N,1695.00,05/22/2024,05/21/2025,No matching filed case
+201-H,"Barnes, Ebony",2BR 2BA,985,1695.00,N,1695.00,12/27/2019,01/31/2025,No matching filed case
+201-J,"Reese, Bonita",2BR 2BA,985,1690.00,N,1690.00,09/30/2017,08/31/2025,No matching filed case
+201-K,"Boyd, Eltoro",2BR 2BA,985,1346.00,N,1346.00,12/19/2016,11/30/2026,No matching filed case
+201-L,"Starr, Camille N",2BR 2BA,985,1346.00,Y,1346.00,03/04/2026,01/31/2027,No matching filed case
+202-B,"King, Delavonte",2BR 2BA,985,1690.00,N,1690.00,08/22/2024,08/21/2025,No matching filed case
+202-C,"Jackson, Shaunderia",2BR 2BA,985,1346.00,N,1346.00,03/15/2019,03/14/2027,No matching filed case
+202-D,"Alexander, Sharmane D",2BR 2BA,985,1346.00,Y,1346.00,03/10/2026,02/28/2027,No matching filed case
+202-E,"Luten-Yates, Kim Denise",2BR 2BA,985,1346.00,N,1346.00,12/18/2025,11/30/2026,No matching filed case
+202-F,"Booker, Candace Wavekesta",2BR 2BA,985,1346.00,N,1346.00,05/15/2026,04/30/2027,No matching filed case
+202-G,"Ellis, Divinity I`asia",2BR 2BA,985,1346.00,N,1346.00,07/22/2026,07/31/2027,No matching filed case
+202-H,"Smith, Robert",2BR 2BA,985,1346.00,N,1346.00,04/07/2006,03/31/2025,No matching filed case
+202-J,"Cole, Aaron",2BR 2BA,985,1346.00,Y,1346.00,01/03/2025,01/02/2027,No matching filed case
+202-K,"Dishmond, Anjanette Marie",2BR 2BA,985,1566.00,N,1566.00,11/01/2025,10/31/2026,No matching filed case
+202-L,"Fells, Denisha Shantel",2BR 2BA,985,1566.00,N,1566.00,12/23/2025,12/31/2026,No matching filed case
+203-B,"sMITH, AUYANA",3BR 2BA,1208,1482.00,Y,1482.00,02/01/2025,01/31/2026,No matching filed case
+203-C,"Easter, Aaron Dion",3BR 2BA,1208,1518.00,N,1518.00,01/12/2026,12/31/2026,No matching filed case
+203-D,"Jones, Johnaysha Medale",3BR 2BA,1208,1346.00,Y,1346.00,03/16/2026,02/28/2027,No matching filed case
+203-E,"Johnson III, William",3BR 2BA,1208,1482.00,N,1482.00,12/12/2024,11/30/2025,No matching filed case
+203-F,"Ferebee, Davon",3BR 2BA,1208,1518.00,N,1518.00,07/14/2026,06/30/2027,No matching filed case
+203-G,"Watson, Brandon",3BR 2BA,1208,1518.00,N,1518.00,07/19/2019,07/18/2025,No matching filed case
+203-H,"Seaborne, Rakisha",3BR 2BA,1208,1482.00,N,1482.00,02/23/2023,02/22/2025,No matching filed case
+203-I,"Braxton, Brittany Marie",3BR 2BA,1208,1740.00,Y,1740.00,04/29/2026,04/30/2027,No matching filed case
+203-J,"Hollman, Shakinah Renasha",3BR 2BA,1208,1780.00,N,1780.00,04/29/2026,03/31/2027,No matching filed case
+203-L,"Humphrey, Jessica",3BR 2BA,1208,1482.00,N,1482.00,02/11/2017,01/31/2025,No matching filed case
+204-A,"Carroll, April Nancy",3BR 2BA,1208,1700.00,N,1700.00,12/09/2025,11/30/2026,No matching filed case
+204-B,"Harris, Tashane Ambra",3BR 2BA,1208,1518.00,N,1518.00,04/20/2026,04/30/2027,No matching filed case
+204-C,"Hall, Shareeta M",3BR 2BA,1208,2100.00,N,2100.00,06/02/2025,04/30/2026,No matching filed case
+204-D,"Hinton, Juanita Y",3BR 2BA,1208,1518.00,N,1518.00,03/03/2026,02/28/2027,No matching filed case
+204-E,"McNair, Senethea Vontrese",3BR 2BA,1208,1518.00,Y,1518.00,03/03/2026,02/28/2027,No matching filed case
+204-F,"Childs, Tonya",3BR 2BA,1208,1482.00,N,1482.00,03/15/2024,03/14/2025,No matching filed case
+204-G,"Stevenson, Desiree",3BR 2BA,1208,1518.00,Y,1518.00,01/14/2026,12/31/2026,No matching filed case
+204-H,"Creer, DaVon",3BR 2BA,1208,1518.00,N,1518.00,05/15/2026,04/30/2027,No matching filed case
+204-I,"Parker, Melissa",3BR 2BA,1208,1518.00,N,1518.00,10/02/2023,10/01/2026,No matching filed case
+204-J,"Venable, Erin",3BR 2BA,1208,1482.00,N,1482.00,11/11/2025,10/31/2026,No matching filed case
+204-K,"Bartley, LetroyaQ",3BR 2BA,1208,1482.00,N,1482.00,12/20/2024,12/19/2026,No matching filed case
+204-L,"Smith, Ayanah",3BR 2BA,1208,1518.00,Y,1518.00,04/15/2026,04/30/2027,No matching filed case
+301-A,"Jackson, Jenetta",3BR 2BA,1208,2100.00,N,2100.00,04/15/2009,03/31/2026,No matching filed case
+301-B,"Etterson, Rickey",3BR 2BA,1208,1518.00,N,1518.00,03/01/2024,03/31/2026,No matching filed case
+301-C,"Davis, Taliyah",3BR 2BA,1208,1518.00,Y,1518.00,03/01/2026,02/28/2027,No matching filed case
+301-D,"Dabney, Brandon",3BR 2BA,1208,1482.00,N,1482.00,02/22/2021,01/31/2025,No matching filed case
+301-E,"Ludlow, Tunisha",3BR 2BA,1208,1482.00,N,1482.00,11/01/2024,10/31/2025,No matching filed case
+301-F,"McLaughlin, TaQuona",3BR 2BA,1208,1673.00,N,1673.00,03/08/2014,03/31/2027,No matching filed case
+301-G,"Baugh, Chasity Blair",3BR 2BA,1208,1518.00,N,1518.00,07/03/2026,06/30/2027,No matching filed case
+301-H,"Clanton, Sasha Mone",3BR 2BA,1208,2100.00,Y,2100.00,04/07/2026,03/31/2027,No matching filed case
+301-I,"Pegram, Tonya Chambliss",3BR 2BA,1208,1346.00,N,1346.00,12/24/2025,12/31/2026,No matching filed case
+301-J,"Richardson, DuJuan",3BR 2BA,1208,1482.00,N,1482.00,04/27/2022,04/26/2025,No matching filed case
+301-K,"Thomas, Shenequel",3BR 2BA,1208,2028.00,N,2028.00,06/30/2023,06/30/2025,No matching filed case
+301-L,"Leonard, Nija",3BR 2BA,1208,2100.00,N,2100.00,08/25/2023,08/24/2025,No matching filed case
+302-A,"Taylor, Josephine Rene",3BR 2BA,1208,1518.00,Y,1518.00,04/20/2026,03/31/2027,No matching filed case
+302-B,"Wilkins, Cleo Monique",3BR 2BA,1208,1518.00,N,1518.00,02/16/2026,02/15/2027,No matching filed case
+302-C,"Hunt, Timothy Lee",3BR 2BA,1208,1518.00,N,1518.00,11/26/2025,11/30/2026,No matching filed case
+302-D,"Spence, Kristel",3BR 2BA,1208,1518.00,N,1518.00,04/30/2022,04/29/2025,No matching filed case
+302-E,"White-Gee, Mariah Mercedes",3BR 2BA,1208,1518.00,N,1518.00,07/13/2026,06/30/2027,No matching filed case
+302-F,"Starling, Omar R",3BR 2BA,1208,1518.00,N,1518.00,06/20/2025,06/30/2026,No matching filed case
+302-G,"Massenburg, Tenisha",3BR 2BA,1208,1518.00,N,1518.00,04/01/2016,03/31/2026,No matching filed case
+302-H,"Reese, Nichole",3BR 2BA,1208,1482.00,N,1482.00,07/16/2021,07/15/2027,No matching filed case
+302-I,"Green, Shernrika",3BR 2BA,1208,2100.00,N,2100.00,03/01/2024,02/28/2025,No matching filed case
+302-K,"Kellam, Wysaan",3BR 2BA,1208,1518.00,N,1518.00,07/08/2026,06/30/2027,No matching filed case
+302-L,"Pettiford, Gloria",3BR 2BA,1208,1518.00,N,1518.00,07/01/2022,06/30/2027,No matching filed case
+303-A,"Redwine, Shelly Y",2BR 2BA,985,1690.00,Y,1690.00,03/03/2025,03/31/2026,No matching filed case
+303-B,"Brent, Ashunta",2BR 2BA,985,1346.00,N,1346.00,02/22/2019,02/21/2025,No matching filed case
+303-C,"Brooks, Savalas",2BR 2BA,985,1695.00,N,1695.00,01/31/2020,01/31/2027,No matching filed case
+303-D,"Williams, Jada Vachane",2BR 2BA,985,1346.00,N,1346.00,06/30/2026,06/30/2027,No matching filed case
+303-E,"Davis, Sharon",2BR 2BA,985,1325.00,N,1325.00,08/29/2014,07/31/2027,No matching filed case
+303-F,"Jones, Jadecca S",2BR 2BA,985,1346.00,N,1346.00,12/12/2025,11/30/2026,No matching filed case
+303-G,"Boone, Karen",2BR 2BA,985,1325.00,N,1325.00,10/03/2016,09/30/2026,No matching filed case
+303-H,"Johnson, Gloria",2BR 2BA,985,1690.00,N,1690.00,02/06/2006,02/05/2027,No matching filed case
+303-I,"Barrett, Kaiyla",2BR 2BA,985,1690.00,N,1690.00,11/01/2025,10/31/2026,No matching filed case
+303-J,"Fells, Rickshell S",2BR 2BA,985,1325.00,N,1325.00,04/25/2025,04/30/2026,No matching filed case
+303-L,"Lawrence, Larita N",2BR 2BA,985,1346.00,N,1346.00,05/23/2025,05/31/2026,No matching filed case
+304-A,"Jones, Jerica",3BR 2BA,1208,1482.00,N,1482.00,12/20/2024,12/31/2025,No matching filed case
+304-C,"Brooks, Lakia",3BR 2BA,1208,1518.00,N,1518.00,08/14/2026,08/13/2027,No matching filed case
+304-D,"Agard, Linden",3BR 2BA,1208,1518.00,N,1518.00,08/16/2024,07/31/2026,No matching filed case
+304-E,"Green, Joseph",3BR 2BA,1208,1482.00,N,1482.00,09/23/2022,08/31/2026,No matching filed case
+304-F,"Johnson, Jasmine",3BR 2BA,1208,1518.00,N,1518.00,06/20/2023,06/19/2025,No matching filed case
+304-G,"Frazier, Linda",3BR 2BA,1208,1695.00,N,1695.00,03/01/2008,02/28/2026,No matching filed case
+304-H,"Dobson, Sabrina",3BR 2BA,1208,1482.00,N,1482.00,01/03/2025,01/02/2026,No matching filed case
+304-I,"Brown, MarquishaP",3BR 2BA,1208,1518.00,N,1518.00,09/15/2025,08/31/2026,No matching filed case
+304-J,"Kluttz, Darylmoni Taylor",3BR 2BA,1208,1518.00,N,1518.00,05/06/2026,04/30/2027,No matching filed case
+304-K,"Stallworth Fowlkes, Jalen Alexander",3BR 2BA,1208,1518.00,N,1518.00,07/01/2026,06/30/2027,No matching filed case
+304-L,"Medina, Gabriele Stacy",3BR 2BA,1208,1518.00,N,1518.00,04/23/2026,04/30/2027,No matching filed case
+402-A,"Desmore, Na'Chelle",2BR 2BA,985,1346.00,Y,1346.00,04/14/2026,03/31/2027,No matching filed case
+402-B,"Tolson, Vonda",2BR 2BA,985,1325.00,N,1325.00,10/04/2022,10/03/2026,No matching filed case
+402-C,"Golden, Willie Lee",2BR 2BA,985,1346.00,N,1346.00,02/16/2026,01/31/2027,No matching filed case
+402-D,"Jones, Jr, Calvin Edward",2BR 2BA,985,1346.00,Y,1346.00,03/06/2026,02/28/2027,No matching filed case
+402-E,"Newton, Precious Keyera",2BR 2BA,985,1346.00,N,1346.00,07/10/2026,06/30/2027,No matching filed case
+402-J,"Day, Ebony A",2BR 2BA,985,1325.00,N,1325.00,05/09/2025,04/30/2026,No matching filed case
+402-K,"Stover, Talisha Elizabeth",2BR 2BA,985,1346.00,N,1346.00,04/10/2026,03/31/2027,No matching filed case
+501-A,"Ardey, Denise Marie",3BR 2BA,1208,1518.00,Y,1518.00,04/03/2026,03/31/2027,No matching filed case
+501-B,"Brown, Gerald Alex",3BR 2BA,1208,1518.00,N,1518.00,10/01/2025,09/30/2026,No matching filed case
+501-C,"Willis, Lois",3BR 2BA,1208,1482.00,N,1482.00,08/04/2023,07/31/2026,No matching filed case
+501-D,"Wyatt, Marketta",3BR 2BA,1208,1518.00,N,1518.00,09/01/2016,08/31/2025,No matching filed case
+501-E,"Harris, Lavondee V",3BR 2BA,1208,1518.00,Y,1518.00,06/23/2025,06/30/2026,No matching filed case
+501-F,"Blizzard-Parham, Latoya Ashley",3BR 2BA,1208,1518.00,N,1518.00,11/03/2025,10/31/2026,No matching filed case
+501-G,"Serrano Vizcaino, Richerson A",3BR 2BA,1208,1518.00,N,1518.00,11/01/2025,10/31/2026,No matching filed case
+501-H,"Jordan, Brenda Michelle",3BR 2BA,1208,1518.00,Y,1518.00,03/01/2026,02/28/2027,No matching filed case
+501-I,"Townes, Maya Gladys",3BR 2BA,1208,1518.00,N,1518.00,06/30/2026,06/30/2027,No matching filed case
+501-J,"Toomer, Cheryl",3BR 2BA,1208,1482.00,N,1482.00,10/01/2005,09/30/2026,No matching filed case
+501-K,"Whitaker, Crystal",3BR 2BA,1208,1754.00,Y,1754.00,02/11/2026,02/10/2027,No matching filed case
+501-L,"Jackson, Vermel",3BR 2BA,1208,2100.00,N,2100.00,07/01/2023,06/30/2025,No matching filed case

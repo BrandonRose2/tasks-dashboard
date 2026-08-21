@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-21T12:51:43.166114Z",
+  "task": {
+    "id": "S78UhNJYVgE35riQvs8Y6f",
+    "title": "How to Search Virginia Court for Walnut Hill Evictions",
+    "status": "waiting",
+    "type": "agent_subtask",
+    "agent_profile": "manus-1.6",
+    "credits_used": 0,
+    "created_at": "1787085337",
+    "updated_at": "1787085755",
+    "task_url": "https://manus.im/app/S78UhNJYVgE35riQvs8Y6f",
+    "message_count": 0
+  },
+  "event_count": 5,
+  "events": [
+    {
+      "id": "6H6sYIoyN99Hpf9CBsFdLm",
+      "timestamp": "1787085337453",
+      "type": "user_message",
+      "user_message": {
+        "content": "Go to the Virginia General District Court Online Case Information System at https://eapps.courts.state.va.us/gdcourts/welcomePage.do\n\nSearch for all eviction/unlawful detainer civil cases related to the property \"Walnut Hill\" at 102 Lieutenants Run Drive, Petersburg, VA 23805.\n\nSteps:\n1. Navigate to the site\n2. Select \"Civil\" case type\n3. Select locality: Petersburg (it's a city, not a county)\n4. Search by plaintiff name: try \"Walnut Hill\", \"Granite Walnut Hill\", \"Granite Property Management\", \"Granite Associates\", or similar variations\n5. Also try searching the new Virginia OCIS system at https://eapps.courts.state.va.us/ocis/landing if the old system doesn't work\n6. Collect all eviction/unlawful detainer cases found — case numbers, defendant names, filing dates, status, hearing dates\n7. Compile everything into a clear list/report\n\nSave the results to /home/ubuntu/walnut_hill_evictions.md",
+        "message_type": "text"
+      }
+    },
+    {
+      "id": "aLmOnEpeVrdXA0M5Y4MA3w-1",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1787085338007",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "I’m starting the Virginia court-record search and will compile the matching unlawful-detainer and eviction case details into the requested report."
+      },
+      "id": "sso2USWMCrXPbypXcO48Rz",
+      "timestamp": "1787085353216",
+      "type": "assistant_message"
+    },
+    {
+      "assistant_message": {
+        "content": "The legacy court site opened and Petersburg City was confirmed, but its required search script is being blocked by a Cloudflare challenge, so its form cannot submit a valid query in this session. I’m proceeding with the replacement Virginia OCIS system and will clearly note the legacy-system limitation in the report."
+      },
+      "id": "oBXveLpZACzRczcLYbUs7L",
+      "timestamp": "1787085604498",
+      "type": "assistant_message"
+    },
+    {
+      "id": "I962HtBJNl0cVX8hZnL0zg",
+      "status_update": {
+        "agent_status": "waiting",
+        "brief": "Manus is waiting for your reply",
+        "description": "Manus will continue working after your reply",
+        "status_detail": {
+          "confirm_input_schema": {
+            "properties": {
+              "action": {
+                "enum": [
+                  "apply",
+                  "skip"
+                ],
+                "type": "string"
+              },
+              "applyScope": {
+                "enum": [
+                  "current_task",
+                  "current_and_future",
+                  "current_future_and_project"
+                ],
+                "type": "string"
+              },
+              "connectors": {
+                "items": {
+                  "properties": {
+                    "allowedAccountUids": {
+                      "items": {
+                        "type": "string"
+                      },
+                      "type": "array"
+                    },
+                    "targetState": {
+                      "enum": [
+                        "enable",
+                        "disable"
+                      ],
+                      "type": "string"
+                    },
+                    "uid": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "uid",
+                    "targetState"
+                  ],
+                  "type": "object"
+                },
+                "type": "array"
+              }
+            },
+            "required": [
+              "action"
+            ],
+            "type": "object"
+          },
+          "waiting_for_event_id": "MqKdsHtJXGTrxHCHvSuTSL",
+          "waiting_for_event_type": "selfConfigSaveAction"
+        }
+      },
+      "timestamp": "1787085755743",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

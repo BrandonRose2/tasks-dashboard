@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-21T12:52:01.634435Z",
+  "task": {
+    "id": "nOV5D710505i5GqfVKXzxy",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786743100",
+    "updated_at": "1786743105",
+    "task_url": "https://manus.im/app/nOV5D710505i5GqfVKXzxy",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "4Iz2RvctapZvHzRrduAy3e",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786743100811",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Successfully generated the design brief for the Formal legal practice invoice archetype."
+      },
+      "id": "wnNbwpWUhgXp4LRIswSNR2",
+      "timestamp": "1786743105391",
+      "type": "assistant_message"
+    },
+    {
+      "id": "EcXVPqQCfQo97RaNRo2LEX",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786743105528",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

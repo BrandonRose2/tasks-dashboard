@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-21T12:51:32.401978Z",
+  "task": {
+    "id": "d4xnCTEdqDE9BmtFBJQk94",
+    "title": "Is This Sale Legit or Still Ongoing?",
+    "status": "waiting",
+    "type": "standard",
+    "agent_profile": "manus-1.6",
+    "credits_used": 0,
+    "created_at": "1787128316",
+    "updated_at": "1787128321",
+    "task_url": "https://manus.im/app/d4xnCTEdqDE9BmtFBJQk94",
+    "message_count": 0
+  },
+  "event_count": 4,
+  "events": [
+    {
+      "id": "5TntfdRKap4QoWM6oLiquT",
+      "timestamp": "1787128316572",
+      "type": "user_message",
+      "user_message": {
+        "content": "See if this is legit and it’s sale is stop going n ",
+        "message_type": "text"
+      }
+    },
+    {
+      "id": "J0b7u45b3u49nqiOmx6ZDO-1",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1787128317128",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Please send the link, screenshot, email, or listing you want checked. Also, do you mean you want to know whether **the sale is still ongoing**?"
+      },
+      "id": "fNjTf24Xc0AzexRSGYfBOm",
+      "timestamp": "1787128321405",
+      "type": "assistant_message"
+    },
+    {
+      "id": "LiprOkLzWptigzjS2rSuCG",
+      "status_update": {
+        "agent_status": "waiting",
+        "brief": "Manus is waiting for your reply",
+        "description": "Manus will continue working after your reply",
+        "status_detail": {
+          "waiting_description": "Please send the link, screenshot, email, or listing you want checked. Also, do you mean you want to know whether **the sale is still ongoing**?",
+          "waiting_for_event_id": "fNjTf24Xc0AzexRSGYfBOm",
+          "waiting_for_event_type": "messageAskUser"
+        }
+      },
+      "timestamp": "1787128321607",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

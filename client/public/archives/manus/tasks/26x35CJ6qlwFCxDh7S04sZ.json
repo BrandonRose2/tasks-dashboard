@@ -1,0 +1,112 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-21T12:51:32.952923Z",
+  "task": {
+    "id": "26x35CJ6qlwFCxDh7S04sZ",
+    "title": "Summarize Today's Yardi Training Recordings",
+    "status": "waiting",
+    "type": "standard",
+    "agent_profile": "manus-1.6",
+    "credits_used": 0,
+    "created_at": "1787097469",
+    "updated_at": "1787097576",
+    "task_url": "https://manus.im/app/26x35CJ6qlwFCxDh7S04sZ",
+    "message_count": 0
+  },
+  "event_count": 9,
+  "events": [
+    {
+      "id": "XvYf3wqNQx7dWBT6lsgLb4",
+      "timestamp": "1787097469318",
+      "type": "user_message",
+      "user_message": {
+        "content": "these recordings are from todays Yardi Training Day 1 : Please listen to them all and summarize, give details on subjects that were discussed and topics that were covered. ",
+        "message_type": "text"
+      }
+    },
+    {
+      "id": "LhcIcQ8paL8BLv9XAf8Mcl-1",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1787097470020",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "I can prepare a detailed Day 1 training summary, but the eight WAV recordings did not upload successfully and are not available to review. Please re-upload the audio files—ideally as a single ZIP file if they are large—or share an accessible download link. Once received, I will transcribe them and deliver a consolidated, time-ordered summary of the Yardi subjects, detailed discussion points, workflows, and action items."
+      },
+      "id": "3pLd0yfR9mTyBpUSqgStfL",
+      "timestamp": "1787097473363",
+      "type": "assistant_message"
+    },
+    {
+      "id": "zrlAlcMNKyulUFU5ne5koE",
+      "status_update": {
+        "agent_status": "waiting",
+        "brief": "Manus is waiting for your reply",
+        "description": "Manus will continue working after your reply",
+        "status_detail": {
+          "waiting_description": "I can prepare a detailed Day 1 training summary, but the eight WAV recordings did not upload successfully and are not available to review. Please re-upload the audio files—ideally as a single ZIP file if they are large—or share an accessible download link. Once received, I will transcribe them and deliver a consolidated, time-ordered summary of the Yardi subjects, detailed discussion points, workflows, and action items.",
+          "waiting_for_event_id": "3pLd0yfR9mTyBpUSqgStfL",
+          "waiting_for_event_type": "messageAskUser"
+        }
+      },
+      "timestamp": "1787097473556",
+      "type": "status_update"
+    },
+    {
+      "id": "9OaUPCqC2oGIPQXVNQ0HSw",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1787097533600",
+      "type": "status_update"
+    },
+    {
+      "id": "D5DYrxDDMdo2UmCbuKNOBU",
+      "timestamp": "1787097533704",
+      "type": "user_message",
+      "user_message": {
+        "content": "continue",
+        "message_type": "text"
+      }
+    },
+    {
+      "assistant_message": {
+        "content": "I’ll proceed by checking whether any of the recordings are available in the workspace despite the upload warnings."
+      },
+      "id": "KRQRfN0jiuuvYBgURG1kaa",
+      "timestamp": "1787097537308",
+      "type": "assistant_message"
+    },
+    {
+      "assistant_message": {
+        "content": "I checked the available workspace, and none of the eight WAV files is present; the original upload failures therefore prevented transcription. Please upload the recordings again, preferably bundled into one ZIP archive, or provide a download link. I will then transcribe all sessions and provide the requested detailed, consolidated Day 1 Yardi training summary."
+      },
+      "id": "0vUtFT0F4ruBXLrqlfihcy",
+      "timestamp": "1787097576119",
+      "type": "assistant_message"
+    },
+    {
+      "id": "EeVwnMtEwLdFZAQGhfSEEh",
+      "status_update": {
+        "agent_status": "waiting",
+        "brief": "Manus is waiting for your reply",
+        "description": "Manus will continue working after your reply",
+        "status_detail": {
+          "waiting_description": "I checked the available workspace, and none of the eight WAV files is present; the original upload failures therefore prevented transcription. Please upload the recordings again, preferably bundled into one ZIP archive, or provide a download link. I will then transcribe all sessions and provide the requested detailed, consolidated Day 1 Yardi training summary.",
+          "waiting_for_event_id": "0vUtFT0F4ruBXLrqlfihcy",
+          "waiting_for_event_type": "messageAskUser"
+        }
+      },
+      "timestamp": "1787097576305",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

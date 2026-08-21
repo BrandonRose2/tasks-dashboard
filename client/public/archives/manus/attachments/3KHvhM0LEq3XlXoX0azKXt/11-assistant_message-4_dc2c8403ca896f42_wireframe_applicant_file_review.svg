@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1366" height="768" viewBox="0 0 1366 768">
+  <style>
+    .bg { fill:#F6F8FA; } .top { fill:#FFFFFF; } .side { fill:#F8FAFC; } .panel { fill:#FFFFFF; stroke:#CBD5E1; stroke-width:1; } .line { stroke:#CBD5E1; stroke-width:1; } .header { font:700 24px Arial, sans-serif; fill:#102A43; } .title { font:700 16px Arial, sans-serif; fill:#102A43; } .body { font:14px Arial, sans-serif; fill:#486581; } .small { font:12px Arial, sans-serif; fill:#627D98; } .green { fill:#E6F7EE; stroke:#2F855A; } .amber { fill:#FFF7E6; stroke:#D69E2E; } .red { fill:#FEF2F2; stroke:#C53030; } .blue { fill:#EAF2FF; stroke:#2B6CB0; }
+  </style>
+  <rect class="bg" width="1366" height="768"/>
+  <rect class="top" x="0" y="0" width="1366" height="102"/>
+  <line x1="0" x2="1366" y1="102" y2="102" class="line"/>
+  <text x="32" y="39" class="body">‹ Back to queue</text>
+  <text x="32" y="78" class="header">A. Johnson</text>
+  <text x="210" y="75" class="body">Walnut Grove · Unit 204 · Conventional</text>
+  <rect class="red" x="846" y="52" width="278" height="31" rx="15"/><text x="863" y="73" class="small" fill="#9B1C1C">BLOCKED — rental verification incomplete</text>
+  <rect x="1142" y="46" width="79" height="36" rx="5" fill="#FFFFFF" stroke="#94A3B8"/><text x="1164" y="69" class="body">Save</text>
+  <rect x="1231" y="46" width="112" height="36" rx="5" fill="#CBD5E1"/><text x="1245" y="69" class="small" fill="#486581">Submit review</text>
+  <rect class="side" x="0" y="102" width="230" height="666"/>
+  <text x="28" y="142" class="small">FILE SUMMARY</text>
+  <rect x="12" y="154" width="206" height="37" rx="5" fill="#DCEBFF"/><text x="30" y="178" class="body" fill="#1E40AF">Overview</text>
+  <text x="30" y="226" class="body">Income</text><text x="30" y="274" class="body">Employment</text><text x="30" y="322" class="body">Rental</text><text x="30" y="370" class="body">Screening</text><text x="30" y="418" class="body">Documents</text><text x="30" y="466" class="body">Activity</text>
+  <text x="270" y="146" class="header">File readiness</text><text x="1180" y="146" class="small">Policy: Conventional v1.3</text>
+  <rect class="panel" x="270" y="172" width="388" height="132" rx="8"/>
+  <text x="294" y="207" class="body">READINESS SUMMARY</text><text x="294" y="262" class="header">72%</text><text x="388" y="260" class="body">5 of 7 checks completed</text><text x="294" y="286" class="small">1 blocked · 1 attention item</text>
+  <circle cx="578" cy="242" r="42" fill="none" stroke="#D9E2EC" stroke-width="12"/><path d="M578 200 A42 42 0 1 1 543 266" fill="none" stroke="#2B6CB0" stroke-width="12"/>
+  <rect class="panel" x="682" y="172" width="630" height="132" rx="8"/>
+  <text x="708" y="207" class="body">NEXT REQUIRED ACTION</text><text x="708" y="240" class="title">Verify prior landlord</text><text x="708" y="264" class="body">Attempt 1 logged. A second attempt is required before exception routing.</text>
+  <rect x="708" y="278" width="87" height="32" rx="5" fill="#1D4ED8"/><text x="724" y="299" class="small" fill="#FFFFFF">Log call</text>
+  <rect x="806" y="278" width="120" height="32" rx="5" fill="#FFFFFF" stroke="#94A3B8"/><text x="819" y="299" class="small">Send template</text>
+  <rect x="937" y="278" width="120" height="32" rx="5" fill="#FFFFFF" stroke="#94A3B8"/><text x="951" y="299" class="small">Upload evidence</text>
+  <text x="270" y="352" class="title">Review checklist</text>
+  <rect class="panel" x="270" y="372" width="1042" height="232" rx="8"/>
+  <rect x="270" y="372" width="1042" height="41" rx="8" fill="#F8FAFC"/>
+  <text x="294" y="398" class="small">REQUIREMENT</text><text x="606" y="398" class="small">STATUS</text><text x="761" y="398" class="small">EVIDENCE</text><text x="1092" y="398" class="small">ACTION</text>
+  <line x1="270" x2="1312" y1="451" y2="451" class="line"/><line x1="270" x2="1312" y1="489" y2="489" class="line"/><line x1="270" x2="1312" y1="527" y2="527" class="line"/><line x1="270" x2="1312" y1="565" y2="565" class="line"/>
+  <text x="294" y="438" class="body">Income-to-rent ≥ 2.5x</text><rect class="green" x="606" y="420" width="94" height="24" rx="12"/><text x="622" y="436" class="small" fill="#276749">COMPLETE</text><text x="761" y="438" class="body">3 pay stubs</text><text x="1092" y="438" class="small" fill="#1D4ED8">View</text>
+  <text x="294" y="476" class="body">Current job tenure</text><rect class="green" x="606" y="458" width="94" height="24" rx="12"/><text x="622" y="474" class="small" fill="#276749">COMPLETE</text><text x="761" y="476" class="body">Employer verified</text><text x="1092" y="476" class="small" fill="#1D4ED8">View log</text>
+  <text x="294" y="514" class="body">Prior employment</text><rect class="amber" x="606" y="496" width="97" height="24" rx="12"/><text x="620" y="512" class="small" fill="#975A16">ATTENTION</text><text x="761" y="514" class="body">Gap documented</text><text x="1092" y="514" class="small" fill="#1D4ED8">Add note</text>
+  <text x="294" y="552" class="body">Prior rental history</text><rect class="red" x="606" y="534" width="86" height="24" rx="12"/><text x="622" y="550" class="small" fill="#9B1C1C">BLOCKED</text><text x="761" y="552" class="body">Attempt #1 logged</text><text x="1092" y="552" class="small" fill="#1D4ED8">Log follow-up</text>
+  <text x="294" y="590" class="body">Program documents</text><rect class="green" x="606" y="572" width="94" height="24" rx="12"/><text x="622" y="588" class="small" fill="#276749">COMPLETE</text><text x="761" y="590" class="body">4 files</text><text x="1092" y="590" class="small" fill="#1D4ED8">View</text>
+  <text x="270" y="650" class="title">Activity timeline</text>
+  <rect class="panel" x="270" y="668" width="1042" height="70" rx="8"/>
+  <circle cx="304" cy="700" r="7" fill="#2B6CB0"/><text x="324" y="705" class="body">10:42  Jordan uploaded pay stubs</text><circle cx="742" cy="700" r="7" fill="#D69E2E"/><text x="762" y="705" class="body">09:20  Jordan logged landlord call</text>
+</svg>

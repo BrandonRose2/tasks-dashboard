@@ -1,0 +1,10 @@
+{
+  "source_entry_count": 50,
+  "target_entry_count": 50,
+  "renamed_entry_count": 49,
+  "target_integrity_error": null,
+  "all_expected_names_present": true,
+  "target_has_redacted_name": false,
+  "content_mismatches": [],
+  "passed": true
+}

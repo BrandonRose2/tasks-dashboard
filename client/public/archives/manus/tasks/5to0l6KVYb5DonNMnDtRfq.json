@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-21T12:52:04.664498Z",
+  "task": {
+    "id": "5to0l6KVYb5DonNMnDtRfq",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786743100",
+    "updated_at": "1786743106",
+    "task_url": "https://manus.im/app/5to0l6KVYb5DonNMnDtRfq",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "Sf5wq6j5koQBuULkBCUL9V",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786743101086",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "The industrial work-order vendor invoice archetype design brief has been successfully generated."
+      },
+      "id": "xIJtaFJWxJknFVeHQ5JNeI",
+      "timestamp": "1786743106391",
+      "type": "assistant_message"
+    },
+    {
+      "id": "k8GvFdAoxFU9gnzHlpXhrg",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786743106521",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

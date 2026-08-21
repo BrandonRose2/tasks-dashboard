@@ -1,0 +1,169 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-21T12:51:00.485755Z",
+  "task": {
+    "id": "IVdnttk1SlVKeuZaGPIvud",
+    "title": "Estimate and Repair Options for 2018 Ford Raptor Damage",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6",
+    "credits_used": 2,
+    "created_at": "1787297227",
+    "updated_at": "1787297705",
+    "task_url": "https://manus.im/app/IVdnttk1SlVKeuZaGPIvud",
+    "message_count": 0
+  },
+  "event_count": 12,
+  "events": [
+    {
+      "id": "J5HFZ0NcIZ5tg34eESvNbW",
+      "timestamp": "1787297227189",
+      "type": "user_message",
+      "user_message": {
+        "attachments": [
+          {
+            "content_type": "video/quicktime",
+            "filename": "pasted_file_C6loUH_IMG_2035.MOV",
+            "type": "file",
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-Ns7lj0n5mbFr8FdeXwxvqd_na1fn_cGFzdGVkX2ZpbGVfQzZsb1VIX0lNR18yMDM1.MOV?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1OczdsajBuNW1iRnI4RmRlWHd4dnFkX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZRelpzYjFWSVgwbE5SMTh5TURNMS5NT1YiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODk0MzA0MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIEl~RP6cbV6HM7uBQvkz3BuPCfoOfgHmaeiZggmGVCWkAiEAzY8N0QJI4lQK3wtkD-td7O~BM3I2AQdaqvhSLfuiDQA_"
+          }
+        ],
+        "content": "I was just now leaving a restaurant and i make too sharp of a turn and clipped the side of my passenger side door. I sent a video of it.  To your best and give me an estimate of how much it would take to repair it and research the best rated most affordable body shops to do the work. 2018 Ford Raptor ",
+        "message_type": "text"
+      }
+    },
+    {
+      "id": "ZDYB3fcyiLApQfYybBbOYr-1",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1787297228179",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "I’m sorry that happened. I’ll review the video to estimate the likely repair scope and then identify well-rated, cost-conscious body shops nearby."
+      },
+      "id": "FFT9NSbHZvQEAmaoKnQtlV",
+      "timestamp": "1787297232398",
+      "type": "assistant_message"
+    },
+    {
+      "assistant_message": {
+        "content": "The video shows more than a surface scuff: the passenger-door outer panel appears **torn/punctured**, with deep abrasion, paint loss, and a crease. That generally means a proper repair will involve replacing the door skin or possibly the complete door shell—not paintless dent repair. Ford specifically recommends aluminum-capable certified collision facilities for this vehicle class.\n\nTo give you a location-accurate price range and a ranked shortlist of the best-rated, most reasonably priced shops, please send the **city or ZIP code**. If you can, also confirm whether this is the **front or rear passenger door** and whether the door opens/closes/latches and window works normally."
+      },
+      "id": "JJk5SUBm6My7QElJ8BN5SF",
+      "timestamp": "1787297416116",
+      "type": "assistant_message"
+    },
+    {
+      "id": "c7psOWcdcoxls9VD1OkwcZ",
+      "status_update": {
+        "agent_status": "waiting",
+        "brief": "Manus is waiting for your reply",
+        "description": "Manus will continue working after your reply",
+        "status_detail": {
+          "waiting_description": "The video shows more than a surface scuff: the passenger-door outer panel appears **torn/punctured**, with deep abrasion, paint loss, and a crease. That generally means a proper repair will involve replacing the door skin or possibly the complete door shell—not paintless dent repair. Ford specifically recommends aluminum-capable certified collision facilities for this vehicle class.\n\nTo give you a location-accurate price range and a ranked shortlist of the best-rated, most reasonably priced shops, please send the **city or ZIP code**. If you can, also confirm whether this is the **front or rear passenger door** and whether the door opens/closes/latches and window works normally.",
+          "waiting_for_event_id": "JJk5SUBm6My7QElJ8BN5SF",
+          "waiting_for_event_type": "messageAskUser"
+        }
+      },
+      "timestamp": "1787297416345",
+      "type": "status_update"
+    },
+    {
+      "id": "EnIRIbMy9CAdQNORNwKZqT",
+      "timestamp": "1787297452033",
+      "type": "user_message",
+      "user_message": {
+        "content": "91403",
+        "message_type": "text"
+      }
+    },
+    {
+      "id": "seJmFWPxvqiuk1oNmkQctH",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1787297452145",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Thank you—**91403 (Sherman Oaks area)** is enough for me to locate appropriate shops. I’ll now refine the estimate for the visible door damage and compare nearby highly rated, aluminum-capable collision centers for value."
+      },
+      "id": "l5KoE7ZaV810DCNsJmSv9b",
+      "timestamp": "1787297456609",
+      "type": "assistant_message"
+    },
+    {
+      "id": "fCKFIJJnaNqycqT7vmGTZn",
+      "timestamp": "1787297488120",
+      "type": "user_message",
+      "user_message": {
+        "content": "its the front passenger door ",
+        "message_type": "text"
+      }
+    },
+    {
+      "assistant_message": {
+        "content": "That confirms the affected panel is the **front passenger door**. I’m using that to tighten the parts and labor estimate and to screen nearby shops that are appropriate for an aluminum-bodied Raptor."
+      },
+      "id": "830C8vvp9KXpgt10jaLPtA",
+      "timestamp": "1787297491976",
+      "type": "assistant_message"
+    },
+    {
+      "assistant_message": {
+        "attachments": [
+          {
+            "content_type": "text/markdown; charset=utf-8",
+            "filename": "2018_ford_raptor_front_door_repair_assessment.md",
+            "type": "file",
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/IVdnttk1SlVKeuZaGPIvud/sandbox/BkoyWAIWNsI0PxMFG0TdvG_1787297704339_na1fn_L2hvbWUvdWJ1bnR1LzIwMThfZm9yZF9yYXB0b3JfZnJvbnRfZG9vcl9yZXBhaXJfYXNzZXNzbWVudA.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvSVZkbnR0azFTbFZLZXVaYUdQSXZ1ZC9zYW5kYm94L0Jrb3lXQUlXTnNJMFB4TUZHMFRkdkdfMTc4NzI5NzcwNDMzOV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTHpJd01UaGZabTl5WkY5eVlYQjBiM0pmWm5KdmJuUmZaRzl2Y2w5eVpYQmhhWEpmWVhOelpYTnpiV1Z1ZEEubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODk0MzA0MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDYwhq8Eymqa3yMx5sJRJ8p981yva2SY4wkmEKi0hRqBgIhALzpIdZ6x562DCgxSOkwKFlGJmIaUpVGSgGo7ZdXNdJO"
+          }
+        ],
+        "content": "I reviewed the video and researched the Sherman Oaks-area options. The visible **torn front passenger door panel** needs a proper aluminum-capable collision repair—not a simple dent or scratch repair. My practical self-pay estimate is **$4,500–$7,500**, with **$5,500–$6,500** a realistic target if no hidden damage is found.\n\nI recommend getting matching written estimates from **Regal Repair** first for the strongest Ford/aluminum credentials, then **Ventura Collision Center** for proximity and rating evidence, with **Certified Collision Craft** as the nearby value comparison. The attached assessment includes the repair reasoning, transparent cost model, addresses/contact details, sources, and a ready-to-send quote request.\n\nDo not pull or bend the torn metal; if the door does not latch or the window/locks act abnormally, have it inspected promptly."
+      },
+      "id": "IvpL5D0H0ptkoEzOc4WINv",
+      "timestamp": "1787297704836",
+      "type": "assistant_message"
+    },
+    {
+      "id": "iJcm8afQG0Rw2tV4b8qfT1",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1787297705085",
+      "type": "status_update"
+    }
+  ],
+  "attachments": [
+    {
+      "event_index": 0,
+      "type": "file",
+      "filename": "pasted_file_C6loUH_IMG_2035.MOV",
+      "content_type": "video/quicktime",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-Ns7lj0n5mbFr8FdeXwxvqd_na1fn_cGFzdGVkX2ZpbGVfQzZsb1VIX0lNR18yMDM1.MOV?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1OczdsajBuNW1iRnI4RmRlWHd4dnFkX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZRelpzYjFWSVgwbE5SMTh5TURNMS5NT1YiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODk0MzA0MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIEl~RP6cbV6HM7uBQvkz3BuPCfoOfgHmaeiZggmGVCWkAiEAzY8N0QJI4lQK3wtkD-td7O~BM3I2AQdaqvhSLfuiDQA_",
+      "status": "archived",
+      "bytes": 26749910,
+      "archive_path": "attachments/IVdnttk1SlVKeuZaGPIvud/0-user_message-0_510c005bdaf09f07_pasted_file_C6loUH_IMG_2035.MOV"
+    },
+    {
+      "event_index": 10,
+      "type": "file",
+      "filename": "2018_ford_raptor_front_door_repair_assessment.md",
+      "content_type": "text/markdown; charset=utf-8",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/IVdnttk1SlVKeuZaGPIvud/sandbox/BkoyWAIWNsI0PxMFG0TdvG_1787297704339_na1fn_L2hvbWUvdWJ1bnR1LzIwMThfZm9yZF9yYXB0b3JfZnJvbnRfZG9vcl9yZXBhaXJfYXNzZXNzbWVudA.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvSVZkbnR0azFTbFZLZXVaYUdQSXZ1ZC9zYW5kYm94L0Jrb3lXQUlXTnNJMFB4TUZHMFRkdkdfMTc4NzI5NzcwNDMzOV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTHpJd01UaGZabTl5WkY5eVlYQjBiM0pmWm5KdmJuUmZaRzl2Y2w5eVpYQmhhWEpmWVhOelpYTnpiV1Z1ZEEubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODk0MzA0MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDYwhq8Eymqa3yMx5sJRJ8p981yva2SY4wkmEKi0hRqBgIhALzpIdZ6x562DCgxSOkwKFlGJmIaUpVGSgGo7ZdXNdJO",
+      "status": "archived",
+      "bytes": 10517,
+      "archive_path": "attachments/IVdnttk1SlVKeuZaGPIvud/10-assistant_message-0_89183ea6bc2d7da4_2018_ford_raptor_front_door_repair_assessment.md"
+    }
+  ]
+}

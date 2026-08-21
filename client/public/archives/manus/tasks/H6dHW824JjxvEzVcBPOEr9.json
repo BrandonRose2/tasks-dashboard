@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-21T12:51:50.931934Z",
+  "task": {
+    "id": "H6dHW824JjxvEzVcBPOEr9",
+    "title": "Create a 5-8 Second Hummingbird Video with Motion",
+    "status": "stopped",
+    "type": "agent_subtask",
+    "agent_profile": "manus-1.6",
+    "credits_used": 0,
+    "created_at": "1786995664",
+    "updated_at": "1786995863",
+    "task_url": "https://manus.im/app/H6dHW824JjxvEzVcBPOEr9",
+    "message_count": 0
+  },
+  "event_count": 5,
+  "events": [
+    {
+      "id": "NqmuDsaz5qLgforSCkgPJq",
+      "timestamp": "1786995664522",
+      "type": "user_message",
+      "user_message": {
+        "attachments": [
+          {
+            "content_type": "image/png",
+            "filename": "03_crystalline_hummingbird.png",
+            "type": "image",
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/BzDwXqRNirEwNgcIPRstwB_1786995664174_na1fn_L2hvbWUvdWJ1bnR1LzAzX2NyeXN0YWxsaW5lX2h1bW1pbmdiaXJk.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L0J6RHdYcVJOaXJFd05nY0lQUnN0d0JfMTc4Njk5NTY2NDE3NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTHpBelgyTnllWE4wWVd4c2FXNWxYMmgxYlcxcGJtZGlhWEprLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIAy~EsYKOcURi06Tue0VRESXFaQeDlnRUA1T~tH6ia53AiEAqirVqWA7ZSibEvRzR4FhKTC8-h48AnzEPDQMWM0H~WQ_"
+          }
+        ],
+        "content": "Generate a short video (5-8 seconds) using the attached crystalline hummingbird image as the reference/starting frame. The video should show the hummingbird hovering in motion — wings fluttering rapidly with rainbow light refracting through its translucent glass-like wings, slight body movement as it hovers near a flower, with a soft bokeh background. Make it look like a real video someone filmed of this magical bird — smooth, natural hovering motion. Save the output video to /home/ubuntu/crystalline_hummingbird_video.mp4",
+        "message_type": "text"
+      }
+    },
+    {
+      "id": "JFyD9iM7fC4KxhEyXf2C5k-1",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786995665373",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "The supplied image is **4:5**, while the video generator requires a **9:16** portrait reference frame. I’ll create a portrait-adapted starting frame that preserves the hummingbird and flower before animating it."
+      },
+      "id": "MbHnkI7Litf2PrWomJxPwn",
+      "timestamp": "1786995717403",
+      "type": "assistant_message"
+    },
+    {
+      "assistant_message": {
+        "attachments": [
+          {
+            "content_type": "video/mp4",
+            "filename": "crystalline_hummingbird_video.mp4",
+            "type": "file",
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/H6dHW824JjxvEzVcBPOEr9/sandbox/nDPzgYpeBHWY9FtSfrlCJf_1786995862704_na1fn_L2hvbWUvdWJ1bnR1L2NyeXN0YWxsaW5lX2h1bW1pbmdiaXJkX3ZpZGVv.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvSDZkSFc4MjRKanh2RXpWY0JQT0VyOS9zYW5kYm94L25EUHpnWXBlQkhXWTlGdFNmcmxDSmZfMTc4Njk5NTg2MjcwNF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOeWVYTjBZV3hzYVc1bFgyaDFiVzFwYm1kaWFYSmtYM1pwWkdWdi5tcDQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODk0MzA0MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDc-eoUDZr3nmWXWwxl5fPlaT4fODSZC2prx8Ok5qkAcAIgbc3wPbCZjDl2CQKj4HAUQN6ScDfVzyT3miFms7RMwPE_"
+          }
+        ],
+        "content": "Completed the crystalline hummingbird hovering video. The verified MP4 is **6.016 seconds**, **720 × 1280 portrait**, and saved at the requested location."
+      },
+      "id": "oIksdHM4cUXDvNyaoIo7W3",
+      "timestamp": "1786995862947",
+      "type": "assistant_message"
+    },
+    {
+      "id": "MffHG1QRANYXahGA3tfosI",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786995863310",
+      "type": "status_update"
+    }
+  ],
+  "attachments": [
+    {
+      "event_index": 0,
+      "type": "image",
+      "filename": "03_crystalline_hummingbird.png",
+      "content_type": "image/png",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/BzDwXqRNirEwNgcIPRstwB_1786995664174_na1fn_L2hvbWUvdWJ1bnR1LzAzX2NyeXN0YWxsaW5lX2h1bW1pbmdiaXJk.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L0J6RHdYcVJOaXJFd05nY0lQUnN0d0JfMTc4Njk5NTY2NDE3NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTHpBelgyTnllWE4wWVd4c2FXNWxYMmgxYlcxcGJtZGlhWEprLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIAy~EsYKOcURi06Tue0VRESXFaQeDlnRUA1T~tH6ia53AiEAqirVqWA7ZSibEvRzR4FhKTC8-h48AnzEPDQMWM0H~WQ_",
+      "status": "archived",
+      "bytes": 4540252,
+      "archive_path": "attachments/H6dHW824JjxvEzVcBPOEr9/0-user_message-0_6a073a5403fad6b5_03_crystalline_hummingbird.png"
+    },
+    {
+      "event_index": 3,
+      "type": "file",
+      "filename": "crystalline_hummingbird_video.mp4",
+      "content_type": "video/mp4",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/H6dHW824JjxvEzVcBPOEr9/sandbox/nDPzgYpeBHWY9FtSfrlCJf_1786995862704_na1fn_L2hvbWUvdWJ1bnR1L2NyeXN0YWxsaW5lX2h1bW1pbmdiaXJkX3ZpZGVv.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvSDZkSFc4MjRKanh2RXpWY0JQT0VyOS9zYW5kYm94L25EUHpnWXBlQkhXWTlGdFNmcmxDSmZfMTc4Njk5NTg2MjcwNF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOeWVYTjBZV3hzYVc1bFgyaDFiVzFwYm1kaWFYSmtYM1pwWkdWdi5tcDQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODk0MzA0MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDc-eoUDZr3nmWXWwxl5fPlaT4fODSZC2prx8Ok5qkAcAIgbc3wPbCZjDl2CQKj4HAUQN6ScDfVzyT3miFms7RMwPE_",
+      "status": "archived",
+      "bytes": 1510256,
+      "archive_path": "attachments/H6dHW824JjxvEzVcBPOEr9/3-assistant_message-0_695e3ed2d2f62510_crystalline_hummingbird_video.mp4"
+    }
+  ]
+}

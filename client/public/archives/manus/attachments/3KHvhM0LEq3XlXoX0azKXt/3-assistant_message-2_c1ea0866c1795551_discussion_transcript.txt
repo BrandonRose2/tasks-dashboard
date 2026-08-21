@@ -1,0 +1,634 @@
+Starting Speech-to-Text conversion...
+Audio file size (101.1MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 512 kbps
+Bitrate exceeds 128 kbps, downsampling...
+Downsampled audio saved to: /home/ubuntu/upload/.pasted_file_dnI4PT_V2026-08-19-13-59-11_chunks_20260819_225819/downsampled_20260819_225819.mp3
+Downsampled audio file size is 25.28 MB.
+Downsampled audio file size still exceeds limit (5MB), splitting audio into chunks
+Audio file size: 25.28 MB, duration: 1656.5 seconds
+Splitting into 6 chunks (each ~276.1 seconds, max 5 MB)...
+Successfully split into 6 chunks
+Audio file split into 6 chunks for batch processing
+Transcribing audio file: /home/ubuntu/upload/pasted_file_dnI4PT_V2026-08-19-13-59-11.WAV, file size: 101.10 MB
+Transcription may take some time depending on file size and audio length...
+Starting batch transcription of 6 chunks...
+
+Transcribing chunk 1/6: /home/ubuntu/upload/.pasted_file_dnI4PT_V2026-08-19-13-59-11_chunks_20260819_225819/chunk_000.mp3
+Chunk 1 completed (duration: 276.0s)
+
+Transcribing chunk 2/6: /home/ubuntu/upload/.pasted_file_dnI4PT_V2026-08-19-13-59-11_chunks_20260819_225819/chunk_001.mp3
+Chunk 2 completed (duration: 276.1s)
+
+Transcribing chunk 3/6: /home/ubuntu/upload/.pasted_file_dnI4PT_V2026-08-19-13-59-11_chunks_20260819_225819/chunk_002.mp3
+Chunk 3 completed (duration: 276.1s)
+
+Transcribing chunk 4/6: /home/ubuntu/upload/.pasted_file_dnI4PT_V2026-08-19-13-59-11_chunks_20260819_225819/chunk_003.mp3
+Chunk 4 completed (duration: 276.1s)
+
+Transcribing chunk 5/6: /home/ubuntu/upload/.pasted_file_dnI4PT_V2026-08-19-13-59-11_chunks_20260819_225819/chunk_004.mp3
+Chunk 5 completed (duration: 276.1s)
+
+Transcribing chunk 6/6: /home/ubuntu/upload/.pasted_file_dnI4PT_V2026-08-19-13-59-11_chunks_20260819_225819/chunk_005.mp3
+Chunk 6 completed (duration: 275.8s)
+
+All chunks transcribed successfully!
+
+MERGED TRANSCRIPTION RESULT:
+Total Duration: 1656.0 seconds
+Language: eng
+Total Chunks: 6
+Timestamped segments:
+[00:04.4 - 00:05.0] All right.
+[00:05.0 - 00:14.8] So from your dashboard, uh, under the procedures menu, we will find our monthly posting function.
+[00:14.8 - 00:21.1] Now, I do wanna point out that you can also search monthly posting in your tool menu.
+[00:21.1 - 00:31.4] So for those of you who may not be sending a client-to-client scanner, which we do on our high-volume synchronic, you'll see here that this monthly posting function is available in some of these other roles.
+[00:31.4 - 00:41.9] So you could just simply favorite it for your community management role or your rent ops role, uh, if you are not using it, uh, today
+[00:41.9 - 00:47.9] I'm gonna go into our features menu.
+[00:47.9 - 00:58.0] Um, so
+[00:58.0 - 01:00.0] my filters did a bunch.
+[01:00.0 - 01:07.9] Um, I have it all wiped up so I'm gonna hit done here.
+[01:07.9 - 01:11.3] But for some reason, I did it the wrong way.
+[01:11.3 - 01:11.3] So I'm gonna try again.
+[01:11.3 - 01:11.3] Siri.
+[01:11.3 - 01:11.3] I'm gonna try again.
+[01:11.3 - 01:11.4] Hey, Siri.
+[01:11.4 - 01:11.7] In our property setup- Pardon?
+[01:11.7 - 01:13.6] The month.
+[01:13.6 - 01:16.1] And replacing our property manager.
+[01:16.1 - 01:18.7] Siri, heck Robert.
+[01:18.7 - 01:23.0] And that should be the one that we have ordered.
+[01:23.0 - 01:23.1] Okay.
+[01:23.1 - 01:23.5] Hey, Siri.
+[01:23.5 - 01:25.4] Heck Robert.
+[01:25.4 - 01:25.4] Robert.
+[01:25.4 - 01:28.0] What would you like to say?
+[01:28.0 - 01:30.1] Can you bring me- Awesome ...
+[01:30.1 - 01:31.8] a bottle of water, not full?
+[01:31.8 - 01:33.4] Thanks.
+[01:33.4 - 01:36.9] Was asked to delete a phone call in the recording system.
+[01:36.9 - 01:38.2] Oh.
+[01:38.2 - 01:40.3] But I went ahead and snatched it before I deleted it.
+[01:40.3 - 01:43.4] There you go.
+[01:43.4 - 01:44.5] Don't fuck with me, buddy.
+[01:44.5 - 01:50.6] That's because surely you want that manager to, uh- Go into the dashboard and be able to listen to it ...
+[01:50.6 - 01:52.6] some of them will have prior posting.
+[01:52.6 - 01:56.2] Um, that means they're gonna be mid-month move-ins.
+[01:56.2 - 02:04.3] Um, mid-month, so, so for those- California's pretty lenient on the consent ...
+[02:04.3 - 02:14.4] um, units that already have posting would not post- Let's see how this- So now I remember,
+[02:14.4 - 02:17.2] I don't wanna talk about this door hanging on there ...
+[02:17.2 - 02:17.7] About what?
+[02:17.7 - 02:21.2] I'm trying to remember how old my dog is.
+[02:21.2 - 02:21.6] Oh.
+[02:21.6 - 02:22.7] Please don't.
+[02:22.7 - 02:25.4] My number one pet peeve is smacking and tardiness.
+[02:25.4 - 02:28.9] Okay.
+[02:28.9 - 02:32.0] Probably 'cause I used to get my ass beat for being late.
+[02:32.0 - 02:42.0] Um, well the thing about doing the alert, it doesn't have to be done now, but that algorithm thing
+[02:42.0 - 02:45.7] you guys are gonna build for me- For the receipts ...
+[02:45.7 - 02:47.2] you know?
+[02:47.2 - 02:49.4] That is important.
+[02:49.4 - 02:59.9] But the other thing was the amount of people that are just moving in, remember we spoke about for the rent roll, the amount of people that are just moving in that are super delinquent, over 2,000.
+[02:59.9 - 03:00.7] Oh, yes.
+[03:00.7 - 03:05.1] And it shows like Walnut has like six people that just moved in in April or whatever.
+[03:05.1 - 03:05.3] Okay.
+[03:05.3 - 03:13.7] So like I was telling my mom that it doesn't, the credit to me doesn't matter as much as how long have you been on your job- Okay ...
+[03:13.7 - 03:15.7] and how much are you making- Okay ...
+[03:15.7 - 03:18.3] and your rental history.
+[03:18.3 - 03:27.4] So like if they've been on their job two months and okay, well, the, the first thing we ask them is like, "Oh, do you make three and a half times the amount of the rent?" Sure.
+[03:27.4 - 03:28.8] Or two and a half times the amount of the rent.
+[03:28.8 - 03:29.1] Yeah.
+[03:29.1 - 03:31.3] But you only been on your job two months.
+[03:31.3 - 03:32.3] Yeah, like- Okay?
+[03:32.3 - 03:33.0] When was your last job?
+[03:33.0 - 03:34.2] It's your job history.
+[03:34.2 - 03:34.6] Yeah.
+[03:34.6 - 03:35.5] When was your last job?
+[03:35.5 - 03:36.3] Two months ago?
+[03:36.3 - 03:36.7] Yeah.
+[03:36.7 - 03:37.8] What about two months from now?
+[03:37.8 - 03:38.8] Like you're job hopping.
+[03:38.8 - 03:40.9] So I, I know you can't afford to move, right?
+[03:40.9 - 03:41.6] Yeah.
+[03:41.6 - 03:42.1] You know?
+[03:42.1 - 03:46.2] So that, I need something like that in the- You're just coming to squat pretty much.
+[03:46.2 - 03:46.3] Yeah.
+[03:46.3 - 03:46.4] Jesus.
+[03:46.4 - 03:50.4] There's no water.
+[03:50.4 - 03:52.4] Do you know how to reach facilities?
+[03:52.4 - 03:53.0] What?
+[03:53.0 - 03:54.7] Do you know where facilities is?
+[03:54.7 - 03:55.8] My phone can do that.
+[03:55.8 - 03:56.7] Oh, never mind.
+[03:56.7 - 03:57.3] Thank you.
+[03:57.3 - 04:01.1] You're welcome.
+[04:01.1 - 04:03.9] Those common sing- those common sing- Remember that energy peptide ...
+[04:03.9 - 04:04.8] those common singles?
+[04:04.8 - 04:08.4] Mm-hmm.
+[04:08.4 - 04:08.9] Wow.
+[04:08.9 - 04:09.9] It's pulling teeth around here.
+[04:09.9 - 04:12.2] That process, post it in our electrical folder.
+[04:12.2 - 04:13.9] Yes, I will do that for you.
+[04:13.9 - 04:24.0] I don't know what we can build out of that, but I wanna show how each, how many people have moved in, I guess, a year or less.
+[04:24.0 - 04:24.6] Okay.
+[04:24.6 - 04:26.4] And how high the delinquency.
+[04:26.4 - 04:31.4] I mean, I could just do specific, like six months, a year, 18 months, two years.
+[04:31.4 - 04:31.4] Mm-hmm.
+[04:31.4 - 04:33.1] You know, have windows.
+[04:33.1 - 04:36.0] And it could be like a scoring type
+[04:36.1 - 04:36.6] system like.
+[04:36.6 - 04:40.4] I'll show you one that I built for- So the thing...
+[04:40.4 - 04:45.5] How can we do it where we want it, the property has to run it through or h- how can we do that with them?
+[04:45.5 - 04:48.1] Depending on how I do this- Oops.
+[04:48.1 - 04:48.5] Hold on ...
+[04:48.5 - 04:50.0] there's a million different ways to access it.
+[04:50.0 - 04:55.4] Uh, one quick way is to click into the chart, the competitor- Where is it?
+[04:55.4 - 04:58.6] And then I can use that to access my match.
+[04:58.6 - 05:04.6] And then I can- I had this system go into Indeed- So that's a quick way to do it ...
+[05:04.6 - 05:15.1] and, um, find the current job listings that we had on, um, on the website, and then download all of the applications
+[05:15.1 - 05:25.2] and compare them, and then it scored them based off of their relevant experience, their education, if they have LIHTC experience, if they, um-
+[05:25.2 - 05:26.4] Hmm ...
+[05:26.4 - 05:33.1] if they have one site, and then it has notes on what they- That's a good property to do it for, 'cause I can't deal with her ...
+[05:33.1 - 05:43.5] and then it gives you the top, um, 40, uh, well, 35 candidates based on their score, and this is, like, schooling, experience, LIHTC,
+[05:43.5 - 05:44.3] one site.
+[05:44.3 - 05:48.8] And, uh, then that way you don't have to go through 1,500 applications.
+[05:48.8 - 05:48.9] Yeah.
+[05:48.9 - 05:51.7] You can just go through the top 25, call these people.
+[05:51.7 - 05:52.2] Yeah.
+[05:52.2 - 05:53.6] But they didn't wanna use it.
+[05:53.6 - 05:54.3] No?
+[05:54.3 - 05:57.0] No, it wasn't too useful.
+[05:57.0 - 06:02.2] So I was like, "All right, well, onto the next thing." Got tucked away.
+[06:02.2 - 06:05.1] But I'm just saying something could be built like this.
+[06:05.1 - 06:05.4] Yeah.
+[06:05.4 - 06:06.6] Yeah, because- Yeah ...
+[06:06.6 - 06:07.4] like, see where it's...
+[06:07.4 - 06:13.3] These are the scoring variables, so, like, we could say if they have six months, you give them a certain number.
+[06:13.3 - 06:14.9] If you have 12 months, give them a certain...
+[06:14.9 - 06:17.6] You know, it'll dictate the scoring fairly.
+[06:17.6 - 06:21.7] Well, my thing is they're scare mark, right?
+[06:21.7 - 06:22.0] Mm-hmm.
+[06:22.0 - 06:23.0] And Todd.
+[06:23.0 - 06:25.8] So they're just trying to rent, rent, rent, and get the shit off the board.
+[06:25.8 - 06:27.7] That's another way you can- Yeah.
+[06:27.7 - 06:27.8] He...
+[06:27.8 - 06:38.3] I told him to his face, I'm like, "You don't know what you're doing to them when you're, when you're pushing like that." It's costing us less to let that unit sit there for a month or whatever
+[06:38.3 - 06:40.9] than it is for us to rent it and try to get them out.
+[06:40.9 - 06:41.3] Yeah.
+[06:41.3 - 06:44.2] They moved in in April, and they owe $6,000.
+[06:44.2 - 06:45.8] Just because the manager thinks- So now- ...
+[06:45.8 - 06:48.2] that they're doing good by filling vacancies ...
+[06:48.2 - 06:48.4] right.
+[06:48.4 - 06:51.4] So that they can get his, their name off the board, right?
+[06:51.4 - 06:51.7] Yeah.
+[06:51.7 - 06:54.0] So now it's 6,000 they owe us.
+[06:54.0 - 06:55.7] Now we have to paint the apartment again.
+[06:55.7 - 06:58.4] We have to pay court fees that we're never gonna get back from them.
+[06:58.4 - 06:59.8] 'Cause you have to evict them.
+[06:59.8 - 07:02.0] To evict them, and it takes us two months, right?
+[07:02.0 - 07:03.1] To, to get them out of the business.
+[07:03.1 - 07:03.1] Yeah.
+[07:03.1 - 07:06.4] What is it costing, like, say, Texas or- Well, it's like- ...
+[07:06.4 - 07:10.3] Florida or- The first go-around is, like, 485 or something just to file it.
+[07:10.3 - 07:11.4] This is, like, $30,000.
+[07:11.4 - 07:16.6] It's, uh, $485 to file and then whatever else we get.
+[07:16.6 - 07:18.5] Oh, I think I saw those numbers yesterday, yeah.
+[07:18.5 - 07:19.0] Yeah.
+[07:19.0 - 07:21.9] So- This works pretty similarly to- But the amount...
+[07:21.9 - 07:26.6] Okay, so that's 6,000 plus the court fees plus another extra two months to get it out- Wow ...
+[07:26.6 - 07:27.2] and the time.
+[07:27.2 - 07:28.9] Then we have to go back and paint it again, right?
+[07:28.9 - 07:30.0] Yeah.
+[07:30.0 - 07:30.5] Get it ready.
+[07:30.5 - 07:32.2] They usually damage it if they're acting like that.
+[07:32.2 - 07:34.5] Yeah, so readiness goes from zero to, yeah.
+[07:34.5 - 07:40.8] So all that because we wanted to get their name off the board instead of letting it sit there and get a good reference.
+[07:40.8 - 07:42.6] Yeah, you might as well have your cousin come and do it.
+[07:42.6 - 07:46.5] So that's, that's kinda what I'm working with here.
+[07:46.5 - 07:46.9] Okay.
+[07:46.9 - 07:48.3] I can do that.
+[07:48.3 - 07:50.0] So I don't know what we could...
+[07:50.0 - 07:55.7] You know, I want the managers to check their rental history, which they all say they do, but they don't.
+[07:55.7 - 07:56.4] Uh-huh.
+[07:56.4 - 07:58.2] 'Cause we have to have it on the HUD properties.
+[07:58.2 - 08:00.2] Yeah, I can get these variables down that you want.
+[08:00.2 - 08:08.4] I mean, I have this all recorded, but On the, on the HUD properties, they have to have it 'cause it's one of our hits during our MOR audit.
+[08:08.4 - 08:13.1] But for, um, you know, some of the other properties, they don't.
+[08:13.1 - 08:15.6] But even the HUD properties, they're making them up half the time.
+[08:15.6 - 08:18.0] Okay, so that first one that you just said was?
+[08:18.0 - 08:22.7] Um, rental history.
+[08:22.7 - 08:23.4] Yeah, rental history.
+[08:23.4 - 08:27.0] Your charge notes will go on your ledger- Rental history.
+[08:27.0 - 08:29.0] Paying history, huh?
+[08:29.0 - 08:33.9] And then I would like to know- And then we have the- I mean, how long have they been on their job?
+[08:33.9 - 08:35.8] What they make collectively.
+[08:35.8 - 08:36.9] And their previous job, actually.
+[08:36.9 - 08:37.8] Two and a half times?
+[08:37.8 - 08:38.4] Two...
+[08:38.4 - 08:40.0] Most of it's two and a half times, yeah.
+[08:40.0 - 08:41.3] Two and a half to three probably.
+[08:41.3 - 08:41.8] Mm-hmm.
+[08:41.8 - 08:46.8] Times, uh, their income.
+[08:46.8 - 08:50.0] And, and employment history.
+[08:50.0 - 08:50.9] I think it's important.
+[08:50.9 - 08:57.4] I mean, we don't focus a lot on that, as long as someone comes in and says, "Oh, yeah, I make two and a half, three times the amount of rent," and they qualify.
+[08:57.4 - 08:58.1] Mm-hmm.
+[08:58.1 - 08:59.3] But do they really?
+[08:59.3 - 09:00.5] You know?
+[09:00.5 - 09:00.7] Yeah.
+[09:00.7 - 09:02.9] Are they really calling their previous employers?
+[09:02.9 - 09:04.6] Are they calling the previous- But- ...
+[09:04.6 - 09:06.0] landlords?
+[09:06.0 - 09:06.2] Yeah.
+[09:06.2 - 09:06.6] No.
+[09:06.6 - 09:12.0] Well, there needs to be, like, check boxes there where if they have, like- See, I'm gonna work on a conventional property
+[09:12.2 - 09:17.6] been so long, I can't remember like how far we can dip our toe into like, can, can we do that?
+[09:17.6 - 09:18.6] You know, how far can we go?
+[09:18.6 - 09:19.1] Right.
+[09:19.1 - 09:19.4] Right.
+[09:19.4 - 09:20.2] So I need to find that out.
+[09:20.2 - 09:22.4] And that's probably per state too, so I don't, you know.
+[09:22.4 - 09:23.0] Right.
+[09:23.0 - 09:23.4] I need to find out.
+[09:23.4 - 09:26.3] 'Cause I did real estate for six years too, here, and like you have to.
+[09:26.3 - 09:28.3] You use RentSpree, it goes through the whole thing.
+[09:28.3 - 09:31.3] I don't think there's anything against like if I wanna check your previous employment?
+[09:31.3 - 09:35.0] No, there's just certain information that you can ask for.
+[09:35.0 - 09:37.2] If they can- Yeah, I basically wanna know how long you've been on your job.
+[09:37.2 - 09:37.4] Yeah.
+[09:37.4 - 09:39.9] I don't care how much you made or whatever, just how long have you been on your job?
+[09:39.9 - 09:40.5] Right.
+[09:40.5 - 09:43.7] I'm concerned about how much you make now, but I wanna know how long have you been on your job?
+[09:43.7 - 09:43.9] Yeah.
+[09:43.9 - 09:48.8] And I mean, if like a previous landlord knows the laws, they'll know what they can give you and what they can't.
+[09:48.8 - 09:51.7] Oh, I'm not worried about the, the landlord, we, we're good on that one.
+[09:51.7 - 09:53.0] I know all of that rule.
+[09:53.0 - 09:53.0] Okay.
+[09:53.0 - 09:56.2] I was just talking about like the rental his- I mean, the, um- Employment ...
+[09:56.2 - 09:56.9] employment history.
+[09:56.9 - 09:57.3] Okay.
+[09:57.3 - 10:00.6] Is that- So we have rental history- Rental history and employment history ...
+[10:00.6 - 10:02.8] and employment history, and then their income, of course.
+[10:02.8 - 10:05.6] Because nobody, like everybody's focused on the credit.
+[10:05.6 - 10:08.0] Like, let's run the credit report, see what they have.
+[10:08.0 - 10:12.6] Do you really- Well, that's what, payment history is what they mean ...
+[10:12.6 - 10:16.4] so if they didn't pay a credit card- I'll put it on there, though ...
+[10:16.4 - 10:21.6] if they didn't pay their medical bill, they have a student loan, what does that really tell us about how they're gonna pay their rent right now?
+[10:21.6 - 10:21.9] Yeah.
+[10:21.9 - 10:26.0] And then they come in, we're like, "Oh, you didn't do this." Well, you don't, don't need another debt-to-income ratio, right?
+[10:26.0 - 10:26.2] Yeah.
+[10:26.2 - 10:28.8] "It's because of the, I didn't have this," and it's a, "Oh, okay.
+[10:28.8 - 10:29.9] Okay, that's cool, man.
+[10:29.9 - 10:32.7] We'll, we'll let you in as long as you have three times the amount of rent," right?
+[10:32.7 - 10:32.9] Yeah.
+[10:32.9 - 10:35.1] And then the- And vouchers, of course ...
+[10:35.1 - 10:35.1] voucher situation.
+[10:35.1 - 10:39.8] But that's a pretty no-brainer and I don't know what all properties you have that are- Well, the thing is- ...
+[10:39.8 - 10:41.0] Section 8 versus LIHTC ...
+[10:41.0 - 10:49.6] with this new Yardi and OneSite and all the stuff they're implementing with the packets and all that good stuff- Yeah ...
+[10:49.6 - 10:53.8] is it, I guess that should be one of my questions, is it gonna weigh the credit?
+[10:53.8 - 10:59.8] Like just because we raise that credit bar, like okay, well your score has to be here instead of here.
+[10:59.8 - 11:00.3] Uh-huh.
+[11:00.3 - 11:03.8] Just raising the credit bar isn't really giving us what we're looking for.
+[11:03.8 - 11:07.8] It's a first pass.
+[11:07.8 - 11:09.1] What is this?
+[11:09.1 - 11:11.7] Yeah.
+[11:11.7 - 11:14.3] You like the, our lunch meeting notes?
+[11:14.3 - 11:15.4] Oh.
+[11:15.4 - 11:18.0] Ginger.
+[11:18.0 - 11:18.6] Ginger.
+[11:18.6 - 11:21.1] Hm.
+[11:21.1 - 11:24.6] All right.
+[11:24.6 - 11:31.3] So from compliance manager, under your procedures, we have affordable.
+[11:31.3 - 11:38.1] You can also type in affordable procedures if you find it that way as well.
+[11:38.1 - 11:42.5] Now, and then the watch me because we can only create one master procedure.
+[11:42.5 - 11:50.7] Didn't really put it together, but- Uh, however, do you guys have any properties where you have more than one subsidy provider?
+[11:50.7 - 11:52.0] Is he using it?
+[11:52.0 - 11:57.4] He wouldn't be continuing to make this.
+[11:57.4 - 11:59.4] I mean, he wouldn't.
+[11:59.4 - 11:59.9] I just want...
+[11:59.9 - 12:01.0] Where's his recording?
+[12:01.0 - 12:03.3] Oh.
+[12:03.3 - 12:04.7] I only do it for Mark.
+[12:04.7 - 12:11.4] I have a folder in my Google Drive that it files called Mark's Inappropriate Outbursts.
+[12:11.4 - 12:14.0] Yeah?
+[12:14.0 - 12:16.8] There's, there's one at minute nine of him screaming at Ethan.
+[12:16.8 - 12:17.4] Really?
+[12:17.4 - 12:19.4] Just like...
+[12:19.4 - 12:24.1] He's been super nice to me though lately.
+[12:24.1 - 12:31.0] Um, I mean, maybe like part of that, part of the problem we have That feeling hot and hot.
+[12:31.0 - 12:35.6] I'm gonna go ahead and be transparent with you.
+[12:35.6 - 12:36.7] I don't know what that is.
+[12:36.7 - 12:42.7] So if- It's the new- If you have more than one subsidy- Oh ...
+[12:42.7 - 12:44.4] it's the new, uh, affordable stuff.
+[12:44.4 - 12:45.1] Oh.
+[12:45.1 - 12:50.0] So they're changing the, you know, you don't have to do 10 bank, six bank statements.
+[12:50.0 - 12:51.2] You don't have to do this and that.
+[12:51.2 - 12:54.5] And like the $5,000 asset form that they have to use- Mm ...
+[12:54.5 - 12:58.3] they can self-certify and say, "I just don't have anything." Oh, okay.
+[12:58.3 - 13:02.3] And as long as they just, you have it on the application under their, their- It's kind of like a RentSpree, huh?
+[13:02.3 - 13:02.5] Yeah ...
+[13:02.5 - 13:03.7] you don't have to prove anything anymore.
+[13:03.7 - 13:04.7] Oh, good.
+[13:04.7 - 13:05.9] For HUD.
+[13:05.9 - 13:16.8] So then, when I create my qualified receipt, I just choose the subsidy provider that I'm submitting, and it only pulls
+[13:16.8 - 13:18.3] up the options with those practices.
+[13:18.3 - 13:19.9] And that- So again, it's just a first pass.
+[13:19.9 - 13:21.3] I said these are all our topics- Yeah ...
+[13:21.3 - 13:24.5] these are who's teaching them, these how many rooms we have, how much time we have.
+[13:24.5 - 13:25.5] Yeah.
+[13:25.5 - 13:29.0] And it suggests that the instructors move rather than the people move.
+[13:29.0 - 13:30.7] Yeah, and if you get a- Oh, really?
+[13:30.7 - 13:31.3] Yeah.
+[13:31.3 - 13:32.9] It said that would be easier.
+[13:32.9 - 13:33.9] Hm.
+[13:33.9 - 13:38.5] Uh, but this way everybody gets at least one session.
+[13:38.5 - 13:40.7] Property match gets two sessions.
+[13:40.7 - 13:42.1] All right.
+[13:42.1 - 13:44.7] So I call my affordable procedures- Um, and nobody is double-booked.
+[13:44.7 - 13:48.1] And then that brings me up to this little tab
+[13:48.6 - 13:51.2] Again, first pass, we can adjust.
+[13:51.2 - 13:56.4] The times, like I said, you know, extend the times as needed so that we fill up the whole day.
+[13:56.4 - 14:00.8] So some sessions are forty-five, some sessions are seventy-five.
+[14:00.8 - 14:01.8] I can adjust it.
+[14:01.8 - 14:02.2] Oh, okay.
+[14:02.2 - 14:02.8] You know?
+[14:02.8 - 14:03.6] Sliding the scale.
+[14:03.6 - 14:05.1] Well, yeah, like, you know what?
+[14:05.1 - 14:09.4] Let's go and make it fifty and make that one seventy-five so that- Kind of depending on the day before or something like that.
+[14:09.4 - 14:09.9] Yeah.
+[14:09.9 - 14:12.5] So like depending on the topic also.
+[14:12.5 - 14:13.7] Yeah.
+[14:13.7 - 14:15.2] This is just a first pass.
+[14:15.2 - 14:16.0] Sounds good.
+[14:16.0 - 14:25.4] Procedures for .
+[14:25.4 - 14:26.9] Wait, let me check my calendar.
+[14:26.9 - 14:27.4] Hang on.
+[14:27.4 - 14:36.8] And then this is where you guys have to start- September twenty-- I have it written down.
+[14:36.8 - 14:44.0] I have it- September twentieth for two thousand and twenty-five is not gonna work because Grove was scheduled earlier than that, and this wouldn't work.
+[14:44.0 - 14:53.0] So I think we should take this date down as far as- Well, I have an MOR on the twenty-third and the twenty-second, twenty-third, and twenty-fourth.
+[14:53.0 - 14:56.0] So, I mean, Jared could do the REAC, yeah.
+[14:56.0 - 15:00.3] But then you go straight from there straight to Apartment Fest.
+[15:00.3 - 15:02.3] Um, we can't...
+[15:02.3 - 15:04.8] How can we do that?
+[15:04.8 - 15:05.9] How can I- I can stay by...
+[15:05.9 - 15:07.2] No, that's what I'm telling you.
+[15:07.2 - 15:08.4] That it's crazy.
+[15:08.4 - 15:09.6] There's just no way.
+[15:09.6 - 15:10.5] I can't...
+[15:10.5 - 15:11.3] Right.
+[15:11.3 - 15:12.6] We, we can't do...
+[15:12.6 - 15:16.3] He was at Grove and then roll right into law professor.
+[15:16.3 - 15:19.2] Yeah, or we can take it, but different parts of it.
+[15:19.2 - 15:19.3] All right.
+[15:19.3 - 15:24.4] I am going to use this for, um- And they're five hours, five, five hours.
+[15:24.4 - 15:26.4] Let's just call it six hours apart.
+[15:26.4 - 15:27.4] Yeah.
+[15:27.4 - 15:32.8] So my recommendation is how .
+[15:32.8 - 15:35.7] If they certify me, they're not certifying them.
+[15:35.7 - 15:39.7] If they certify me, they're certifying- They're already certified.
+[15:39.7 - 15:40.2] Yeah.
+[15:40.2 - 15:42.2] Yeah, but we know how it is.
+[15:42.2 - 15:52.4] The thing is, is I sched- you know, I scheduled this cruise like a jillion months ago, and it, it's taking a part of the time that he would be at
+[15:52.4 - 15:55.4] these REAC priorities, you know, preparing.
+[15:55.4 - 15:57.0] So- So now I have his number.
+[15:57.0 - 16:00.9] I can save this and come back to it any time.
+[16:00.9 - 16:02.6] Um, I don't have to do this all in one sitting.
+[16:02.6 - 16:04.6] Yeah, but you go on thirty vacations a year.
+[16:04.6 - 16:05.3] I don't get none.
+[16:05.3 - 16:12.3] For my general tab, I'm going to select this receipt tab at the top here.
+[16:12.3 - 16:13.8] For my general tabs, where I'm going to enter my general information.
+[16:13.8 - 16:20.9] I took you off my domestic assistant.
+[16:20.9 - 16:22.3] Oh, shit.
+[16:22.3 - 16:24.7] We were joking about that yesterday.
+[16:24.7 - 16:29.1] So why didn't you come and see me then?
+[16:29.1 - 16:33.5] And then you're gonna put your check amount in this column.
+[16:33.5 - 16:34.5] She told you.
+[16:34.5 - 16:40.3] And I have a calculator here if I'm really just like, "Ah, I'm gonna pick a different department." You got more to do.
+[16:40.3 - 16:47.1] So ultimately, and we're gonna talk about this.
+[16:47.1 - 16:50.7] Um, ultimately, before we post, we wanna zero dollar the difference.
+[16:50.7 - 16:53.2] But I understand that not everyone can do this.
+[16:53.2 - 16:56.5] And we're gonna talk about those two different options.
+[16:56.5 - 16:58.9] Uh, Air Force Dave is so smart.
+[16:58.9 - 17:03.5] We can adjust this if you want to.
+[17:03.5 - 17:05.0] And then I'm gonna go ahead and click Next.
+[17:05.0 - 17:07.3] Go into my apologies.
+[17:07.3 - 17:11.6] So this is pulling any open charges- Mm-hmm.
+[17:11.6 - 17:12.9] Wow ...
+[17:12.9 - 17:21.0] for our custody, for the custody charge codes that we indicated, as well as potentially custody providers.
+[17:21.0 - 17:21.5] Mm-hmm.
+[17:21.5 - 17:27.0] We're gonna go line by line and confirm that the payment amounts match.
+[17:27.0 - 17:28.9] What I recommend doing- Wow ...
+[17:28.9 - 17:31.4] is selecting the button that says Clear All.
+[17:31.4 - 17:35.5] Because if you double-click- That's what you said ...
+[17:35.5 - 17:39.4] into the box, it's gonna pull it in the middle marker.
+[17:39.4 - 17:40.9] So I can go ahead and- Oh, my God.
+[17:40.9 - 17:41.2] All right.
+[17:41.2 - 17:43.5] Darren was calling me earlier about his flight.
+[17:43.5 - 17:45.3] So we need, let me find my phone.
+[17:45.3 - 17:46.7] But yeah, we, we can't do that.
+[17:46.7 - 17:55.8] The only thing, the only thing that's really screwing us, not super bad, but anything after October, we pick up all those extra hits, right?
+[17:55.8 - 17:57.2] We're gonna do this, we're gonna do this.
+[17:57.2 - 18:01.5] We're gonna- 'Cause October first, all the GFIs and the other shit go into effect.
+[18:01.5 - 18:04.3] All right.
+[18:04.3 - 18:06.7] This three hundred and eighty dollar- Really?
+[18:06.7 - 18:07.7] Oh, I didn't know that.
+[18:07.7 - 18:09.4] Okay.
+[18:09.4 - 18:11.9] Oh, okay.
+[18:11.9 - 18:13.4] Yeah, I thought it was October first.
+[18:13.4 - 18:17.7] Oh, well.
+[18:17.7 - 18:21.6] Uh, all right.
+[18:21.6 - 18:23.9] We're gonna hit Save and come back to this, right?
+[18:25.0 - 18:25.3] Mm-hmm.
+[18:25.3 - 18:31.2] Now, let's say on this three thirty charge here- Okay.
+[18:31.2 - 18:32.5] All right, thank you.
+[18:32.5 - 18:35.5] Uh, they paid five thirty-six.
+[18:35.5 - 18:35.5] All right, bye-bye.
+[18:35.5 - 18:42.8] So instead of putting five thirty-six here, I am going to put three thirty-six as half the charge.
+[18:42.8 - 18:48.5] And now I'm gonna find my Add Overpayment button.
+[18:48.5 - 18:58.5] I can see this line, and then I can put in Gary's name, then add my extra two hundred, and then
+[18:58.5 - 19:01.9] that holds that in suspense in case they want to come back and get it.
+[19:01.9 - 19:02.7] Right.
+[19:02.7 - 19:12.8] Um, now because we got a, a letter and did not fix the LUPA charge in the ledger, I
+[19:12.8 - 19:22.8] do recommend deleting this receipt, going and fixing via the Adjust Post function that we talked about earlier, and then coming back- I put in the help desk
+[19:22.8 - 19:25.4] like six months ago that I was gone on this cruise.
+[19:25.4 - 19:25.8] Mm-hmm.
+[19:25.8 - 19:29.3] And they keep scheduling MLRs and reacts and everything.
+[19:29.3 - 19:29.7] Oh, God.
+[19:29.7 - 19:30.3] During that week?
+[19:30.3 - 19:31.1] Yeah.
+[19:31.1 - 19:36.2] And then, you know, Ganad is good about pushing shit back for himself- Oh, I'm sure ...
+[19:36.2 - 19:37.4] but not, not for- He's the travel king, isn't he?
+[19:37.4 - 19:37.7] Yeah.
+[19:37.7 - 19:41.0] He's like...
+[19:41.0 - 19:44.0] Like he's-- I said something like, "I don't know, 'cause Stephanie's on vacation." He's like, "Oh, shit.
+[19:44.0 - 19:47.5] They told me you're on speakerphone." I said, "No, I never picked you up." Oh.
+[19:47.5 - 19:52.3] I've met him once.
+[19:52.3 - 19:53.6] Yeah.
+[19:53.6 - 19:54.6] He, me and him used to...
+[19:54.6 - 19:56.5] I quit one time 'cause of him.
+[19:56.5 - 20:06.5] We used to butt heads really bad, but now that I helped him do his job, it's been very- Yeah, he called me one day and was like, "My Property Max doesn't have any of the features." I'm like, "Do you really want your call recordings and all that
+[20:06.5 - 20:06.9] shit in there?
+[20:06.9 - 20:10.0] Like, I'll put it all in there if you want, but..." Right.
+[20:10.0 - 20:11.0] Like, why do you need it?
+[20:11.0 - 20:14.4] All you need is, like, the inspections and maintenance.
+[20:14.4 - 20:15.0] Like, that's it.
+[20:15.0 - 20:16.6] He wants everything in the same place.
+[20:16.6 - 20:17.8] It's 'cause he's the vice president.
+[20:17.8 - 20:29.0] Now
+[20:29.0 - 20:42.3] I can do Pay All and, you know, bill all these units, and then it's gonna, um, round up my total
+[20:42.3 - 20:43.6] of, uh, that's already seventy.
+[20:43.6 - 20:45.9] And so now I'm gonna pay it all.
+[20:45.9 - 20:51.0] So I've, I've done-- I've been going through, typing them in and looking at them.
+[20:51.0 - 20:56.7] So now I just, uh, the fire department is knocking on my window, and they need me right now.
+[20:56.7 - 21:04.7] So I'm gonna save this, and I'm gonna log out of my computer, 'cause that's what you do when you log off of your workstation.
+[21:04.7 - 21:08.3] I'm literally gonna go help them put out whatever fire they have.
+[21:08.3 - 21:11.3] So now I need to finish my job, right?
+[21:11.3 - 21:14.0] So I'm gonna come back into Procedures.
+[21:14.0 - 21:17.5] I'm gonna go back into Affordable Receiving.
+[21:17.5 - 21:20.2] That batch, that receipt is hanging out here for me.
+[21:20.2 - 21:21.6] I can click it.
+[21:21.6 - 21:25.6] I'm gonna go back to my Consolidated Receipts tab.
+[21:25.6 - 21:27.4] I can see where I left off.
+[21:27.4 - 21:33.9] So I can see that where these zero dollars are, those are the ones that I haven't done yet.
+[21:33.9 - 21:39.3] So I can literally pick up exactly where I was and come through and do the rest.
+[21:39.3 - 21:40.3] Where are you?
+[21:40.3 - 21:41.3] It's just Procedures.
+[21:41.3 - 21:44.5] In Affordable Receiving.
+[21:44.5 - 21:44.6] That's it.
+[21:44.6 - 21:44.9] It's right here.
+[21:44.9 - 21:45.0] Yep.
+[21:45.0 - 21:53.9] Now, and if I needed to, like, go eat and, um, and eat, you know, start over, I click.
+[21:53.9 - 21:54.1] Right.
+[21:54.1 - 21:59.7] Now that all of them are paid, I can make that final adjustment for your coming in and fixing my house.
+[21:59.7 - 22:03.6] So this is how ultimately you get that amount to match.
+[22:03.6 - 22:07.3] It does it in the cash receipt adjustments for your rent.
+[22:07.3 - 22:11.6] And then I can save.
+[22:11.6 - 22:15.5] I'll post my receipts for the day.
+[22:15.5 - 22:25.8] It'll let you print this usually before
+[22:25.8 - 22:29.1] you, um, post it.
+[22:29.1 - 22:39.3] But once you do post it, you get your batch, and then in the Affordable Receiving to get your report is a little clunky
+[22:39.3 - 22:46.0] because you can't pop up windows, but you can always just go search in the batch, which I find a little easier.
+[22:46.0 - 22:53.8] But you can click here and then just have the...
+[22:53.8 - 22:58.3] So there, I can get my report from here.
+[22:58.3 - 23:00.1] It's just a little clunkier 'cause it'll pop up
+[23:00.7 - 23:05.5] But you can always go review the app and do it that way.
+[23:05.5 - 23:17.3] What questions do we have about our development
+[23:17.3 - 23:18.0] group?
+[23:18.0 - 23:21.0] The last one on our list today is communications.
+[23:21.0 - 23:27.3] Um, I was trying to play with this at lunch, and I had things filled out, but we're gonna see if it'll work for me today.
+[23:27.3 - 23:32.1] And if it will work now, and if it doesn't, I'll play with it tonight and see if that's true.
+[23:32.1 - 23:38.0] Um, at the top under your More options, we have Communications.
+[23:38.0 - 23:41.7] Uh, I heard this was on Campaign.
+[23:41.7 - 23:50.2] And again, we are doing our thing.
+[23:50.2 - 23:56.7] Um, wait, is anyone getting anything when you put Campaign under Communications?
+[23:56.7 - 23:57.6] Under Communications.
+[23:57.6 - 23:57.9] No.
+[23:57.9 - 24:02.4] Under Communications, no.
+[24:02.4 - 24:08.4] You don't see anything?
+[24:08.4 - 24:08.5] No.
+[24:08.5 - 24:08.7] All right.
+[24:08.7 - 24:09.8] You're saying charts?
+[24:09.8 - 24:15.5] No, I think it is probably related to those permission issues that Ethan had with the Green Cafe campaign.
+[24:15.5 - 24:19.0] So it's basically a, uh, a Green Cafe option.
+[24:19.0 - 24:20.5] Go on.
+[24:20.5 - 24:22.1] Let's see.
+[24:22.1 - 24:30.7] I can't even get into it, so.
+[24:30.7 - 24:31.3] All right.
+[24:31.3 - 24:35.4] While I'm playing around, see if Liz can help me figure out what's going on with our campaigns.
+[24:35.4 - 24:37.7] We'll come back to this tomorrow.
+[24:37.7 - 24:47.9] Um, the other option, and I'll just go ahead and show you guys this, um, I did briefly talk to my residential folks about this earlier, but
+[24:47.9 - 24:52.6] it can be helpful for our, um, affordable folks as well.
+[24:52.6 - 25:00.1] So under your Grid menu, if you go into your Reacher Reach residential roles.
+[25:00.1 - 25:04.0] Go ahead and just click the Home button.
+[25:04.0 - 25:04.3] Sure.
+[25:04.3 - 25:08.4] For the residential unit.
+[25:08.4 - 25:10.7] Go into your, your dashboard.
+[25:10.7 - 26:22.1] Okay,
+[26:22.1 - 26:26.4] um, so we're gonna get into my actual dashboard.
+[26:26.4 - 26:31.8] So you guys should be able to click Reports up at the top on your dashboard.
+[26:31.8 - 26:39.0] And then you're looking for the one under the Residence, uh, residential tab.
+[26:39.0 - 26:47.8] There should be at the very bottom of that list, you might have to click Show More, uh, Residential Correspondence.
+[26:47.8 - 26:50.8] Come on.
+[26:50.8 - 26:58.8] All right, I'm gonna drag these out here.
+[26:58.8 - 27:03.5] All right, I'm gonna leave my cookies cached 'cause I can't get it to load for me.
+[27:03.5 - 27:13.6] Um, if you all just kinda like poke around in that for a second, let me catch back up with you guys.
+[27:13.6 - 27:23.9] So with Residential Correspondence, um, we're not going to be able to see the actual letters because they're
+[27:23.9 - 27:26.1] not gonna be loaded into the file manager.
+[27:26.1 - 27:31.6] Um, but you guys can essentially, uh, load your own letters here.
+[27:31.6 - 27:34.2] We have the ability to do our own.
+Complete transcription result saved to: /home/ubuntu/upload/pasted_file_dnI4PT_V2026-08-19-13-59-11_transcription_20260819_225941.json
+Plain text transcription saved to: /home/ubuntu/upload/pasted_file_dnI4PT_V2026-08-19-13-59-11_transcription_20260819_225941.txt
+[2J[H[3Jmanus-speech-to-text /home/ubuntu/upload/pasted_file_dnI4PT_V2026-08-19-13-59-11.WAV
+Starting Speech-to-Text conversion...
+Audio file size (101.1MB) exceeds limit (5MB), downsampling audio file...
+Source audio bitrate: 512 kbps
+Bitrate exceeds 128 kbps, downsampling...
+Downsampled audio file size is 25.28 MB.
+Downsampled audio file size still exceeds limit (5MB), splitting audio into chunks
+Audio file size: 25.28 MB, duration: 1656.5 seconds
+Splitting into 6 chunks (each ~276.1 seconds, max 5 MB)...
+Successfully split into 6 chunks
+Audio file split into 6 chunks for batch processing
+Transcribing audio file: /home/ubuntu/upload/pasted_file_dnI4PT_V2026-08-19-13-59-11.WAV, file size: 101.10 MB
+Transcription may take some time depending on file size and audio length...
+
+Chunk transcription progress:
+Starting batch transcription of 6 chunks...
+Transcribing chunk 1/6: /home/ubuntu/upload/.pasted_file_dnI4PT_V2026-08-19-13-59-11_chunks_20260819_225819/chunk_000.mp3
+Chunk 1 completed (duration: 276.0s)
+Transcribing chunk 2/6: /home/ubuntu/upload/.pasted_file_dnI4PT_V2026-08-19-13-59-11_chunks_20260819_225819/chunk_001.mp3
+Chunk 2 completed (duration: 276.1s)
+Transcribing chunk 3/6: /home/ubuntu/upload/.pasted_file_dnI4PT_V2026-08-19-13-59-11_chunks_20260819_225819/chunk_002.mp3
+Chunk 3 completed (duration: 276.1s)
+Transcribing chunk 4/6: /home/ubuntu/upload/.pasted_file_dnI4PT_V2026-08-19-13-59-11_chunks_20260819_225819/chunk_003.mp3
+Chunk 4 completed (duration: 276.1s)
+Transcribing chunk 5/6: /home/ubuntu/upload/.pasted_file_dnI4PT_V2026-08-19-13-59-11_chunks_20260819_225819/chunk_004.mp3
+Chunk 5 completed (duration: 276.1s)
+Transcribing chunk 6/6: /home/ubuntu/upload/.pasted_file_dnI4PT_V2026-08-19-13-59-11_chunks_20260819_225819/chunk_005.mp3
+Chunk 6 completed (duration: 275.8s)
+
+Snippet of transcribed content:
+[23:27.3 - 23:32.1] And if it will work now, and if it doesn't, I'll play with it tonight and see if that's true.
+[23:32.1 - 23:38.0] Um, at the top under your More options, we have Communications.
+[23:38.0 - 23:41.7] Uh, I heard this was on Campaign.
+[23:41.7 - 23:50.2] And again, we are doing our thing.
+[23:50.2 - 23:56.7] Um, wait, is anyone getting anything when you put Campaign under Communications?
+[23:56.7 - 23:57.6] Under Communications.
+[23:57.6 - 23:57.9] No.
+[23:57.9 - 24:02.4] Under Communications, no.
+[24:02.4 - 24:08.4] You don't see anything?
+[24:08.4 - 24:08.5] No.
+[24:08.5 - 24:08.7] All right.
+[24:08.7 - 24:09.8] You're saying charts?
+[24:09.8 - 24:15.5] No, I think it is probably related to those permission issues that Ethan had with the Green Cafe campaign.
+[24:15.5 - 24:19.0] So it's basically a, uh, a Green Cafe option.
+[24:19.0 - 24:20.5] Go on.
+[24:20.5 - 24:22.1] Let's see.
+[24:22.1 - 24:30.7] I can't even get into it, so.
+[24:30.7 - 24:31.3] All right.
+[24:31.3 - 24:35.4] While I'm playing around, see if Liz can help me figure out what's going on with our campaigns.
+[24:35.4 - 24:37.7] We'll come back to this tomorrow.
+[24:37.7 - 24:47.9] Um, the other option, and I'll just go ahead and show you guys this, um, I did briefly talk to my residential folks about this earlier, but
+[24:47.9 - 24:52.6] it can be helpful for our, um, affordable folks as well.
+[24:52.6 - 25:00.1] So under your Grid menu, if you go into your Reacher Reach residential roles.
+[25:00.1 - 25:04.0] Go ahead and just click the Home button.
+[25:04.0 - 25:04.3] Sure.
+[25:04.3 - 25:08.4] For the residential unit.
+[25:08.4 - 25:10.7] Go into your, your dashboard.
+[25:10.7 - 26:22.1] Okay,
+[26:22.1 - 26:26.4] um, so we're gonna get into my actual dashboard.
+[26:26.4 - 26:31.8] So you guys should be able to click Reports up at the top on your dashboard.
+[26:31.8 - 26:39.0] And then you're looking for the one under the Residence, uh, residential tab.
+[26:39.0 - 26:47.8] There should be at the very bottom of that list, you might have to click Show More, uh, Residential Correspondence.
+[26:47.8 - 26:50.8] Come on.
+[26:50.8 - 26:58.8] All right, I'm gonna drag these out here.
+[26:58.8 - 27:03.5] All right, I'm gonna leave my cookies cached 'cause I can't get it to load for me.
+[27:03.5 - 27:13.6] Um, if you all just kinda like poke around in that for a second, let me catch back up with you guys.
+[27:13.6 - 27:23.9] So with Residential Correspondence, um, we're not going to be able to see the actual letters because they're
+[27:23.9 - 27:26.1] not gonna be loaded into the file manager.
+[27:26.1 - 27:31.6] Um, but you guys can essentially, uh, load your own letters here.
+[27:31.6 - 27:34.2] We have the ability to do our own.
+Timestamped segments truncated to fit terminal limit (5000 chars).
+
+Completed transcription, JSON saved to /home/ubuntu/upload/pasted_file_dnI4PT_V2026-08-19-13-59-11_transcription_20260819_225941.json
+Plain text transcription saved to /home/ubuntu/upload/pasted_file_dnI4PT_V2026-08-19-13-59-11_transcription_20260819_225941.txt

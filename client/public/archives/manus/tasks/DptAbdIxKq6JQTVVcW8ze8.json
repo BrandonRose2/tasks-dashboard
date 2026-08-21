@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-21T12:51:59.884516Z",
+  "task": {
+    "id": "DptAbdIxKq6JQTVVcW8ze8",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786743100",
+    "updated_at": "1786743107",
+    "task_url": "https://manus.im/app/DptAbdIxKq6JQTVVcW8ze8",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "23Glsu5OwHrU5LYUdU0IsQ",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786743101224",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Successfully generated the implementation-ready design brief for the Healthcare billing office archetype."
+      },
+      "id": "EEOXCWWjpVcuR2OklEznJT",
+      "timestamp": "1786743107429",
+      "type": "assistant_message"
+    },
+    {
+      "id": "X23whpQvhuwgkLfmj6ti2b",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786743107630",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

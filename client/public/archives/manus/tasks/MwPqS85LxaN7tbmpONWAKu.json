@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-21T12:52:05.987149Z",
+  "task": {
+    "id": "MwPqS85LxaN7tbmpONWAKu",
+    "title": "Wide Research Subtask",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1786743100",
+    "updated_at": "1786743105",
+    "task_url": "https://manus.im/app/MwPqS85LxaN7tbmpONWAKu",
+    "message_count": 0
+  },
+  "event_count": 3,
+  "events": [
+    {
+      "id": "85RmYBPGya0UeTt77OZc0i",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786743100829",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Successfully created the design brief for the Minimal SaaS platform invoice archetype."
+      },
+      "id": "IPdozJrDMKgCoIAON6HGJM",
+      "timestamp": "1786743105760",
+      "type": "assistant_message"
+    },
+    {
+      "id": "i8nBKLK3m3V8FrrqQ0z4Bn",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786743105882",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

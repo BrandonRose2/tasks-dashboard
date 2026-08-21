@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-21T12:51:19.347160Z",
+  "task": {
+    "id": "VaWSgzAdx45vYi6BPCE2cg",
+    "title": "Company Software Presentation Topics and Discussion Points",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6",
+    "credits_used": 0,
+    "created_at": "1787176943",
+    "updated_at": "1787177068",
+    "task_url": "https://manus.im/app/VaWSgzAdx45vYi6BPCE2cg",
+    "message_count": 0
+  },
+  "event_count": 5,
+  "events": [
+    {
+      "id": "hmxStX4UlQ0Rs0CZng3osw",
+      "timestamp": "1787176942218",
+      "type": "user_message",
+      "user_message": {
+        "content": "I am to give a 1 hr presentation on our company software.  Give me a breakdown of the topics and discussion points that I could go over. www.propertymax.ai/app",
+        "message_type": "text"
+      }
+    },
+    {
+      "id": "A0az654wwWrCoPJQttWZtU-1",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1787176944806",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Understood—I’ll review the software and prepare a practical 60-minute presentation agenda with clear discussion points."
+      },
+      "id": "mAFEyWzVM6yeI5emI4d2Ke",
+      "timestamp": "1787176948654",
+      "type": "assistant_message"
+    },
+    {
+      "assistant_message": {
+        "attachments": [
+          {
+            "content_type": "text/markdown; charset=utf-8",
+            "filename": "propertymax_60_minute_presentation_guide.md",
+            "type": "file",
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/VaWSgzAdx45vYi6BPCE2cg/sandbox/mcsTvAjyyvJE4BVEFdS1g1_1787177068032_na1fn_L2hvbWUvdWJ1bnR1L3Byb3BlcnR5bWF4XzYwX21pbnV0ZV9wcmVzZW50YXRpb25fZ3VpZGU.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvVmFXU2d6QWR4NDV2WWk2QlBDRTJjZy9zYW5kYm94L21jc1R2QWp5eXZKRTRCVkVGZFMxZzFfMTc4NzE3NzA2ODAzMl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCeWIzQmxjblI1YldGNFh6WXdYMjFwYm5WMFpWOXdjbVZ6Wlc1MFlYUnBiMjVmWjNWcFpHVS5tZCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCICpTSArjIU1v0YQ0l4VzBJ--wT7nwpOBvWWqKLdP4TbDAiB-Ru8vimOxq3smUMPKBuZDdwiry1gpPB5sTZS7h~5NRA__"
+          }
+        ],
+        "content": "I prepared a tailored **60-minute PropertyMax.ai presentation guide** with a timed agenda, detailed discussion points, speaker language, transition cues, a live-demo run of show, and audience-specific emphasis. It is grounded in PropertyMax’s public positioning while keeping the workflow adaptable to your actual in-app screens.\n\nThe guide also flags which public performance figures should be presented as **product-positioning claims or targets**, rather than guaranteed outcomes."
+      },
+      "id": "Bka0MMhUBqDJao7ClINdHV",
+      "timestamp": "1787177068297",
+      "type": "assistant_message"
+    },
+    {
+      "id": "Bd2dFzDA1i3aMt7eVqXQl8",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1787177068541",
+      "type": "status_update"
+    }
+  ],
+  "attachments": [
+    {
+      "event_index": 3,
+      "type": "file",
+      "filename": "propertymax_60_minute_presentation_guide.md",
+      "content_type": "text/markdown; charset=utf-8",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/VaWSgzAdx45vYi6BPCE2cg/sandbox/mcsTvAjyyvJE4BVEFdS1g1_1787177068032_na1fn_L2hvbWUvdWJ1bnR1L3Byb3BlcnR5bWF4XzYwX21pbnV0ZV9wcmVzZW50YXRpb25fZ3VpZGU.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvVmFXU2d6QWR4NDV2WWk2QlBDRTJjZy9zYW5kYm94L21jc1R2QWp5eXZKRTRCVkVGZFMxZzFfMTc4NzE3NzA2ODAzMl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCeWIzQmxjblI1YldGNFh6WXdYMjFwYm5WMFpWOXdjbVZ6Wlc1MFlYUnBiMjVmWjNWcFpHVS5tZCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCICpTSArjIU1v0YQ0l4VzBJ--wT7nwpOBvWWqKLdP4TbDAiB-Ru8vimOxq3smUMPKBuZDdwiry1gpPB5sTZS7h~5NRA__",
+      "status": "archived",
+      "bytes": 19507,
+      "archive_path": "attachments/VaWSgzAdx45vYi6BPCE2cg/3-assistant_message-0_a74c65a9fdc43af0_propertymax_60_minute_presentation_guide.md"
+    }
+  ]
+}

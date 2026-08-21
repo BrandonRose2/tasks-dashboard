@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1366" height="768" viewBox="0 0 1366 768">
+  <style>
+    .bg { fill:#F6F8FA; } .nav { fill:#11253F; } .panel { fill:#FFFFFF; stroke:#CBD5E1; stroke-width:1; } .line { stroke:#CBD5E1; stroke-width:1; } .header { font:700 24px Arial, sans-serif; fill:#102A43; } .title { font:700 16px Arial, sans-serif; fill:#102A43; } .body { font:14px Arial, sans-serif; fill:#486581; } .small { font:12px Arial, sans-serif; fill:#627D98; } .navtxt { font:15px Arial, sans-serif; fill:#D9E2EC; } .navactive { fill:#1D3B5B; } .good { fill:#E6F7EE; stroke:#2F855A; } .warn { fill:#FFF7E6; stroke:#D69E2E; } .risk { fill:#FEF2F2; stroke:#C53030; } .blue { fill:#EAF2FF; stroke:#2B6CB0; }
+  </style>
+  <rect class="bg" width="1366" height="768"/>
+  <rect class="nav" x="0" y="0" width="230" height="768"/>
+  <text x="28" y="52" class="header" fill="#FFFFFF">LeaseGuard</text>
+  <text x="28" y="78" class="small" fill="#AFC8E0">RESIDENT APPROVAL DESK</text>
+  <rect class="navactive" x="12" y="126" width="206" height="42" rx="6"/>
+  <text x="32" y="152" class="navtxt">My Work</text>
+  <text x="32" y="202" class="navtxt">Applications</text>
+  <text x="32" y="252" class="navtxt">Exceptions</text>
+  <text x="32" y="302" class="navtxt">Portfolio</text>
+  <text x="32" y="352" class="navtxt">Reports</text>
+  <line x1="28" x2="202" y1="402" y2="402" stroke="#43637F"/>
+  <text x="32" y="444" class="navtxt">Administration</text>
+  <circle cx="42" cy="710" r="16" fill="#4A6C8D"/>
+  <text x="68" y="706" class="navtxt">Jordan M.</text>
+  <text x="68" y="726" class="small" fill="#AFC8E0">Property Manager</text>
+  <rect x="230" y="0" width="1136" height="82" fill="#FFFFFF"/>
+  <line x1="230" x2="1366" y1="82" y2="82" class="line"/>
+  <text x="266" y="51" class="body">Walnut Grove</text><text x="378" y="51" class="body">⌄</text>
+  <rect x="494" y="22" width="326" height="38" rx="6" fill="#F3F6F8"/>
+  <text x="514" y="47" class="small">Search applications, unit, or applicant...</text>
+  <rect x="1180" y="22" width="146" height="38" rx="6" fill="#F3F6F8"/>
+  <text x="1200" y="47" class="body">Jordan M. ▾</text>
+  <text x="270" y="128" class="header">Good morning, Jordan</text>
+  <text x="270" y="154" class="body">Here is what needs your attention today.</text>
+  <text x="1190" y="128" class="body">Tuesday, Aug 19</text>
+  <rect class="panel" x="270" y="185" width="225" height="118" rx="8"/>
+  <text x="292" y="216" class="body">ACTIVE FILES</text><text x="292" y="266" class="header">18</text><text x="292" y="287" class="small">+3 this week</text>
+  <rect class="panel" x="514" y="185" width="225" height="118" rx="8"/>
+  <text x="536" y="216" class="body">NEED ACTION</text><text x="536" y="266" class="header">6</text><text x="536" y="287" class="small">2 overdue</text>
+  <rect class="panel" x="758" y="185" width="225" height="118" rx="8"/>
+  <text x="780" y="216" class="body">EXCEPTIONS</text><text x="780" y="266" class="header">3</text><text x="780" y="287" class="small">2 awaiting regional review</text>
+  <rect class="panel" x="1002" y="185" width="310" height="118" rx="8"/>
+  <text x="1024" y="216" class="body">VERIFICATION COMPLETE</text><text x="1024" y="266" class="header">92%</text><rect x="1128" y="245" width="154" height="11" rx="5" fill="#D9E2EC"/><rect x="1128" y="245" width="142" height="11" rx="5" fill="#2F855A"/>
+  <text x="270" y="350" class="title">Priority queue</text>
+  <rect x="1150" y="324" width="96" height="35" rx="5" fill="#FFFFFF" stroke="#94A3B8"/>
+  <text x="1172" y="347" class="body">Filters ▾</text>
+  <rect x="1256" y="324" width="90" height="35" rx="5" fill="#1D4ED8"/>
+  <text x="1271" y="347" class="body" fill="#FFFFFF">New file</text>
+  <rect class="panel" x="270" y="375" width="1042" height="235" rx="8"/>
+  <rect x="270" y="375" width="1042" height="44" rx="8" fill="#F8FAFC"/>
+  <text x="294" y="402" class="small">APPLICANT</text><text x="485" y="402" class="small">UNIT</text><text x="563" y="402" class="small">READINESS STATUS</text><text x="775" y="402" class="small">NEXT ACTION</text><text x="1121" y="402" class="small">AGE</text><text x="1190" y="402" class="small">OWNER</text>
+  <line x1="270" x2="1312" y1="466" y2="466" class="line"/><line x1="270" x2="1312" y1="514" y2="514" class="line"/><line x1="270" x2="1312" y1="562" y2="562" class="line"/>
+  <text x="294" y="448" class="body">A. Johnson</text><text x="485" y="448" class="body">204</text><rect class="risk" x="563" y="428" width="125" height="26" rx="13"/><text x="577" y="446" class="small" fill="#9B1C1C">BLOCKED</text><text x="775" y="448" class="body">Verify prior landlord</text><text x="1121" y="448" class="body">3d</text><text x="1190" y="448" class="body">Jordan</text>
+  <text x="294" y="496" class="body">M. Rivera</text><text x="485" y="496" class="body">118</text><rect class="warn" x="563" y="476" width="150" height="26" rx="13"/><text x="578" y="494" class="small" fill="#975A16">EXCEPTION REVIEW</text><text x="775" y="496" class="body">Income variance—submit</text><text x="1121" y="496" class="body">2d</text><text x="1190" y="496" class="body">Kim</text>
+  <text x="294" y="544" class="body">C. Lee</text><text x="485" y="544" class="body">307</text><rect class="blue" x="563" y="524" width="125" height="26" rx="13"/><text x="578" y="542" class="small" fill="#1E40AF">IN PROGRESS</text><text x="775" y="544" class="body">Call current employer</text><text x="1121" y="544" class="body">1d</text><text x="1190" y="544" class="body">Jordan</text>
+  <text x="294" y="592" class="body">S. Patel</text><text x="485" y="592" class="body">110</text><rect class="good" x="563" y="572" width="146" height="26" rx="13"/><text x="578" y="590" class="small" fill="#276749">READY FOR REVIEW</text><text x="775" y="592" class="body">Assign decision maker</text><text x="1121" y="592" class="body">1d</text><text x="1190" y="592" class="body">Kim</text>
+  <rect class="panel" x="270" y="634" width="505" height="106" rx="8"/>
+  <text x="294" y="662" class="title">Verification health</text><text x="294" y="691" class="body">Income</text><rect x="382" y="681" width="270" height="12" rx="6" fill="#D9E2EC"/><rect x="382" y="681" width="244" height="12" rx="6" fill="#2F855A"/><text x="666" y="692" class="small">90%</text>
+  <text x="294" y="720" class="body">Employment</text><rect x="382" y="710" width="270" height="12" rx="6" fill="#D9E2EC"/><rect x="382" y="710" width="216" height="12" rx="6" fill="#2B6CB0"/><text x="666" y="721" class="small">80%</text>
+  <rect class="panel" x="800" y="634" width="512" height="106" rx="8"/>
+  <text x="824" y="662" class="title">Exception snapshot</text><text x="824" y="692" class="body">2 awaiting regional review</text><text x="824" y="720" class="body">1 returned for missing evidence</text><text x="1090" y="720" class="small" fill="#1D4ED8">Open queue →</text>
+</svg>

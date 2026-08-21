@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
-  "archived_at": "2026-08-11T15:04:13.585388Z",
+  "archived_at": "2026-08-21T12:55:03.303855Z",
   "task": {
     "id": "CHNqWIuFy9xQUBOZG8F1wW",
     "title": "Run Credit Optimizer Skill in English",
     "status": "stopped",
-    "type": "project",
+    "type": "standard",
     "agent_profile": "manus-1.6",
     "credits_used": 35,
     "created_at": "1784646259",
-    "updated_at": "1784684782",
+    "updated_at": "1786814206",
     "task_url": "https://manus.im/app/CHNqWIuFy9xQUBOZG8F1wW",
     "message_count": 0
   },

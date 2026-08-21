@@ -1,0 +1,64 @@
+[
+  {
+    "entity_year": "Midtown 2020",
+    "output": "/home/ubuntu/court_production/six_approved_final_k1_redactions_v4/2020 Midtown Manor Federal Form 1065 Tax Return_REDACTED_v4.pdf",
+    "output_pages": 13,
+    "approved_occurrence_count": 3,
+    "canonical_identifier_count": 3,
+    "passed": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "entity_year": "Midtown 2021",
+    "output": "/home/ubuntu/court_production/six_approved_final_k1_redactions_v4/2021 Midtown Manor Federal Form 1065 Tax Return_REDACTED_v4.pdf",
+    "output_pages": 14,
+    "approved_occurrence_count": 6,
+    "canonical_identifier_count": 3,
+    "passed": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "entity_year": "Fairfax 2020",
+    "output": "/home/ubuntu/court_production/six_approved_final_k1_redactions_v4/2020 Fairfax Federal Form 1065 Tax Return_REDACTED_v4.pdf",
+    "output_pages": 18,
+    "approved_occurrence_count": 8,
+    "canonical_identifier_count": 7,
+    "passed": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "entity_year": "Fairfax 2021",
+    "output": "/home/ubuntu/court_production/six_approved_final_k1_redactions_v4/2021 Fairfax Federal Tax Return_REDACTED_v4.pdf",
+    "output_pages": 35,
+    "approved_occurrence_count": 0,
+    "canonical_identifier_count": 0,
+    "passed": true,
+    "errors": [],
+    "warnings": [
+      "No nonblank Part II Item E identifier existed; output is trimmed and sanitized with no approved masks"
+    ]
+  },
+  {
+    "entity_year": "Anaheim 2020",
+    "output": "/home/ubuntu/court_production/six_approved_final_k1_redactions_v4/2020 Anaheim Gardens Federal Tax Return_REDACTED_v4.pdf",
+    "output_pages": 18,
+    "approved_occurrence_count": 9,
+    "canonical_identifier_count": 9,
+    "passed": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "entity_year": "Anaheim 2021",
+    "output": "/home/ubuntu/court_production/six_approved_final_k1_redactions_v4/2021 Anaheim Gardens Federal Tax Return_REDACTED_v4.pdf",
+    "output_pages": 20,
+    "approved_occurrence_count": 9,
+    "canonical_identifier_count": 9,
+    "passed": true,
+    "errors": [],
+    "warnings": []
+  }
+]

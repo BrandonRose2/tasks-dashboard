@@ -1,0 +1,17 @@
+unit,tenant,manager_verified,effective_rent,case_number,court_defendant,plaintiff,hearing_date,hearing_time,judgment,case_type,match_type
+204-G,"Stevenson, Desiree",Y,1518.0,GV26002425-00,"Stevenson, Desiree",Granite Walnut Hill,2026-05-27,08:30 AM,Plaintiff,Unlawful Detainer,Exact name match
+301-F,"McLaughlin, TaQuona",N,1673.0,GV25005443-00,"Mclaughlin, Taquona",Granite Walnut Hill,2025-11-12,08:30 AM,Plaintiff,Unlawful Detainer,Exact name match
+301-L,"Leonard, Nija",N,2100.0,GV26000326-00,"Leonard, Nija",Granite Walnut Hill,2026-02-18,08:30 AM,Plaintiff,Unlawful Detainer,Exact name match
+302-D,"Spence, Kristel",N,1518.0,GV25000846-00,"Spence, Kristel",Granite Walnut Hill LLC,2025-03-19,08:30 AM,Plaintiff,Unlawful Detainer,Exact name match
+304-H,"Dobson, Sabrina",N,1482.0,GV25003667-00,"Dobson, Sabrina",Granite Walnut Hill LLC,2025-09-17,01:00 PM,Plaintiff,Unlawful Detainer,Exact name match
+101-B,"Bradshaw, Darrius Terrell",Y,1346.0,GV26003113-00,"Bradshaw, Darrius",Granite Walnut Hill LLC,2026-07-22,10:00 AM,Plaintiff,Unlawful Detainer,Exact name match
+104-H,"Thompson, Whitney",N,2100.0,GV26000327-00,"Thompson, Whitney",Granite Walnut Hill,2026-02-18,08:30 AM,Other,Unlawful Detainer,Exact name match
+105-K,"White, Nejla M",N,1346.0,GV26000366-00,"White, Nejla",Granite Walnut Hill,2026-02-11,08:30 AM,Plaintiff,Unlawful Detainer,Exact name match
+201-D,"White, Khi'Zhane Arvey",N,1346.0,GV26003120-00,"White, Khi'Zhane",Granite Walnut Hill LLC,2026-07-22,10:00 AM,Plaintiff,Unlawful Detainer,Exact name match
+402-F,"Seward, Patrice S",Y,1325.0,GV26003117-00,"Seward, Patrice",Granite Walnut Hill LLC,2026-07-22,10:00 AM,Plaintiff,Unlawful Detainer,Exact name match
+402-G,"Smith III, Wilbert Lee",N,1346.0,GV26003118-00,"Smith, Wilbert Iii",Granite Walnut Hill LLC,2026-07-22,10:00 AM,Plaintiff,Unlawful Detainer,Exact name match
+402-H,"Davis, Michelle Denise",N,1346.0,GV26003115-00,"Davis, Michelle",Granite Walnut Hill LLC,2026-07-22,10:00 AM,Plaintiff,Unlawful Detainer,Exact name match
+402-I,"Couch, Ty'Neshia Marqushia",N,1346.0,GV26002424-00,"Couch, Tyneshia",Granite Walnut Hill,2026-05-27,08:30 AM,Plaintiff,Unlawful Detainer,Exact name match
+402-L,"Taylor, Makiyah Kailei",N,1346.0,GV26003119-00,"Taylor, Makiyah",Granite Walnut Hill LLC,2026-07-22,10:00 AM,Plaintiff,Unlawful Detainer,Exact name match
+103-J,"Boone, Tiera S",Y,1325.0,GV25003663-00,"Boone, Tierra",Granite Walnut Hill LLC,2025-08-13,10:00 AM,Plaintiff,Unlawful Detainer,Review candidate — spelling/name variant
+202-E,"Luten-Yates, Kim Denise",N,1346.0,GV26003116-00,"Lunten-Yates, Kim",Granite Walnut Hill LLC,2026-07-22,10:00 AM,Plaintiff,Unlawful Detainer,Review candidate — spelling/name variant
