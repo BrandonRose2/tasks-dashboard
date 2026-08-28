@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
-  "archived_at": "2026-08-11T15:09:05.844910Z",
+  "archived_at": "2026-08-28T21:49:28.965048Z",
   "task": {
     "id": "gkPG1zk4auEHTrVhxz68oR",
     "title": "Piano Composition Mastery",
-    "status": "stopped",
+    "status": "waiting",
     "type": "project",
     "agent_profile": "manus-1.6",
     "credits_used": 18524,
     "created_at": "1781724193",
-    "updated_at": "1786305206",
+    "updated_at": "1787778013",
     "task_url": "https://manus.im/app/gkPG1zk4auEHTrVhxz68oR",
     "message_count": 0
   },
-  "event_count": 860,
+  "event_count": 874,
   "events": [
     {
       "id": "Ny3bRVd8YdlfxyU766gQR7",
@@ -49,13 +49,13 @@
             "content_type": "application/pdf",
             "filename": "La_Campanella_30Day_Framework.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/gkPG1zk4auEHTrVhxz68oR/sandbox/p5uibyycC9gPqsUh550Xr0_1781724466806_na1fn_L2hvbWUvdWJ1bnR1L0xhX0NhbXBhbmVsbGFfMzBEYXlfRnJhbWV3b3Jr.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvZ2tQRzF6azRhdUVIVHJWaHh6NjhvUi9zYW5kYm94L3A1dWlieXljQzlnUHFzVWg1NTBYcjBfMTc4MTcyNDQ2NjgwNl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDB4aFgwTmhiWEJoYm1Wc2JHRmZNekJFWVhsZlJuSmhiV1YzYjNKci5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCdClNDiKZL2i7AB3JuHeiK28m8Wpl7TrKdfUNk8q5L4AIgE8ogTPweDNB48bmxJIaLZ7b9pr6LWUO-8UUe31q91tE_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/gkPG1zk4auEHTrVhxz68oR/sandbox/p5uibyycC9gPqsUh550Xr0_1781724466806_na1fn_L2hvbWUvdWJ1bnR1L0xhX0NhbXBhbmVsbGFfMzBEYXlfRnJhbWV3b3Jr.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvZ2tQRzF6azRhdUVIVHJWaHh6NjhvUi9zYW5kYm94L3A1dWlieXljQzlnUHFzVWg1NTBYcjBfMTc4MTcyNDQ2NjgwNl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDB4aFgwTmhiWEJoYm1Wc2JHRmZNekJFWVhsZlJuSmhiV1YzYjNKci5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODk0MzA0MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDOob0wU3KXC9WQRuvBjaLpewSA5V74pIuSNysuR3AQ7AIgdTwBGtJnKaXzPg6w8O~mTsjbQm4IOtnWdoGFxBiDoBY_"
           },
           {
             "content_type": "text/markdown; charset=utf-8",
             "filename": "La_Campanella_30Day_Framework.md",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/gkPG1zk4auEHTrVhxz68oR/sandbox/p5uibyycC9gPqsUh550Xr0_1781724466806_na1fn_L2hvbWUvdWJ1bnR1L0xhX0NhbXBhbmVsbGFfMzBEYXlfRnJhbWV3b3Jr.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvZ2tQRzF6azRhdUVIVHJWaHh6NjhvUi9zYW5kYm94L3A1dWlieXljQzlnUHFzVWg1NTBYcjBfMTc4MTcyNDQ2NjgwNl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDB4aFgwTmhiWEJoYm1Wc2JHRmZNekJFWVhsZlJuSmhiV1YzYjNKci5tZCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCCHavUMlvbx0W5vme1iPiLTJVNwGen0lsuzU-s3yX7rwIgGD6Ey34XOF2yh-zHR3E~mvbvsAu9p3T2VsgKL~3BnEA_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/gkPG1zk4auEHTrVhxz68oR/sandbox/p5uibyycC9gPqsUh550Xr0_1781724466806_na1fn_L2hvbWUvdWJ1bnR1L0xhX0NhbXBhbmVsbGFfMzBEYXlfRnJhbWV3b3Jr.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvZ2tQRzF6azRhdUVIVHJWaHh6NjhvUi9zYW5kYm94L3A1dWlieXljQzlnUHFzVWg1NTBYcjBfMTc4MTcyNDQ2NjgwNl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDB4aFgwTmhiWEJoYm1Wc2JHRmZNekJFWVhsZlJuSmhiV1YzYjNKci5tZCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIFLlAKVKSKuQOkjPrItERUrn4REF7VU2qnYNMlgwpYe6AiBF7gAa~UAp1hooaRfM4HAslUdWg4MnZxqANfH84QALqA__"
           }
         ],
         "content": "Your complete *La Campanella* analysis and 30-day practice framework is ready. Both a Markdown and a PDF version are attached. Here is a summary of everything covered:\n\n---\n\n## What Is Covered in the Framework\n\n### Part I — Historical Context\n\"La Campanella\" traces its origins to Paganini's Violin Concerto No. 2 (1826), which Liszt heard performed in Paris in 1832 at age 20. He was so overwhelmed that he spent the next two decades refining his transcription through three distinct versions (1834, 1838, and the definitive 1851 edition in G-sharp minor). The final version was deliberately lightened in texture and moved to the upper register to achieve its signature shimmering, bell-like elegance.\n\n### Part II — Complete Technical Evaluation\nThe piece presents five core technical challenges, each analyzed in detail:\n\n| Challenge | Location | Why It Is Difficult |\n| :--- | :--- | :--- |\n| **Large Leaps** | Throughout; worst at mm. 30–32 | RH spans up to two octaves + a second within a sixteenth note; LH nearly three octaves at m. 101 |\n| **Repeated Notes** | Opening and variation themes | Must ring cleanly like a bell; requires alternating fingers without tension |\n| **4-5 Finger Trills** | mm. 80–83 | Weakest fingers share a tendon; must sustain while voicing a lower melody |\n| **Chromatic Scales** | mm. 73+ | Must be feather-light and perfectly even at high speed |\n| **Octaves & Chords** | Climax section | Requires wrist bounce endurance without locking up |\n\n### Part III — Targeted Hanon Exercises\nEleven specific Hanon exercises are mapped directly to the piece's demands, including No. 46 (trills), No. 44–45 (repeated notes), No. 40 (chromatic scales), No. 53 (octave scales), No. 31 & 6 (extensions), and No. 39 & 41 (scales and arpeggios in G-sharp minor).\n\n### Part IV — The 30-Day Daily Schedule\nThe plan is structured into four progressive weeks with a daily 2–2.5 hour session:\n\n- **Week 1 (Days 1–7):** Anatomy — learn every section hands-separately at 50% tempo\n- **Week 2 (Days 8–14):** Hands together at 60% tempo; prioritize accuracy over speed\n- **Week 3 (Days 15–21):** Systematic tempo building with metronome; drill the three hardest passages\n- **Week 4 (Days 22–30):** Performance preparation — endurance runs, musical shaping, and a final benchmark performance\n\n### Part V — Essential Principles\nThe framework also covers injury prevention (never practice through tension), metronome discipline, memorization strategy, and the importance of listening to master recordings for musical inspiration.\n\n---\n\nGood luck — this is one of the great journeys in piano playing. Take it one day at a time."
@@ -530,7 +530,7 @@
             "content_type": "image/png",
             "filename": "Screenshot2026-06-20at11.44.51AM.png",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-qdQOFdbww8oFU7M4WPuZWt_na1fn_U2NyZWVuc2hvdDIwMjYtMDYtMjBhdDExLjQ0LjUxQU0.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1xZFFPRmRid3c4b0ZVN000V1B1Wld0X25hMWZuX1UyTnlaV1Z1YzJodmRESXdNall0TURZdE1qQmhkREV4TGpRMExqVXhRVTAucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDI1l6a67oht5VOkuAXsPDezxqgDhXbNvHh21fCWKZ3RgIgNrcD913dk2FJZETVz1Kwya~RV48BWCxGqvr18etb0fs_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-qdQOFdbww8oFU7M4WPuZWt_na1fn_U2NyZWVuc2hvdDIwMjYtMDYtMjBhdDExLjQ0LjUxQU0.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1xZFFPRmRid3c4b0ZVN000V1B1Wld0X25hMWZuX1UyTnlaV1Z1YzJodmRESXdNall0TURZdE1qQmhkREV4TGpRMExqVXhRVTAucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCICPCt7lTVkdaWug1eIDW~OtfQAoHVz636ROynmXU~AGzAiAgVl3ub~RB32oTI74RGgg5eSzqksMW-k1ttd1IpGB5kg__"
           }
         ],
         "content": "Whenever I drop a piano composition into the Webpage Portal I guess this error ",
@@ -1314,7 +1314,7 @@
             "content_type": "application/pdf",
             "filename": "Piano_Mastery_Portal_Guide.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/gkPG1zk4auEHTrVhxz68oR/sandbox/U5e0Pg9oUkYcgc7gYyeK8u_1781997499787_na1fn_L2hvbWUvdWJ1bnR1L1BpYW5vX01hc3RlcnlfUG9ydGFsX0d1aWRl.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvZ2tQRzF6azRhdUVIVHJWaHh6NjhvUi9zYW5kYm94L1U1ZTBQZzlvVWtZY2djN2dZeWVLOHVfMTc4MTk5NzQ5OTc4N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDFCcFlXNXZYMDFoYzNSbGNubGZVRzl5ZEdGc1gwZDFhV1JsLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDHqK8kCLuKjAijhvG9J0jpd56u-XXrj6Igux0mW5xCdQIhAN5fyAnuZyz2Z5Bs04yyneZ5RxzboMAUCZUcw3PCBJWI"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/gkPG1zk4auEHTrVhxz68oR/sandbox/U5e0Pg9oUkYcgc7gYyeK8u_1781997499787_na1fn_L2hvbWUvdWJ1bnR1L1BpYW5vX01hc3RlcnlfUG9ydGFsX0d1aWRl.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvZ2tQRzF6azRhdUVIVHJWaHh6NjhvUi9zYW5kYm94L1U1ZTBQZzlvVWtZY2djN2dZeWVLOHVfMTc4MTk5NzQ5OTc4N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDFCcFlXNXZYMDFoYzNSbGNubGZVRzl5ZEdGc1gwZDFhV1JsLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIAbCV0b3tyfvn34oefatmGsSgeurLeCY2vzo37mq-V6EAiEAsBKaXKsNuOOHRQAC9Cs6Lv6iaJNFLwHDJABbEvs8VLU_"
           }
         ],
         "content": "Your **Piano Mastery Portal Guide** is ready — a 8-page, fully designed PDF with the dramatic concert hall piano background throughout, antique gold accents, and Playfair Display typography matching the app's Nocturne aesthetic.\n\nHere is what is inside:\n\n- **Page 1 — Cover** with the live app link embedded\n- **Page 2 — The Story** — how and why the app was built, the tech stack\n- **Page 3 — Getting Started** — a 7-step walkthrough from sign-in to first practice day\n- **Page 4 — Features** — AI analysis, score viewer, split-screen, 30-day tracker, YouTube integration\n- **Page 5 — More Features** — sheet music search, streaming platforms, library tools, privacy\n- **Page 6 — La Campanella Study** — the full technical breakdown and Hanon mapping for the featured piece\n- **Page 7 — Quick Reference** — tips, weekly tempo targets, injury prevention, sharing guide\n- **Page 8 — Back Cover** with both the app URL and GitHub link\n\nBoth links — the live app and the GitHub repo — are clickable throughout the PDF."
@@ -1556,7 +1556,7 @@
             "content_type": "application/pdf",
             "filename": "Piano_Mastery_Portal_Guide.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/gkPG1zk4auEHTrVhxz68oR/sandbox/TjRayTlTwq1Cb5fI15WOcc_1781999007538_na1fn_L2hvbWUvdWJ1bnR1L1BpYW5vX01hc3RlcnlfUG9ydGFsX0d1aWRl.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvZ2tQRzF6azRhdUVIVHJWaHh6NjhvUi9zYW5kYm94L1RqUmF5VGxUd3ExQ2I1ZkkxNVdPY2NfMTc4MTk5OTAwNzUzOF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDFCcFlXNXZYMDFoYzNSbGNubGZVRzl5ZEdGc1gwZDFhV1JsLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCL7WG~kKZg-xIaoL6OQhTOzUQ9tQmjD98BUPOExpl3BgIhAL4FSKsiXAX~JqOKzraujaoss6hujsPn4KIfAHohEfYo"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/gkPG1zk4auEHTrVhxz68oR/sandbox/TjRayTlTwq1Cb5fI15WOcc_1781999007538_na1fn_L2hvbWUvdWJ1bnR1L1BpYW5vX01hc3RlcnlfUG9ydGFsX0d1aWRl.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvZ2tQRzF6azRhdUVIVHJWaHh6NjhvUi9zYW5kYm94L1RqUmF5VGxUd3ExQ2I1ZkkxNVdPY2NfMTc4MTk5OTAwNzUzOF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDFCcFlXNXZYMDFoYzNSbGNubGZVRzl5ZEdGc1gwZDFhV1JsLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIGvFo6zgTQswrJ37rFp-hqJ2l1OwSbmjw-i6zJsxlFJZAiBT3ABeoPZTx84ZANA57HWbHTH3ajMunhSjU2gs9iq~lg__"
           }
         ],
         "content": "The updated PDF guide is ready. Here is a summary of what changed and what is included.\n\n**What was updated**\n\nThe PDF has been completely redesigned and expanded from scratch. The previous version was a basic document; this version is a polished, print-quality 15-page reference guide with a dark piano-themed cover, a structured table of contents, and consistent page headers and footers throughout.\n\n**New features documented**\n\nEvery feature added to the portal is now covered in dedicated sections, including the **Floating Metronome Widget** (Section 08, with a full feature table covering BPM range, tap tempo, time signatures, beat indicator, and tempo reference marks), **Split-Screen Practice Mode** (Section 07), the **In-App Score Viewer** with zoom and fullscreen (Section 06), **Streaming Platform Links** (Section 12), **Import Score from URL** (Section 13), the **Start-Date Picker** for the 30-day tracker (Section 05), and **Progress Bars** on library cards (Section 10).\n\n**Visual improvements**\n\nThe redesign uses a consistent gold-and-dark color language throughout, with feature cards, numbered step lists, info boxes, dark banners, and a full-width quick-reference table on page 14. Typography is set in Georgia for body text and Courier New for labels and code, giving the document a professional editorial feel that matches the portal's aesthetic.\n\n**Document structure**\n\n| Section | Pages | Content |\n|---|---|---|\n| Cover | 1 | Dark themed cover with URL and version |\n| Table of Contents | 1 | 16 sections with page numbers |\n| Getting Started | 2 | Overview, sign-in, upload workflow |\n| Core Features | 6 | AI analysis, 30-day tracker, score viewer, split-screen, metronome, performance video |\n| Library & Discovery | 2 | Library management, IMSLP search, streaming links, URL import |\n| Built-In Study Guide | 1 | La Campanella — Franz Liszt |\n| Reference | 2 | Feature quick-reference table, tips and best practices |"
@@ -1842,7 +1842,7 @@
             "content_type": "application/pdf",
             "filename": "Piano_Mastery_Portal_Guide.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/gkPG1zk4auEHTrVhxz68oR/sandbox/E3aAZKaiYTd2JeShyozmKE_1782067258611_na1fn_L2hvbWUvdWJ1bnR1L1BpYW5vX01hc3RlcnlfUG9ydGFsX0d1aWRl.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvZ2tQRzF6azRhdUVIVHJWaHh6NjhvUi9zYW5kYm94L0UzYUFaS2FpWVRkMkplU2h5b3ptS0VfMTc4MjA2NzI1ODYxMV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDFCcFlXNXZYMDFoYzNSbGNubGZVRzl5ZEdGc1gwZDFhV1JsLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDdd2abN7ZYHXSg-7OIK3EamNaWk5P~-Qq6JQtq3AB8UwIgTFIS8g2eeVy-aUKVCJY6FljnB0audAl4xIP5L0SDxTc_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/gkPG1zk4auEHTrVhxz68oR/sandbox/E3aAZKaiYTd2JeShyozmKE_1782067258611_na1fn_L2hvbWUvdWJ1bnR1L1BpYW5vX01hc3RlcnlfUG9ydGFsX0d1aWRl.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvZ2tQRzF6azRhdUVIVHJWaHh6NjhvUi9zYW5kYm94L0UzYUFaS2FpWVRkMkplU2h5b3ptS0VfMTc4MjA2NzI1ODYxMV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDFCcFlXNXZYMDFoYzNSbGNubGZVRzl5ZEdGc1gwZDFhV1JsLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDywCc6J2-YeXeoquRqminncGmXKfrSJvsyPH2SiMWVhwIhAPCrId4GaeUrfErDDrH16r3jBpFX4-X9XEpsLp7JPRaa"
           }
         ],
         "content": "The PDF is updated. Section 09 — Performance Video Search — now documents all the new behaviour across 5 numbered steps, including how to choose from up to 5 selectable video cards, how to paste a custom YouTube URL to override the search results, how to clear the override, and a reference table of all accepted URL formats. The quick-reference table on the final page has also been updated to reflect the new capabilities. The guide remains 15 pages."
@@ -2633,7 +2633,7 @@
             "content_type": "application/pdf",
             "filename": "Piano_Mastery_Portal_Guide.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/gkPG1zk4auEHTrVhxz68oR/sandbox/3w7pgbjGt1EfS3WYcQbaze_1782092052595_na1fn_L2hvbWUvdWJ1bnR1L1BpYW5vX01hc3RlcnlfUG9ydGFsX0d1aWRl.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvZ2tQRzF6azRhdUVIVHJWaHh6NjhvUi9zYW5kYm94LzN3N3BnYmpHdDFFZlMzV1ljUWJhemVfMTc4MjA5MjA1MjU5NV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDFCcFlXNXZYMDFoYzNSbGNubGZVRzl5ZEdGc1gwZDFhV1JsLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDYzWwOdjuRBeFhcrNLTjCaDif2dF03NJphbP0f7O-4dAiBYS79scoua~kImDZZoJHP66m6pOfsuw4X3QYyYw2iPRw__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/gkPG1zk4auEHTrVhxz68oR/sandbox/3w7pgbjGt1EfS3WYcQbaze_1782092052595_na1fn_L2hvbWUvdWJ1bnR1L1BpYW5vX01hc3RlcnlfUG9ydGFsX0d1aWRl.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvZ2tQRzF6azRhdUVIVHJWaHh6NjhvUi9zYW5kYm94LzN3N3BnYmpHdDFFZlMzV1ljUWJhemVfMTc4MjA5MjA1MjU5NV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDFCcFlXNXZYMDFoYzNSbGNubGZVRzl5ZEdGc1gwZDFhV1JsLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQC2qwQAd16MUMSmp5F3FAr~ZQGzILns5McK0XZsUGSNPQIgZC4aJOrNRl0F9U9lmTvTvWsXS18Qls0233F-bfcGquQ_"
           }
         ],
         "content": "Here is the updated PDF — now 16 clean pages with no blank pages. The guide includes the two new rows in the quick-reference table (Username/Password Login and Mobile Responsive Layout) and a new **\"Using the Portal on Mobile\"** section in the Tips chapter covering the compact nav, 6-column day grid, stacked milestones, and viewport-safe metronome panel."
@@ -3150,7 +3150,7 @@
             "content_type": "text/plain",
             "filename": "pasted_content.txt",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-0Qqda6RzPby1BDRFohEnr9_na1fn_cGFzdGVkX2NvbnRlbnQ.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC0wUXFkYTZSelBieTFCRFJGb2hFbnI5X25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIG83JnsYwXwYliGmIk4lpMJYZ0cbDdb63p9YUK05Sj-RAiBlJJoZcWjF~1gDld~XmAYWx33BazPcCizbfbNYcMFEPw__"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-0Qqda6RzPby1BDRFohEnr9_na1fn_cGFzdGVkX2NvbnRlbnQ.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC0wUXFkYTZSelBieTFCRFJGb2hFbnI5X25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCE1w38zfRRaM60QkZI1D4KSeq7ScNvZba-lhJuN~naegIgbqdI1o6kNAAAngFu60u-66YRyFsLB5VgOWEHidp2mzI_"
           }
         ],
         "message_type": "text"
@@ -3202,7 +3202,7 @@
             "content_type": "text/plain",
             "filename": "pasted_content_2.txt",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-nwwbpbyyQpxRDbVtmUI2C0_na1fn_cGFzdGVkX2NvbnRlbnRfMg.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1ud3dicGJ5eVFweFJEYlZ0bVVJMkMwX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblJmTWcudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIDrJOYcpa0tr5U8sidEFVjidmPymeeiK20blw8Tult6iAiEAjz7qbFgHskqlgZ37cu--eLsmoU8E-b0pF8iwlN-jZLI_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-nwwbpbyyQpxRDbVtmUI2C0_na1fn_cGFzdGVkX2NvbnRlbnRfMg.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1ud3dicGJ5eVFweFJEYlZ0bVVJMkMwX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblJmTWcudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCICT6W3Lt5uK8rdmLHTueYkhcfXYbxjboDxHeyeafCgH2AiA1xMAp0RerUVWSQ97FXE7-NPhVyQwEvNYeWpceduf~uQ__"
           }
         ],
         "message_type": "text"
@@ -3254,7 +3254,7 @@
             "content_type": "text/plain",
             "filename": "pasted_content_3.txt",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-kCmqxBVx6d71z2jyqwAjZK_na1fn_cGFzdGVkX2NvbnRlbnRfMw.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1rQ21xeEJWeDZkNzF6Mmp5cXdBalpLX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblJmTXcudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQD~Lv9k6xMh4vuLlpqfLkUULpxKwG--vYE6UHjG0I13IQIhAJeIZfGuLdj3Vr1RRiLur9rcGj2xgnWwBkD5DADwa6xI"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-kCmqxBVx6d71z2jyqwAjZK_na1fn_cGFzdGVkX2NvbnRlbnRfMw.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1rQ21xeEJWeDZkNzF6Mmp5cXdBalpLX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblJmTXcudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCICI70PD3BI0VwV~mtU0lrLDondrQJQhaxwuOd9D0nkh6AiAyTkOdwFddV822Q~3NDwxjobd3b9O-A0XftLshY1ftUA__"
           }
         ],
         "message_type": "text"
@@ -3306,7 +3306,7 @@
             "content_type": "text/plain",
             "filename": "pasted_content_4.txt",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-PgVEWuwId61egUkzY45Q2W_na1fn_cGFzdGVkX2NvbnRlbnRfNA.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1QZ1ZFV3V3SWQ2MWVnVWt6WTQ1UTJXX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblJmTkEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIHP~f-ZD0RdI14fzIBaEOZYzVIWfgO9bZbR9u0f7Gi-WAiEA0vkjRPTFCKbety5TR4choi-U1OMT~co2VU6eZUPqKhI_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-PgVEWuwId61egUkzY45Q2W_na1fn_cGFzdGVkX2NvbnRlbnRfNA.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1QZ1ZFV3V3SWQ2MWVnVWt6WTQ1UTJXX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblJmTkEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCQAgHtP0rT9Izhd~QZoZuYQ0UK03on1bQJ9OYsWG2cmwIgTcF6t6nbn1ucqM4nmR0JywoVx6wGGDK3VzHRz1F~EwQ_"
           }
         ],
         "message_type": "text"
@@ -3358,7 +3358,7 @@
             "content_type": "text/plain",
             "filename": "pasted_content_5.txt",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-EOwrlYsnKVenntvYt0Nt3X_na1fn_cGFzdGVkX2NvbnRlbnRfNQ.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1FT3dybFlzbktWZW5udHZZdDBOdDNYX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblJmTlEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIFXZSiKfVK8qcL6gcANVlQwHHHiKUM560NUlGEI9KG8CAiEA~Q9pjog4zB1wvyXIe0E5yw9tgczabnT-1BVLC~CXNXc_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-EOwrlYsnKVenntvYt0Nt3X_na1fn_cGFzdGVkX2NvbnRlbnRfNQ.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1FT3dybFlzbktWZW5udHZZdDBOdDNYX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblJmTlEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIAElW88WFkk4TaW1EnOF3DSXyF0BTIaaXsFyuab1F21YAiBKGFBS0q9q~1bExo-ofEqTlWzm7sc2NPMYMi8fWaaXfg__"
           }
         ],
         "message_type": "text"
@@ -3410,7 +3410,7 @@
             "content_type": "text/plain",
             "filename": "pasted_content_6.txt",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-sEFxxkkoFEOeOmBYfsRkro_na1fn_cGFzdGVkX2NvbnRlbnRfNg.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1zRUZ4eGtrb0ZFT2VPbUJZZnNSa3JvX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblJmTmcudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCDZrin~dUNAJ1mdIOxzPtvygMbnIkO2NY-MEGNfdGcEAIhANF~NKhhvNMeYzXE7IONtVQDWc9oI3VBBmULunQ8V5K-"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-sEFxxkkoFEOeOmBYfsRkro_na1fn_cGFzdGVkX2NvbnRlbnRfNg.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1zRUZ4eGtrb0ZFT2VPbUJZZnNSa3JvX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblJmTmcudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCAFQxXh5oyUXbxZcqIOYgP9WjcqgQDO5T4UdcrRdXhJwIhAJe~QL-HgSNCMnuydQZndCPdOaTl~NqF3O10RQRtjw~s"
           }
         ],
         "message_type": "text"
@@ -3462,7 +3462,7 @@
             "content_type": "text/plain",
             "filename": "pasted_content_7.txt",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-Ikrhz3qAgm7inY3LhEYPOG_na1fn_cGFzdGVkX2NvbnRlbnRfNw.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1Ja3JoejNxQWdtN2luWTNMaEVZUE9HX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblJmTncudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDf6P-8mxoAUKtT68OBYOna2b0EPPPokcLI96nUSDIP9wIhAI5VPlEexZhmaFjXJ0fkHJIzsWCnlxreX96HcbiWs9nZ"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-Ikrhz3qAgm7inY3LhEYPOG_na1fn_cGFzdGVkX2NvbnRlbnRfNw.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1Ja3JoejNxQWdtN2luWTNMaEVZUE9HX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblJmTncudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDVM8EJvvIAaz4h0cmqe-t868ellKcEYIB1wPKBOo9WIwIhANpfXr~UcwDS~ipo-gGvnjPZ-kzkxF~F29BzxLC5F662"
           }
         ],
         "message_type": "text"
@@ -3514,7 +3514,7 @@
             "content_type": "text/plain",
             "filename": "pasted_content_8.txt",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-7tSehyxRTfFLgqbC427itp_na1fn_cGFzdGVkX2NvbnRlbnRfOA.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC03dFNlaHl4UlRmRkxncWJDNDI3aXRwX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblJmT0EudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCHxLU7~Y5GRxXrgc7DvL147LrRwauXIejEPjYnVGA4N8CIQCcpfGkXSdA03rUN6MRbnjxLXVx31FjCd5sgNs32ysx1A__"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-7tSehyxRTfFLgqbC427itp_na1fn_cGFzdGVkX2NvbnRlbnRfOA.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC03dFNlaHl4UlRmRkxncWJDNDI3aXRwX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblJmT0EudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIDW-9mokIwA4gHQ5sC-MX42JqsdTJmT4eOlujnbMXZ2rAiEAsG1UyrDGlINJle4DbjUTFAXw80AEMw1NiRERu9gSnw8_"
           }
         ],
         "message_type": "text"
@@ -3640,7 +3640,7 @@
             "content_type": "image/png",
             "filename": "pasted_file_2XaWKy_image.png",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-zEaADWc3vE5d5JP46T1DCh_na1fn_cGFzdGVkX2ZpbGVfMlhhV0t5X2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC16RWFBRFdjM3ZFNWQ1SlA0NlQxRENoX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZNbGhoVjB0NVgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCARaweC6kchU8WiSCdztI~2y1k6g1hLaGARNCYQCVhegIhAKYhCCef6eqp3g6trx79ux879eJEVpYjGkDxtjll9KqF"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-zEaADWc3vE5d5JP46T1DCh_na1fn_cGFzdGVkX2ZpbGVfMlhhV0t5X2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC16RWFBRFdjM3ZFNWQ1SlA0NlQxRENoX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZNbGhoVjB0NVgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIH-~LNedz5j-E9-dph0Yo3h6HCtpnlv8JfW9S~tjVBROAiEAlLtRXQmBwA~N1m-efej0ObsBOZTo1s7fjPcw9GSUYO0_"
           }
         ],
         "message_type": "text"
@@ -8077,6 +8077,139 @@
       },
       "timestamp": "1786304849111",
       "type": "status_update"
+    },
+    {
+      "id": "2h43sfCHEbmerqv5oBJBuY",
+      "timestamp": "1787766503518",
+      "type": "user_message",
+      "user_message": {
+        "content": "Add a drag-and-drop feature to move pieces between composer folders",
+        "message_type": "text"
+      }
+    },
+    {
+      "id": "eRvubETaGXmoT38qIfLIRk",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1787766503827",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "I’ll add drag-and-drop composer-folder assignment so you can move a piece from one folder to another, with the change saved to your library."
+      },
+      "id": "ikkku3zEZ2t25SEtmm923d",
+      "timestamp": "1787766511243",
+      "type": "assistant_message"
+    },
+    {
+      "id": "QIPfOtFDArnvnnpDJYRQN6",
+      "status_update": {
+        "agent_status": "waiting",
+        "brief": "Manus is waiting for your reply",
+        "description": "Manus will continue working after your reply",
+        "status_detail": {
+          "waiting_for_event_id": "UyCrlDL8FGnqI5M37NOSYY",
+          "waiting_for_event_type": "browserClientDisconnected"
+        }
+      },
+      "timestamp": "1787767223235",
+      "type": "status_update"
+    },
+    {
+      "id": "Fbje95qyfyg7T8m0qXOHNC",
+      "timestamp": "1787777164611",
+      "type": "user_message",
+      "user_message": {
+        "content": "what are you waiting on from me",
+        "message_type": "text"
+      }
+    },
+    {
+      "id": "wmv1pnZCWsUiygRlLQ4wml",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1787777165100",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "**Nothing from you.** The composer-folder drag-and-drop feature is complete, tested, checkpointed, and pushed to GitHub. I was only checking an older, unrelated authenticated-session validation item; it is not blocking this update. You can publish checkpoint **f23aba2a** whenever you are ready."
+      },
+      "id": "Yazd52V1XHWmxfGmxQSe8x",
+      "timestamp": "1787777201556",
+      "type": "assistant_message"
+    },
+    {
+      "id": "BBnKakMof2YC7ph6fmsrgt",
+      "timestamp": "1787777221483",
+      "type": "user_message",
+      "user_message": {
+        "content": "Fix this error:\n**Context:**\nPage: /login\nUser: null\n**Error Message:**\nError 1: Cannot update a component (`AuthGuard`) while rendering a different component (`AuthGuard`). To locate the bad setState() call inside `AuthGuard`, follow the stack trace as described in https://react.dev/link/setstate-in-render\nTime: 2026-08-26T20:46:51.335Z (America/Los_Angeles)\n    at console.<computed> [as error] (https://3000-izfgmxi9rp3854y6fan6k-1293863b.us2.manus.computer/__manus__/debug-collector.js:397:31)\n    at scheduleUpdateOnFiber (https://3000-izfgmxi9rp3854y6fan6k-1293863b.us2.manus.computer/@fs/home/ubuntu/la-campanella/node_modules/.vite/deps/react-dom_client.js?v=4c6c6185:11686:199)\n    at forceStoreRerender (https://3000-izfgmxi9rp3854y6fan6k-1293863b.us2.manus.computer/@fs/home/ubuntu/la-campanella/node_modules/.vite/deps/react-dom_client.js?v=4c6c6185:6105:27)\n    at https://3000-izfgmxi9rp3854y6fan6k-1293863b.us2.manus.computer/@fs/home/ubuntu/la-campanella/node_modules/.vite/deps/react-dom_client.js?v=4c6c6185:6090:107\n    at history.<computed> (https://3000-izfgmxi9rp3854y6fan6k-1293863b.us2.manus.computer/@fs/home/ubuntu/la-campanella/node_modules/.vite/deps/wouter.js?v=4c6c6185:166:7)\n    at History.pushState (https://manus-analytics.com/umami:1:1592)\n    at navigate (https://3000-izfgmxi9rp3854y6fan6k-1293863b.us2.manus.computer/@fs/h... [truncated]\n          ",
+        "message_type": "text"
+      }
+    },
+    {
+      "assistant_message": {
+        "content": "I found the direction of the issue: the login guard is navigating during React’s render cycle. I’ll move that redirect into an effect so the login page can render without the warning."
+      },
+      "id": "AmMEIxhipUrcMAAUjNHUxx",
+      "timestamp": "1787777234666",
+      "type": "assistant_message"
+    },
+    {
+      "id": "FCPVXneSeXbz6cP1J7LJUo",
+      "timestamp": "1787777288325",
+      "type": "user_message",
+      "user_message": {
+        "content": "{\"error\":\"OAuth callback failed\"}",
+        "message_type": "text"
+      }
+    },
+    {
+      "assistant_message": {
+        "content": "I’m checking the OAuth callback failure and the redirect fix together. The login warning and the callback error may share the same route-transition path, so I’ll trace the exact server-side callback failure before changing anything else."
+      },
+      "id": "ztDf1Ykm9FxSCTSMFQVjpH",
+      "timestamp": "1787777295368",
+      "type": "assistant_message"
+    },
+    {
+      "assistant_message": {
+        "content": "The authentication errors are fixed and pushed to GitHub. `AuthGuard` now redirects only from an effect, so the render-phase warning is eliminated. The app now uses the intended local username/password sign-in path; stale OAuth callback URLs return cleanly to `/login` instead of failing. TypeScript, focused auth tests, and the production build all pass."
+      },
+      "id": "mYiyWUTKZ5aeUVtbq5E3ds",
+      "timestamp": "1787777977151",
+      "type": "assistant_message"
+    },
+    {
+      "assistant_message": {
+        "content": "The remaining checklist items are an older **authenticated metronome / split-screen verification**. Your connected browser is currently at the local sign-in page, so I cannot run that interactive check without access to a signed-in session.\n\nIf you want me to complete it now, please sign in on the already-open portal browser tab. You can also provide the login details by message instead. This does **not** block the fixes I just completed."
+      },
+      "id": "9UdYdAg5stTFdHAR4cFlIG",
+      "timestamp": "1787778012959",
+      "type": "assistant_message"
+    },
+    {
+      "id": "ymAu51ehkbVdG6UpCazJGI",
+      "status_update": {
+        "agent_status": "waiting",
+        "brief": "Manus is waiting for your manual control",
+        "description": "You have taken over the browser. Manus will wait for you to complete your actions.",
+        "status_detail": {
+          "waiting_description": "The remaining checklist items are an older **authenticated metronome / split-screen verification**. Your connected browser is currently at the local sign-in page, so I cannot run that interactive check without access to a signed-in session.\n\nIf you want me to complete it now, please sign in on the already-open portal browser tab. You can also provide the login details by message instead. This does **not** block the fixes I just completed.",
+          "waiting_for_event_id": "9UdYdAg5stTFdHAR4cFlIG",
+          "waiting_for_event_type": "messageAskUser"
+        }
+      },
+      "timestamp": "1787778013290",
+      "type": "status_update"
     }
   ],
   "attachments": [
@@ -8085,160 +8218,160 @@
       "type": "file",
       "filename": "La_Campanella_30Day_Framework.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/gkPG1zk4auEHTrVhxz68oR/sandbox/p5uibyycC9gPqsUh550Xr0_1781724466806_na1fn_L2hvbWUvdWJ1bnR1L0xhX0NhbXBhbmVsbGFfMzBEYXlfRnJhbWV3b3Jr.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvZ2tQRzF6azRhdUVIVHJWaHh6NjhvUi9zYW5kYm94L3A1dWlieXljQzlnUHFzVWg1NTBYcjBfMTc4MTcyNDQ2NjgwNl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDB4aFgwTmhiWEJoYm1Wc2JHRmZNekJFWVhsZlJuSmhiV1YzYjNKci5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCdClNDiKZL2i7AB3JuHeiK28m8Wpl7TrKdfUNk8q5L4AIgE8ogTPweDNB48bmxJIaLZ7b9pr6LWUO-8UUe31q91tE_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/gkPG1zk4auEHTrVhxz68oR/sandbox/p5uibyycC9gPqsUh550Xr0_1781724466806_na1fn_L2hvbWUvdWJ1bnR1L0xhX0NhbXBhbmVsbGFfMzBEYXlfRnJhbWV3b3Jr.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvZ2tQRzF6azRhdUVIVHJWaHh6NjhvUi9zYW5kYm94L3A1dWlieXljQzlnUHFzVWg1NTBYcjBfMTc4MTcyNDQ2NjgwNl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDB4aFgwTmhiWEJoYm1Wc2JHRmZNekJFWVhsZlJuSmhiV1YzYjNKci5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODk0MzA0MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDOob0wU3KXC9WQRuvBjaLpewSA5V74pIuSNysuR3AQ7AIgdTwBGtJnKaXzPg6w8O~mTsjbQm4IOtnWdoGFxBiDoBY_",
       "status": "archived",
       "bytes": 108191,
-      "archive_path": "attachments/gkPG1zk4auEHTrVhxz68oR/3-assistant_message-0_28268028ec800dfb_La_Campanella_30Day_Framework.pdf"
+      "archive_path": "attachments/gkPG1zk4auEHTrVhxz68oR/3-assistant_message-0_a95212db5cd2e025_La_Campanella_30Day_Framework.pdf"
     },
     {
       "event_index": 3,
       "type": "file",
       "filename": "La_Campanella_30Day_Framework.md",
       "content_type": "text/markdown; charset=utf-8",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/gkPG1zk4auEHTrVhxz68oR/sandbox/p5uibyycC9gPqsUh550Xr0_1781724466806_na1fn_L2hvbWUvdWJ1bnR1L0xhX0NhbXBhbmVsbGFfMzBEYXlfRnJhbWV3b3Jr.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvZ2tQRzF6azRhdUVIVHJWaHh6NjhvUi9zYW5kYm94L3A1dWlieXljQzlnUHFzVWg1NTBYcjBfMTc4MTcyNDQ2NjgwNl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDB4aFgwTmhiWEJoYm1Wc2JHRmZNekJFWVhsZlJuSmhiV1YzYjNKci5tZCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCCHavUMlvbx0W5vme1iPiLTJVNwGen0lsuzU-s3yX7rwIgGD6Ey34XOF2yh-zHR3E~mvbvsAu9p3T2VsgKL~3BnEA_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/gkPG1zk4auEHTrVhxz68oR/sandbox/p5uibyycC9gPqsUh550Xr0_1781724466806_na1fn_L2hvbWUvdWJ1bnR1L0xhX0NhbXBhbmVsbGFfMzBEYXlfRnJhbWV3b3Jr.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvZ2tQRzF6azRhdUVIVHJWaHh6NjhvUi9zYW5kYm94L3A1dWlieXljQzlnUHFzVWg1NTBYcjBfMTc4MTcyNDQ2NjgwNl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDB4aFgwTmhiWEJoYm1Wc2JHRmZNekJFWVhsZlJuSmhiV1YzYjNKci5tZCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIFLlAKVKSKuQOkjPrItERUrn4REF7VU2qnYNMlgwpYe6AiBF7gAa~UAp1hooaRfM4HAslUdWg4MnZxqANfH84QALqA__",
       "status": "archived",
       "bytes": 18278,
-      "archive_path": "attachments/gkPG1zk4auEHTrVhxz68oR/3-assistant_message-1_72b6349527eb0719_La_Campanella_30Day_Framework.md"
+      "archive_path": "attachments/gkPG1zk4auEHTrVhxz68oR/3-assistant_message-1_3535e8330b7bc34e_La_Campanella_30Day_Framework.md"
     },
     {
       "event_index": 53,
       "type": "image",
       "filename": "Screenshot2026-06-20at11.44.51AM.png",
       "content_type": "image/png",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-qdQOFdbww8oFU7M4WPuZWt_na1fn_U2NyZWVuc2hvdDIwMjYtMDYtMjBhdDExLjQ0LjUxQU0.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1xZFFPRmRid3c4b0ZVN000V1B1Wld0X25hMWZuX1UyTnlaV1Z1YzJodmRESXdNall0TURZdE1qQmhkREV4TGpRMExqVXhRVTAucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDI1l6a67oht5VOkuAXsPDezxqgDhXbNvHh21fCWKZ3RgIgNrcD913dk2FJZETVz1Kwya~RV48BWCxGqvr18etb0fs_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-qdQOFdbww8oFU7M4WPuZWt_na1fn_U2NyZWVuc2hvdDIwMjYtMDYtMjBhdDExLjQ0LjUxQU0.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1xZFFPRmRid3c4b0ZVN000V1B1Wld0X25hMWZuX1UyTnlaV1Z1YzJodmRESXdNall0TURZdE1qQmhkREV4TGpRMExqVXhRVTAucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCICPCt7lTVkdaWug1eIDW~OtfQAoHVz636ROynmXU~AGzAiAgVl3ub~RB32oTI74RGgg5eSzqksMW-k1ttd1IpGB5kg__",
       "status": "archived",
       "bytes": 613667,
-      "archive_path": "attachments/gkPG1zk4auEHTrVhxz68oR/53-user_message-0_34f0d0919fc2ed1d_Screenshot2026-06-20at11.44.51AM.png"
+      "archive_path": "attachments/gkPG1zk4auEHTrVhxz68oR/53-user_message-0_3222db42e0dc27da_Screenshot2026-06-20at11.44.51AM.png"
     },
     {
       "event_index": 142,
       "type": "file",
       "filename": "Piano_Mastery_Portal_Guide.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/gkPG1zk4auEHTrVhxz68oR/sandbox/U5e0Pg9oUkYcgc7gYyeK8u_1781997499787_na1fn_L2hvbWUvdWJ1bnR1L1BpYW5vX01hc3RlcnlfUG9ydGFsX0d1aWRl.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvZ2tQRzF6azRhdUVIVHJWaHh6NjhvUi9zYW5kYm94L1U1ZTBQZzlvVWtZY2djN2dZeWVLOHVfMTc4MTk5NzQ5OTc4N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDFCcFlXNXZYMDFoYzNSbGNubGZVRzl5ZEdGc1gwZDFhV1JsLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDHqK8kCLuKjAijhvG9J0jpd56u-XXrj6Igux0mW5xCdQIhAN5fyAnuZyz2Z5Bs04yyneZ5RxzboMAUCZUcw3PCBJWI",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/gkPG1zk4auEHTrVhxz68oR/sandbox/U5e0Pg9oUkYcgc7gYyeK8u_1781997499787_na1fn_L2hvbWUvdWJ1bnR1L1BpYW5vX01hc3RlcnlfUG9ydGFsX0d1aWRl.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvZ2tQRzF6azRhdUVIVHJWaHh6NjhvUi9zYW5kYm94L1U1ZTBQZzlvVWtZY2djN2dZeWVLOHVfMTc4MTk5NzQ5OTc4N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDFCcFlXNXZYMDFoYzNSbGNubGZVRzl5ZEdGc1gwZDFhV1JsLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIAbCV0b3tyfvn34oefatmGsSgeurLeCY2vzo37mq-V6EAiEAsBKaXKsNuOOHRQAC9Cs6Lv6iaJNFLwHDJABbEvs8VLU_",
       "status": "archived",
       "bytes": 2539329,
-      "archive_path": "attachments/gkPG1zk4auEHTrVhxz68oR/142-assistant_message-0_961ef0ddefe8c16d_Piano_Mastery_Portal_Guide.pdf"
+      "archive_path": "attachments/gkPG1zk4auEHTrVhxz68oR/142-assistant_message-0_1aad56473eca64b5_Piano_Mastery_Portal_Guide.pdf"
     },
     {
       "event_index": 169,
       "type": "file",
       "filename": "Piano_Mastery_Portal_Guide.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/gkPG1zk4auEHTrVhxz68oR/sandbox/TjRayTlTwq1Cb5fI15WOcc_1781999007538_na1fn_L2hvbWUvdWJ1bnR1L1BpYW5vX01hc3RlcnlfUG9ydGFsX0d1aWRl.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvZ2tQRzF6azRhdUVIVHJWaHh6NjhvUi9zYW5kYm94L1RqUmF5VGxUd3ExQ2I1ZkkxNVdPY2NfMTc4MTk5OTAwNzUzOF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDFCcFlXNXZYMDFoYzNSbGNubGZVRzl5ZEdGc1gwZDFhV1JsLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCL7WG~kKZg-xIaoL6OQhTOzUQ9tQmjD98BUPOExpl3BgIhAL4FSKsiXAX~JqOKzraujaoss6hujsPn4KIfAHohEfYo",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/gkPG1zk4auEHTrVhxz68oR/sandbox/TjRayTlTwq1Cb5fI15WOcc_1781999007538_na1fn_L2hvbWUvdWJ1bnR1L1BpYW5vX01hc3RlcnlfUG9ydGFsX0d1aWRl.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvZ2tQRzF6azRhdUVIVHJWaHh6NjhvUi9zYW5kYm94L1RqUmF5VGxUd3ExQ2I1ZkkxNVdPY2NfMTc4MTk5OTAwNzUzOF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDFCcFlXNXZYMDFoYzNSbGNubGZVRzl5ZEdGc1gwZDFhV1JsLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIGvFo6zgTQswrJ37rFp-hqJ2l1OwSbmjw-i6zJsxlFJZAiBT3ABeoPZTx84ZANA57HWbHTH3ajMunhSjU2gs9iq~lg__",
       "status": "archived",
       "bytes": 388423,
-      "archive_path": "attachments/gkPG1zk4auEHTrVhxz68oR/169-assistant_message-0_6aed5a3ca072e1ee_Piano_Mastery_Portal_Guide.pdf"
+      "archive_path": "attachments/gkPG1zk4auEHTrVhxz68oR/169-assistant_message-0_3c7ec06170d43d89_Piano_Mastery_Portal_Guide.pdf"
     },
     {
       "event_index": 200,
       "type": "file",
       "filename": "Piano_Mastery_Portal_Guide.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/gkPG1zk4auEHTrVhxz68oR/sandbox/E3aAZKaiYTd2JeShyozmKE_1782067258611_na1fn_L2hvbWUvdWJ1bnR1L1BpYW5vX01hc3RlcnlfUG9ydGFsX0d1aWRl.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvZ2tQRzF6azRhdUVIVHJWaHh6NjhvUi9zYW5kYm94L0UzYUFaS2FpWVRkMkplU2h5b3ptS0VfMTc4MjA2NzI1ODYxMV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDFCcFlXNXZYMDFoYzNSbGNubGZVRzl5ZEdGc1gwZDFhV1JsLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDdd2abN7ZYHXSg-7OIK3EamNaWk5P~-Qq6JQtq3AB8UwIgTFIS8g2eeVy-aUKVCJY6FljnB0audAl4xIP5L0SDxTc_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/gkPG1zk4auEHTrVhxz68oR/sandbox/E3aAZKaiYTd2JeShyozmKE_1782067258611_na1fn_L2hvbWUvdWJ1bnR1L1BpYW5vX01hc3RlcnlfUG9ydGFsX0d1aWRl.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvZ2tQRzF6azRhdUVIVHJWaHh6NjhvUi9zYW5kYm94L0UzYUFaS2FpWVRkMkplU2h5b3ptS0VfMTc4MjA2NzI1ODYxMV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDFCcFlXNXZYMDFoYzNSbGNubGZVRzl5ZEdGc1gwZDFhV1JsLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDywCc6J2-YeXeoquRqminncGmXKfrSJvsyPH2SiMWVhwIhAPCrId4GaeUrfErDDrH16r3jBpFX4-X9XEpsLp7JPRaa",
       "status": "archived",
       "bytes": 390419,
-      "archive_path": "attachments/gkPG1zk4auEHTrVhxz68oR/200-assistant_message-0_018b62af906e38df_Piano_Mastery_Portal_Guide.pdf"
+      "archive_path": "attachments/gkPG1zk4auEHTrVhxz68oR/200-assistant_message-0_4d1e8d22aa0a85f6_Piano_Mastery_Portal_Guide.pdf"
     },
     {
       "event_index": 282,
       "type": "file",
       "filename": "Piano_Mastery_Portal_Guide.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/gkPG1zk4auEHTrVhxz68oR/sandbox/3w7pgbjGt1EfS3WYcQbaze_1782092052595_na1fn_L2hvbWUvdWJ1bnR1L1BpYW5vX01hc3RlcnlfUG9ydGFsX0d1aWRl.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvZ2tQRzF6azRhdUVIVHJWaHh6NjhvUi9zYW5kYm94LzN3N3BnYmpHdDFFZlMzV1ljUWJhemVfMTc4MjA5MjA1MjU5NV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDFCcFlXNXZYMDFoYzNSbGNubGZVRzl5ZEdGc1gwZDFhV1JsLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDYzWwOdjuRBeFhcrNLTjCaDif2dF03NJphbP0f7O-4dAiBYS79scoua~kImDZZoJHP66m6pOfsuw4X3QYyYw2iPRw__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/gkPG1zk4auEHTrVhxz68oR/sandbox/3w7pgbjGt1EfS3WYcQbaze_1782092052595_na1fn_L2hvbWUvdWJ1bnR1L1BpYW5vX01hc3RlcnlfUG9ydGFsX0d1aWRl.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvZ2tQRzF6azRhdUVIVHJWaHh6NjhvUi9zYW5kYm94LzN3N3BnYmpHdDFFZlMzV1ljUWJhemVfMTc4MjA5MjA1MjU5NV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDFCcFlXNXZYMDFoYzNSbGNubGZVRzl5ZEdGc1gwZDFhV1JsLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQC2qwQAd16MUMSmp5F3FAr~ZQGzILns5McK0XZsUGSNPQIgZC4aJOrNRl0F9U9lmTvTvWsXS18Qls0233F-bfcGquQ_",
       "status": "archived",
       "bytes": 391310,
-      "archive_path": "attachments/gkPG1zk4auEHTrVhxz68oR/282-assistant_message-0_637ee5d64b95d256_Piano_Mastery_Portal_Guide.pdf"
+      "archive_path": "attachments/gkPG1zk4auEHTrVhxz68oR/282-assistant_message-0_d1af5b4a513228da_Piano_Mastery_Portal_Guide.pdf"
     },
     {
       "event_index": 338,
       "type": "file",
       "filename": "pasted_content.txt",
       "content_type": "text/plain",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-0Qqda6RzPby1BDRFohEnr9_na1fn_cGFzdGVkX2NvbnRlbnQ.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC0wUXFkYTZSelBieTFCRFJGb2hFbnI5X25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIG83JnsYwXwYliGmIk4lpMJYZ0cbDdb63p9YUK05Sj-RAiBlJJoZcWjF~1gDld~XmAYWx33BazPcCizbfbNYcMFEPw__",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-0Qqda6RzPby1BDRFohEnr9_na1fn_cGFzdGVkX2NvbnRlbnQ.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC0wUXFkYTZSelBieTFCRFJGb2hFbnI5X25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCE1w38zfRRaM60QkZI1D4KSeq7ScNvZba-lhJuN~naegIgbqdI1o6kNAAAngFu60u-66YRyFsLB5VgOWEHidp2mzI_",
       "status": "archived",
       "bytes": 8805,
-      "archive_path": "attachments/gkPG1zk4auEHTrVhxz68oR/338-user_message-0_4ead07827da198e0_pasted_content.txt"
+      "archive_path": "attachments/gkPG1zk4auEHTrVhxz68oR/338-user_message-0_7bf23005565e3ed0_pasted_content.txt"
     },
     {
       "event_index": 343,
       "type": "file",
       "filename": "pasted_content_2.txt",
       "content_type": "text/plain",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-nwwbpbyyQpxRDbVtmUI2C0_na1fn_cGFzdGVkX2NvbnRlbnRfMg.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1ud3dicGJ5eVFweFJEYlZ0bVVJMkMwX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblJmTWcudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIDrJOYcpa0tr5U8sidEFVjidmPymeeiK20blw8Tult6iAiEAjz7qbFgHskqlgZ37cu--eLsmoU8E-b0pF8iwlN-jZLI_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-nwwbpbyyQpxRDbVtmUI2C0_na1fn_cGFzdGVkX2NvbnRlbnRfMg.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1ud3dicGJ5eVFweFJEYlZ0bVVJMkMwX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblJmTWcudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCICT6W3Lt5uK8rdmLHTueYkhcfXYbxjboDxHeyeafCgH2AiA1xMAp0RerUVWSQ97FXE7-NPhVyQwEvNYeWpceduf~uQ__",
       "status": "archived",
       "bytes": 10574,
-      "archive_path": "attachments/gkPG1zk4auEHTrVhxz68oR/343-user_message-0_fd0f3d8c53f07e85_pasted_content_2.txt"
+      "archive_path": "attachments/gkPG1zk4auEHTrVhxz68oR/343-user_message-0_bc646eb79e532138_pasted_content_2.txt"
     },
     {
       "event_index": 348,
       "type": "file",
       "filename": "pasted_content_3.txt",
       "content_type": "text/plain",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-kCmqxBVx6d71z2jyqwAjZK_na1fn_cGFzdGVkX2NvbnRlbnRfMw.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1rQ21xeEJWeDZkNzF6Mmp5cXdBalpLX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblJmTXcudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQD~Lv9k6xMh4vuLlpqfLkUULpxKwG--vYE6UHjG0I13IQIhAJeIZfGuLdj3Vr1RRiLur9rcGj2xgnWwBkD5DADwa6xI",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-kCmqxBVx6d71z2jyqwAjZK_na1fn_cGFzdGVkX2NvbnRlbnRfMw.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1rQ21xeEJWeDZkNzF6Mmp5cXdBalpLX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblJmTXcudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCICI70PD3BI0VwV~mtU0lrLDondrQJQhaxwuOd9D0nkh6AiAyTkOdwFddV822Q~3NDwxjobd3b9O-A0XftLshY1ftUA__",
       "status": "archived",
       "bytes": 17782,
-      "archive_path": "attachments/gkPG1zk4auEHTrVhxz68oR/348-user_message-0_5c38cb57a9282ba7_pasted_content_3.txt"
+      "archive_path": "attachments/gkPG1zk4auEHTrVhxz68oR/348-user_message-0_6303db181c008743_pasted_content_3.txt"
     },
     {
       "event_index": 353,
       "type": "file",
       "filename": "pasted_content_4.txt",
       "content_type": "text/plain",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-PgVEWuwId61egUkzY45Q2W_na1fn_cGFzdGVkX2NvbnRlbnRfNA.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1QZ1ZFV3V3SWQ2MWVnVWt6WTQ1UTJXX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblJmTkEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIHP~f-ZD0RdI14fzIBaEOZYzVIWfgO9bZbR9u0f7Gi-WAiEA0vkjRPTFCKbety5TR4choi-U1OMT~co2VU6eZUPqKhI_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-PgVEWuwId61egUkzY45Q2W_na1fn_cGFzdGVkX2NvbnRlbnRfNA.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1QZ1ZFV3V3SWQ2MWVnVWt6WTQ1UTJXX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblJmTkEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCQAgHtP0rT9Izhd~QZoZuYQ0UK03on1bQJ9OYsWG2cmwIgTcF6t6nbn1ucqM4nmR0JywoVx6wGGDK3VzHRz1F~EwQ_",
       "status": "archived",
       "bytes": 19116,
-      "archive_path": "attachments/gkPG1zk4auEHTrVhxz68oR/353-user_message-0_3966fee0d6a9d99a_pasted_content_4.txt"
+      "archive_path": "attachments/gkPG1zk4auEHTrVhxz68oR/353-user_message-0_23998164c21db9c8_pasted_content_4.txt"
     },
     {
       "event_index": 358,
       "type": "file",
       "filename": "pasted_content_5.txt",
       "content_type": "text/plain",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-EOwrlYsnKVenntvYt0Nt3X_na1fn_cGFzdGVkX2NvbnRlbnRfNQ.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1FT3dybFlzbktWZW5udHZZdDBOdDNYX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblJmTlEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIFXZSiKfVK8qcL6gcANVlQwHHHiKUM560NUlGEI9KG8CAiEA~Q9pjog4zB1wvyXIe0E5yw9tgczabnT-1BVLC~CXNXc_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-EOwrlYsnKVenntvYt0Nt3X_na1fn_cGFzdGVkX2NvbnRlbnRfNQ.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1FT3dybFlzbktWZW5udHZZdDBOdDNYX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblJmTlEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIAElW88WFkk4TaW1EnOF3DSXyF0BTIaaXsFyuab1F21YAiBKGFBS0q9q~1bExo-ofEqTlWzm7sc2NPMYMi8fWaaXfg__",
       "status": "archived",
       "bytes": 26623,
-      "archive_path": "attachments/gkPG1zk4auEHTrVhxz68oR/358-user_message-0_01e5b64053eeab85_pasted_content_5.txt"
+      "archive_path": "attachments/gkPG1zk4auEHTrVhxz68oR/358-user_message-0_e9494cbd501c3905_pasted_content_5.txt"
     },
     {
       "event_index": 363,
       "type": "file",
       "filename": "pasted_content_6.txt",
       "content_type": "text/plain",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-sEFxxkkoFEOeOmBYfsRkro_na1fn_cGFzdGVkX2NvbnRlbnRfNg.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1zRUZ4eGtrb0ZFT2VPbUJZZnNSa3JvX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblJmTmcudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCDZrin~dUNAJ1mdIOxzPtvygMbnIkO2NY-MEGNfdGcEAIhANF~NKhhvNMeYzXE7IONtVQDWc9oI3VBBmULunQ8V5K-",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-sEFxxkkoFEOeOmBYfsRkro_na1fn_cGFzdGVkX2NvbnRlbnRfNg.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1zRUZ4eGtrb0ZFT2VPbUJZZnNSa3JvX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblJmTmcudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCAFQxXh5oyUXbxZcqIOYgP9WjcqgQDO5T4UdcrRdXhJwIhAJe~QL-HgSNCMnuydQZndCPdOaTl~NqF3O10RQRtjw~s",
       "status": "archived",
       "bytes": 27881,
-      "archive_path": "attachments/gkPG1zk4auEHTrVhxz68oR/363-user_message-0_65358898f4cf50eb_pasted_content_6.txt"
+      "archive_path": "attachments/gkPG1zk4auEHTrVhxz68oR/363-user_message-0_c213f06b1cf500a7_pasted_content_6.txt"
     },
     {
       "event_index": 368,
       "type": "file",
       "filename": "pasted_content_7.txt",
       "content_type": "text/plain",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-Ikrhz3qAgm7inY3LhEYPOG_na1fn_cGFzdGVkX2NvbnRlbnRfNw.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1Ja3JoejNxQWdtN2luWTNMaEVZUE9HX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblJmTncudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDf6P-8mxoAUKtT68OBYOna2b0EPPPokcLI96nUSDIP9wIhAI5VPlEexZhmaFjXJ0fkHJIzsWCnlxreX96HcbiWs9nZ",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-Ikrhz3qAgm7inY3LhEYPOG_na1fn_cGFzdGVkX2NvbnRlbnRfNw.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1Ja3JoejNxQWdtN2luWTNMaEVZUE9HX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblJmTncudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDVM8EJvvIAaz4h0cmqe-t868ellKcEYIB1wPKBOo9WIwIhANpfXr~UcwDS~ipo-gGvnjPZ-kzkxF~F29BzxLC5F662",
       "status": "archived",
       "bytes": 28744,
-      "archive_path": "attachments/gkPG1zk4auEHTrVhxz68oR/368-user_message-0_5f372424d2e92368_pasted_content_7.txt"
+      "archive_path": "attachments/gkPG1zk4auEHTrVhxz68oR/368-user_message-0_8ccc28b64ad69ba4_pasted_content_7.txt"
     },
     {
       "event_index": 373,
       "type": "file",
       "filename": "pasted_content_8.txt",
       "content_type": "text/plain",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-7tSehyxRTfFLgqbC427itp_na1fn_cGFzdGVkX2NvbnRlbnRfOA.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC03dFNlaHl4UlRmRkxncWJDNDI3aXRwX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblJmT0EudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCHxLU7~Y5GRxXrgc7DvL147LrRwauXIejEPjYnVGA4N8CIQCcpfGkXSdA03rUN6MRbnjxLXVx31FjCd5sgNs32ysx1A__",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-7tSehyxRTfFLgqbC427itp_na1fn_cGFzdGVkX2NvbnRlbnRfOA.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC03dFNlaHl4UlRmRkxncWJDNDI3aXRwX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblJmT0EudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIDW-9mokIwA4gHQ5sC-MX42JqsdTJmT4eOlujnbMXZ2rAiEAsG1UyrDGlINJle4DbjUTFAXw80AEMw1NiRERu9gSnw8_",
       "status": "archived",
       "bytes": 29290,
-      "archive_path": "attachments/gkPG1zk4auEHTrVhxz68oR/373-user_message-0_55c4d0fe6d3f0f81_pasted_content_8.txt"
+      "archive_path": "attachments/gkPG1zk4auEHTrVhxz68oR/373-user_message-0_923cac5dd10ef890_pasted_content_8.txt"
     },
     {
       "event_index": 386,
       "type": "image",
       "filename": "pasted_file_2XaWKy_image.png",
       "content_type": "image/png",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-zEaADWc3vE5d5JP46T1DCh_na1fn_cGFzdGVkX2ZpbGVfMlhhV0t5X2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC16RWFBRFdjM3ZFNWQ1SlA0NlQxRENoX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZNbGhoVjB0NVgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCARaweC6kchU8WiSCdztI~2y1k6g1hLaGARNCYQCVhegIhAKYhCCef6eqp3g6trx79ux879eJEVpYjGkDxtjll9KqF",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-zEaADWc3vE5d5JP46T1DCh_na1fn_cGFzdGVkX2ZpbGVfMlhhV0t5X2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC16RWFBRFdjM3ZFNWQ1SlA0NlQxRENoX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZNbGhoVjB0NVgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIH-~LNedz5j-E9-dph0Yo3h6HCtpnlv8JfW9S~tjVBROAiEAlLtRXQmBwA~N1m-efej0ObsBOZTo1s7fjPcw9GSUYO0_",
       "status": "archived",
       "bytes": 640685,
-      "archive_path": "attachments/gkPG1zk4auEHTrVhxz68oR/386-user_message-0_506581e8c747bd5f_pasted_file_2XaWKy_image.png"
+      "archive_path": "attachments/gkPG1zk4auEHTrVhxz68oR/386-user_message-0_32d92da2c4f4f5f5_pasted_file_2XaWKy_image.png"
     },
     {
       "event_index": 453,

@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
-  "archived_at": "2026-08-14T13:11:05.816670Z",
+  "archived_at": "2026-08-28T21:51:48.187552Z",
   "task": {
     "id": "RsJWRZJEhfgfpDLXhmVZFp",
     "title": "IM Binding Initialization",
     "status": "stopped",
     "type": "standard",
     "agent_profile": "manus-1.6-max",
-    "credits_used": 22429,
+    "credits_used": 30302,
     "created_at": "1778033474",
-    "updated_at": "1786677357",
+    "updated_at": "1787953632",
     "task_url": "https://manus.im/app/RsJWRZJEhfgfpDLXhmVZFp",
     "message_count": 0
   },
-  "event_count": 1172,
+  "event_count": 1278,
   "events": [
     {
       "assistant_message": {
@@ -298,7 +298,7 @@
             "content_type": "text/markdown; charset=utf-8",
             "filename": "plaud_alternatives_comparison.md",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/TrxocvboVj6w7YG6unA3h5_1781518601347_na1fn_L2hvbWUvdWJ1bnR1L2JFQlhpZE5RVG5ablFHZVdXb1RBbVQvcGxhdWRfYWx0ZXJuYXRpdmVzX2NvbXBhcmlzb24.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L1RyeG9jdmJvVmo2dzdZRzZ1bkEzaDVfMTc4MTUxODYwMTM0N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJKRlFsaHBaRTVSVkc1YWJsRkhaVmRYYjFSQmJWUXZjR3hoZFdSZllXeDBaWEp1WVhScGRtVnpYMk52YlhCaGNtbHpiMjQubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQC~mkKG-IqMhzU8rlc0sX2XGSANQCr8-asV2ArOM3-CmQIhANkmNdQB8frmGm01j0Et2zN9uQgj~lZgJ5C1YGgfTiB5"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/TrxocvboVj6w7YG6unA3h5_1781518601347_na1fn_L2hvbWUvdWJ1bnR1L2JFQlhpZE5RVG5ablFHZVdXb1RBbVQvcGxhdWRfYWx0ZXJuYXRpdmVzX2NvbXBhcmlzb24.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L1RyeG9jdmJvVmo2dzdZRzZ1bkEzaDVfMTc4MTUxODYwMTM0N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJKRlFsaHBaRTVSVkc1YWJsRkhaVmRYYjFSQmJWUXZjR3hoZFdSZllXeDBaWEp1WVhScGRtVnpYMk52YlhCaGNtbHpiMjQubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODk0MzA0MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCqULGVCTkx3BsEaBIAR~gidQLl8NyKwqLUE0uyaVS7kwIhAKv8wFG-aauzlgN6HoI58b698cEHwUgIj2reyfmO6lZF"
           }
         ],
         "content": "Done! Here's a quick summary of what I found:\n\nBest hardware alternatives:\n- FoCase REC ($79) — half the price of Plaud, MagSafe compatible, 1,800 free transcription minutes/month with no subscription required.\n- UMEVO Note Plus ($149) — great for phone call recording, includes a full year of unlimited free transcription.\n- Recolx Tap ($130) — mid-range option with structured AI insights and mind maps.\n\nBest app-based alternatives (no hardware needed):\n- tl;dv — free unlimited recordings and transcripts for Zoom/Meet/Teams meetings.\n- Otter.ai — free tier with 300 mins/month, great mobile app for in-person recording.\n- Granola AI — no bots join your calls, enhances your notes with AI summaries.\n- AudioPen — turns rambling voice memos into clean, structured text.\n\nI've attached a detailed comparison report with full pricing, pros/cons, and references. The FoCase REC at $79 is probably the closest match to the Plaud experience at a much lower cost."
@@ -479,7 +479,7 @@
             "content_type": "application/pdf",
             "filename": "llm_comparison.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/WmsGkVFTaYdp0g3JPOseG1_1781804562821_na1fn_L2hvbWUvdWJ1bnR1L2xsbV9jb21wYXJpc29u.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L1dtc0drVkZUYVlkcDBnM0pQT3NlRzFfMTc4MTgwNDU2MjgyMV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJ4c2JWOWpiMjF3WVhKcGMyOXUucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIFRwwfloP-tNMDMgDQ1QCInAUuynhXVzmcm7brU33WaCAiEA4tfYQ9SY2bWoqAKuhrPWqyp1SkE1wgZMaaOaQFj6tyw_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/WmsGkVFTaYdp0g3JPOseG1_1781804562821_na1fn_L2hvbWUvdWJ1bnR1L2xsbV9jb21wYXJpc29u.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L1dtc0drVkZUYVlkcDBnM0pQT3NlRzFfMTc4MTgwNDU2MjgyMV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJ4c2JWOWpiMjF3WVhKcGMyOXUucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIAvWzwXtYTktOyqZ3gpqo6cxFG-KaiHyVD5vU77V1QC6AiAR~e6QD-NzSatKBHqniJZpT~494VO~h8ugvHButoE8Iw__"
           }
         ],
         "content": "Here's your LLM comparison list as a PDF. It covers all the major models — ChatGPT, Claude, Gemini, Manus, Grok, LLaMA, Mistral, Copilot, Perplexity, DeepSeek, and Cohere — with their strengths and best use cases, plus a summary comparison table."
@@ -545,7 +545,7 @@
             "content_type": "text/plain",
             "filename": "pasted_content.txt",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-yNIKGSsTfrJuyYldibpc8I_na1fn_cGFzdGVkX2NvbnRlbnQ.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC15TklLR1NzVGZySnV5WWxkaWJwYzhJX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCfI~VHM1CwIJTAEFnMbN0kac6FJgg5X3mlr9mNvgIDlAIhALNftz7~egR7lB0hWL7KurqgulM4TwRXnnKHZ5hYoT-z"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-yNIKGSsTfrJuyYldibpc8I_na1fn_cGFzdGVkX2NvbnRlbnQ.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC15TklLR1NzVGZySnV5WWxkaWJwYzhJX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICum87F0WyFTjonU2lmUrCJ8uA8IqSXSk98NBgBxwvgdAiEA7-~TjH2r4yXSwvvOWGUkNqW~QxPM7jV7pPF7Lc~mDuI_"
           }
         ],
         "content": "what about for this : ",
@@ -669,7 +669,7 @@
             "content_type": "image/png",
             "filename": "pasted_file_LwlvhQ_image.png",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-dHt5ONHI53qPoUeHs7S8Ii_na1fn_cGFzdGVkX2ZpbGVfTHdsdmhRX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1kSHQ1T05ISTUzcVBvVWVIczdTOElpX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZUSGRzZG1oUlgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDeVwHrrrKdhsbL4Jnn~gOGLySknnz-irbHtY-3R-UzQwIhAMyr1Kb8C1Ld5Poa-Lbq5hxu5eeJvDaiXRawpQTMe8ph"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-dHt5ONHI53qPoUeHs7S8Ii_na1fn_cGFzdGVkX2ZpbGVfTHdsdmhRX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1kSHQ1T05ISTUzcVBvVWVIczdTOElpX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZUSGRzZG1oUlgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQD7JsEoJ~eENUvQ5qjtDw9ZrSOlacaAQ2TADBoPg3-k6wIhAIOI-LZ8bRylwe0HUgS4rRbPyDArpxGp7Tkg3vwGhi~K"
           }
         ],
         "content": "can you make this file be less than 1MB? ",
@@ -711,7 +711,7 @@
             "content_type": "image/jpeg",
             "filename": "compressed_photo.jpg",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/lXLHmtiYF7PJfpPo09fOoY_1782067570527_na1fn_L2hvbWUvdWJ1bnR1L2NvbXByZXNzZWRfcGhvdG8.jpg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L2xYTEhtdGlZRjdQSmZwUG8wOWZPb1lfMTc4MjA2NzU3MDUyN19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOdmJYQnlaWE56WldSZmNHaHZkRzguanBnIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIENCH5BpGxkUrkCY7Rlk1h7XQ6g8u2glwLHnAhq9ICDUAiAwae2jOxCQDWffRS5FQh5j9kjZuGo32qnVOfpUpzQdqw__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/lXLHmtiYF7PJfpPo09fOoY_1782067570527_na1fn_L2hvbWUvdWJ1bnR1L2NvbXByZXNzZWRfcGhvdG8.jpg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L2xYTEhtdGlZRjdQSmZwUG8wOWZPb1lfMTc4MjA2NzU3MDUyN19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOdmJYQnlaWE56WldSZmNHaHZkRzguanBnIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIBn19ugV~2zCxenQxYcUN82tUSPXtv50fr5sxjwHUH1LAiAYMRbDoQbml-k4Hl77wfg5rza86q2XgTEOLVsR8NuYEA__"
           }
         ],
         "content": "Done! I compressed your image from about 2MB (PNG) down to 120KB (JPEG) at quality 80 — well under 1MB, and it still looks great. Here's the compressed file."
@@ -830,7 +830,7 @@
             "content_type": "image/jpeg",
             "filename": "compressed_photo.jpg",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/zAOsKw2PXXvTgYp1ooudIJ_1782069629905_na1fn_L2hvbWUvdWJ1bnR1L2NvbXByZXNzZWRfcGhvdG8.jpg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L3pBT3NLdzJQWFh2VGdZcDFvb3VkSUpfMTc4MjA2OTYyOTkwNV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOdmJYQnlaWE56WldSZmNHaHZkRzguanBnIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCLLXUDJ6EUCoRFE6-3Zx-1VSGBLe3b-OfFrbgc8D6t1gIhANcAnbEKiBADpHG4ynwTg8quJHOAr-MwvpKAxWlTOI8R"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/zAOsKw2PXXvTgYp1ooudIJ_1782069629905_na1fn_L2hvbWUvdWJ1bnR1L2NvbXByZXNzZWRfcGhvdG8.jpg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L3pBT3NLdzJQWFh2VGdZcDFvb3VkSUpfMTc4MjA2OTYyOTkwNV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOdmJYQnlaWE56WldSZmNHaHZkRzguanBnIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDXj1tuoPAMYaGsz27Ts~j57XKnqFyp~F9ODgburi96PAIhAO1JHP-TH8horl9--fQf-wGYTPDadZvzhMOTySc-O2IM"
           }
         ],
         "content": "Here it is again — you should be able to click the attachment below to download it directly."
@@ -1222,7 +1222,7 @@
             "content_type": "audio/x-m4a",
             "filename": "pasted_file_7EPPOx_MarcScreaming06-24-2026.m4a",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-xR6tZIDln7ofgsJndNsNAE_na1fn_cGFzdGVkX2ZpbGVfN0VQUE94X01hcmNTY3JlYW1pbmcwNi0yNC0yMDI2.m4a?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC14UjZ0WklEbG43b2Znc0puZE5zTkFFX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZOMFZRVUU5NFgwMWhjbU5UWTNKbFlXMXBibWN3TmkweU5DMHlNREkyLm00YSIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCYIpFCNCyV8O426t~xNvH2oQ83uMnAAuEiHNn-TKG-IgIhANZjvgXn9Q22OGj7QT6v2uzJLmuxcTTB~Fd9-VPQzHxb"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-xR6tZIDln7ofgsJndNsNAE_na1fn_cGFzdGVkX2ZpbGVfN0VQUE94X01hcmNTY3JlYW1pbmcwNi0yNC0yMDI2.m4a?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC14UjZ0WklEbG43b2Znc0puZE5zTkFFX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZOMFZRVUU5NFgwMWhjbU5UWTNKbFlXMXBibWN3TmkweU5DMHlNREkyLm00YSIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDvaK7yfRq4MvoHfXiutxvObj3GES-snBOoagMU~WYp5wIgcddQetzm~gO6LamKGLxJGnjxTDUM5nNkx9kZMWbzF-M_"
           }
         ],
         "content": "I want a folder titled \"Marc's Inappropriate Screaming\" - and i will send you a file now where you can hear him yelling at 9:05 - you can program this to be his \"profile\" ",
@@ -1291,7 +1291,7 @@
             "content_type": "application/pdf",
             "filename": "workflow_summary.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/S4DoEhpKn8K82vzbnJfaJi_1782352609143_na1fn_L2hvbWUvdWJ1bnR1L3dvcmtmbG93X3N1bW1hcnk.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L1M0RG9FaHBLbjhLODJ2emJuSmZhSmlfMTc4MjM1MjYwOTE0M19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNkdmNtdG1iRzkzWDNOMWJXMWhjbmsucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCICMGYPGpbpx2NCRi9ioKZMpGzB9xLXysKHYPctKjgu48AiAWov7~HLqKxynIUrXXMFlV9nXx7rxT8NfRN5BCKlz0~g__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/S4DoEhpKn8K82vzbnJfaJi_1782352609143_na1fn_L2hvbWUvdWJ1bnR1L3dvcmtmbG93X3N1bW1hcnk.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L1M0RG9FaHBLbjhLODJ2emJuSmZhSmlfMTc4MjM1MjYwOTE0M19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNkdmNtdG1iRzkzWDNOMWJXMWhjbmsucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDlNWfbtvpg8b2IlH-IL3s-xNeF-6d6fQ-iW4pPRbZXxQIgQPPmDetTXL1tbx21n0XwVWh632D3q9g0fGYwPgAx6bo_"
           }
         ],
         "content": "Here you go — a PDF summary of the whole setup, including the Marc feature. Should give your mom a good laugh. Let me know when you're ready and I'll build out the actual automation!"
@@ -2759,7 +2759,7 @@
             "content_type": "image/png",
             "filename": "pasted_file_b4kivO_image.png",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-h2ko4TmZaLEud203NPAjCk_na1fn_cGFzdGVkX2ZpbGVfYjRraXZPX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1oMmtvNFRtWmFMRXVkMjAzTlBBakNrX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZZalJyYVhaUFgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIEa0fMErPwrek1D5Svl3MQGVkXg4pHoWOqjX~Z0fwKQfAiBhWOX88QsgwrJ8cC5JhZkuCBVkbeK6hYorbZ6jDE8wMg__"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-h2ko4TmZaLEud203NPAjCk_na1fn_cGFzdGVkX2ZpbGVfYjRraXZPX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1oMmtvNFRtWmFMRXVkMjAzTlBBakNrX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZZalJyYVhaUFgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDD-QvpCQd3Fpkxz7DXlSjl8T36UlXkh1~AGxG2Rsk~2QIgHB6QRtAxHVQbkTVZ9YyMNBtqAQcYLm-uC2tSNb2K3T4_"
           }
         ],
         "message_type": "text"
@@ -3908,7 +3908,7 @@
             "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
             "filename": "UpToDateRentComps-Copy.xlsx",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-0uX4ONBMT8TG9craXn8mFt_na1fn_VXBUb0RhdGVSZW50Q29tcHMtQ29weQ.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC0wdVg0T05CTVQ4VEc5Y3JhWG44bUZ0X25hMWZuX1ZYQlViMFJoZEdWU1pXNTBRMjl0Y0hNdFEyOXdlUS54bHN4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIFm91Jat60X5xbsgmmSfmEM9ejxWHDVHUcywlt6G5eSPAiEAmyfjHb0-5zKQ3zm6YZ7gHgN4wVumExAXEuAbSkMDMUE_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-0uX4ONBMT8TG9craXn8mFt_na1fn_VXBUb0RhdGVSZW50Q29tcHMtQ29weQ.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC0wdVg0T05CTVQ4VEc5Y3JhWG44bUZ0X25hMWZuX1ZYQlViMFJoZEdWU1pXNTBRMjl0Y0hNdFEyOXdlUS54bHN4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIHr5oE0YgJiS5empRkSLp2c-HBTRVhBByFPiidzEJkIFAiEAxdQH7EBBWx2vBIu6fNgj09uMDi~0ZopX8Vnuv-5az44_"
           }
         ],
         "message_type": "text"
@@ -4783,25 +4783,25 @@
             "content_type": "image/png",
             "filename": "ChatGPTImageJun28,2026,06_43_10PM.png",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-oowxvl4lPhxHhIOxcD4sU2_na1fn_Q2hhdEdQVEltYWdlSnVuMjgsMjAyNiwwNl80M18xMFBN.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1vb3d4dmw0bFBoeEhoSU94Y0Q0c1UyX25hMWZuX1EyaGhkRWRRVkVsdFlXZGxTblZ1TWpnc01qQXlOaXd3Tmw4ME0xOHhNRkJOLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCypUiGp00sR2uqDXH9DU5GVHIfVbSWu~-SpyCiMjqHXQIgOeCiWG~8Q-goVP3tnnP1rcd6czQz8q06PiIqrA3QrIY_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-oowxvl4lPhxHhIOxcD4sU2_na1fn_Q2hhdEdQVEltYWdlSnVuMjgsMjAyNiwwNl80M18xMFBN.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1vb3d4dmw0bFBoeEhoSU94Y0Q0c1UyX25hMWZuX1EyaGhkRWRRVkVsdFlXZGxTblZ1TWpnc01qQXlOaXd3Tmw4ME0xOHhNRkJOLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCtlRTpVQzKg29YWNHqjac2OdKiNE~GCJP4-iPtkxzYvAIhAKL73RdSxS7UQnwS2w4CHaXcbFrs03GxZeyaTYCC3lhE"
           },
           {
             "content_type": "image/heic",
             "filename": "80439008643__1145F42F-D029-4393-9CED-2F289651A9DD.HEIC",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-Yz2ILXskDw8pvsBRjBwVc7_na1fn_ODA0MzkwMDg2NDNfXzExNDVGNDJGLUQwMjktNDM5My05Q0VELTJGMjg5NjUxQTlERA.HEIC?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1ZejJJTFhza0R3OHB2c0JSakJ3VmM3X25hMWZuX09EQTBNemt3TURnMk5ETmZYekV4TkRWR05ESkdMVVF3TWprdE5ETTVNeTA1UTBWRUxUSkdNamc1TmpVeFFUbEVSQS5IRUlDIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQC72UoGABULbAZ9smiemxoeE2swvHmLEkxlZ5cGyh8PzwIhAKHlTlMhA33fsxb47SDk5SyjBvW3jUjhwiCz0qDS7vK9"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-Yz2ILXskDw8pvsBRjBwVc7_na1fn_ODA0MzkwMDg2NDNfXzExNDVGNDJGLUQwMjktNDM5My05Q0VELTJGMjg5NjUxQTlERA.HEIC?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1ZejJJTFhza0R3OHB2c0JSakJ3VmM3X25hMWZuX09EQTBNemt3TURnMk5ETmZYekV4TkRWR05ESkdMVVF3TWprdE5ETTVNeTA1UTBWRUxUSkdNamc1TmpVeFFUbEVSQS5IRUlDIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDIJg6VleqPakIydPkjp2gUiaxapdUFv7dMlyJHTTbJewIhANnB4TSmzpAAyGgjoywcHY9sCqE5oaKCUa6FBjUY5r2C"
           },
           {
             "content_type": "image/heic",
             "filename": "80439009292__07772728-5381-40A5-B1E1-8553AE9DD957.HEIC",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-97J51nX9QLQXObBZ7bHKw5_na1fn_ODA0MzkwMDkyOTJfXzA3NzcyNzI4LTUzODEtNDBBNS1CMUUxLTg1NTNBRTlERDk1Nw.HEIC?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC05N0o1MW5YOVFMUVhPYkJaN2JIS3c1X25hMWZuX09EQTBNemt3TURreU9USmZYekEzTnpjeU56STRMVFV6T0RFdE5EQkJOUzFDTVVVeExUZzFOVE5CUlRsRVJEazFOdy5IRUlDIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCdp2VCwdk-nisAJAq52uqU0ee~8m~VEl3q4d7Ma5gn1wIgGHXJJRstNgzseZ~CZs3oA1Vckez8Iodxft6lxdLeSV4_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-97J51nX9QLQXObBZ7bHKw5_na1fn_ODA0MzkwMDkyOTJfXzA3NzcyNzI4LTUzODEtNDBBNS1CMUUxLTg1NTNBRTlERDk1Nw.HEIC?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC05N0o1MW5YOVFMUVhPYkJaN2JIS3c1X25hMWZuX09EQTBNemt3TURreU9USmZYekEzTnpjeU56STRMVFV6T0RFdE5EQkJOUzFDTVVVeExUZzFOVE5CUlRsRVJEazFOdy5IRUlDIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDMDIKEmsZ38UkYnbfMRyFV08GUhjQ1UFzWCwUKSC3V~gIhANdBU0soBmWpiKlWxE5Xv58cHPRATK-uTSff2sycFa87"
           },
           {
             "content_type": "image/heic",
             "filename": "80439013599__D0C5FF12-CFDF-490D-A634-40DF48FC91AC.HEIC",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-APaN7L9vJPawphKT5mfFZ3_na1fn_ODA0MzkwMTM1OTlfX0QwQzVGRjEyLUNGREYtNDkwRC1BNjM0LTQwREY0OEZDOTFBQw.HEIC?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1BUGFON0w5dkpQYXdwaEtUNW1mRlozX25hMWZuX09EQTBNemt3TVRNMU9UbGZYMFF3UXpWR1JqRXlMVU5HUkVZdE5Ea3dSQzFCTmpNMExUUXdSRVkwT0VaRE9URkJRdy5IRUlDIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCzi91gx2SkHl2~D9gSX12kXnvNv0SBG-t0c6O2xTK3LgIhAPheRmBl~PY2EI7YnQ0L~hyTRTzeMuktmrwqB7qWg4oG"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-APaN7L9vJPawphKT5mfFZ3_na1fn_ODA0MzkwMTM1OTlfX0QwQzVGRjEyLUNGREYtNDkwRC1BNjM0LTQwREY0OEZDOTFBQw.HEIC?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1BUGFON0w5dkpQYXdwaEtUNW1mRlozX25hMWZuX09EQTBNemt3TVRNMU9UbGZYMFF3UXpWR1JqRXlMVU5HUkVZdE5Ea3dSQzFCTmpNMExUUXdSRVkwT0VaRE9URkJRdy5IRUlDIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIHA8F184E7NfJ4Cvkioa96ueofn6IiUbxsjeeiqkT8eNAiEA5RgwtmUz4fA6wRFD0h0Q9RTNIZWE2l2ObRW9ZFuXsZo_"
           }
         ],
         "content": "can you create me an example offering memorendum for this : \nVICTORY GARDENS – INVESTMENT OPPORTUNITY\n\nMiramar, San Juan, Puerto Rico\n\nPROPERTY REPORT\n\nProperty Summary\n\nRare opportunity to acquire approximately 6,700+ square feet of commercial and office space within Victory Gardens Condominium, strategically located in Miramar, one of San Juan’s most desirable mixed-use districts. The offering consists of two large commercial units, one office/service unit, and one dedicated parking space, creating exceptional flexibility for redevelopment or adaptive reuse.\n\nProperty Details\n\nCommercial Unit #2 – 2,817 SF (261.72 m²)\nCommercial Unit #3 – 2,616 SF (243.03 m²)\nOffice/Service Unit A – 869 SF (80.75 m²)\nPrivate Parking Space\nCombined Area: Approximately 6,700+ SF\nMultiple entrances\nExisting bathrooms and utility areas\nLocated in the heart of Miramar\n\nDETAILS OF SALE\n\nInvestment Highlights\n\nPrime commercial location\nValue-add redevelopment opportunity\nExisting commercial condominium ownership\nExcellent accessibility\nWalking distance to major attractions\nPotential for multiple commercial concepts, subject to applicable approvals and due diligence\nProperty offered in its current condition\n\nLOCATION\n\nLocated within Miramar, San Juan, minutes from:\n\nCondado\nDistrito T-Mobile\nPuerto Rico Convention Center\nOld San Juan\nCruise Port\nIsla Grande Airport\nLuis Muñoz Marín International Airport\nMajor hospitals\nFinancial District\nBeaches",
@@ -4853,7 +4853,7 @@
             "content_type": "application/pdf",
             "filename": "Victory_Gardens_Offering_Memorandum.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/yqpZASua39kWcj3ZMI4Yvr_1782698513082_na1fn_L2hvbWUvdWJ1bnR1L3NUNEhmbHZrRmwxbGFGU1ZKa1VIMHMvVmljdG9yeV9HYXJkZW5zX09mZmVyaW5nX01lbW9yYW5kdW0.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L3lxcFpBU3VhMzlrV2NqM1pNSTRZdnJfMTc4MjY5ODUxMzA4Ml9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOVU5FaG1iSFpyUm13eGJHRkdVMVpLYTFWSU1ITXZWbWxqZEc5eWVWOUhZWEprWlc1elgwOW1abVZ5YVc1blgwMWxiVzl5WVc1a2RXMC5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIFkBD8NZi8Vj-IFLSQm~yDuY1e2hXhz~mipBLREdQuzhAiEAoaq1i68MzA9PLaJXtL6jrjAx-QlKSexiLtu-lmeQZIU_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/yqpZASua39kWcj3ZMI4Yvr_1782698513082_na1fn_L2hvbWUvdWJ1bnR1L3NUNEhmbHZrRmwxbGFGU1ZKa1VIMHMvVmljdG9yeV9HYXJkZW5zX09mZmVyaW5nX01lbW9yYW5kdW0.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L3lxcFpBU3VhMzlrV2NqM1pNSTRZdnJfMTc4MjY5ODUxMzA4Ml9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOVU5FaG1iSFpyUm13eGJHRkdVMVpLYTFWSU1ITXZWbWxqZEc5eWVWOUhZWEprWlc1elgwOW1abVZ5YVc1blgwMWxiVzl5WVc1a2RXMC5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODk0MzA0MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDA4fFocbHgYKL0UwLOrX2Denq302zS8e4mDBpitfGOVgIgJxIu~-~vHqGFnD--urbGF5nGB9mxIDXMVVnYcha~kpM_"
           }
         ],
         "content": "Done! Here's your Victory Gardens Offering Memorandum. It's a 9-page professional PDF with:\n\n- Cover page with navy blue/gold design\n- Executive summary and investment overview\n- Property details with unit breakdown table\n- Location section with proximity to key destinations\n- Your location map and floor plan layout\n- Property photos\n- Confidentiality/disclaimer notice\n\nLet me know if you'd like any changes — different colors, additional sections, pricing info, or anything else."
@@ -5196,7 +5196,7 @@
             "content_type": "text/plain",
             "filename": "pasted_content_2.txt",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-81yNQqqm3bHep5En6g9w6O_na1fn_cGFzdGVkX2NvbnRlbnRfMg.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC04MXlOUXFxbTNiSGVwNUVuNmc5dzZPX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblJmTWcudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCcDbwErw-x9cGYJX3ux5p~5lTp~7h9HpPP3Tr2ROhbWgIgT2QKhtovuPMYg45hfWNHATJ8wvYuAhICF1jVIN0FYko_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-81yNQqqm3bHep5En6g9w6O_na1fn_cGFzdGVkX2NvbnRlbnRfMg.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC04MXlOUXFxbTNiSGVwNUVuNmc5dzZPX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblJmTWcudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQC0mv2bQ4Bwa5Drw9Mrk37nVwqV29Exz7upuqB4-rp30AIhAJNivQvTnMc9iOrP3oW7Wz41HlbTjEG986etjTVcwOtZ"
           }
         ],
         "message_type": "text"
@@ -5367,7 +5367,7 @@
             "content_type": "image/jpeg",
             "filename": "IMG_1571(1).jpeg",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/W579mSW8dQp785RYYXCgh4_na1fn_SU1HXzE1NzEoMSk.jpeg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvVzU3OW1TVzhkUXA3ODVSWVlYQ2doNF9uYTFmbl9TVTFIWHpFMU56RW9NU2suanBlZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICWkWF8h-8IAkv98biBb9u8cYsbwhh1SdG1djDvI2ryHAiEA6yE-hRPU4BIcOQQ4NJbf-Ld3qst-rduEnn4bVxGsLlg_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/W579mSW8dQp785RYYXCgh4_na1fn_SU1HXzE1NzEoMSk.jpeg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvVzU3OW1TVzhkUXA3ODVSWVlYQ2doNF9uYTFmbl9TVTFIWHpFMU56RW9NU2suanBlZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDbAlpbwDlCDppDX9fUMuYv9Og~8MI5MdvK8ivinVEYYAiAGDDBahbCPIe9EbBXlC3Z43HH~yrUAePlsa0M1yR5thQ__"
           }
         ],
         "content": "Find me the replacement cartridges for this on temu or Amazon",
@@ -5633,7 +5633,7 @@
             "content_type": "text/markdown; charset=utf-8",
             "filename": "top_100_github_repos.md",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/3uCYNgVPyPqeKYtpHCSEVZ_1783469642715_na1fn_L2hvbWUvdWJ1bnR1L3RvcF8xMDBfZ2l0aHViX3JlcG9z.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94LzN1Q1lOZ1ZQeVBxZUtZdHBIQ1NFVlpfMTc4MzQ2OTY0MjcxNV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNSdmNGOHhNREJmWjJsMGFIVmlYM0psY0c5ei5tZCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIBbh3HeBkbNz0P7bxMT3WbzvuibC5q4bE~C5GBY1BYhiAiBbldmtb5C~h~Jvho8~KHuh1zm8-virWLQ43ECx3M29ZQ__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/3uCYNgVPyPqeKYtpHCSEVZ_1783469642715_na1fn_L2hvbWUvdWJ1bnR1L3RvcF8xMDBfZ2l0aHViX3JlcG9z.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94LzN1Q1lOZ1ZQeVBxZUtZdHBIQ1NFVlpfMTc4MzQ2OTY0MjcxNV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNSdmNGOHhNREJmWjJsMGFIVmlYM0psY0c5ei5tZCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIC-fJ9hM~XeBZ2W3iVMxdqIyM5thbeI3YMICij-se1GRAiAQpF3CkyZU9mVu9naLXpj-wN2yaCDe0EvmNcA6DcRu0Q__"
           }
         ],
         "content": "Done! Here's your curated list of 100 GitHub repositories organized into 10 categories with 10 repos each:\n\n1. Web Frameworks & UI — Next.js, React, Tailwind CSS, MUI, etc.\n2. Backend & APIs — FastAPI, Django, NestJS, Gin, etc.\n3. AI & Machine Learning — LangChain, Transformers, Ollama, AutoGPT\n4. Databases & Data Engineering — Supabase, Prisma, Airflow, DuckDB\n5. DevOps & Deployment — Docker, Kubernetes, Terraform, Grafana\n6. Automation & Scraping — Playwright, Puppeteer, Scrapy, n8n\n7. Productivity & Tools — Excalidraw, Hoppscotch, Logseq, Outline\n8. E-commerce & CMS — Strapi, Medusa, Ghost, Payload\n9. Game Development & Graphics — Godot, Three.js, Phaser, Bevy\n10. Miscellaneous & Utilities — FFmpeg, yt-dlp, ripgrep, Tauri\n\nEach entry has the GitHub link, description, star count, and why it's useful with Manus. A bunch of these (Supabase, n8n, Playwright, FastAPI, Medusa) would be especially relevant when you're ready to build your own property management platform.\n\nWant me to push this to your GitHub too, or go deeper on any category?"
@@ -5662,7 +5662,7 @@
             "content_type": "image/png",
             "filename": "pasted_file_ATOsXd_image.png",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-LoOt6NieCRrNL2F3kpxZO5_na1fn_cGFzdGVkX2ZpbGVfQVRPc1hkX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1Mb090Nk5pZUNSck5MMkYza3B4Wk81X25hMWZuX2NHRnpkR1ZrWDJacGJHVmZRVlJQYzFoa1gybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCwV9xfSaOtoEn4Upo5Qbwh~nlj-xogWGcnAEU0VB4qAAIge4IGkKw3bEFrE-~62GeND~FKYcLFyEjSGsKGJrtjPzE_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-LoOt6NieCRrNL2F3kpxZO5_na1fn_cGFzdGVkX2ZpbGVfQVRPc1hkX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1Mb090Nk5pZUNSck5MMkYza3B4Wk81X25hMWZuX2NHRnpkR1ZrWDJacGJHVmZRVlJQYzFoa1gybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCICe5p8yJ7VjCnb8IrUHwtk2LvVmDSB3BN5DlILR6OcCcAiAICQYTfjA8MhpXR8se2HKkEJdUr6ghXYL7GHJ8SaRIbg__"
           }
         ],
         "content": "can you evaluate this well log report and tell me exactly where the oil, water and hydocarbons are trapped ",
@@ -5835,7 +5835,7 @@
             "content_type": "application/pdf",
             "filename": "mobile_vets_sherman_oaks.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/Sz5ygGeqAUbue0CZiwA9P4_1783881232524_na1fn_L2hvbWUvdWJ1bnR1L21vYmlsZV92ZXRzX3NoZXJtYW5fb2Frcw.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L1N6NXlnR2VxQVVidWUwQ1ppd0E5UDRfMTc4Mzg4MTIzMjUyNF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDIxdlltbHNaVjkyWlhSelgzTm9aWEp0WVc1ZmIyRnJjdy5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDBS98oVHAEttzi1orEJvry0KMIuCvc8bSDIFoOQlSMEQIgBEEhqcJkYllCzKGE3OwLGSNbdIlbZ899MVlqI8SLdjo_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/Sz5ygGeqAUbue0CZiwA9P4_1783881232524_na1fn_L2hvbWUvdWJ1bnR1L21vYmlsZV92ZXRzX3NoZXJtYW5fb2Frcw.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L1N6NXlnR2VxQVVidWUwQ1ppd0E5UDRfMTc4Mzg4MTIzMjUyNF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDIxdlltbHNaVjkyWlhSelgzTm9aWEp0WVc1ZmIyRnJjdy5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODk0MzA0MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCID7TUtAsOmsi1A6XnvWEOxjF2B0A54oNx6yMh1hOXEMKAiEAuIJBFch3ASmOxzvSogF~Zawe3sHqk6hK0mtOTBczQ48_"
           }
         ],
         "content": "Here you go — the mobile vet list as a PDF. Hope your Bernedoodle gets taken care of!"
@@ -6422,7 +6422,7 @@
             "content_type": "application/pdf",
             "filename": "out_of_office_sign.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/m5P81F7ru9ZGgp1gQNIegC_1784565351369_na1fn_L2hvbWUvdWJ1bnR1L0pZOW1nUFNtSUJlbERKdzVLQTdrRlEvb3V0X29mX29mZmljZV9zaWdu.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L201UDgxRjdydTlaR2dwMWdRTkllZ0NfMTc4NDU2NTM1MTM2OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBwWk9XMW5VRk50U1VKbGJFUktkelZMUVRkclJsRXZiM1YwWDI5bVgyOW1abWxqWlY5emFXZHUucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg2NzUyMDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQC92MtdFyBavZjYYMAwFLYl~kIWZEar4Z9IYNXArU9ypAIgPBM63CYAaB8hw3G2sq5sFESUIhLbss-4Qfcp~Q7nR~o_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/m5P81F7ru9ZGgp1gQNIegC_1784565351369_na1fn_L2hvbWUvdWJ1bnR1L0pZOW1nUFNtSUJlbERKdzVLQTdrRlEvb3V0X29mX29mZmljZV9zaWdu.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L201UDgxRjdydTlaR2dwMWdRTkllZ0NfMTc4NDU2NTM1MTM2OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBwWk9XMW5VRk50U1VKbGJFUktkelZMUVRkclJsRXZiM1YwWDI5bVgyOW1abWxqWlY5emFXZHUucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDW99BbNEvhbCzWsbRm1XFZhloMEhQrPSmvpms-wlNXOQIgUvcBfGj4hgrL7fJ3mQr1jeB2D74KGzH8LJ10UZHZloY_"
           }
         ],
         "content": "Here's your Out of Office desk sign — dark dramatic look with your headshot, gold accents, and all your contact info. It's a full letter-size PDF ready to print. Take a look and let me know if you want any changes (different text size, layout tweaks, etc.)."
@@ -6551,13 +6551,13 @@
             "content_type": "text/markdown; charset=utf-8",
             "filename": "meta_ads_connector_breakdown.md",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/6df3hYl8l3fq5cRxfnVhse_1784756497619_na1fn_L2hvbWUvdWJ1bnR1L21ldGFfYWRzX2Nvbm5lY3Rvcl9icmVha2Rvd24.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94LzZkZjNoWWw4bDNmcTVjUnhmblZoc2VfMTc4NDc1NjQ5NzYxOV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDIxbGRHRmZZV1J6WDJOdmJtNWxZM1J2Y2w5aWNtVmhhMlJ2ZDI0Lm1kIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg2NzUyMDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIFiupb~LcA5LUxZiZrRvKRudno3f5oD3WnOUdnM3xdSMAiA-BuPOgW4yIvf2sLYDavlDbK-SnYeLdUFf6Ny8~PyTLw__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/6df3hYl8l3fq5cRxfnVhse_1784756497619_na1fn_L2hvbWUvdWJ1bnR1L21ldGFfYWRzX2Nvbm5lY3Rvcl9icmVha2Rvd24.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94LzZkZjNoWWw4bDNmcTVjUnhmblZoc2VfMTc4NDc1NjQ5NzYxOV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDIxbGRHRmZZV1J6WDJOdmJtNWxZM1J2Y2w5aWNtVmhhMlJ2ZDI0Lm1kIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIG6IjWI~tQVuCNbROEKFrtRKSG2PlOjXFIoXF-k6GjYuAiEAyd1pn9Lwg~lm-x1Ain1UZ5vP9ji93db2N6BN4JwCMps_"
           },
           {
             "content_type": "application/pdf",
             "filename": "meta_ads_connector_breakdown.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/6df3hYl8l3fq5cRxfnVhse_1784756497619_na1fn_L2hvbWUvdWJ1bnR1L21ldGFfYWRzX2Nvbm5lY3Rvcl9icmVha2Rvd24.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94LzZkZjNoWWw4bDNmcTVjUnhmblZoc2VfMTc4NDc1NjQ5NzYxOV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDIxbGRHRmZZV1J6WDJOdmJtNWxZM1J2Y2w5aWNtVmhhMlJ2ZDI0LnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4Njc1MjAwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIEcoE066vqUblnYj1dByrZ3freir8n7Y8nTUSXIof2LbAiBVtbsUOmpQIUxBVgOXNgXtLKiOBFEZoqhy5c4Hqqob5w__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/6df3hYl8l3fq5cRxfnVhse_1784756497619_na1fn_L2hvbWUvdWJ1bnR1L21ldGFfYWRzX2Nvbm5lY3Rvcl9icmVha2Rvd24.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94LzZkZjNoWWw4bDNmcTVjUnhmblZoc2VfMTc4NDc1NjQ5NzYxOV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDIxbGRHRmZZV1J6WDJOdmJtNWxZM1J2Y2w5aWNtVmhhMlJ2ZDI0LnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDDcJsbeu05mDQCieADs4pZBhvrkeVvkp~0kzFRI4zRvgIhAM9FKOerJgdEFsw1A~CPRZYA7bGxK2pDYa-QEvcLZeI8"
           }
         ],
         "content": "Here's the full breakdown. It covers:\n\n- Benefits of connecting Meta Ads Manager to your workflow (real-time monitoring across all 42 properties, AI-assisted optimization, centralized campaign management)\n- Complete analytics breakdown — every metric you'd see including impressions, CTR, cost per lead, audience demographics, creative performance, and property-level vs. portfolio-level reporting\n- Optimization strategies tailored to your affordable housing portfolio — Fair Housing compliance considerations, budget allocation by vacancy urgency, retargeting, A/B testing, automated rules\n- A 90-day rollout plan and prompt templates you could use\n\nI've attached both the Markdown source and a PDF version. Let me know if you want me to dig deeper into any specific section or adjust anything."
@@ -6754,7 +6754,7 @@
             "content_type": "text/markdown; charset=utf-8",
             "filename": "nerve_supplements.md",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/Zqvmim2k37LxLoCghV2DVo_1784838261851_na1fn_L2hvbWUvdWJ1bnR1L25lcnZlX3N1cHBsZW1lbnRz.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L1pxdm1pbTJrMzdMeExvQ2doVjJEVm9fMTc4NDgzODI2MTg1MV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI1bGNuWmxYM04xY0hCc1pXMWxiblJ6Lm1kIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg2NzUyMDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCTqrGiDNncjT1f9tYl63-KIpjcLqnhXefA2Hp9KaV8tAIgEFQotnCDSEQM3qdn8BBUIWToBiyr4SN1IDR1gEEuGbg_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/Zqvmim2k37LxLoCghV2DVo_1784838261851_na1fn_L2hvbWUvdWJ1bnR1L25lcnZlX3N1cHBsZW1lbnRz.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L1pxdm1pbTJrMzdMeExvQ2doVjJEVm9fMTc4NDgzODI2MTg1MV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI1bGNuWmxYM04xY0hCc1pXMWxiblJ6Lm1kIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIGmTm-76QDGe4zgld1lc2msZTY-pSfQhSVJpX4OaiyGQAiEA3FEfvVsDlAPUg-sunnbgyxZrZiQMcFlm-OVNl3fo75c_"
           }
         ],
         "content": "Here's your nerve support supplements guide with Amazon links. It covers 6 options:\n\n1. Vitamin B12 (Methylcobalamin) — Jarrow Formulas 5000mcg\n2. Alpha-Lipoic Acid — Doctor's Best 600mg\n3. Acetyl-L-Carnitine — Doctor's Best 1000mg\n4. Benfotiamine (fat-soluble B1) — Doctor's Best 150mg\n5. Lion's Mane Mushroom — Real Mushrooms capsules\n6. Nervive Nerve Health — comprehensive formula (combines ALA, B1, B6, B12)\n\nEach one has the Amazon link, why it helps nerves, and dosage/interaction notes. The document also includes safety considerations — particularly around B6 (too much can actually cause neuropathy) and ALA interactions.\n\nAs always, worth running these by your doctor before starting anything new, especially if you're combining multiple supplements."
@@ -8339,13 +8339,13 @@
             "content_type": "image/webp",
             "filename": "g2.webp",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-f8Qjo9LPkRzaQQBzjldXoa_na1fn_ZzI.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1mOFFqbzlMUGtSemFRUUJ6amxkWG9hX25hMWZuX1p6SS53ZWJwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg2NzUyMDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIB0yDTwBiry6jZrL1-o67PIlgiCEetP-~kYkpb7lSeVNAiEAsoygDw7RAwJaK-FDINehTxcMWnqxMAkODB1os3TmWh4_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-f8Qjo9LPkRzaQQBzjldXoa_na1fn_ZzI.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1mOFFqbzlMUGtSemFRUUJ6amxkWG9hX25hMWZuX1p6SS53ZWJwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDCGxTzpRvK2TW3FHFhHjd7Qk0kOv3QfRutY6OZQ5E1BAiAgS6cnfUIow2cykLjhGO2JkjMWTtAlMk~E8qXw0w9DoA__"
           },
           {
             "content_type": "image/webp",
             "filename": "G1.webp",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-qPWbW5MkX9jMV4VGlGy4OT_na1fn_RzE.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1xUFdiVzVNa1g5ak1WNFZHbEd5NE9UX25hMWZuX1J6RS53ZWJwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg2NzUyMDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDJfB4AZMOrg-SYSeBqz6FDvPeCXaFNPHOIeUu0PAUAuAiBUQyBiR7Dk4mlMIiUWfozJrkvI1JZIfFhhluMaTdO8KQ__"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-qPWbW5MkX9jMV4VGlGy4OT_na1fn_RzE.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1xUFdiVzVNa1g5ak1WNFZHbEd5NE9UX25hMWZuX1J6RS53ZWJwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDGTDNBBeEeolBIWCXxWyy2KeHaUmaiaLH~bCfH1kYB8wIgUXI1K5iYCq3dM4sVpl4u6-FXTaPMZZbeAVCrfUdpfd8_"
           }
         ],
         "content": "translate these and tell me whats going on -summarize also ",
@@ -11961,6 +11961,1147 @@
       },
       "timestamp": "1786677358043",
       "type": "status_update"
+    },
+    {
+      "id": "EgamfFx4JTfCzpJXZOj9Wx",
+      "timestamp": "1786773103872",
+      "type": "user_message",
+      "user_message": {
+        "content": "can you see if you can find a couple or discount code for this side? https://qual-chem.com/products/p/1-4-butanediol-bdo",
+        "message_type": "text"
+      }
+    },
+    {
+      "id": "nC57Ms62CY7u7c9O2YxCDk",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786773104510",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "I can't help with this one. 1,4-Butanediol (BDO) is a controlled substance precursor — it converts to GHB in the body and is regulated by the DEA. I'm not able to assist with finding discounts or purchasing this chemical.\n\nIf you need it for a legitimate industrial or research purpose, you'd typically source it through a licensed chemical supplier with proper documentation. But I can't help facilitate purchasing it through consumer channels.\n\nIs there something else I can help you with?"
+      },
+      "id": "98wQqKDKkOyaiJu6qMQZAK",
+      "timestamp": "1786773120354",
+      "type": "assistant_message"
+    },
+    {
+      "id": "iYvH6XslK70K6rxmFeo3HI",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786773120934",
+      "type": "status_update"
+    },
+    {
+      "id": "1qMaKC3L363jCPCa6x1I6C",
+      "timestamp": "1786814802957",
+      "type": "user_message",
+      "user_message": {
+        "content": "is there a way to put an \"emojis\" icon on my Menu back on my macbook ?",
+        "message_type": "text"
+      }
+    },
+    {
+      "id": "096xRCsday5PisOTpYeWS5",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786814803429",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Yes! A few options:\n\nEasiest — Keyboard shortcut (no menu bar icon needed):\nPress Control + Command + Space anywhere and the emoji picker pops up instantly.\n\nTo add an Input Menu icon to the menu bar (shows emoji/character viewer access):\n1. System Settings → Keyboard → Input Sources\n2. Turn on \"Show Input menu in menu bar\"\n3. Now you'll see a keyboard icon in your menu bar — click it and select \"Show Emoji & Symbols\"\n\nOr add it via terminal:\ndefaults write com.apple.TextInputMenu visible -bool true\n\nThen log out and back in (or restart).\n\nThe fastest method is honestly just memorizing Control + Command + Space — works in any app, any text field, instant emoji picker without needing a menu bar icon at all."
+      },
+      "id": "WbozIqId5kZa6ahYf8tu5n",
+      "timestamp": "1786814819002",
+      "type": "assistant_message"
+    },
+    {
+      "id": "nkHhxKy6otMZQESzeFi6Qd",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786814819240",
+      "type": "status_update"
+    },
+    {
+      "id": "mwszWDY770gD0hfB6TrAJR",
+      "timestamp": "1786817969062",
+      "type": "user_message",
+      "user_message": {
+        "attachments": [
+          {
+            "content_type": "image/png",
+            "filename": "pasted_file_VDR784_image.png",
+            "type": "image",
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-e7SDuBBkZMKA6WhTuW4ZYL_na1fn_cGFzdGVkX2ZpbGVfVkRSNzg0X2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1lN1NEdUJCa1pNS0E2V2hUdVc0WllMX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZWa1JTTnpnMFgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIHNdgvVWzZNLUmNtOikPinVJ1pzLPqCoFfI1RbXWt93mAiEA9epmILnfMDpPhjUGh18tTfgEZdsFSxITmM9U-S35~go_"
+          },
+          {
+            "content_type": "application/pdf",
+            "filename": "ACFrOgAGG7JegKkBqYVkUQRvNlb-WHLBW9VfqqMSstQcoil4Sh2Z9pJi3fV4CKSCuAP3iR6CfWPtfYpl47IGnx8ePJF9UmiG9mZEMJSxwdUQNGO9jObC0G5dRD2mmW2gLK10BUvZx0IK319_tieCikN3OYk4CH-LnwrS1iPDJw==.pdf",
+            "type": "file",
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-kSkVqNQAviU5pxtj5EbYf8_na1fn_QUNGck9nQUdHN0plZ0trQnFZVmtVUVJ2TmxiLVdITEJXOVZmcXFNU3N0UWNvaWw0U2gyWjlwSmkzZlY0Q0tTQ3VBUDNpUjZDZldQdGZZcGw0N0lHbng4ZVBKRjlVbWlHOW1aRU1KU3h3ZFVRTkdPOWpPYkMwRzVkUkQybW1XMmdMSzEwQlV2WngwSUszMTlfdGllQ2lrTjNPWWs0Q0gtTG53clMxaVBESnc9PQ.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1rU2tWcU5RQXZpVTVweHRqNUViWWY4X25hMWZuX1FVTkdjazluUVVkSE4wcGxaMHRyUW5GWlZtdFZVVkoyVG14aUxWZElURUpYT1ZabWNYRk5VM04wVVdOdmFXdzBVMmd5V2psd1Nta3pabFkwUTB0VFEzVkJVRE5wVWpaRFpsZFFkR1paY0d3ME4wbEhibmc0WlZCS1JqbFZiV2xIT1cxYVJVMUtVM2gzWkZWUlRrZFBPV3BQWWtNd1J6VmtVa1F5YlcxWE1tZE1TekV3UWxWMlduZ3dTVXN6TVRsZmRHbGxRMmxyVGpOUFdXczBRMGd0VEc1M2NsTXhhVkJFU25jOVBRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIBYuYcAHvc-KSjJOmSsfZFBNA1AWEHk~ZZCkwnopx0IoAiB~eCVGttnkx1DZevbqRNTmqa8M7Jn7EN7Cp57JphjCvA__"
+          }
+        ],
+        "content": "add this logo  to this open house flyer and make it look more prestige with the formatting ",
+        "message_type": "text"
+      }
+    },
+    {
+      "id": "chqPbiBpPonEnX9mmqJ1MO",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786817969524",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Let me take a look at the open house flyer PDF and then redesign it with the Engel & Völkers logo and a more prestigious look. Give me about 5 minutes."
+      },
+      "id": "RDKlD2YogkhvPJneUoMhjj",
+      "timestamp": "1786817976699",
+      "type": "assistant_message"
+    },
+    {
+      "assistant_message": {
+        "attachments": [
+          {
+            "content_type": "text/html; charset=utf-8",
+            "filename": "open_house_flyer_12518_sunset.html",
+            "type": "file",
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/pCnTWIUglSjEqSSQ2FJQrP_1786818052807_na1fn_L2hvbWUvdWJ1bnR1L29wZW5faG91c2VfZmx5ZXJfMTI1MThfc3Vuc2V0.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L3BDblRXSVVnbFNqRXFTU1EyRkpRclBfMTc4NjgxODA1MjgwN19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5d1pXNWZhRzkxYzJWZlpteDVaWEpmTVRJMU1UaGZjM1Z1YzJWMC5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCm1K8RqnjNVep49WyfROovLindaDAr20TS~wmpVuPPiwIgHFVSU9s2-ywVf1oY8p8CbNct7FhiCpn4HjPRk-emGus_"
+          }
+        ],
+        "content": "Here's your redesigned open house flyer with the Engel & Völkers logo. Much more prestigious:\n\n- Engel & Völkers logo prominently at the top\n- Elegant serif typography (Cormorant Garamond) for the address\n- Gold corner accents and dividers\n- Clean black time block\n- Agent info at the bottom (Shelene Atanacio with her DRE, phone, email)\n- Double-border frame for that luxury feel\n- Full city/zip included (Los Angeles, California 90049)\n\nOpen it in your browser and hit Cmd+P to print — it's formatted for letter size. Let me know if you want to change the day, time, agent info, or any styling."
+      },
+      "id": "SvnNfxDV3Xuqu0mR8HhW41",
+      "timestamp": "1786818052984",
+      "type": "assistant_message"
+    },
+    {
+      "id": "AFY0VMDGercc6NqfzMFLxQ",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786818053549",
+      "type": "status_update"
+    },
+    {
+      "id": "e1MwIZ88EhTgcUNzrkRKPT",
+      "timestamp": "1786818125724",
+      "type": "user_message",
+      "user_message": {
+        "content": "please make a sign in sheet for me too include these columnns : Name, Email ,phone number  , have an agent? (yes/no) with that logo and property address and date as well ",
+        "message_type": "text"
+      }
+    },
+    {
+      "id": "dwacQpqEeLROnQ5Uq2FgiW",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786818126203",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Building the sign-in sheet now. One sec."
+      },
+      "id": "EiOU0q1z0o8orDwBppBlve",
+      "timestamp": "1786818136852",
+      "type": "assistant_message"
+    },
+    {
+      "assistant_message": {
+        "attachments": [
+          {
+            "content_type": "text/html; charset=utf-8",
+            "filename": "open_house_signin_12518_sunset.html",
+            "type": "file",
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/SIvItIedbE41EM3ShbVoi4_1786818175035_na1fn_L2hvbWUvdWJ1bnR1L29wZW5faG91c2Vfc2lnbmluXzEyNTE4X3N1bnNldA.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L1NJdkl0SWVkYkU0MUVNM1NoYlZvaTRfMTc4NjgxODE3NTAzNV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5d1pXNWZhRzkxYzJWZmMybG5ibWx1WHpFeU5URTRYM04xYm5ObGRBLmh0bWwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCfBbCUFPJRsEbSGmC3NO89Jzky8sFdmfCo2zSlt3~~SQIhALwd0DHvy51s32fYBA9HCJrx1qqFjDruTX-fZahgpxUU"
+          }
+        ],
+        "content": "Here's your open house sign-in sheet. It includes:\n\n- Engel & Völkers logo (top left)\n- Property address and \"Open House Sign-In\" header (top right)\n- Date line (blank for you to fill in)\n- 20 rows with columns: #, Name, Email, Phone Number, Have an Agent? (Yes/No checkboxes)\n- Alternating row shading for readability\n- Agent footer at the bottom\n\nSame luxury styling as the flyer. Open in browser and Cmd+P to print. Let me know if you need more rows or any changes."
+      },
+      "id": "xaByDJf5DUZx49J5mXRAis",
+      "timestamp": "1786818175219",
+      "type": "assistant_message"
+    },
+    {
+      "id": "Mh5mBsxQ1jIDAOgGSs38pq",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786818175515",
+      "type": "status_update"
+    },
+    {
+      "id": "kAC7C8fnGtCFqV3bvNA3Ao",
+      "timestamp": "1786819164196",
+      "type": "user_message",
+      "user_message": {
+        "attachments": [
+          {
+            "content_type": "image/png",
+            "filename": "qrcode_brandonrose2.github.io(4).png",
+            "type": "image",
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-bireh23nfRJUjkTngceVty_na1fn_cXJjb2RlX2JyYW5kb25yb3NlMi5naXRodWIuaW8oNCk.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1iaXJlaDIzbmZSSlVqa1RuZ2NlVnR5X25hMWZuX2NYSmpiMlJsWDJKeVlXNWtiMjV5YjNObE1pNW5hWFJvZFdJdWFXOG9OQ2sucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCH1dxqjxo0Eo5puqsvMLoiYBc~v9SXshZCwcTF-Eu4uACIQDxLRHx60yxTHiLW6J96IjUatNJ6JOusYM6PFmrcktpww__"
+          }
+        ],
+        "content": "put this on the sign in sheet and print me 5 more ",
+        "message_type": "text"
+      }
+    },
+    {
+      "id": "k10mx7UQLds3Uy58XTuRFd",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786819164661",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Adding the QR code to the sign-in sheet and generating a PDF with 5 copies. One minute."
+      },
+      "id": "WUoVh38GyDnucTbSObOWK7",
+      "timestamp": "1786819170553",
+      "type": "assistant_message"
+    },
+    {
+      "id": "lGdVsqaWKCqFs5itCFtZIg",
+      "timestamp": "1786819170853",
+      "type": "user_message",
+      "user_message": {
+        "content": "i didn't mean to say print",
+        "message_type": "text"
+      }
+    },
+    {
+      "assistant_message": {
+        "content": "Got it — I'll just add the QR code to the sign-in sheet and send you the updated file. One sec."
+      },
+      "id": "YW1bwAQQjblE6I7BtuITjn",
+      "timestamp": "1786819177370",
+      "type": "assistant_message"
+    },
+    {
+      "id": "OWM25puI3rEmjEn3Lm8yIf",
+      "timestamp": "1786819203368",
+      "type": "user_message",
+      "user_message": {
+        "attachments": [
+          {
+            "content_type": "application/pdf",
+            "filename": "ACFrOgAGG7JegKkBqYVkUQRvNlb-WHLBW9VfqqMSstQcoil4Sh2Z9pJi3fV4CKSCuAP3iR6CfWPtfYpl47IGnx8ePJF9UmiG9mZEMJSxwdUQNGO9jObC0G5dRD2mmW2gLK10BUvZx0IK319_tieCikN3OYk4CH-LnwrS1iPDJw==.pdf",
+            "type": "file",
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-PJmZEv2uaaJVMgXR5zk4U0_na1fn_QUNGck9nQUdHN0plZ0trQnFZVmtVUVJ2TmxiLVdITEJXOVZmcXFNU3N0UWNvaWw0U2gyWjlwSmkzZlY0Q0tTQ3VBUDNpUjZDZldQdGZZcGw0N0lHbng4ZVBKRjlVbWlHOW1aRU1KU3h3ZFVRTkdPOWpPYkMwRzVkUkQybW1XMmdMSzEwQlV2WngwSUszMTlfdGllQ2lrTjNPWWs0Q0gtTG53clMxaVBESnc9PQ.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1QSm1aRXYydWFhSlZNZ1hSNXprNFUwX25hMWZuX1FVTkdjazluUVVkSE4wcGxaMHRyUW5GWlZtdFZVVkoyVG14aUxWZElURUpYT1ZabWNYRk5VM04wVVdOdmFXdzBVMmd5V2psd1Nta3pabFkwUTB0VFEzVkJVRE5wVWpaRFpsZFFkR1paY0d3ME4wbEhibmc0WlZCS1JqbFZiV2xIT1cxYVJVMUtVM2gzWkZWUlRrZFBPV3BQWWtNd1J6VmtVa1F5YlcxWE1tZE1TekV3UWxWMlduZ3dTVXN6TVRsZmRHbGxRMmxyVGpOUFdXczBRMGd0VEc1M2NsTXhhVkJFU25jOVBRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDC~5FpRYyRlizrc~YZYuIQRp1wfFrH5WFS87XadLawsgIgfzhivW0NI9ZLE-1p2ZdlOj96V89EUcm5sHCpxUL3FvE_"
+          }
+        ],
+        "content": "put it also on the open house sign and this open house sign too ",
+        "message_type": "text"
+      }
+    },
+    {
+      "assistant_message": {
+        "content": "Got it — I'll add the QR code to all three: the sign-in sheet, the Engel & Völkers open house flyer I made, and the original black/white open house sign. Give me a minute."
+      },
+      "id": "49nmht1OZhvUsk30OUC6iQ",
+      "timestamp": "1786819209770",
+      "type": "assistant_message"
+    },
+    {
+      "id": "O2Z8fP2oFCInbR2PtwbM3o",
+      "timestamp": "1786819228699",
+      "type": "user_message",
+      "user_message": {
+        "content": "please hurry ",
+        "message_type": "text"
+      }
+    },
+    {
+      "assistant_message": {
+        "content": "On it — delivering all three in under 2 minutes."
+      },
+      "id": "45JBARDNKMSw6NtysflCVc",
+      "timestamp": "1786819234795",
+      "type": "assistant_message"
+    },
+    {
+      "assistant_message": {
+        "attachments": [
+          {
+            "content_type": "text/html; charset=utf-8",
+            "filename": "open_house_signin_12518_sunset.html",
+            "type": "file",
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/n6MYeoUSqZiErrrtiZap3T_1786819289326_na1fn_L2hvbWUvdWJ1bnR1L29wZW5faG91c2Vfc2lnbmluXzEyNTE4X3N1bnNldA.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L242TVllb1VTcVppRXJycnRpWmFwM1RfMTc4NjgxOTI4OTMyNl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5d1pXNWZhRzkxYzJWZmMybG5ibWx1WHpFeU5URTRYM04xYm5ObGRBLmh0bWwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIFtMwf6t1NpUqvxtC3AcevKAQ5jU~7fglq7pA2N8aZ2TAiEAiEEXLFbdmjXhUeJMrjl6ArX2mFyfps2lnxRKVXEMeKY_"
+          },
+          {
+            "content_type": "text/html; charset=utf-8",
+            "filename": "open_house_flyer_12518_sunset.html",
+            "type": "file",
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/n6MYeoUSqZiErrrtiZap3T_1786819289326_na1fn_L2hvbWUvdWJ1bnR1L29wZW5faG91c2VfZmx5ZXJfMTI1MThfc3Vuc2V0.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L242TVllb1VTcVppRXJycnRpWmFwM1RfMTc4NjgxOTI4OTMyNl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5d1pXNWZhRzkxYzJWZlpteDVaWEpmTVRJMU1UaGZjM1Z1YzJWMC5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQD8-Iy~HmviT2EibmHqALsBRhxt4E1LPgW-czt38sA2RQIhAKssAX4KlBbF~1ZGfPtt9S-HLhad0rWUuQRpqVb3fUHR"
+          },
+          {
+            "content_type": "text/html; charset=utf-8",
+            "filename": "open_house_sign_original.html",
+            "type": "file",
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/n6MYeoUSqZiErrrtiZap3T_1786819289326_na1fn_L2hvbWUvdWJ1bnR1L29wZW5faG91c2Vfc2lnbl9vcmlnaW5hbA.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L242TVllb1VTcVppRXJycnRpWmFwM1RfMTc4NjgxOTI4OTMyNl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5d1pXNWZhRzkxYzJWZmMybG5ibDl2Y21sbmFXNWhiQS5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCq0Phh5ul9VdBhVYCT3BfPo5F9xBELDMaQVFSpw~zrJgIhAIruniQ7KqZQK62uvcTuf2Qhofphf8vxo2~DBWnpDlYS"
+          }
+        ],
+        "content": "Done — all three with the QR code added:\n\n1. Sign-in sheet — QR in bottom right corner with \"Scan for Property Details\"\n2. Engel & Völkers prestige flyer — QR in bottom right next to agent info\n3. Original black/white open house sign — QR centered at the bottom with \"SCAN ME\"\n\nAll ready to print from your browser."
+      },
+      "id": "zVNUhHiQ00oPJ0G4kA2CDT",
+      "timestamp": "1786819289566",
+      "type": "assistant_message"
+    },
+    {
+      "id": "3xmna1mhcffQoBFus9hpe6",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786819289799",
+      "type": "status_update"
+    },
+    {
+      "id": "SDVMK0lq0awmQBRpDZOPkf",
+      "timestamp": "1786819396900",
+      "type": "user_message",
+      "user_message": {
+        "content": "add the logo i sent to the last one ",
+        "message_type": "text"
+      }
+    },
+    {
+      "id": "oCmlp6QLGk2W3UKWv2LN6t",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786819397296",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Updating now."
+      },
+      "id": "GyJs9zZet5qzeLBV8nGabY",
+      "timestamp": "1786819402802",
+      "type": "assistant_message"
+    },
+    {
+      "assistant_message": {
+        "attachments": [
+          {
+            "content_type": "text/html; charset=utf-8",
+            "filename": "open_house_sign_original.html",
+            "type": "file",
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/qaWGueaRkw19neJcNExvc8_1786819427660_na1fn_L2hvbWUvdWJ1bnR1L29wZW5faG91c2Vfc2lnbl9vcmlnaW5hbA.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L3FhV0d1ZWFSa3cxOW5lSmNORXh2YzhfMTc4NjgxOTQyNzY2MF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5d1pXNWZhRzkxYzJWZmMybG5ibDl2Y21sbmFXNWhiQS5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIHANbPNRX4A9-xbaLj0zT9KStFNlojZrzwZDKEd1fUQxAiEA4MzT1UxN1Q~3w8NO8YfqBxw89T-XnB2G5czmj1BbYt0_"
+          }
+        ],
+        "content": "Updated — Engel & Völkers logo is now at the top of the original sign, with the QR code at the bottom."
+      },
+      "id": "22Lb7lhEVPkYD8I5hVbYW1",
+      "timestamp": "1786819427977",
+      "type": "assistant_message"
+    },
+    {
+      "id": "sTz0c1XBTVaEXqBTfnjQF9",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786819428409",
+      "type": "status_update"
+    },
+    {
+      "id": "trY2iRIjUIrM89yjmncaKI",
+      "timestamp": "1786823785122",
+      "type": "user_message",
+      "user_message": {
+        "attachments": [
+          {
+            "content_type": "image/png",
+            "filename": "pasted_file_BfSEfs_image.png",
+            "type": "image",
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-Qg4vjX5Gm8qEpqjHgsCLw1_na1fn_cGFzdGVkX2ZpbGVfQmZTRWZzX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1RZzR2alg1R204cUVwcWpIZ3NDTHcxX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZRbVpUUldaelgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDuMZ0wdh-A9h3dcUc~~Qp2O-f~snFNjxI5B4Oi2fW1~AIhAI3L2I16OruHMvnP4JTMa6LCoJekFW7puhVfDuGmmPMz"
+          }
+        ],
+        "content": "do this for my friend ",
+        "message_type": "text"
+      }
+    },
+    {
+      "id": "qTmWNmoi6CSjEK7j7EYlTs",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786823787121",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Ha — I feel your friend's pain. Unfortunately I can't build a fully autonomous AI agent that calls dealerships and negotiates prices in real-time (that would need phone/voice API integrations, dealer inventory APIs, etc. that don't exist publicly).\n\nBut here's what I CAN do right now that would actually help them:\n\n1. Find every dealership near them that has a Toyota Corolla Cross Hybrid XSE in stock (using dealer inventory search)\n2. Pull the listed prices and compare them\n3. Draft negotiation emails/texts they can send to multiple dealers to get them competing against each other\n\nThe best car-buying hack is honestly just emailing the internet sales managers at 5-10 dealerships with the same message: \"I'm buying a Toyota Corolla Cross Hybrid XSE this week. What's your best out-the-door price?\" — then let them bid against each other without ever stepping foot on a lot.\n\nWant me to:\n- Find dealers with that car in stock near your friend (what zip code/city are they in?)\n- Write them a copy-paste negotiation template they can blast out?\n\nThat's basically what the \"AI agent\" would do anyway — just without the robot voice calling dealerships lol."
+      },
+      "id": "NHAQp9LyKNlaobIuCVz2Up",
+      "timestamp": "1786823803525",
+      "type": "assistant_message"
+    },
+    {
+      "id": "dgFaoY0eY4C8Z5liHz38dk",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786823803790",
+      "type": "status_update"
+    },
+    {
+      "id": "kAbajbhXKZUr90ftysEvk9",
+      "timestamp": "1786823851960",
+      "type": "user_message",
+      "user_message": {
+        "content": "yes do both of those ",
+        "message_type": "text"
+      }
+    },
+    {
+      "id": "Q6aFGnIDEjYKEnQVsyc2hq",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786823852446",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "What zip code or city is your friend in? I'll search dealerships near them."
+      },
+      "id": "eFwE8N9o5QKOTAnOsKvmhV",
+      "timestamp": "1786823859042",
+      "type": "assistant_message"
+    },
+    {
+      "id": "TUDXM9P3p49Xw3dleec2NT",
+      "status_update": {
+        "agent_status": "waiting",
+        "brief": "Manus is waiting for your reply",
+        "description": "Manus will continue working after your reply",
+        "status_detail": {
+          "waiting_description": "What zip code or city is your friend in? I'll search dealerships near them.",
+          "waiting_for_event_id": "eFwE8N9o5QKOTAnOsKvmhV",
+          "waiting_for_event_type": "messageAskUser"
+        }
+      },
+      "timestamp": "1786823859497",
+      "type": "status_update"
+    },
+    {
+      "id": "nFbuJxCXPtJ5nUW3nEixvD",
+      "timestamp": "1786823869321",
+      "type": "user_message",
+      "user_message": {
+        "content": "91403",
+        "message_type": "text"
+      }
+    },
+    {
+      "id": "riJ8YBnHJF5M7Z1DCckQg4",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786823869715",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Searching for Toyota Corolla Cross Hybrid XSE inventory near 91403 now. Give me a few minutes to pull dealers, prices, and write the negotiation template."
+      },
+      "id": "ASnbvq7hIjSphfO1Wlc7bO",
+      "timestamp": "1786823878294",
+      "type": "assistant_message"
+    },
+    {
+      "assistant_message": {
+        "attachments": [
+          {
+            "content_type": "application/pdf",
+            "filename": "corolla_cross_hybrid_xse_guide.pdf",
+            "type": "file",
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/F3h7tghT9SDlCVKAohclCo_1786823954810_na1fn_L2hvbWUvdWJ1bnR1L2Nvcm9sbGFfY3Jvc3NfaHlicmlkX3hzZV9ndWlkZQ.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L0YzaDd0Z2hUOVNEbENWS0FvaGNsQ29fMTc4NjgyMzk1NDgxMF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOdmNtOXNiR0ZmWTNKdmMzTmZhSGxpY21sa1gzaHpaVjluZFdsa1pRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCICyMdFAFn1aUKppwI505mETF3lMeawwumGfI3eef2jgNAiAsd2XPF6iYw-sXztwdm5Hd7WiCBi1jblOvKhZuc-dV9w__"
+          },
+          {
+            "content_type": "text/markdown; charset=utf-8",
+            "filename": "corolla_cross_hybrid_xse_guide.md",
+            "type": "file",
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/F3h7tghT9SDlCVKAohclCo_1786823954810_na1fn_L2hvbWUvdWJ1bnR1L2Nvcm9sbGFfY3Jvc3NfaHlicmlkX3hzZV9ndWlkZQ.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L0YzaDd0Z2hUOVNEbENWS0FvaGNsQ29fMTc4NjgyMzk1NDgxMF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOdmNtOXNiR0ZmWTNKdmMzTmZhSGxpY21sa1gzaHpaVjluZFdsa1pRLm1kIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCeaPrVbCYkHuL71IdGi2Qyda0wiG9-PBDu3fl~Ta6IywIhALbL9kP-dMzey1R1zpLdfGusJSJxHMxWQg7Jc35a3Cla"
+          }
+        ],
+        "content": "Here's the full guide for your friend. It includes:\n\n10 dealerships near 91403 with phone numbers and what they have in stock (or incoming). Closest ones are North Hollywood Toyota (3 miles) and Keyes Toyota in Van Nuys (4 miles).\n\nA copy-paste email template they can blast to all 10 dealers at once — asks for best out-the-door price, no markup, no add-ons. Just send it and let them compete.\n\nPlus 10 pro tips on how to not get screwed (refuse market adjustments, don't visit the lot first, use end-of-month timing, etc.).\n\nTarget price: $33K–$35K out the door for the XSE. MSRP is $31,580 base. They should NOT pay over MSRP in 2026.\n\nSend them the PDF — it's everything they need to get the best deal without the headache."
+      },
+      "id": "gUNDQjqw5Wd4uzZMH1FqGc",
+      "timestamp": "1786823955191",
+      "type": "assistant_message"
+    },
+    {
+      "id": "8N2bsHNb3Tn7XUsWBUmr6o",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786823955427",
+      "type": "status_update"
+    },
+    {
+      "id": "dnLCkdYjI56dkiT7NEOfmn",
+      "timestamp": "1786824244078",
+      "type": "user_message",
+      "user_message": {
+        "content": "make this into a html he can few on his phone easy when i text it - put a picture of the actual HYDRID XSE as the preview when i sent the text ",
+        "message_type": "text"
+      }
+    },
+    {
+      "id": "vLOzv9sNr7ZQZnac4Q6gPH",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1786824244564",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Building a mobile-friendly HTML page with a preview image for text sharing. Give me a minute."
+      },
+      "id": "yv6Z1Jh9MhjN9lqJE1myEX",
+      "timestamp": "1786824251132",
+      "type": "assistant_message"
+    },
+    {
+      "id": "qewbraZiq9CSKekPX6ZTVT",
+      "timestamp": "1786824294788",
+      "type": "user_message",
+      "user_message": {
+        "content": "At the VERY Top of the HTML put \"You know how you can tip me for this 😉\"",
+        "message_type": "text"
+      }
+    },
+    {
+      "assistant_message": {
+        "content": "Ha — love it. Building now, one sec."
+      },
+      "id": "nldv6jOc8fTGVLpt2MQ49Y",
+      "timestamp": "1786824300522",
+      "type": "assistant_message"
+    },
+    {
+      "assistant_message": {
+        "attachments": [
+          {
+            "content_type": "text/html; charset=utf-8",
+            "filename": "corolla_cross_guide.html",
+            "type": "file",
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/qD2FW9YqGKf5N5r3WbDTsp_1786824376403_na1fn_L2hvbWUvdWJ1bnR1L2Nvcm9sbGFfY3Jvc3NfZ3VpZGU.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L3FEMkZXOVlxR0tmNU41cjNXYkRUc3BfMTc4NjgyNDM3NjQwM19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOdmNtOXNiR0ZmWTNKdmMzTmZaM1ZwWkdVLmh0bWwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICXU66vV1RJhmQROKr3XmXfaXX4UICRwRnR1yHNjJFFDAiEA29C6N1SQGhHlvHkuFx8ZEuzWLi~xEOcFacAjVmmNqtA_"
+          }
+        ],
+        "content": "Done. Here's the mobile-friendly HTML guide with:\n\n- \"You know how you can tip me for this 😉\" sticky banner at the top\n- Hero image of the actual Corolla Cross Hybrid XSE\n- Stats cards (MSRP, MPG, HP, AWD)\n- Target price in green ($33K–$35K OTD)\n- All 10 dealers with tap-to-call phone numbers\n- Copy-paste negotiation email with a \"Copy to Clipboard\" button\n- Pro tips section\n- Full specs\n\nFor the text preview image to show when you send the link — you'll need to host this somewhere (like your GitHub Pages). The OG meta tags are set up, but iMessage/text previews only work from a live URL, not a local file. Want me to push it to a GitHub Pages site so when you text the link it shows the car image preview?"
+      },
+      "id": "OTVOP4PzAASfMlx0upqB4Q",
+      "timestamp": "1786824376603",
+      "type": "assistant_message"
+    },
+    {
+      "id": "PITP3Fp4QA8PmWBqIyKfLs",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1786824376889",
+      "type": "status_update"
+    },
+    {
+      "id": "e4Zj7PuQZpXzPmyCCeL4sp",
+      "timestamp": "1787882784751",
+      "type": "user_message",
+      "user_message": {
+        "attachments": [
+          {
+            "content_type": "image/jpeg",
+            "filename": "IMG_2072.jpeg",
+            "type": "image",
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/eSKB3iKF2RTp9hF3s6XyrD_na1fn_SU1HXzIwNzI.jpeg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvZVNLQjNpS0YyUlRwOWhGM3M2WHlyRF9uYTFmbl9TVTFIWHpJd056SS5qcGVnIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIFVoXnKfXVgzKhI-y8-b4AZPo27GUws4nIVD4APibIWgAiEArrqIuD~1E0XwgDmruZASC0R54sq4n~LPFKORMGmTvUU_"
+          }
+        ],
+        "content": "My external hard drive has stopped being recognized by my MacBook Pro - can you find out why this may be ?",
+        "message_type": "text"
+      }
+    },
+    {
+      "id": "RI6NNsZb8DFVCcYOlNxDQj",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1787882785275",
+      "type": "status_update"
+    },
+    {
+      "id": "xAV1Pvy3PCa0VnjEhpYyy1",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is resetting the computer",
+        "description": "Manus is resetting the computer, please wait for a while."
+      },
+      "timestamp": "1787882786653",
+      "type": "status_update"
+    },
+    {
+      "id": "vs0bVTlXC7LFDPp4WshuP9",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus has reset the computer successfully",
+        "description": "Manus has successfully reset the computer. You may now continue with the previous task."
+      },
+      "timestamp": "1787882790855",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "I can help diagnose this in about 3–5 minutes. I’ll identify the likely causes for this YOTUO SY-HDD01 drive and give you safe Mac checks that won’t erase or reformat your data."
+      },
+      "id": "oA2Lt7Fywf9dXRjn53yxiV",
+      "timestamp": "1787882799635",
+      "type": "assistant_message"
+    },
+    {
+      "id": "OBlaoXosppqPwFSrVd3dE4",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1787882819881",
+      "type": "status_update"
+    },
+    {
+      "id": "MzTpZPa89FL66U1S2ORNbZ",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1787882831759",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "I need four quick checks to pinpoint the cause safely: 1) Does its light turn on, and do you hear normal spinning, clicking, or nothing? 2) Does it appear in Disk Utility after selecting View → Show All Devices? 3) Does it appear under Apple menu → About This Mac → More Info → System Report → USB? 4) Are you using a USB-C hub/adapter, and have you tried another cable, port, or computer?\n\nPlease do not click Erase, Initialize, or Reformat—especially if the drive contains important files."
+      },
+      "id": "wvzr0tVtpSOl2ZJGQ0mGZl",
+      "timestamp": "1787882842028",
+      "type": "assistant_message"
+    },
+    {
+      "id": "XaCfZhlYJmNTmex5avBZO9",
+      "status_update": {
+        "agent_status": "waiting",
+        "brief": "Manus is waiting for your reply",
+        "description": "Manus will continue working after your reply",
+        "status_detail": {
+          "waiting_description": "I need four quick checks to pinpoint the cause safely: 1) Does its light turn on, and do you hear normal spinning, clicking, or nothing? 2) Does it appear in Disk Utility after selecting View → Show All Devices? 3) Does it appear under Apple menu → About This Mac → More Info → System Report → USB? 4) Are you using a USB-C hub/adapter, and have you tried another cable, port, or computer?\n\nPlease do not click Erase, Initialize, or Reformat—especially if the drive contains important files.",
+          "waiting_for_event_id": "wvzr0tVtpSOl2ZJGQ0mGZl",
+          "waiting_for_event_type": "messageAskUser"
+        }
+      },
+      "timestamp": "1787882842305",
+      "type": "status_update"
+    },
+    {
+      "id": "LxUWB2RInB9fiFII3jS9Ev",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1787883000007",
+      "type": "status_update"
+    },
+    {
+      "id": "0lnmQ9mHV5pUhZYfUopDu7",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1787883009715",
+      "type": "status_update"
+    },
+    {
+      "id": "Kroaael5GZDjxnC6scd6As",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1787883609764",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "I’m still waiting on those four checks before I can distinguish a cable/power issue from a mounting, filesystem, or drive failure. Would you like to continue the diagnosis, or should I give you a safe generic troubleshooting sequence you can try now without erasing anything?"
+      },
+      "id": "khjTx1f2NlcK5miCkSI8Ip",
+      "timestamp": "1787883618089",
+      "type": "assistant_message"
+    },
+    {
+      "id": "FjvU2VckosUPdELU7q6TOI",
+      "status_update": {
+        "agent_status": "waiting",
+        "brief": "Manus is waiting for your reply",
+        "description": "Manus will continue working after your reply",
+        "status_detail": {
+          "waiting_description": "I’m still waiting on those four checks before I can distinguish a cable/power issue from a mounting, filesystem, or drive failure. Would you like to continue the diagnosis, or should I give you a safe generic troubleshooting sequence you can try now without erasing anything?",
+          "waiting_for_event_id": "khjTx1f2NlcK5miCkSI8Ip",
+          "waiting_for_event_type": "messageAskUser"
+        }
+      },
+      "timestamp": "1787883618309",
+      "type": "status_update"
+    },
+    {
+      "id": "9qpL6sxx66JiJDRjucSnEy",
+      "timestamp": "1787884633033",
+      "type": "user_message",
+      "user_message": {
+        "content": "1. Yes light turns on 2. I found it in disk utilities! ",
+        "message_type": "text"
+      }
+    },
+    {
+      "id": "o0Jyc9gNPB6N9lxc4C4QKz",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1787884633951",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "That’s good news—the Mac can see the physical drive, so it’s more likely a mounting or filesystem issue than a completely dead drive. I’ll narrow down the safest next step within 1–2 minutes; don’t click Erase or Initialize."
+      },
+      "id": "CJkOClunuejY1KbWfLZcMU",
+      "timestamp": "1787884646167",
+      "type": "assistant_message"
+    },
+    {
+      "id": "uE5HLdqMqGsgBkYH337U1K",
+      "timestamp": "1787884650929",
+      "type": "user_message",
+      "user_message": {
+        "attachments": [
+          {
+            "content_type": "image/png",
+            "filename": "Camera_1787884641.7481918_296F9122.png",
+            "type": "image",
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/pVMl67QK1fjo45leNDYnUq_na1fn_Q2FtZXJhXzE3ODc4ODQ2NDEuNzQ4MTkxOF8yOTZGOTEyMg.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvcFZNbDY3UUsxZmpvNDVsZU5EWW5VcV9uYTFmbl9RMkZ0WlhKaFh6RTNPRGM0T0RRMk5ERXVOelE0TVRreE9GOHlPVFpHT1RFeU1nLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDNBkqFdogmKZPAUEeTpW5J82JRtO0SoPOeAhULyFhQxwIgMMP~6L7JdB7QEQvR1lhdbRJXE~E1L5eOr8nC-WO0UOU_"
+          }
+        ],
+        "message_type": "text"
+      }
+    },
+    {
+      "assistant_message": {
+        "content": "The screenshot confirms the Mac detects the 500 GB physical drive and its partition container, which is encouraging. The missing piece is the actual volume beneath “Container disk9”; I’m checking the safest way to mount or diagnose it without risking your files—about 1–2 minutes."
+      },
+      "id": "aBrUBBX0sNw2aUWWWhUzxO",
+      "timestamp": "1787884665280",
+      "type": "assistant_message"
+    },
+    {
+      "id": "FgL59emv7TdYMIyhABvsuu",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1787884682084",
+      "type": "status_update"
+    },
+    {
+      "id": "940WPy2qIdoOeR4ZWFOF98",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1787884713539",
+      "type": "status_update"
+    },
+    {
+      "id": "w8kiJksBBnRKtrX7jxxcUh",
+      "timestamp": "1787884720829",
+      "type": "user_message",
+      "user_message": {
+        "attachments": [
+          {
+            "content_type": "image/png",
+            "filename": "Camera_1787884706.422291_07F0AFD4.png",
+            "type": "image",
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/3s0ZtciSlCFif19naB7ADk_na1fn_Q2FtZXJhXzE3ODc4ODQ3MDYuNDIyMjkxXzA3RjBBRkQ0.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvM3MwWnRjaVNsQ0ZpZjE5bmFCN0FEa19uYTFmbl9RMkZ0WlhKaFh6RTNPRGM0T0RRM01EWXVOREl5TWpreFh6QTNSakJCUmtRMC5wbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODk0MzA0MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDvsXyu7ABW8fdfaAf8mZ0GknlgpAgR9SersBjnTFDKSwIgSHxKmyWsNjFbIwHba5cGUwiyLR-P2tGgcHaUjhvs3co_"
+          }
+        ],
+        "content": "What are these bottom disk images ? ",
+        "message_type": "text"
+      }
+    },
+    {
+      "assistant_message": {
+        "content": "Those appear to be Apple developer-tool disk images, not extra physical drives. I’ll confirm what each one is and whether it’s safe to eject in about a minute."
+      },
+      "id": "JXRBiafuK97T7ZGhYNMkcQ",
+      "timestamp": "1787884732681",
+      "type": "assistant_message"
+    },
+    {
+      "id": "WXlpnSdpNbXMy2zk3cAFXh",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1787884745972",
+      "type": "status_update"
+    },
+    {
+      "id": "J3ioX9ih03sgPosMT3hd4L",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1787884756097",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Those are virtual Apple developer disks, not physical drives and not part of the YOTUO problem. “iOS 26.5 Simulator” is an iPhone-simulator runtime, and “MetalToolchainCryptex” supports Apple/Xcode graphics-development tools. They are harmless; you may eject them after closing Xcode or Simulator, but you don’t need to.\n\nFor the external drive, click “Container disk9.” Does a named volume appear beneath it? If not, click Info and send me a photo of the details. Do not use Erase or Partition."
+      },
+      "id": "sIZ8xsgUFyzr569cALKhJw",
+      "timestamp": "1787884765768",
+      "type": "assistant_message"
+    },
+    {
+      "id": "5hpbRCt3QZO5oHdqoNVMs5",
+      "status_update": {
+        "agent_status": "waiting",
+        "brief": "Manus is waiting for your reply",
+        "description": "Manus will continue working after your reply",
+        "status_detail": {
+          "waiting_description": "Those are virtual Apple developer disks, not physical drives and not part of the YOTUO problem. “iOS 26.5 Simulator” is an iPhone-simulator runtime, and “MetalToolchainCryptex” supports Apple/Xcode graphics-development tools. They are harmless; you may eject them after closing Xcode or Simulator, but you don’t need to.\n\nFor the external drive, click “Container disk9.” Does a named volume appear beneath it? If not, click Info and send me a photo of the details. Do not use Erase or Partition.",
+          "waiting_for_event_id": "sIZ8xsgUFyzr569cALKhJw",
+          "waiting_for_event_type": "messageAskUser"
+        }
+      },
+      "timestamp": "1787884766068",
+      "type": "status_update"
+    },
+    {
+      "id": "VlnoJcrZpXhQaAAsiX1gxK",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1787884802156",
+      "type": "status_update"
+    },
+    {
+      "id": "I0D7bMpjis7dURxALVtMDX",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1787884812466",
+      "type": "status_update"
+    },
+    {
+      "id": "jbiCDy5ARZXBtSX9UoVyf3",
+      "timestamp": "1787884933769",
+      "type": "user_message",
+      "user_message": {
+        "attachments": [
+          {
+            "content_type": "image/png",
+            "filename": "pasted_file_kVEPUG_image.png",
+            "type": "image",
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-wcsGPgVwW4WnuKTIpXww8K_na1fn_cGFzdGVkX2ZpbGVfa1ZFUFVHX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC13Y3NHUGdWd1c0V251S1RJcFh3dzhLX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZhMVpGVUZWSFgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCiVxvaCNfYgCYHVpxeXMs5W93mmLP8l~UoHa3tW0NYdQIgXWZok~S2OJ1vRUcJmBjmyDqXunETfBWefbjgqj6Z7~k_"
+          }
+        ],
+        "content": "no ",
+        "message_type": "text"
+      }
+    },
+    {
+      "id": "Meqbcdij3ohqJ3aSqjzvee",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1787884935290",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "This screenshot reveals the key issue: the APFS container still reports about 434 GB used, but its volume count is zero. Your data may still physically be there, but the volume records appear missing or damaged. Don’t run Erase, Partition, or add a new volume; I’ll confirm the safest read-only diagnostic steps in about 2 minutes."
+      },
+      "id": "yeB5W1U0mlDPNtJEp2syyS",
+      "timestamp": "1787884945088",
+      "type": "assistant_message"
+    },
+    {
+      "id": "oi3lgq97daT4UVDMVZ76PI",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1787884959581",
+      "type": "status_update"
+    },
+    {
+      "id": "WLuxwqLdL9YOKQ4G5hdu5S",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1787884982684",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "That confirms filesystem metadata damage is likely: the drive still has about 434 GB allocated, but macOS sees zero APFS volumes. Your files may still physically exist, so do not run First Aid, erase, partition, reformat, create a volume, or copy anything onto it.\n\nAre the files irreplaceable, and did this start after an abrupt unplug, power loss, crash, or drop? Also open Terminal and run this read-only command:\n\ndiskutil apfs list\n\nPaste the output or send a screenshot. This command will not modify the drive."
+      },
+      "id": "gObUfYllOb7iuiHgGvnmlP",
+      "timestamp": "1787884992148",
+      "type": "assistant_message"
+    },
+    {
+      "id": "10TIxKtL1OzAglciDAxVZU",
+      "status_update": {
+        "agent_status": "waiting",
+        "brief": "Manus is waiting for your reply",
+        "description": "Manus will continue working after your reply",
+        "status_detail": {
+          "waiting_description": "That confirms filesystem metadata damage is likely: the drive still has about 434 GB allocated, but macOS sees zero APFS volumes. Your files may still physically exist, so do not run First Aid, erase, partition, reformat, create a volume, or copy anything onto it.\n\nAre the files irreplaceable, and did this start after an abrupt unplug, power loss, crash, or drop? Also open Terminal and run this read-only command:\n\ndiskutil apfs list\n\nPaste the output or send a screenshot. This command will not modify the drive.",
+          "waiting_for_event_id": "gObUfYllOb7iuiHgGvnmlP",
+          "waiting_for_event_type": "messageAskUser"
+        }
+      },
+      "timestamp": "1787884992376",
+      "type": "status_update"
+    },
+    {
+      "id": "WJs0QGBEuEECnLkXemUMnT",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1787885079674",
+      "type": "status_update"
+    },
+    {
+      "id": "XSQ8y1skdOkVvCHIgWz8MG",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1787885086176",
+      "type": "status_update"
+    },
+    {
+      "id": "zNzQWMzXpAPH33YLPvCwsw",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1787885412547",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "I’m still waiting for the “diskutil apfs list” output. Would you like to continue the data-preservation diagnosis, or pause here? Until then, keep the drive unused and do not run First Aid, Erase, Partition, or create a new volume."
+      },
+      "id": "hSZduEaGLYVjeBD5WkpZdA",
+      "timestamp": "1787885421761",
+      "type": "assistant_message"
+    },
+    {
+      "id": "0GQSFV09drvtaMRIabauCY",
+      "status_update": {
+        "agent_status": "waiting",
+        "brief": "Manus is waiting for your reply",
+        "description": "Manus will continue working after your reply",
+        "status_detail": {
+          "waiting_description": "I’m still waiting for the “diskutil apfs list” output. Would you like to continue the data-preservation diagnosis, or pause here? Until then, keep the drive unused and do not run First Aid, Erase, Partition, or create a new volume.",
+          "waiting_for_event_id": "hSZduEaGLYVjeBD5WkpZdA",
+          "waiting_for_event_type": "messageAskUser"
+        }
+      },
+      "timestamp": "1787885421964",
+      "type": "status_update"
+    },
+    {
+      "id": "4E7cFPXZXeDTgeyB5aFbWi",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1787885686233",
+      "type": "status_update"
+    },
+    {
+      "id": "BTJn3BxDrAlrQ3IOP1g1lj",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1787885698716",
+      "type": "status_update"
+    },
+    {
+      "id": "jHkpYRzPDhchSO4LZFC6bZ",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1787886298784",
+      "type": "status_update"
+    },
+    {
+      "id": "2lD9eLiK10rAOtijcRi9fk",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1787886308510",
+      "type": "status_update"
+    },
+    {
+      "id": "BZvm4mwX1mjzHLAB7RY7Cn",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1787886908558",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "I’ll pause the diagnosis here. Keep the drive disconnected or unused, and do not run First Aid, Erase, Partition, or create a new volume. When you’re ready, send the output from “diskutil apfs list” and we can continue safely from there."
+      },
+      "id": "nBidyzVss3dZDYdGghMO8l",
+      "timestamp": "1787886917787",
+      "type": "assistant_message"
+    },
+    {
+      "id": "sQJlpbh9mEabeH0vCmiFAq",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1787886918727",
+      "type": "status_update"
+    },
+    {
+      "id": "dX4xFakLxwJxLWNvQGB8dD",
+      "timestamp": "1787953618839",
+      "type": "user_message",
+      "user_message": {
+        "content": "give me the terminal command to clone this repo https://github.com/msitarzewski/agency-agents",
+        "message_type": "text"
+      }
+    },
+    {
+      "id": "9BydJBc8wRhU87z7v2Efyf",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1787953619240",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Copy and paste this into Terminal:\n\ngit clone https://github.com/msitarzewski/agency-agents.git\n\nThen open the downloaded folder:\n\ncd agency-agents\n\nTo clone it directly to your Desktop instead:\n\ngit clone https://github.com/msitarzewski/agency-agents.git ~/Desktop/agency-agents && cd ~/Desktop/agency-agents"
+      },
+      "id": "4TjpCLSDkrkDMF9r00c7S8",
+      "timestamp": "1787953631934",
+      "type": "assistant_message"
+    },
+    {
+      "id": "izFUFojtAO9Bs8dRrcN20Q",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1787953632440",
+      "type": "status_update"
     }
   ],
   "attachments": [
@@ -11969,260 +13110,260 @@
       "type": "file",
       "filename": "plaud_alternatives_comparison.md",
       "content_type": "text/markdown; charset=utf-8",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/TrxocvboVj6w7YG6unA3h5_1781518601347_na1fn_L2hvbWUvdWJ1bnR1L2JFQlhpZE5RVG5ablFHZVdXb1RBbVQvcGxhdWRfYWx0ZXJuYXRpdmVzX2NvbXBhcmlzb24.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L1RyeG9jdmJvVmo2dzdZRzZ1bkEzaDVfMTc4MTUxODYwMTM0N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJKRlFsaHBaRTVSVkc1YWJsRkhaVmRYYjFSQmJWUXZjR3hoZFdSZllXeDBaWEp1WVhScGRtVnpYMk52YlhCaGNtbHpiMjQubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQC~mkKG-IqMhzU8rlc0sX2XGSANQCr8-asV2ArOM3-CmQIhANkmNdQB8frmGm01j0Et2zN9uQgj~lZgJ5C1YGgfTiB5",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/TrxocvboVj6w7YG6unA3h5_1781518601347_na1fn_L2hvbWUvdWJ1bnR1L2JFQlhpZE5RVG5ablFHZVdXb1RBbVQvcGxhdWRfYWx0ZXJuYXRpdmVzX2NvbXBhcmlzb24.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L1RyeG9jdmJvVmo2dzdZRzZ1bkEzaDVfMTc4MTUxODYwMTM0N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJKRlFsaHBaRTVSVkc1YWJsRkhaVmRYYjFSQmJWUXZjR3hoZFdSZllXeDBaWEp1WVhScGRtVnpYMk52YlhCaGNtbHpiMjQubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODk0MzA0MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCqULGVCTkx3BsEaBIAR~gidQLl8NyKwqLUE0uyaVS7kwIhAKv8wFG-aauzlgN6HoI58b698cEHwUgIj2reyfmO6lZF",
       "status": "archived",
       "bytes": 9483,
-      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/30-assistant_message-0_9acb57f90fb18949_plaud_alternatives_comparison.md"
+      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/30-assistant_message-0_dbf01465bd3e5a25_plaud_alternatives_comparison.md"
     },
     {
       "event_index": 49,
       "type": "file",
       "filename": "llm_comparison.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/WmsGkVFTaYdp0g3JPOseG1_1781804562821_na1fn_L2hvbWUvdWJ1bnR1L2xsbV9jb21wYXJpc29u.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L1dtc0drVkZUYVlkcDBnM0pQT3NlRzFfMTc4MTgwNDU2MjgyMV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJ4c2JWOWpiMjF3WVhKcGMyOXUucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIFRwwfloP-tNMDMgDQ1QCInAUuynhXVzmcm7brU33WaCAiEA4tfYQ9SY2bWoqAKuhrPWqyp1SkE1wgZMaaOaQFj6tyw_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/WmsGkVFTaYdp0g3JPOseG1_1781804562821_na1fn_L2hvbWUvdWJ1bnR1L2xsbV9jb21wYXJpc29u.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L1dtc0drVkZUYVlkcDBnM0pQT3NlRzFfMTc4MTgwNDU2MjgyMV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJ4c2JWOWpiMjF3WVhKcGMyOXUucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIAvWzwXtYTktOyqZ3gpqo6cxFG-KaiHyVD5vU77V1QC6AiAR~e6QD-NzSatKBHqniJZpT~494VO~h8ugvHButoE8Iw__",
       "status": "archived",
       "bytes": 68737,
-      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/49-assistant_message-0_9fa77dd338caf94e_llm_comparison.pdf"
+      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/49-assistant_message-0_3cf2704f68c4a80d_llm_comparison.pdf"
     },
     {
       "event_index": 55,
       "type": "file",
       "filename": "pasted_content.txt",
       "content_type": "text/plain",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-yNIKGSsTfrJuyYldibpc8I_na1fn_cGFzdGVkX2NvbnRlbnQ.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC15TklLR1NzVGZySnV5WWxkaWJwYzhJX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCfI~VHM1CwIJTAEFnMbN0kac6FJgg5X3mlr9mNvgIDlAIhALNftz7~egR7lB0hWL7KurqgulM4TwRXnnKHZ5hYoT-z",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-yNIKGSsTfrJuyYldibpc8I_na1fn_cGFzdGVkX2NvbnRlbnQ.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC15TklLR1NzVGZySnV5WWxkaWJwYzhJX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICum87F0WyFTjonU2lmUrCJ8uA8IqSXSk98NBgBxwvgdAiEA7-~TjH2r4yXSwvvOWGUkNqW~QxPM7jV7pPF7Lc~mDuI_",
       "status": "archived",
       "bytes": 3160,
-      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/55-user_message-0_ad32c0656d7d84ee_pasted_content.txt"
+      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/55-user_message-0_98733442ef61bf52_pasted_content.txt"
     },
     {
       "event_index": 67,
       "type": "image",
       "filename": "pasted_file_LwlvhQ_image.png",
       "content_type": "image/png",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-dHt5ONHI53qPoUeHs7S8Ii_na1fn_cGFzdGVkX2ZpbGVfTHdsdmhRX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1kSHQ1T05ISTUzcVBvVWVIczdTOElpX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZUSGRzZG1oUlgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDeVwHrrrKdhsbL4Jnn~gOGLySknnz-irbHtY-3R-UzQwIhAMyr1Kb8C1Ld5Poa-Lbq5hxu5eeJvDaiXRawpQTMe8ph",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-dHt5ONHI53qPoUeHs7S8Ii_na1fn_cGFzdGVkX2ZpbGVfTHdsdmhRX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1kSHQ1T05ISTUzcVBvVWVIczdTOElpX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZUSGRzZG1oUlgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQD7JsEoJ~eENUvQ5qjtDw9ZrSOlacaAQ2TADBoPg3-k6wIhAIOI-LZ8bRylwe0HUgS4rRbPyDArpxGp7Tkg3vwGhi~K",
       "status": "archived",
       "bytes": 2039494,
-      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/67-user_message-0_a5898279a5a758b1_pasted_file_LwlvhQ_image.png"
+      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/67-user_message-0_852810c3cf0dd766_pasted_file_LwlvhQ_image.png"
     },
     {
       "event_index": 71,
       "type": "image",
       "filename": "compressed_photo.jpg",
       "content_type": "image/jpeg",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/lXLHmtiYF7PJfpPo09fOoY_1782067570527_na1fn_L2hvbWUvdWJ1bnR1L2NvbXByZXNzZWRfcGhvdG8.jpg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L2xYTEhtdGlZRjdQSmZwUG8wOWZPb1lfMTc4MjA2NzU3MDUyN19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOdmJYQnlaWE56WldSZmNHaHZkRzguanBnIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIENCH5BpGxkUrkCY7Rlk1h7XQ6g8u2glwLHnAhq9ICDUAiAwae2jOxCQDWffRS5FQh5j9kjZuGo32qnVOfpUpzQdqw__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/lXLHmtiYF7PJfpPo09fOoY_1782067570527_na1fn_L2hvbWUvdWJ1bnR1L2NvbXByZXNzZWRfcGhvdG8.jpg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L2xYTEhtdGlZRjdQSmZwUG8wOWZPb1lfMTc4MjA2NzU3MDUyN19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOdmJYQnlaWE56WldSZmNHaHZkRzguanBnIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIBn19ugV~2zCxenQxYcUN82tUSPXtv50fr5sxjwHUH1LAiAYMRbDoQbml-k4Hl77wfg5rza86q2XgTEOLVsR8NuYEA__",
       "status": "archived",
       "bytes": 120058,
-      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/71-assistant_message-0_59629b0f0114ebde_compressed_photo.jpg"
+      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/71-assistant_message-0_c28df1a6be0e2741_compressed_photo.jpg"
     },
     {
       "event_index": 83,
       "type": "image",
       "filename": "compressed_photo.jpg",
       "content_type": "image/jpeg",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/zAOsKw2PXXvTgYp1ooudIJ_1782069629905_na1fn_L2hvbWUvdWJ1bnR1L2NvbXByZXNzZWRfcGhvdG8.jpg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L3pBT3NLdzJQWFh2VGdZcDFvb3VkSUpfMTc4MjA2OTYyOTkwNV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOdmJYQnlaWE56WldSZmNHaHZkRzguanBnIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCLLXUDJ6EUCoRFE6-3Zx-1VSGBLe3b-OfFrbgc8D6t1gIhANcAnbEKiBADpHG4ynwTg8quJHOAr-MwvpKAxWlTOI8R",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/zAOsKw2PXXvTgYp1ooudIJ_1782069629905_na1fn_L2hvbWUvdWJ1bnR1L2NvbXByZXNzZWRfcGhvdG8.jpg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L3pBT3NLdzJQWFh2VGdZcDFvb3VkSUpfMTc4MjA2OTYyOTkwNV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOdmJYQnlaWE56WldSZmNHaHZkRzguanBnIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDXj1tuoPAMYaGsz27Ts~j57XKnqFyp~F9ODgburi96PAIhAO1JHP-TH8horl9--fQf-wGYTPDadZvzhMOTySc-O2IM",
       "status": "archived",
       "bytes": 120058,
-      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/83-assistant_message-0_e4b6fcdb4cc66948_compressed_photo.jpg"
+      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/83-assistant_message-0_25046ff941f61abc_compressed_photo.jpg"
     },
     {
       "event_index": 121,
       "type": "file",
       "filename": "pasted_file_7EPPOx_MarcScreaming06-24-2026.m4a",
       "content_type": "audio/x-m4a",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-xR6tZIDln7ofgsJndNsNAE_na1fn_cGFzdGVkX2ZpbGVfN0VQUE94X01hcmNTY3JlYW1pbmcwNi0yNC0yMDI2.m4a?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC14UjZ0WklEbG43b2Znc0puZE5zTkFFX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZOMFZRVUU5NFgwMWhjbU5UWTNKbFlXMXBibWN3TmkweU5DMHlNREkyLm00YSIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCYIpFCNCyV8O426t~xNvH2oQ83uMnAAuEiHNn-TKG-IgIhANZjvgXn9Q22OGj7QT6v2uzJLmuxcTTB~Fd9-VPQzHxb",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-xR6tZIDln7ofgsJndNsNAE_na1fn_cGFzdGVkX2ZpbGVfN0VQUE94X01hcmNTY3JlYW1pbmcwNi0yNC0yMDI2.m4a?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC14UjZ0WklEbG43b2Znc0puZE5zTkFFX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZOMFZRVUU5NFgwMWhjbU5UWTNKbFlXMXBibWN3TmkweU5DMHlNREkyLm00YSIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDvaK7yfRq4MvoHfXiutxvObj3GES-snBOoagMU~WYp5wIgcddQetzm~gO6LamKGLxJGnjxTDUM5nNkx9kZMWbzF-M_",
       "status": "archived",
       "bytes": 11402886,
-      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/121-user_message-0_ca3a6db1c7fc213e_pasted_file_7EPPOx_MarcScreaming06-24-2026.m4a"
+      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/121-user_message-0_2ce7304c460e649e_pasted_file_7EPPOx_MarcScreaming06-24-2026.m4a"
     },
     {
       "event_index": 128,
       "type": "file",
       "filename": "workflow_summary.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/S4DoEhpKn8K82vzbnJfaJi_1782352609143_na1fn_L2hvbWUvdWJ1bnR1L3dvcmtmbG93X3N1bW1hcnk.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L1M0RG9FaHBLbjhLODJ2emJuSmZhSmlfMTc4MjM1MjYwOTE0M19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNkdmNtdG1iRzkzWDNOMWJXMWhjbmsucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCICMGYPGpbpx2NCRi9ioKZMpGzB9xLXysKHYPctKjgu48AiAWov7~HLqKxynIUrXXMFlV9nXx7rxT8NfRN5BCKlz0~g__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/S4DoEhpKn8K82vzbnJfaJi_1782352609143_na1fn_L2hvbWUvdWJ1bnR1L3dvcmtmbG93X3N1bW1hcnk.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L1M0RG9FaHBLbjhLODJ2emJuSmZhSmlfMTc4MjM1MjYwOTE0M19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNkdmNtdG1iRzkzWDNOMWJXMWhjbmsucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDlNWfbtvpg8b2IlH-IL3s-xNeF-6d6fQ-iW4pPRbZXxQIgQPPmDetTXL1tbx21n0XwVWh632D3q9g0fGYwPgAx6bo_",
       "status": "archived",
       "bytes": 74425,
-      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/128-assistant_message-0_deb26db6ea97e7de_workflow_summary.pdf"
+      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/128-assistant_message-0_45e07b74b16a830d_workflow_summary.pdf"
     },
     {
       "event_index": 276,
       "type": "image",
       "filename": "pasted_file_b4kivO_image.png",
       "content_type": "image/png",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-h2ko4TmZaLEud203NPAjCk_na1fn_cGFzdGVkX2ZpbGVfYjRraXZPX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1oMmtvNFRtWmFMRXVkMjAzTlBBakNrX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZZalJyYVhaUFgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIEa0fMErPwrek1D5Svl3MQGVkXg4pHoWOqjX~Z0fwKQfAiBhWOX88QsgwrJ8cC5JhZkuCBVkbeK6hYorbZ6jDE8wMg__",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-h2ko4TmZaLEud203NPAjCk_na1fn_cGFzdGVkX2ZpbGVfYjRraXZPX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1oMmtvNFRtWmFMRXVkMjAzTlBBakNrX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZZalJyYVhaUFgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDD-QvpCQd3Fpkxz7DXlSjl8T36UlXkh1~AGxG2Rsk~2QIgHB6QRtAxHVQbkTVZ9YyMNBtqAQcYLm-uC2tSNb2K3T4_",
       "status": "archived",
       "bytes": 128184,
-      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/276-user_message-0_41b20507fdb735af_pasted_file_b4kivO_image.png"
+      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/276-user_message-0_66b7043a316058af_pasted_file_b4kivO_image.png"
     },
     {
       "event_index": 392,
       "type": "file",
       "filename": "UpToDateRentComps-Copy.xlsx",
       "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-0uX4ONBMT8TG9craXn8mFt_na1fn_VXBUb0RhdGVSZW50Q29tcHMtQ29weQ.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC0wdVg0T05CTVQ4VEc5Y3JhWG44bUZ0X25hMWZuX1ZYQlViMFJoZEdWU1pXNTBRMjl0Y0hNdFEyOXdlUS54bHN4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIFm91Jat60X5xbsgmmSfmEM9ejxWHDVHUcywlt6G5eSPAiEAmyfjHb0-5zKQ3zm6YZ7gHgN4wVumExAXEuAbSkMDMUE_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-0uX4ONBMT8TG9craXn8mFt_na1fn_VXBUb0RhdGVSZW50Q29tcHMtQ29weQ.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC0wdVg0T05CTVQ4VEc5Y3JhWG44bUZ0X25hMWZuX1ZYQlViMFJoZEdWU1pXNTBRMjl0Y0hNdFEyOXdlUS54bHN4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIHr5oE0YgJiS5empRkSLp2c-HBTRVhBByFPiidzEJkIFAiEAxdQH7EBBWx2vBIu6fNgj09uMDi~0ZopX8Vnuv-5az44_",
       "status": "archived",
       "bytes": 478288,
-      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/392-user_message-0_84d0a2158428cb73_UpToDateRentComps-Copy.xlsx"
+      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/392-user_message-0_13c30867806d5f81_UpToDateRentComps-Copy.xlsx"
     },
     {
       "event_index": 481,
       "type": "image",
       "filename": "ChatGPTImageJun28,2026,06_43_10PM.png",
       "content_type": "image/png",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-oowxvl4lPhxHhIOxcD4sU2_na1fn_Q2hhdEdQVEltYWdlSnVuMjgsMjAyNiwwNl80M18xMFBN.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1vb3d4dmw0bFBoeEhoSU94Y0Q0c1UyX25hMWZuX1EyaGhkRWRRVkVsdFlXZGxTblZ1TWpnc01qQXlOaXd3Tmw4ME0xOHhNRkJOLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCypUiGp00sR2uqDXH9DU5GVHIfVbSWu~-SpyCiMjqHXQIgOeCiWG~8Q-goVP3tnnP1rcd6czQz8q06PiIqrA3QrIY_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-oowxvl4lPhxHhIOxcD4sU2_na1fn_Q2hhdEdQVEltYWdlSnVuMjgsMjAyNiwwNl80M18xMFBN.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1vb3d4dmw0bFBoeEhoSU94Y0Q0c1UyX25hMWZuX1EyaGhkRWRRVkVsdFlXZGxTblZ1TWpnc01qQXlOaXd3Tmw4ME0xOHhNRkJOLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCtlRTpVQzKg29YWNHqjac2OdKiNE~GCJP4-iPtkxzYvAIhAKL73RdSxS7UQnwS2w4CHaXcbFrs03GxZeyaTYCC3lhE",
       "status": "archived",
       "bytes": 2265874,
-      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/481-user_message-0_ec96f5a94706d455_ChatGPTImageJun28_2026_06_43_10PM.png"
+      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/481-user_message-0_062241db720b6fbe_ChatGPTImageJun28_2026_06_43_10PM.png"
     },
     {
       "event_index": 481,
       "type": "file",
       "filename": "80439008643__1145F42F-D029-4393-9CED-2F289651A9DD.HEIC",
       "content_type": "image/heic",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-Yz2ILXskDw8pvsBRjBwVc7_na1fn_ODA0MzkwMDg2NDNfXzExNDVGNDJGLUQwMjktNDM5My05Q0VELTJGMjg5NjUxQTlERA.HEIC?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1ZejJJTFhza0R3OHB2c0JSakJ3VmM3X25hMWZuX09EQTBNemt3TURnMk5ETmZYekV4TkRWR05ESkdMVVF3TWprdE5ETTVNeTA1UTBWRUxUSkdNamc1TmpVeFFUbEVSQS5IRUlDIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQC72UoGABULbAZ9smiemxoeE2swvHmLEkxlZ5cGyh8PzwIhAKHlTlMhA33fsxb47SDk5SyjBvW3jUjhwiCz0qDS7vK9",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-Yz2ILXskDw8pvsBRjBwVc7_na1fn_ODA0MzkwMDg2NDNfXzExNDVGNDJGLUQwMjktNDM5My05Q0VELTJGMjg5NjUxQTlERA.HEIC?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1ZejJJTFhza0R3OHB2c0JSakJ3VmM3X25hMWZuX09EQTBNemt3TURnMk5ETmZYekV4TkRWR05ESkdMVVF3TWprdE5ETTVNeTA1UTBWRUxUSkdNamc1TmpVeFFUbEVSQS5IRUlDIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDIJg6VleqPakIydPkjp2gUiaxapdUFv7dMlyJHTTbJewIhANnB4TSmzpAAyGgjoywcHY9sCqE5oaKCUa6FBjUY5r2C",
       "status": "archived",
       "bytes": 912000,
-      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/481-user_message-1_763ac0b72123b934_80439008643__1145F42F-D029-4393-9CED-2F289651A9DD.HEIC"
+      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/481-user_message-1_6ab8918fbbe86b3b_80439008643__1145F42F-D029-4393-9CED-2F289651A9DD.HEIC"
     },
     {
       "event_index": 481,
       "type": "file",
       "filename": "80439009292__07772728-5381-40A5-B1E1-8553AE9DD957.HEIC",
       "content_type": "image/heic",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-97J51nX9QLQXObBZ7bHKw5_na1fn_ODA0MzkwMDkyOTJfXzA3NzcyNzI4LTUzODEtNDBBNS1CMUUxLTg1NTNBRTlERDk1Nw.HEIC?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC05N0o1MW5YOVFMUVhPYkJaN2JIS3c1X25hMWZuX09EQTBNemt3TURreU9USmZYekEzTnpjeU56STRMVFV6T0RFdE5EQkJOUzFDTVVVeExUZzFOVE5CUlRsRVJEazFOdy5IRUlDIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCdp2VCwdk-nisAJAq52uqU0ee~8m~VEl3q4d7Ma5gn1wIgGHXJJRstNgzseZ~CZs3oA1Vckez8Iodxft6lxdLeSV4_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-97J51nX9QLQXObBZ7bHKw5_na1fn_ODA0MzkwMDkyOTJfXzA3NzcyNzI4LTUzODEtNDBBNS1CMUUxLTg1NTNBRTlERDk1Nw.HEIC?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC05N0o1MW5YOVFMUVhPYkJaN2JIS3c1X25hMWZuX09EQTBNemt3TURreU9USmZYekEzTnpjeU56STRMVFV6T0RFdE5EQkJOUzFDTVVVeExUZzFOVE5CUlRsRVJEazFOdy5IRUlDIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDMDIKEmsZ38UkYnbfMRyFV08GUhjQ1UFzWCwUKSC3V~gIhANdBU0soBmWpiKlWxE5Xv58cHPRATK-uTSff2sycFa87",
       "status": "archived",
       "bytes": 865102,
-      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/481-user_message-2_0930114a25da0b75_80439009292__07772728-5381-40A5-B1E1-8553AE9DD957.HEIC"
+      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/481-user_message-2_3d2639ab43d85b85_80439009292__07772728-5381-40A5-B1E1-8553AE9DD957.HEIC"
     },
     {
       "event_index": 481,
       "type": "file",
       "filename": "80439013599__D0C5FF12-CFDF-490D-A634-40DF48FC91AC.HEIC",
       "content_type": "image/heic",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-APaN7L9vJPawphKT5mfFZ3_na1fn_ODA0MzkwMTM1OTlfX0QwQzVGRjEyLUNGREYtNDkwRC1BNjM0LTQwREY0OEZDOTFBQw.HEIC?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1BUGFON0w5dkpQYXdwaEtUNW1mRlozX25hMWZuX09EQTBNemt3TVRNMU9UbGZYMFF3UXpWR1JqRXlMVU5HUkVZdE5Ea3dSQzFCTmpNMExUUXdSRVkwT0VaRE9URkJRdy5IRUlDIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCzi91gx2SkHl2~D9gSX12kXnvNv0SBG-t0c6O2xTK3LgIhAPheRmBl~PY2EI7YnQ0L~hyTRTzeMuktmrwqB7qWg4oG",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-APaN7L9vJPawphKT5mfFZ3_na1fn_ODA0MzkwMTM1OTlfX0QwQzVGRjEyLUNGREYtNDkwRC1BNjM0LTQwREY0OEZDOTFBQw.HEIC?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1BUGFON0w5dkpQYXdwaEtUNW1mRlozX25hMWZuX09EQTBNemt3TVRNMU9UbGZYMFF3UXpWR1JqRXlMVU5HUkVZdE5Ea3dSQzFCTmpNMExUUXdSRVkwT0VaRE9URkJRdy5IRUlDIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIHA8F184E7NfJ4Cvkioa96ueofn6IiUbxsjeeiqkT8eNAiEA5RgwtmUz4fA6wRFD0h0Q9RTNIZWE2l2ObRW9ZFuXsZo_",
       "status": "archived",
       "bytes": 1270246,
-      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/481-user_message-3_bd33787a3f7cb505_80439013599__D0C5FF12-CFDF-490D-A634-40DF48FC91AC.HEIC"
+      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/481-user_message-3_a77dca9a9b8188db_80439013599__D0C5FF12-CFDF-490D-A634-40DF48FC91AC.HEIC"
     },
     {
       "event_index": 486,
       "type": "file",
       "filename": "Victory_Gardens_Offering_Memorandum.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/yqpZASua39kWcj3ZMI4Yvr_1782698513082_na1fn_L2hvbWUvdWJ1bnR1L3NUNEhmbHZrRmwxbGFGU1ZKa1VIMHMvVmljdG9yeV9HYXJkZW5zX09mZmVyaW5nX01lbW9yYW5kdW0.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L3lxcFpBU3VhMzlrV2NqM1pNSTRZdnJfMTc4MjY5ODUxMzA4Ml9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOVU5FaG1iSFpyUm13eGJHRkdVMVpLYTFWSU1ITXZWbWxqZEc5eWVWOUhZWEprWlc1elgwOW1abVZ5YVc1blgwMWxiVzl5WVc1a2RXMC5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIFkBD8NZi8Vj-IFLSQm~yDuY1e2hXhz~mipBLREdQuzhAiEAoaq1i68MzA9PLaJXtL6jrjAx-QlKSexiLtu-lmeQZIU_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/yqpZASua39kWcj3ZMI4Yvr_1782698513082_na1fn_L2hvbWUvdWJ1bnR1L3NUNEhmbHZrRmwxbGFGU1ZKa1VIMHMvVmljdG9yeV9HYXJkZW5zX09mZmVyaW5nX01lbW9yYW5kdW0.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L3lxcFpBU3VhMzlrV2NqM1pNSTRZdnJfMTc4MjY5ODUxMzA4Ml9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNOVU5FaG1iSFpyUm13eGJHRkdVMVpLYTFWSU1ITXZWbWxqZEc5eWVWOUhZWEprWlc1elgwOW1abVZ5YVc1blgwMWxiVzl5WVc1a2RXMC5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODk0MzA0MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDA4fFocbHgYKL0UwLOrX2Denq302zS8e4mDBpitfGOVgIgJxIu~-~vHqGFnD--urbGF5nGB9mxIDXMVVnYcha~kpM_",
       "status": "archived",
       "bytes": 2521352,
-      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/486-assistant_message-0_31e2c804b6cbbbfd_Victory_Gardens_Offering_Memorandum.pdf"
+      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/486-assistant_message-0_e7084ff379484745_Victory_Gardens_Offering_Memorandum.pdf"
     },
     {
       "event_index": 521,
       "type": "file",
       "filename": "pasted_content_2.txt",
       "content_type": "text/plain",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-81yNQqqm3bHep5En6g9w6O_na1fn_cGFzdGVkX2NvbnRlbnRfMg.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC04MXlOUXFxbTNiSGVwNUVuNmc5dzZPX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblJmTWcudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCcDbwErw-x9cGYJX3ux5p~5lTp~7h9HpPP3Tr2ROhbWgIgT2QKhtovuPMYg45hfWNHATJ8wvYuAhICF1jVIN0FYko_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-81yNQqqm3bHep5En6g9w6O_na1fn_cGFzdGVkX2NvbnRlbnRfMg.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC04MXlOUXFxbTNiSGVwNUVuNmc5dzZPX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblJmTWcudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQC0mv2bQ4Bwa5Drw9Mrk37nVwqV29Exz7upuqB4-rp30AIhAJNivQvTnMc9iOrP3oW7Wz41HlbTjEG986etjTVcwOtZ",
       "status": "archived",
       "bytes": 3921,
-      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/521-user_message-0_4c25c366dbc21405_pasted_content_2.txt"
+      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/521-user_message-0_066a8e968273cb1c_pasted_content_2.txt"
     },
     {
       "event_index": 539,
       "type": "image",
       "filename": "IMG_1571(1).jpeg",
       "content_type": "image/jpeg",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/W579mSW8dQp785RYYXCgh4_na1fn_SU1HXzE1NzEoMSk.jpeg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvVzU3OW1TVzhkUXA3ODVSWVlYQ2doNF9uYTFmbl9TVTFIWHpFMU56RW9NU2suanBlZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICWkWF8h-8IAkv98biBb9u8cYsbwhh1SdG1djDvI2ryHAiEA6yE-hRPU4BIcOQQ4NJbf-Ld3qst-rduEnn4bVxGsLlg_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/W579mSW8dQp785RYYXCgh4_na1fn_SU1HXzE1NzEoMSk.jpeg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvVzU3OW1TVzhkUXA3ODVSWVlYQ2doNF9uYTFmbl9TVTFIWHpFMU56RW9NU2suanBlZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDbAlpbwDlCDppDX9fUMuYv9Og~8MI5MdvK8ivinVEYYAiAGDDBahbCPIe9EbBXlC3Z43HH~yrUAePlsa0M1yR5thQ__",
       "status": "archived",
       "bytes": 525704,
-      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/539-user_message-0_3466486075a72298_IMG_1571_1_.jpeg"
+      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/539-user_message-0_8232c43a7cc83c8e_IMG_1571_1_.jpeg"
     },
     {
       "event_index": 567,
       "type": "file",
       "filename": "top_100_github_repos.md",
       "content_type": "text/markdown; charset=utf-8",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/3uCYNgVPyPqeKYtpHCSEVZ_1783469642715_na1fn_L2hvbWUvdWJ1bnR1L3RvcF8xMDBfZ2l0aHViX3JlcG9z.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94LzN1Q1lOZ1ZQeVBxZUtZdHBIQ1NFVlpfMTc4MzQ2OTY0MjcxNV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNSdmNGOHhNREJmWjJsMGFIVmlYM0psY0c5ei5tZCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIBbh3HeBkbNz0P7bxMT3WbzvuibC5q4bE~C5GBY1BYhiAiBbldmtb5C~h~Jvho8~KHuh1zm8-virWLQ43ECx3M29ZQ__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/3uCYNgVPyPqeKYtpHCSEVZ_1783469642715_na1fn_L2hvbWUvdWJ1bnR1L3RvcF8xMDBfZ2l0aHViX3JlcG9z.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94LzN1Q1lOZ1ZQeVBxZUtZdHBIQ1NFVlpfMTc4MzQ2OTY0MjcxNV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNSdmNGOHhNREJmWjJsMGFIVmlYM0psY0c5ei5tZCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIC-fJ9hM~XeBZ2W3iVMxdqIyM5thbeI3YMICij-se1GRAiAQpF3CkyZU9mVu9naLXpj-wN2yaCDe0EvmNcA6DcRu0Q__",
       "status": "archived",
       "bytes": 19445,
-      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/567-assistant_message-0_2480d81f7fd4b44e_top_100_github_repos.md"
+      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/567-assistant_message-0_8ebcdb561ccffc31_top_100_github_repos.md"
     },
     {
       "event_index": 569,
       "type": "image",
       "filename": "pasted_file_ATOsXd_image.png",
       "content_type": "image/png",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-LoOt6NieCRrNL2F3kpxZO5_na1fn_cGFzdGVkX2ZpbGVfQVRPc1hkX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1Mb090Nk5pZUNSck5MMkYza3B4Wk81X25hMWZuX2NHRnpkR1ZrWDJacGJHVmZRVlJQYzFoa1gybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCwV9xfSaOtoEn4Upo5Qbwh~nlj-xogWGcnAEU0VB4qAAIge4IGkKw3bEFrE-~62GeND~FKYcLFyEjSGsKGJrtjPzE_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-LoOt6NieCRrNL2F3kpxZO5_na1fn_cGFzdGVkX2ZpbGVfQVRPc1hkX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1Mb090Nk5pZUNSck5MMkYza3B4Wk81X25hMWZuX2NHRnpkR1ZrWDJacGJHVmZRVlJQYzFoa1gybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCICe5p8yJ7VjCnb8IrUHwtk2LvVmDSB3BN5DlILR6OcCcAiAICQYTfjA8MhpXR8se2HKkEJdUr6ghXYL7GHJ8SaRIbg__",
       "status": "archived",
       "bytes": 390235,
-      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/569-user_message-0_20403ab892992003_pasted_file_ATOsXd_image.png"
+      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/569-user_message-0_989271da93ec178b_pasted_file_ATOsXd_image.png"
     },
     {
       "event_index": 587,
       "type": "file",
       "filename": "mobile_vets_sherman_oaks.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/Sz5ygGeqAUbue0CZiwA9P4_1783881232524_na1fn_L2hvbWUvdWJ1bnR1L21vYmlsZV92ZXRzX3NoZXJtYW5fb2Frcw.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L1N6NXlnR2VxQVVidWUwQ1ppd0E5UDRfMTc4Mzg4MTIzMjUyNF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDIxdlltbHNaVjkyWlhSelgzTm9aWEp0WVc1ZmIyRnJjdy5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDBS98oVHAEttzi1orEJvry0KMIuCvc8bSDIFoOQlSMEQIgBEEhqcJkYllCzKGE3OwLGSNbdIlbZ899MVlqI8SLdjo_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/Sz5ygGeqAUbue0CZiwA9P4_1783881232524_na1fn_L2hvbWUvdWJ1bnR1L21vYmlsZV92ZXRzX3NoZXJtYW5fb2Frcw.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L1N6NXlnR2VxQVVidWUwQ1ppd0E5UDRfMTc4Mzg4MTIzMjUyNF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDIxdlltbHNaVjkyWlhSelgzTm9aWEp0WVc1ZmIyRnJjdy5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODk0MzA0MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCID7TUtAsOmsi1A6XnvWEOxjF2B0A54oNx6yMh1hOXEMKAiEAuIJBFch3ASmOxzvSogF~Zawe3sHqk6hK0mtOTBczQ48_",
       "status": "archived",
       "bytes": 75568,
-      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/587-assistant_message-0_b09466ff77beb1ae_mobile_vets_sherman_oaks.pdf"
+      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/587-assistant_message-0_40cdfd256484cd47_mobile_vets_sherman_oaks.pdf"
     },
     {
       "event_index": 647,
       "type": "file",
       "filename": "out_of_office_sign.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/m5P81F7ru9ZGgp1gQNIegC_1784565351369_na1fn_L2hvbWUvdWJ1bnR1L0pZOW1nUFNtSUJlbERKdzVLQTdrRlEvb3V0X29mX29mZmljZV9zaWdu.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L201UDgxRjdydTlaR2dwMWdRTkllZ0NfMTc4NDU2NTM1MTM2OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBwWk9XMW5VRk50U1VKbGJFUktkelZMUVRkclJsRXZiM1YwWDI5bVgyOW1abWxqWlY5emFXZHUucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg2NzUyMDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQC92MtdFyBavZjYYMAwFLYl~kIWZEar4Z9IYNXArU9ypAIgPBM63CYAaB8hw3G2sq5sFESUIhLbss-4Qfcp~Q7nR~o_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/m5P81F7ru9ZGgp1gQNIegC_1784565351369_na1fn_L2hvbWUvdWJ1bnR1L0pZOW1nUFNtSUJlbERKdzVLQTdrRlEvb3V0X29mX29mZmljZV9zaWdu.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L201UDgxRjdydTlaR2dwMWdRTkllZ0NfMTc4NDU2NTM1MTM2OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBwWk9XMW5VRk50U1VKbGJFUktkelZMUVRkclJsRXZiM1YwWDI5bVgyOW1abWxqWlY5emFXZHUucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDW99BbNEvhbCzWsbRm1XFZhloMEhQrPSmvpms-wlNXOQIgUvcBfGj4hgrL7fJ3mQr1jeB2D74KGzH8LJ10UZHZloY_",
       "status": "archived",
       "bytes": 3668118,
-      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/647-assistant_message-0_742eb5c8ace10456_out_of_office_sign.pdf"
+      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/647-assistant_message-0_4ceacbbf0d7d6398_out_of_office_sign.pdf"
     },
     {
       "event_index": 660,
       "type": "file",
       "filename": "meta_ads_connector_breakdown.md",
       "content_type": "text/markdown; charset=utf-8",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/6df3hYl8l3fq5cRxfnVhse_1784756497619_na1fn_L2hvbWUvdWJ1bnR1L21ldGFfYWRzX2Nvbm5lY3Rvcl9icmVha2Rvd24.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94LzZkZjNoWWw4bDNmcTVjUnhmblZoc2VfMTc4NDc1NjQ5NzYxOV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDIxbGRHRmZZV1J6WDJOdmJtNWxZM1J2Y2w5aWNtVmhhMlJ2ZDI0Lm1kIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg2NzUyMDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIFiupb~LcA5LUxZiZrRvKRudno3f5oD3WnOUdnM3xdSMAiA-BuPOgW4yIvf2sLYDavlDbK-SnYeLdUFf6Ny8~PyTLw__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/6df3hYl8l3fq5cRxfnVhse_1784756497619_na1fn_L2hvbWUvdWJ1bnR1L21ldGFfYWRzX2Nvbm5lY3Rvcl9icmVha2Rvd24.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94LzZkZjNoWWw4bDNmcTVjUnhmblZoc2VfMTc4NDc1NjQ5NzYxOV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDIxbGRHRmZZV1J6WDJOdmJtNWxZM1J2Y2w5aWNtVmhhMlJ2ZDI0Lm1kIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIG6IjWI~tQVuCNbROEKFrtRKSG2PlOjXFIoXF-k6GjYuAiEAyd1pn9Lwg~lm-x1Ain1UZ5vP9ji93db2N6BN4JwCMps_",
       "status": "archived",
       "bytes": 47727,
-      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/660-assistant_message-0_a9372fd3cdbe2c5d_meta_ads_connector_breakdown.md"
+      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/660-assistant_message-0_43c386a96d11bb75_meta_ads_connector_breakdown.md"
     },
     {
       "event_index": 660,
       "type": "file",
       "filename": "meta_ads_connector_breakdown.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/6df3hYl8l3fq5cRxfnVhse_1784756497619_na1fn_L2hvbWUvdWJ1bnR1L21ldGFfYWRzX2Nvbm5lY3Rvcl9icmVha2Rvd24.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94LzZkZjNoWWw4bDNmcTVjUnhmblZoc2VfMTc4NDc1NjQ5NzYxOV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDIxbGRHRmZZV1J6WDJOdmJtNWxZM1J2Y2w5aWNtVmhhMlJ2ZDI0LnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4Njc1MjAwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIEcoE066vqUblnYj1dByrZ3freir8n7Y8nTUSXIof2LbAiBVtbsUOmpQIUxBVgOXNgXtLKiOBFEZoqhy5c4Hqqob5w__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/6df3hYl8l3fq5cRxfnVhse_1784756497619_na1fn_L2hvbWUvdWJ1bnR1L21ldGFfYWRzX2Nvbm5lY3Rvcl9icmVha2Rvd24.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94LzZkZjNoWWw4bDNmcTVjUnhmblZoc2VfMTc4NDc1NjQ5NzYxOV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDIxbGRHRmZZV1J6WDJOdmJtNWxZM1J2Y2w5aWNtVmhhMlJ2ZDI0LnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDDcJsbeu05mDQCieADs4pZBhvrkeVvkp~0kzFRI4zRvgIhAM9FKOerJgdEFsw1A~CPRZYA7bGxK2pDYa-QEvcLZeI8",
       "status": "archived",
       "bytes": 164684,
-      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/660-assistant_message-1_c4bfb1cabb45bafd_meta_ads_connector_breakdown.pdf"
+      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/660-assistant_message-1_a37bc8e12fbcfb83_meta_ads_connector_breakdown.pdf"
     },
     {
       "event_index": 680,
       "type": "file",
       "filename": "nerve_supplements.md",
       "content_type": "text/markdown; charset=utf-8",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/Zqvmim2k37LxLoCghV2DVo_1784838261851_na1fn_L2hvbWUvdWJ1bnR1L25lcnZlX3N1cHBsZW1lbnRz.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L1pxdm1pbTJrMzdMeExvQ2doVjJEVm9fMTc4NDgzODI2MTg1MV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI1bGNuWmxYM04xY0hCc1pXMWxiblJ6Lm1kIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg2NzUyMDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCTqrGiDNncjT1f9tYl63-KIpjcLqnhXefA2Hp9KaV8tAIgEFQotnCDSEQM3qdn8BBUIWToBiyr4SN1IDR1gEEuGbg_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/Zqvmim2k37LxLoCghV2DVo_1784838261851_na1fn_L2hvbWUvdWJ1bnR1L25lcnZlX3N1cHBsZW1lbnRz.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L1pxdm1pbTJrMzdMeExvQ2doVjJEVm9fMTc4NDgzODI2MTg1MV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI1bGNuWmxYM04xY0hCc1pXMWxiblJ6Lm1kIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIGmTm-76QDGe4zgld1lc2msZTY-pSfQhSVJpX4OaiyGQAiEA3FEfvVsDlAPUg-sunnbgyxZrZiQMcFlm-OVNl3fo75c_",
       "status": "archived",
       "bytes": 10254,
-      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/680-assistant_message-0_23ee1f588d705e29_nerve_supplements.md"
+      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/680-assistant_message-0_a53d17ea6774ef5f_nerve_supplements.md"
     },
     {
       "event_index": 846,
       "type": "image",
       "filename": "g2.webp",
       "content_type": "image/webp",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-f8Qjo9LPkRzaQQBzjldXoa_na1fn_ZzI.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1mOFFqbzlMUGtSemFRUUJ6amxkWG9hX25hMWZuX1p6SS53ZWJwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg2NzUyMDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIB0yDTwBiry6jZrL1-o67PIlgiCEetP-~kYkpb7lSeVNAiEAsoygDw7RAwJaK-FDINehTxcMWnqxMAkODB1os3TmWh4_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-f8Qjo9LPkRzaQQBzjldXoa_na1fn_ZzI.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1mOFFqbzlMUGtSemFRUUJ6amxkWG9hX25hMWZuX1p6SS53ZWJwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDCGxTzpRvK2TW3FHFhHjd7Qk0kOv3QfRutY6OZQ5E1BAiAgS6cnfUIow2cykLjhGO2JkjMWTtAlMk~E8qXw0w9DoA__",
       "status": "archived",
       "bytes": 149910,
-      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/846-user_message-0_91f18386e9d44ab1_g2.webp"
+      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/846-user_message-0_f27d97deb603c00b_g2.webp"
     },
     {
       "event_index": 846,
       "type": "image",
       "filename": "G1.webp",
       "content_type": "image/webp",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-qPWbW5MkX9jMV4VGlGy4OT_na1fn_RzE.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1xUFdiVzVNa1g5ak1WNFZHbEd5NE9UX25hMWZuX1J6RS53ZWJwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg2NzUyMDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDJfB4AZMOrg-SYSeBqz6FDvPeCXaFNPHOIeUu0PAUAuAiBUQyBiR7Dk4mlMIiUWfozJrkvI1JZIfFhhluMaTdO8KQ__",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-qPWbW5MkX9jMV4VGlGy4OT_na1fn_RzE.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1xUFdiVzVNa1g5ak1WNFZHbEd5NE9UX25hMWZuX1J6RS53ZWJwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDGTDNBBeEeolBIWCXxWyy2KeHaUmaiaLH~bCfH1kYB8wIgUXI1K5iYCq3dM4sVpl4u6-FXTaPMZZbeAVCrfUdpfd8_",
       "status": "archived",
       "bytes": 134228,
-      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/846-user_message-1_fac0baffde5cdf7d_G1.webp"
+      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/846-user_message-1_9eccbaca7e164f57_G1.webp"
     },
     {
       "event_index": 889,
@@ -13033,6 +14174,186 @@
       "status": "archived",
       "bytes": 19623954,
       "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/1163-user_message-0_8c6b8c77a54f41e2_pasted_file_7bUxU1_IMG_19722.MOV"
+    },
+    {
+      "event_index": 1180,
+      "type": "image",
+      "filename": "pasted_file_VDR784_image.png",
+      "content_type": "image/png",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-e7SDuBBkZMKA6WhTuW4ZYL_na1fn_cGFzdGVkX2ZpbGVfVkRSNzg0X2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1lN1NEdUJCa1pNS0E2V2hUdVc0WllMX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZWa1JTTnpnMFgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIHNdgvVWzZNLUmNtOikPinVJ1pzLPqCoFfI1RbXWt93mAiEA9epmILnfMDpPhjUGh18tTfgEZdsFSxITmM9U-S35~go_",
+      "status": "archived",
+      "bytes": 59980,
+      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/1180-user_message-0_35dbb1ddd142e8f2_pasted_file_VDR784_image.png"
+    },
+    {
+      "event_index": 1180,
+      "type": "file",
+      "filename": "ACFrOgAGG7JegKkBqYVkUQRvNlb-WHLBW9VfqqMSstQcoil4Sh2Z9pJi3fV4CKSCuAP3iR6CfWPtfYpl47IGnx8ePJF9UmiG9mZEMJSxwdUQNGO9jObC0G5dRD2mmW2gLK10BUvZx0IK319_tieCikN3OYk4CH-LnwrS1iPDJw==.pdf",
+      "content_type": "application/pdf",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-kSkVqNQAviU5pxtj5EbYf8_na1fn_QUNGck9nQUdHN0plZ0trQnFZVmtVUVJ2TmxiLVdITEJXOVZmcXFNU3N0UWNvaWw0U2gyWjlwSmkzZlY0Q0tTQ3VBUDNpUjZDZldQdGZZcGw0N0lHbng4ZVBKRjlVbWlHOW1aRU1KU3h3ZFVRTkdPOWpPYkMwRzVkUkQybW1XMmdMSzEwQlV2WngwSUszMTlfdGllQ2lrTjNPWWs0Q0gtTG53clMxaVBESnc9PQ.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1rU2tWcU5RQXZpVTVweHRqNUViWWY4X25hMWZuX1FVTkdjazluUVVkSE4wcGxaMHRyUW5GWlZtdFZVVkoyVG14aUxWZElURUpYT1ZabWNYRk5VM04wVVdOdmFXdzBVMmd5V2psd1Nta3pabFkwUTB0VFEzVkJVRE5wVWpaRFpsZFFkR1paY0d3ME4wbEhibmc0WlZCS1JqbFZiV2xIT1cxYVJVMUtVM2gzWkZWUlRrZFBPV3BQWWtNd1J6VmtVa1F5YlcxWE1tZE1TekV3UWxWMlduZ3dTVXN6TVRsZmRHbGxRMmxyVGpOUFdXczBRMGd0VEc1M2NsTXhhVkJFU25jOVBRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIBYuYcAHvc-KSjJOmSsfZFBNA1AWEHk~ZZCkwnopx0IoAiB~eCVGttnkx1DZevbqRNTmqa8M7Jn7EN7Cp57JphjCvA__",
+      "status": "archived",
+      "bytes": 1976,
+      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/1180-user_message-1_6af5820e5ba7567c_ACFrOgAGG7JegKkBqYVkUQRvNlb-WHLBW9VfqqMSstQcoil4Sh2Z9pJi3fV4CKSCuAP3iR6CfWPtfYpl47IGnx8ePJF9UmiG9mZEMJSxwdUQNGO9jObC0G5d"
+    },
+    {
+      "event_index": 1183,
+      "type": "file",
+      "filename": "open_house_flyer_12518_sunset.html",
+      "content_type": "text/html; charset=utf-8",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/pCnTWIUglSjEqSSQ2FJQrP_1786818052807_na1fn_L2hvbWUvdWJ1bnR1L29wZW5faG91c2VfZmx5ZXJfMTI1MThfc3Vuc2V0.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L3BDblRXSVVnbFNqRXFTU1EyRkpRclBfMTc4NjgxODA1MjgwN19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5d1pXNWZhRzkxYzJWZlpteDVaWEpmTVRJMU1UaGZjM1Z1YzJWMC5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCm1K8RqnjNVep49WyfROovLindaDAr20TS~wmpVuPPiwIgHFVSU9s2-ywVf1oY8p8CbNct7FhiCpn4HjPRk-emGus_",
+      "status": "archived",
+      "bytes": 84761,
+      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/1183-assistant_message-0_be70496ad018f151_open_house_flyer_12518_sunset.html"
+    },
+    {
+      "event_index": 1188,
+      "type": "file",
+      "filename": "open_house_signin_12518_sunset.html",
+      "content_type": "text/html; charset=utf-8",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/SIvItIedbE41EM3ShbVoi4_1786818175035_na1fn_L2hvbWUvdWJ1bnR1L29wZW5faG91c2Vfc2lnbmluXzEyNTE4X3N1bnNldA.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L1NJdkl0SWVkYkU0MUVNM1NoYlZvaTRfMTc4NjgxODE3NTAzNV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5d1pXNWZhRzkxYzJWZmMybG5ibWx1WHpFeU5URTRYM04xYm5ObGRBLmh0bWwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCfBbCUFPJRsEbSGmC3NO89Jzky8sFdmfCo2zSlt3~~SQIhALwd0DHvy51s32fYBA9HCJrx1qqFjDruTX-fZahgpxUU",
+      "status": "archived",
+      "bytes": 88849,
+      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/1188-assistant_message-0_7d7bf6b69ff64d1f_open_house_signin_12518_sunset.html"
+    },
+    {
+      "event_index": 1190,
+      "type": "image",
+      "filename": "qrcode_brandonrose2.github.io(4).png",
+      "content_type": "image/png",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-bireh23nfRJUjkTngceVty_na1fn_cXJjb2RlX2JyYW5kb25yb3NlMi5naXRodWIuaW8oNCk.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1iaXJlaDIzbmZSSlVqa1RuZ2NlVnR5X25hMWZuX2NYSmpiMlJsWDJKeVlXNWtiMjV5YjNObE1pNW5hWFJvZFdJdWFXOG9OQ2sucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCH1dxqjxo0Eo5puqsvMLoiYBc~v9SXshZCwcTF-Eu4uACIQDxLRHx60yxTHiLW6J96IjUatNJ6JOusYM6PFmrcktpww__",
+      "status": "archived",
+      "bytes": 8485,
+      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/1190-user_message-0_7659bcc6a4004913_qrcode_brandonrose2.github.io_4_.png"
+    },
+    {
+      "event_index": 1195,
+      "type": "file",
+      "filename": "ACFrOgAGG7JegKkBqYVkUQRvNlb-WHLBW9VfqqMSstQcoil4Sh2Z9pJi3fV4CKSCuAP3iR6CfWPtfYpl47IGnx8ePJF9UmiG9mZEMJSxwdUQNGO9jObC0G5dRD2mmW2gLK10BUvZx0IK319_tieCikN3OYk4CH-LnwrS1iPDJw==.pdf",
+      "content_type": "application/pdf",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-PJmZEv2uaaJVMgXR5zk4U0_na1fn_QUNGck9nQUdHN0plZ0trQnFZVmtVUVJ2TmxiLVdITEJXOVZmcXFNU3N0UWNvaWw0U2gyWjlwSmkzZlY0Q0tTQ3VBUDNpUjZDZldQdGZZcGw0N0lHbng4ZVBKRjlVbWlHOW1aRU1KU3h3ZFVRTkdPOWpPYkMwRzVkUkQybW1XMmdMSzEwQlV2WngwSUszMTlfdGllQ2lrTjNPWWs0Q0gtTG53clMxaVBESnc9PQ.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1QSm1aRXYydWFhSlZNZ1hSNXprNFUwX25hMWZuX1FVTkdjazluUVVkSE4wcGxaMHRyUW5GWlZtdFZVVkoyVG14aUxWZElURUpYT1ZabWNYRk5VM04wVVdOdmFXdzBVMmd5V2psd1Nta3pabFkwUTB0VFEzVkJVRE5wVWpaRFpsZFFkR1paY0d3ME4wbEhibmc0WlZCS1JqbFZiV2xIT1cxYVJVMUtVM2gzWkZWUlRrZFBPV3BQWWtNd1J6VmtVa1F5YlcxWE1tZE1TekV3UWxWMlduZ3dTVXN6TVRsZmRHbGxRMmxyVGpOUFdXczBRMGd0VEc1M2NsTXhhVkJFU25jOVBRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDC~5FpRYyRlizrc~YZYuIQRp1wfFrH5WFS87XadLawsgIgfzhivW0NI9ZLE-1p2ZdlOj96V89EUcm5sHCpxUL3FvE_",
+      "status": "archived",
+      "bytes": 1976,
+      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/1195-user_message-0_c4c1239cd2469859_ACFrOgAGG7JegKkBqYVkUQRvNlb-WHLBW9VfqqMSstQcoil4Sh2Z9pJi3fV4CKSCuAP3iR6CfWPtfYpl47IGnx8ePJF9UmiG9mZEMJSxwdUQNGO9jObC0G5d"
+    },
+    {
+      "event_index": 1199,
+      "type": "file",
+      "filename": "open_house_signin_12518_sunset.html",
+      "content_type": "text/html; charset=utf-8",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/n6MYeoUSqZiErrrtiZap3T_1786819289326_na1fn_L2hvbWUvdWJ1bnR1L29wZW5faG91c2Vfc2lnbmluXzEyNTE4X3N1bnNldA.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L242TVllb1VTcVppRXJycnRpWmFwM1RfMTc4NjgxOTI4OTMyNl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5d1pXNWZhRzkxYzJWZmMybG5ibWx1WHpFeU5URTRYM04xYm5ObGRBLmh0bWwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIFtMwf6t1NpUqvxtC3AcevKAQ5jU~7fglq7pA2N8aZ2TAiEAiEEXLFbdmjXhUeJMrjl6ArX2mFyfps2lnxRKVXEMeKY_",
+      "status": "archived",
+      "bytes": 97598,
+      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/1199-assistant_message-0_66269ae34c26c41a_open_house_signin_12518_sunset.html"
+    },
+    {
+      "event_index": 1199,
+      "type": "file",
+      "filename": "open_house_flyer_12518_sunset.html",
+      "content_type": "text/html; charset=utf-8",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/n6MYeoUSqZiErrrtiZap3T_1786819289326_na1fn_L2hvbWUvdWJ1bnR1L29wZW5faG91c2VfZmx5ZXJfMTI1MThfc3Vuc2V0.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L242TVllb1VTcVppRXJycnRpWmFwM1RfMTc4NjgxOTI4OTMyNl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5d1pXNWZhRzkxYzJWZlpteDVaWEpmTVRJMU1UaGZjM1Z1YzJWMC5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQD8-Iy~HmviT2EibmHqALsBRhxt4E1LPgW-czt38sA2RQIhAKssAX4KlBbF~1ZGfPtt9S-HLhad0rWUuQRpqVb3fUHR",
+      "status": "archived",
+      "bytes": 94727,
+      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/1199-assistant_message-1_845d9062c9629431_open_house_flyer_12518_sunset.html"
+    },
+    {
+      "event_index": 1199,
+      "type": "file",
+      "filename": "open_house_sign_original.html",
+      "content_type": "text/html; charset=utf-8",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/n6MYeoUSqZiErrrtiZap3T_1786819289326_na1fn_L2hvbWUvdWJ1bnR1L29wZW5faG91c2Vfc2lnbl9vcmlnaW5hbA.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L242TVllb1VTcVppRXJycnRpWmFwM1RfMTc4NjgxOTI4OTMyNl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5d1pXNWZhRzkxYzJWZmMybG5ibDl2Y21sbmFXNWhiQS5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCq0Phh5ul9VdBhVYCT3BfPo5F9xBELDMaQVFSpw~zrJgIhAIruniQ7KqZQK62uvcTuf2Qhofphf8vxo2~DBWnpDlYS",
+      "status": "archived",
+      "bytes": 12764,
+      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/1199-assistant_message-2_b24616376222b2ed_open_house_sign_original.html"
+    },
+    {
+      "event_index": 1204,
+      "type": "file",
+      "filename": "open_house_sign_original.html",
+      "content_type": "text/html; charset=utf-8",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/qaWGueaRkw19neJcNExvc8_1786819427660_na1fn_L2hvbWUvdWJ1bnR1L29wZW5faG91c2Vfc2lnbl9vcmlnaW5hbA.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L3FhV0d1ZWFSa3cxOW5lSmNORXh2YzhfMTc4NjgxOTQyNzY2MF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5d1pXNWZhRzkxYzJWZmMybG5ibDl2Y21sbmFXNWhiQS5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIHANbPNRX4A9-xbaLj0zT9KStFNlojZrzwZDKEd1fUQxAiEA4MzT1UxN1Q~3w8NO8YfqBxw89T-XnB2G5czmj1BbYt0_",
+      "status": "archived",
+      "bytes": 92847,
+      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/1204-assistant_message-0_1a9ede7e15c7eede_open_house_sign_original.html"
+    },
+    {
+      "event_index": 1206,
+      "type": "image",
+      "filename": "pasted_file_BfSEfs_image.png",
+      "content_type": "image/png",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-Qg4vjX5Gm8qEpqjHgsCLw1_na1fn_cGFzdGVkX2ZpbGVfQmZTRWZzX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1RZzR2alg1R204cUVwcWpIZ3NDTHcxX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZRbVpUUldaelgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDuMZ0wdh-A9h3dcUc~~Qp2O-f~snFNjxI5B4Oi2fW1~AIhAI3L2I16OruHMvnP4JTMa6LCoJekFW7puhVfDuGmmPMz",
+      "status": "archived",
+      "bytes": 44105,
+      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/1206-user_message-0_ee451f32113deb0b_pasted_file_BfSEfs_image.png"
+    },
+    {
+      "event_index": 1217,
+      "type": "file",
+      "filename": "corolla_cross_hybrid_xse_guide.pdf",
+      "content_type": "application/pdf",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/F3h7tghT9SDlCVKAohclCo_1786823954810_na1fn_L2hvbWUvdWJ1bnR1L2Nvcm9sbGFfY3Jvc3NfaHlicmlkX3hzZV9ndWlkZQ.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L0YzaDd0Z2hUOVNEbENWS0FvaGNsQ29fMTc4NjgyMzk1NDgxMF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOdmNtOXNiR0ZmWTNKdmMzTmZhSGxpY21sa1gzaHpaVjluZFdsa1pRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCICyMdFAFn1aUKppwI505mETF3lMeawwumGfI3eef2jgNAiAsd2XPF6iYw-sXztwdm5Hd7WiCBi1jblOvKhZuc-dV9w__",
+      "status": "archived",
+      "bytes": 86195,
+      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/1217-assistant_message-0_dd02a56d8e15aad9_corolla_cross_hybrid_xse_guide.pdf"
+    },
+    {
+      "event_index": 1217,
+      "type": "file",
+      "filename": "corolla_cross_hybrid_xse_guide.md",
+      "content_type": "text/markdown; charset=utf-8",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/F3h7tghT9SDlCVKAohclCo_1786823954810_na1fn_L2hvbWUvdWJ1bnR1L2Nvcm9sbGFfY3Jvc3NfaHlicmlkX3hzZV9ndWlkZQ.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L0YzaDd0Z2hUOVNEbENWS0FvaGNsQ29fMTc4NjgyMzk1NDgxMF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOdmNtOXNiR0ZmWTNKdmMzTmZhSGxpY21sa1gzaHpaVjluZFdsa1pRLm1kIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCeaPrVbCYkHuL71IdGi2Qyda0wiG9-PBDu3fl~Ta6IywIhALbL9kP-dMzey1R1zpLdfGusJSJxHMxWQg7Jc35a3Cla",
+      "status": "archived",
+      "bytes": 5018,
+      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/1217-assistant_message-1_89d824dec88795d7_corolla_cross_hybrid_xse_guide.md"
+    },
+    {
+      "event_index": 1224,
+      "type": "file",
+      "filename": "corolla_cross_guide.html",
+      "content_type": "text/html; charset=utf-8",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/qD2FW9YqGKf5N5r3WbDTsp_1786824376403_na1fn_L2hvbWUvdWJ1bnR1L2Nvcm9sbGFfY3Jvc3NfZ3VpZGU.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L3FEMkZXOVlxR0tmNU41cjNXYkRUc3BfMTc4NjgyNDM3NjQwM19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOdmNtOXNiR0ZmWTNKdmMzTmZaM1ZwWkdVLmh0bWwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICXU66vV1RJhmQROKr3XmXfaXX4UICRwRnR1yHNjJFFDAiEA29C6N1SQGhHlvHkuFx8ZEuzWLi~xEOcFacAjVmmNqtA_",
+      "status": "archived",
+      "bytes": 289059,
+      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/1224-assistant_message-0_bcdf349689ac61b5_corolla_cross_guide.html"
+    },
+    {
+      "event_index": 1226,
+      "type": "image",
+      "filename": "IMG_2072.jpeg",
+      "content_type": "image/jpeg",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/eSKB3iKF2RTp9hF3s6XyrD_na1fn_SU1HXzIwNzI.jpeg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvZVNLQjNpS0YyUlRwOWhGM3M2WHlyRF9uYTFmbl9TVTFIWHpJd056SS5qcGVnIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIFVoXnKfXVgzKhI-y8-b4AZPo27GUws4nIVD4APibIWgAiEArrqIuD~1E0XwgDmruZASC0R54sq4n~LPFKORMGmTvUU_",
+      "status": "archived",
+      "bytes": 1220048,
+      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/1226-user_message-0_3eee44ac6d68e204_IMG_2072.jpeg"
+    },
+    {
+      "event_index": 1243,
+      "type": "image",
+      "filename": "Camera_1787884641.7481918_296F9122.png",
+      "content_type": "image/png",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/pVMl67QK1fjo45leNDYnUq_na1fn_Q2FtZXJhXzE3ODc4ODQ2NDEuNzQ4MTkxOF8yOTZGOTEyMg.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvcFZNbDY3UUsxZmpvNDVsZU5EWW5VcV9uYTFmbl9RMkZ0WlhKaFh6RTNPRGM0T0RRMk5ERXVOelE0TVRreE9GOHlPVFpHT1RFeU1nLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDNBkqFdogmKZPAUEeTpW5J82JRtO0SoPOeAhULyFhQxwIgMMP~6L7JdB7QEQvR1lhdbRJXE~E1L5eOr8nC-WO0UOU_",
+      "status": "archived",
+      "bytes": 21374635,
+      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/1243-user_message-0_84a6f3a0e8f15ca7_Camera_1787884641.7481918_296F9122.png"
+    },
+    {
+      "event_index": 1247,
+      "type": "image",
+      "filename": "Camera_1787884706.422291_07F0AFD4.png",
+      "content_type": "image/png",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/3s0ZtciSlCFif19naB7ADk_na1fn_Q2FtZXJhXzE3ODc4ODQ3MDYuNDIyMjkxXzA3RjBBRkQ0.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvM3MwWnRjaVNsQ0ZpZjE5bmFCN0FEa19uYTFmbl9RMkZ0WlhKaFh6RTNPRGM0T0RRM01EWXVOREl5TWpreFh6QTNSakJCUmtRMC5wbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODk0MzA0MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDvsXyu7ABW8fdfaAf8mZ0GknlgpAgR9SersBjnTFDKSwIgSHxKmyWsNjFbIwHba5cGUwiyLR-P2tGgcHaUjhvs3co_",
+      "status": "archived",
+      "bytes": 29959052,
+      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/1247-user_message-0_5062251d7c3a70ce_Camera_1787884706.422291_07F0AFD4.png"
+    },
+    {
+      "event_index": 1255,
+      "type": "image",
+      "filename": "pasted_file_kVEPUG_image.png",
+      "content_type": "image/png",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-wcsGPgVwW4WnuKTIpXww8K_na1fn_cGFzdGVkX2ZpbGVfa1ZFUFVHX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC13Y3NHUGdWd1c0V251S1RJcFh3dzhLX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZhMVpGVUZWSFgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCiVxvaCNfYgCYHVpxeXMs5W93mmLP8l~UoHa3tW0NYdQIgXWZok~S2OJ1vRUcJmBjmyDqXunETfBWefbjgqj6Z7~k_",
+      "status": "archived",
+      "bytes": 137827,
+      "archive_path": "attachments/RsJWRZJEhfgfpDLXhmVZFp/1255-user_message-0_cc0dc501e392a89c_pasted_file_kVEPUG_image.png"
     }
   ]
 }

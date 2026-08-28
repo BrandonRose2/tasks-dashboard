@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "archived_at": "2026-08-11T15:12:43.962097Z",
+  "archived_at": "2026-08-28T21:51:04.389792Z",
   "task": {
     "id": "i8PgRj3gT83eMRLdMkaWph",
     "title": "Loss to Lease Reports",
@@ -9,7 +9,7 @@
     "agent_profile": "manus-1.6",
     "credits_used": 13489,
     "created_at": "1781213296",
-    "updated_at": "1782854439",
+    "updated_at": "1787777018",
     "task_url": "https://manus.im/app/i8PgRj3gT83eMRLdMkaWph",
     "message_count": 0
   },
@@ -872,7 +872,7 @@
             "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
             "filename": "RentRollwithLeaseCharges06_12_2026(3).xlsx",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/NiTKSuBRFuIPNwCWnhhulK_na1fn_UmVudFJvbGx3aXRoTGVhc2VDaGFyZ2VzMDZfMTJfMjAyNigzKQ.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvTmlUS1N1QlJGdUlQTndDV25oaHVsS19uYTFmbl9VbVZ1ZEZKdmJHeDNhWFJvVEdWaGMyVkRhR0Z5WjJWek1EWmZNVEpmTWpBeU5pZ3pLUS54bHN4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIBXpXwQwlpdfFy~r95lA01Lx2j1NAGBh6vVUhlpJy~M3AiAjplqzU50ShZDdbLHBztv0wfWSOsDR6DlEgULusy1pkw__"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/NiTKSuBRFuIPNwCWnhhulK_na1fn_UmVudFJvbGx3aXRoTGVhc2VDaGFyZ2VzMDZfMTJfMjAyNigzKQ.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvTmlUS1N1QlJGdUlQTndDV25oaHVsS19uYTFmbl9VbVZ1ZEZKdmJHeDNhWFJvVEdWaGMyVkRhR0Z5WjJWek1EWmZNVEpmTWpBeU5pZ3pLUS54bHN4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIHkEfUQQj6yjOuIm~uzEZf9-FY-WLRWIHKHYUiIa0aAAAiBkJNO7pUxdO2JMQaKD~CBjYlZkDh6ZwU6YZwk1rLH~Gw__"
           }
         ],
         "content": "Here is the data (rent roll and additional info) for gates - see what you can come up with regarding just this building for now",
@@ -1018,7 +1018,7 @@
             "content_type": "application/octet-stream",
             "filename": "ltl-rent-roll-importer.skill",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/i8PgRj3gT83eMRLdMkaWph/sandbox/JBGu3FoLuX44mpoFEYIEn3_1781298115033_na1fn_L3RtcC9sdGwtcmVudC1yb2xsLWltcG9ydGVy.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvaThQZ1JqM2dUODNlTVJMZE1rYVdwaC9zYW5kYm94L0pCR3UzRm9MdVg0NG1wb0ZFWUlFbjNfMTc4MTI5ODExNTAzM19uYTFmbl9MM1J0Y0M5c2RHd3RjbVZ1ZEMxeWIyeHNMV2x0Y0c5eWRHVnkuc2tpbGwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQC7J118dvtivSo4Ch6gHsoKjvPgdxSBtiE3r9KISZi62wIhAOxTLk8zqfvYy0GrM6GnJA4HUAVYHdZCG6gUDrXOVYZB"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/i8PgRj3gT83eMRLdMkaWph/sandbox/JBGu3FoLuX44mpoFEYIEn3_1781298115033_na1fn_L3RtcC9sdGwtcmVudC1yb2xsLWltcG9ydGVy.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvaThQZ1JqM2dUODNlTVJMZE1rYVdwaC9zYW5kYm94L0pCR3UzRm9MdVg0NG1wb0ZFWUlFbjNfMTc4MTI5ODExNTAzM19uYTFmbl9MM1J0Y0M5c2RHd3RjbVZ1ZEMxeWIyeHNMV2x0Y0c5eWRHVnkuc2tpbGwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODk0MzA0MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCSID98odcJhZsSyGJsBb6Yd2IWUK3AIm~SCIdQY5kWwAIgZ3bnXyotao35StMjvc1ahl58kkYjBd6NL20uF5Iy-UQ_"
           }
         ],
         "content": "The app is live and published at **lostolease-t3mz96dj.manus.space**! 🎉\n\nThe skill for importing rent rolls has also been saved — just upload any property's rent roll Excel file and I'll process it the same way I did for Gates of Manhattan.\n\nHere's a summary of everything that's live:\n\n**What's in the app:**\n- **Portfolio Dashboard** — all 41 properties across 4 regions, sortable by LTL, NOI, cap rate, with region filters and search\n- **Individual Property Pages** — every property has its own Dashboard, Proforma, Unit Ledger, and Files tabs\n- **Gates of Manhattan** — fully populated with real rent roll data: 283 units, $344,850 GPR, $30,395 LTL/month ($364,740/yr)\n- **All other 40 properties** — populated with PropertyMax data (property-level totals); unit ledgers use calibrated estimates until you upload their rent rolls\n- **File Storage** — upload documents (rent rolls, reports, leases) per property\n- **Mobile-responsive** — optimized for iPhone and Google Pixel Fold\n\n**To publish:** Click the **Publish** button in the top-right of the Management UI. The app is already live at `lostolease-t3mz96dj.manus.space` — publishing makes it the official production version.\n\n**Next step when ready:** Just drop in the rent roll files for the other buildings and I'll process them all the same way."
@@ -3251,7 +3251,7 @@
             "content_type": "application/pdf",
             "filename": "portfolio_checklist.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/i8PgRj3gT83eMRLdMkaWph/sandbox/hLdbA3PmdFGdsLMesCCDHf_1781542308301_na1fn_L2hvbWUvdWJ1bnR1L3BvcnRmb2xpb19jaGVja2xpc3Q.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvaThQZ1JqM2dUODNlTVJMZE1rYVdwaC9zYW5kYm94L2hMZGJBM1BtZEZHZHNMTWVzQ0NESGZfMTc4MTU0MjMwODMwMV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCdmNuUm1iMnhwYjE5amFHVmphMnhwYzNRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIBO5Jlt0Ivgv96qYFpk~fRlaU1kDVt34zz5eYnxpfGVIAiEAzm3cg9pBnrzWqrT78~BmGTMunWASr-M9j86BXTdIH2U_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/i8PgRj3gT83eMRLdMkaWph/sandbox/hLdbA3PmdFGdsLMesCCDHf_1781542308301_na1fn_L2hvbWUvdWJ1bnR1L3BvcnRmb2xpb19jaGVja2xpc3Q.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvaThQZ1JqM2dUODNlTVJMZE1rYVdwaC9zYW5kYm94L2hMZGJBM1BtZEZHZHNMTWVzQ0NESGZfMTc4MTU0MjMwODMwMV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCdmNuUm1iMnhwYjE5amFHVmphMnhwYzNRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDyod-8-eKSgD4DfwNrSQOeOMuPvIPlgjb33Qt4bBAqoAIgEF9R9Qkw9hkoKhxrIqzBlsw8RGPV~kD4-0Z0MlBvFb0_"
           }
         ],
         "content": "Here's your checklist PDF — all 41 properties organized by region with 3D checkboxes. The 4 already-imported properties (Gates of Manhattan, Ruby Diamond, Star, and Marrero) are marked with a green \"Imported\" note. The remaining 37 are ready to check off as Ginger's rent rolls come in."
@@ -3341,7 +3341,7 @@
             "content_type": "application/pdf",
             "filename": "portfolio_checklist.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/i8PgRj3gT83eMRLdMkaWph/sandbox/8UyiRit8oOoWmdfCLzIbcr_1781542416362_na1fn_L2hvbWUvdWJ1bnR1L3BvcnRmb2xpb19jaGVja2xpc3Q.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvaThQZ1JqM2dUODNlTVJMZE1rYVdwaC9zYW5kYm94LzhVeWlSaXQ4b09vV21kZkNMekliY3JfMTc4MTU0MjQxNjM2Ml9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCdmNuUm1iMnhwYjE5amFHVmphMnhwYzNRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCH2PIbLVHl6smLXhAfOywcLOt50w0T7wWZF1bQk4tmBMCIQC8g9Qi2-Sf6rtQOWNe-MkOwVlRmxavU7d9-bDxJlX0Uw__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/i8PgRj3gT83eMRLdMkaWph/sandbox/8UyiRit8oOoWmdfCLzIbcr_1781542416362_na1fn_L2hvbWUvdWJ1bnR1L3BvcnRmb2xpb19jaGVja2xpc3Q.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvaThQZ1JqM2dUODNlTVJMZE1rYVdwaC9zYW5kYm94LzhVeWlSaXQ4b09vV21kZkNMekliY3JfMTc4MTU0MjQxNjM2Ml9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCdmNuUm1iMnhwYjE5amFHVmphMnhwYzNRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCICoc38j~miLbQN17dlWvqy3zt82ifIq0WghRqO75UUAFAiBol6ZF4pg1fkxXEatk7I14RtsA5OpNqVXDFg~dyM5AQA__"
           }
         ],
         "content": "All 41 properties on one page, organized in 4 columns by region. The 4 imported properties (Gates, Ruby Diamond, Star, Marrero) have a green checkmark. Ready to print or share."
@@ -3699,7 +3699,7 @@
             "content_type": "application/pdf",
             "filename": "portfolio_checklist.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/i8PgRj3gT83eMRLdMkaWph/sandbox/HVsZzLadwftsbuyW5XJy7e_1781544369953_na1fn_L2hvbWUvdWJ1bnR1L3BvcnRmb2xpb19jaGVja2xpc3Q.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvaThQZ1JqM2dUODNlTVJMZE1rYVdwaC9zYW5kYm94L0hWc1p6TGFkd2Z0c2J1eVc1WEp5N2VfMTc4MTU0NDM2OTk1M19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCdmNuUm1iMnhwYjE5amFHVmphMnhwYzNRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQD-nQgMDmgLYDilf1uHruaBLytphwbtD78YhA~CjNJxegIhAIXcxZilx4AmCBjv-iYzf8xkmIbsnBglM0LL1I8OQI57"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/i8PgRj3gT83eMRLdMkaWph/sandbox/HVsZzLadwftsbuyW5XJy7e_1781544369953_na1fn_L2hvbWUvdWJ1bnR1L3BvcnRmb2xpb19jaGVja2xpc3Q.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvaThQZ1JqM2dUODNlTVJMZE1rYVdwaC9zYW5kYm94L0hWc1p6TGFkd2Z0c2J1eVc1WEp5N2VfMTc4MTU0NDM2OTk1M19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCdmNuUm1iMnhwYjE5amFHVmphMnhwYzNRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCvziXs5rSISBUDfnrrWsZgYIAaas6ioTPfKAjLDYoN4QIgN3KteY-CXGvmxl3S3kOwloEAbH9mxsEEOKSSIZN0FQY_"
           }
         ],
         "content": "Here's the updated checklist PDF — larger fonts (11px body, 20px title), bigger 3D checkboxes (20px), and all 41 properties filling the full letter-size page. The 4 imported properties (Gates of Manhattan, Marrero, Ruby Diamond, Star) are tagged with a green \"✓ Imported\" badge."
@@ -3752,7 +3752,7 @@
             "content_type": "application/pdf",
             "filename": "portfolio_checklist.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/i8PgRj3gT83eMRLdMkaWph/sandbox/6CXHyXbj9tkippdN06rS2s_1781544638196_na1fn_L2hvbWUvdWJ1bnR1L3BvcnRmb2xpb19jaGVja2xpc3Q.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvaThQZ1JqM2dUODNlTVJMZE1rYVdwaC9zYW5kYm94LzZDWEh5WGJqOXRraXBwZE4wNnJTMnNfMTc4MTU0NDYzODE5Nl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCdmNuUm1iMnhwYjE5amFHVmphMnhwYzNRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIDBd5hz7mAObSLYBrSIbxVfwaxWmn--CyEAsbNrrSNUNAiEA4~qeeGzdaD~hqwc0GtE~gP4MHIQ4vw3Ohy7aiX7J2ek_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/i8PgRj3gT83eMRLdMkaWph/sandbox/6CXHyXbj9tkippdN06rS2s_1781544638196_na1fn_L2hvbWUvdWJ1bnR1L3BvcnRmb2xpb19jaGVja2xpc3Q.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvaThQZ1JqM2dUODNlTVJMZE1rYVdwaC9zYW5kYm94LzZDWEh5WGJqOXRraXBwZE4wNnJTMnNfMTc4MTU0NDYzODE5Nl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCdmNuUm1iMnhwYjE5amFHVmphMnhwYzNRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIGjTgmBCiA2cqEamxIvvKQemi9yTwzzXKXVMrKfg414MAiBkzAWmX2Nkk6uwHlSTQ0alg9ZLC78daFqIc3oJJZ9uxw__"
           }
         ],
         "content": "Here you go — fonts are now much larger (26pt title, 13pt property names, 10pt region headers, 24px checkboxes). Should fill the full letter page when printed."
@@ -3877,7 +3877,7 @@
             "content_type": "video/webm",
             "filename": "pasted_file_RAvMI5_recording.webm",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-5JBsxgVK6iBI4yCOdeNr7t_na1fn_cGFzdGVkX2ZpbGVfUkF2TUk1X3JlY29yZGluZw.webm?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC01SkJzeGdWSzZpQkk0eUNPZGVOcjd0X25hMWZuX2NHRnpkR1ZrWDJacGJHVmZVa0YyVFVrMVgzSmxZMjl5WkdsdVp3LndlYm0iLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIDoZieb9Wxqdcu3xsGrgtvBixe8hHoqnPzYhwkOCTuVlAiEAxnZiTD697j0oq-H152w6HjamyU9ZmV6A0X1ISZnrVn8_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-5JBsxgVK6iBI4yCOdeNr7t_na1fn_cGFzdGVkX2ZpbGVfUkF2TUk1X3JlY29yZGluZw.webm?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC01SkJzeGdWSzZpQkk0eUNPZGVOcjd0X25hMWZuX2NHRnpkR1ZrWDJacGJHVmZVa0YyVFVrMVgzSmxZMjl5WkdsdVp3LndlYm0iLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODk0MzA0MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICb0HIrlQCFlb2~B5ll3E8383ZCJAnIeOiU-EKzMf6I3AiEAqocwuuNZbnVBNMvFdDqixW4S7kBAXQ0m48Qf-wbcQCA_"
           }
         ],
         "content": "you will then save the excel file at the end to the OneDrive Folder that i provided you ",
@@ -4740,7 +4740,7 @@
             "content_type": "application/pdf",
             "filename": "portfolio_checklist.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/i8PgRj3gT83eMRLdMkaWph/sandbox/XRF2xFNWuNZC3yTODQjfsO_1781558501618_na1fn_L2hvbWUvdWJ1bnR1L3BvcnRmb2xpb19jaGVja2xpc3Q.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvaThQZ1JqM2dUODNlTVJMZE1rYVdwaC9zYW5kYm94L1hSRjJ4Rk5XdU5aQzN5VE9EUWpmc09fMTc4MTU1ODUwMTYxOF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCdmNuUm1iMnhwYjE5amFHVmphMnhwYzNRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIFqUP5o-hehbSFIEbkiWcgdKxTRmYdLfAzJXzaP~OAEDAiB85Bz3kpIuXClSy26QMGAQSYBlPB~2KKZBjmp8HiByRQ__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/i8PgRj3gT83eMRLdMkaWph/sandbox/XRF2xFNWuNZC3yTODQjfsO_1781558501618_na1fn_L2hvbWUvdWJ1bnR1L3BvcnRmb2xpb19jaGVja2xpc3Q.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvaThQZ1JqM2dUODNlTVJMZE1rYVdwaC9zYW5kYm94L1hSRjJ4Rk5XdU5aQzN5VE9EUWpmc09fMTc4MTU1ODUwMTYxOF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCdmNuUm1iMnhwYjE5amFHVmphMnhwYzNRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIQDwF1AVGBxDTuAhxpc27TewPhroJL4XXBcjFiMAmjRX4wIfAyvvPlaWFacuW~cKvfGhBDFD13TkOJZi3gPDB8-hEw__"
           }
         ],
         "content": "Done — Arbor Crest is now checked off with a green filled checkbox and the \"✓ Imported\" badge. Counter updated to **5 of 41 complete**. I'll do this automatically every time we complete a property going forward."
@@ -5041,7 +5041,7 @@
             "content_type": "application/pdf",
             "filename": "portfolio_checklist.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/i8PgRj3gT83eMRLdMkaWph/sandbox/joPqrYfaFokw0YT5GSPXFt_1781568034786_na1fn_L2hvbWUvdWJ1bnR1L3BvcnRmb2xpb19jaGVja2xpc3Q.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvaThQZ1JqM2dUODNlTVJMZE1rYVdwaC9zYW5kYm94L2pvUHFyWWZhRm9rdzBZVDVHU1BYRnRfMTc4MTU2ODAzNDc4Nl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCdmNuUm1iMnhwYjE5amFHVmphMnhwYzNRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIGkMTLd2rAAf24RT4wr4BZczwDiqBwqAjfip2evxwtbnAiA5KqPzALltGpI2g323d3UBM5qcdX~kAfIrSML6VSY-WA__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/i8PgRj3gT83eMRLdMkaWph/sandbox/joPqrYfaFokw0YT5GSPXFt_1781568034786_na1fn_L2hvbWUvdWJ1bnR1L3BvcnRmb2xpb19jaGVja2xpc3Q.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvaThQZ1JqM2dUODNlTVJMZE1rYVdwaC9zYW5kYm94L2pvUHFyWWZhRm9rdzBZVDVHU1BYRnRfMTc4MTU2ODAzNDc4Nl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCdmNuUm1iMnhwYjE5amFHVmphMnhwYzNRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIFLT4nZNYpC-t6lx4dBNFKB4Gf0PqdmYC9wrwfVB8FQNAiEAvzRod56HAMaANiu8m-aE0TuxCDCaeDkPVm7ZhuVGOcU_"
           }
         ],
         "content": "**Fairfax, Boca Ciega, and Coral Village** are now live in the app — all three parsed, wired into the unit ledger, and filed in each property's Files section. That puts us at **8 of 41 imported** (checklist attached and updated).\n\n**Next steps:**\n1. Keep dropping rent rolls into their OneDrive folders as you generate them in RealPage — I'll process each batch immediately as they land.\n2. Confirm Coral Village's market rent for the 2BD-50%PBV units (showing $0.00) — those may need the market rent field set in OneSite.\n3. Once you have 10+ properties imported, we can run the full portfolio LTL summary report and export it to Excel."
@@ -6280,7 +6280,7 @@
             "content_type": "application/pdf",
             "filename": "portfolio_checklist.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/i8PgRj3gT83eMRLdMkaWph/sandbox/9TdoSF7ChrnOMf1TIsnhL6_1782149338294_na1fn_L2hvbWUvdWJ1bnR1L3BvcnRmb2xpb19jaGVja2xpc3Q.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvaThQZ1JqM2dUODNlTVJMZE1rYVdwaC9zYW5kYm94LzlUZG9TRjdDaHJuT01mMVRJc25oTDZfMTc4MjE0OTMzODI5NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCdmNuUm1iMnhwYjE5amFHVmphMnhwYzNRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIAc~F9A0~aRgn0e3lDkTG5ia9eRtXLa4n8Jpxk56IireAiAZ62Nsvf1AgYlS~h64UGmfsILTxN7vOt4Mjpcq-TBfDA__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/i8PgRj3gT83eMRLdMkaWph/sandbox/9TdoSF7ChrnOMf1TIsnhL6_1782149338294_na1fn_L2hvbWUvdWJ1bnR1L3BvcnRmb2xpb19jaGVja2xpc3Q.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvaThQZ1JqM2dUODNlTVJMZE1rYVdwaC9zYW5kYm94LzlUZG9TRjdDaHJuT01mMVRJc25oTDZfMTc4MjE0OTMzODI5NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCdmNuUm1iMnhwYjE5amFHVmphMnhwYzNRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIBGFpBUqiXuxulCCxgIwjXd5e12zpDvh3FVdETlqFim0AiAfFQeWWCkQzjAFhHM9xaC710PEHmHpeVRvOA6dR4szwg__"
           }
         ],
         "content": "Here you go — all 41 properties listed by region, all unchecked. Ready to fill in as you go."
@@ -6360,7 +6360,7 @@
             "content_type": "application/pdf",
             "filename": "portfolio_checklist.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/i8PgRj3gT83eMRLdMkaWph/sandbox/9TdoSF7ChrnOMf1TIsnhL6_1782149338294_na1fn_L2hvbWUvdWJ1bnR1L3BvcnRmb2xpb19jaGVja2xpc3Q.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvaThQZ1JqM2dUODNlTVJMZE1rYVdwaC9zYW5kYm94LzlUZG9TRjdDaHJuT01mMVRJc25oTDZfMTc4MjE0OTMzODI5NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCdmNuUm1iMnhwYjE5amFHVmphMnhwYzNRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCwF5JzE7ow5Vuq-eWja455IhiBXpUNEe1p0PKeQdvxwAIhAPq5F6cUyMayQlUXAKkE8CgL8tnHMUWKA22j52~nXpOz"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/i8PgRj3gT83eMRLdMkaWph/sandbox/9TdoSF7ChrnOMf1TIsnhL6_1782149338294_na1fn_L2hvbWUvdWJ1bnR1L3BvcnRmb2xpb19jaGVja2xpc3Q.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvaThQZ1JqM2dUODNlTVJMZE1rYVdwaC9zYW5kYm94LzlUZG9TRjdDaHJuT01mMVRJc25oTDZfMTc4MjE0OTMzODI5NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCdmNuUm1iMnhwYjE5amFHVmphMnhwYzNRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIHAy6K9fLjIn80PKd0I~7ireu-rz7-pdMFS6UCvVtEELAiEAlkzgucv~egJewVKlbhFOvgDiMvDuR5mlOEQz2gVViDA_"
           }
         ],
         "content": "Here you go — all 41 properties listed by region, all unchecked. Ready to fill in as you go."
@@ -6516,7 +6516,7 @@
             "content_type": "application/pdf",
             "filename": "portfolio_checklist.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/i8PgRj3gT83eMRLdMkaWph/sandbox/MAtC3Rdoe7ERwSBTsWEESs_1782754470782_na1fn_L2hvbWUvdWJ1bnR1L3BvcnRmb2xpb19jaGVja2xpc3Q.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvaThQZ1JqM2dUODNlTVJMZE1rYVdwaC9zYW5kYm94L01BdEMzUmRvZTdFUndTQlRzV0VFU3NfMTc4Mjc1NDQ3MDc4Ml9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCdmNuUm1iMnhwYjE5amFHVmphMnhwYzNRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIHWRzAB0z4Gn~4QyEi-UJxjSGTKIh447~FxT2ShAjYOfAiBpYsvcrD5uYCrigRvNsPF4-9mRFHig-x7nmBG1Yq~jnQ__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/i8PgRj3gT83eMRLdMkaWph/sandbox/MAtC3Rdoe7ERwSBTsWEESs_1782754470782_na1fn_L2hvbWUvdWJ1bnR1L3BvcnRmb2xpb19jaGVja2xpc3Q.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvaThQZ1JqM2dUODNlTVJMZE1rYVdwaC9zYW5kYm94L01BdEMzUmRvZTdFUndTQlRzV0VFU3NfMTc4Mjc1NDQ3MDc4Ml9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCdmNuUm1iMnhwYjE5amFHVmphMnhwYzNRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCrkC2j8AcYzAiBAlFjPoEQnItCvpSLDTRijAjKnbQOOAIhAO5twJike90t-dVzLuM576yjpqBiQRXrHTi-YjTMff1j"
           }
         ],
         "content": "Here's the single-page landscape checklist — all 41 properties across 4 regions, clean checkboxes, fits on one sheet. Ready to print."
@@ -7351,7 +7351,7 @@
             "content_type": "application/vnd.ms-excel",
             "filename": "PelicanBayRentRoll06-29-2026.xls",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-kOzdBFJRtgeZ41p1HdHJl9_na1fn_UGVsaWNhbkJheVJlbnRSb2xsMDYtMjktMjAyNg.xls?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1rT3pkQkZKUnRnZVo0MXAxSGRISmw5X25hMWZuX1VHVnNhV05oYmtKaGVWSmxiblJTYjJ4c01EWXRNamt0TWpBeU5nLnhscyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICriPtKlirru~S~wWV8QlgCH3Vhjqqd-kc1hiWsFlidoAiEAi5UM8J7v7C2-YcZOR8TZQjZEvtxqQl2xevrBD1m62XA_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-kOzdBFJRtgeZ41p1HdHJl9_na1fn_UGVsaWNhbkJheVJlbnRSb2xsMDYtMjktMjAyNg.xls?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1rT3pkQkZKUnRnZVo0MXAxSGRISmw5X25hMWZuX1VHVnNhV05oYmtKaGVWSmxiblJTYjJ4c01EWXRNamt0TWpBeU5nLnhscyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIDWSQHLAYux73wL8sOPE6gG3yLmg4yR2PsseugHIOY93AiEAt~Q~n4UwmFLxYPPMCelM2O1~iaXhWJKwnpp3tzOG1cU_"
           }
         ],
         "message_type": "text"
@@ -7400,130 +7400,130 @@
       "type": "file",
       "filename": "RentRollwithLeaseCharges06_12_2026(3).xlsx",
       "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/NiTKSuBRFuIPNwCWnhhulK_na1fn_UmVudFJvbGx3aXRoTGVhc2VDaGFyZ2VzMDZfMTJfMjAyNigzKQ.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvTmlUS1N1QlJGdUlQTndDV25oaHVsS19uYTFmbl9VbVZ1ZEZKdmJHeDNhWFJvVEdWaGMyVkRhR0Z5WjJWek1EWmZNVEpmTWpBeU5pZ3pLUS54bHN4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIBXpXwQwlpdfFy~r95lA01Lx2j1NAGBh6vVUhlpJy~M3AiAjplqzU50ShZDdbLHBztv0wfWSOsDR6DlEgULusy1pkw__",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/NiTKSuBRFuIPNwCWnhhulK_na1fn_UmVudFJvbGx3aXRoTGVhc2VDaGFyZ2VzMDZfMTJfMjAyNigzKQ.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvTmlUS1N1QlJGdUlQTndDV25oaHVsS19uYTFmbl9VbVZ1ZEZKdmJHeDNhWFJvVEdWaGMyVkRhR0Z5WjJWek1EWmZNVEpmTWpBeU5pZ3pLUS54bHN4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIHkEfUQQj6yjOuIm~uzEZf9-FY-WLRWIHKHYUiIa0aAAAiBkJNO7pUxdO2JMQaKD~CBjYlZkDh6ZwU6YZwk1rLH~Gw__",
       "status": "archived",
       "bytes": 89497,
-      "archive_path": "attachments/i8PgRj3gT83eMRLdMkaWph/98-user_message-0_9f88fcdce6cc02fe_RentRollwithLeaseCharges06_12_2026_3_.xlsx"
+      "archive_path": "attachments/i8PgRj3gT83eMRLdMkaWph/98-user_message-0_1b5341b612041cfa_RentRollwithLeaseCharges06_12_2026_3_.xlsx"
     },
     {
       "event_index": 115,
       "type": "file",
       "filename": "ltl-rent-roll-importer.skill",
       "content_type": "application/octet-stream",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/i8PgRj3gT83eMRLdMkaWph/sandbox/JBGu3FoLuX44mpoFEYIEn3_1781298115033_na1fn_L3RtcC9sdGwtcmVudC1yb2xsLWltcG9ydGVy.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvaThQZ1JqM2dUODNlTVJMZE1rYVdwaC9zYW5kYm94L0pCR3UzRm9MdVg0NG1wb0ZFWUlFbjNfMTc4MTI5ODExNTAzM19uYTFmbl9MM1J0Y0M5c2RHd3RjbVZ1ZEMxeWIyeHNMV2x0Y0c5eWRHVnkuc2tpbGwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQC7J118dvtivSo4Ch6gHsoKjvPgdxSBtiE3r9KISZi62wIhAOxTLk8zqfvYy0GrM6GnJA4HUAVYHdZCG6gUDrXOVYZB",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/i8PgRj3gT83eMRLdMkaWph/sandbox/JBGu3FoLuX44mpoFEYIEn3_1781298115033_na1fn_L3RtcC9sdGwtcmVudC1yb2xsLWltcG9ydGVy.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvaThQZ1JqM2dUODNlTVJMZE1rYVdwaC9zYW5kYm94L0pCR3UzRm9MdVg0NG1wb0ZFWUlFbjNfMTc4MTI5ODExNTAzM19uYTFmbl9MM1J0Y0M5c2RHd3RjbVZ1ZEMxeWIyeHNMV2x0Y0c5eWRHVnkuc2tpbGwiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODk0MzA0MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCSID98odcJhZsSyGJsBb6Yd2IWUK3AIm~SCIdQY5kWwAIgZ3bnXyotao35StMjvc1ahl58kkYjBd6NL20uF5Iy-UQ_",
       "status": "archived",
       "bytes": 6608,
-      "archive_path": "attachments/i8PgRj3gT83eMRLdMkaWph/115-assistant_message-0_6e8cd3ea6e7ea030_ltl-rent-roll-importer.skill"
+      "archive_path": "attachments/i8PgRj3gT83eMRLdMkaWph/115-assistant_message-0_cc5997542b4b17cb_ltl-rent-roll-importer.skill"
     },
     {
       "event_index": 367,
       "type": "file",
       "filename": "portfolio_checklist.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/i8PgRj3gT83eMRLdMkaWph/sandbox/hLdbA3PmdFGdsLMesCCDHf_1781542308301_na1fn_L2hvbWUvdWJ1bnR1L3BvcnRmb2xpb19jaGVja2xpc3Q.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvaThQZ1JqM2dUODNlTVJMZE1rYVdwaC9zYW5kYm94L2hMZGJBM1BtZEZHZHNMTWVzQ0NESGZfMTc4MTU0MjMwODMwMV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCdmNuUm1iMnhwYjE5amFHVmphMnhwYzNRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIBO5Jlt0Ivgv96qYFpk~fRlaU1kDVt34zz5eYnxpfGVIAiEAzm3cg9pBnrzWqrT78~BmGTMunWASr-M9j86BXTdIH2U_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/i8PgRj3gT83eMRLdMkaWph/sandbox/hLdbA3PmdFGdsLMesCCDHf_1781542308301_na1fn_L2hvbWUvdWJ1bnR1L3BvcnRmb2xpb19jaGVja2xpc3Q.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvaThQZ1JqM2dUODNlTVJMZE1rYVdwaC9zYW5kYm94L2hMZGJBM1BtZEZHZHNMTWVzQ0NESGZfMTc4MTU0MjMwODMwMV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCdmNuUm1iMnhwYjE5amFHVmphMnhwYzNRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDyod-8-eKSgD4DfwNrSQOeOMuPvIPlgjb33Qt4bBAqoAIgEF9R9Qkw9hkoKhxrIqzBlsw8RGPV~kD4-0Z0MlBvFb0_",
       "status": "archived",
       "bytes": 41282,
-      "archive_path": "attachments/i8PgRj3gT83eMRLdMkaWph/367-assistant_message-0_64ea9047e62a187a_portfolio_checklist.pdf"
+      "archive_path": "attachments/i8PgRj3gT83eMRLdMkaWph/367-assistant_message-0_2600d48da049bae7_portfolio_checklist.pdf"
     },
     {
       "event_index": 376,
       "type": "file",
       "filename": "portfolio_checklist.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/i8PgRj3gT83eMRLdMkaWph/sandbox/8UyiRit8oOoWmdfCLzIbcr_1781542416362_na1fn_L2hvbWUvdWJ1bnR1L3BvcnRmb2xpb19jaGVja2xpc3Q.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvaThQZ1JqM2dUODNlTVJMZE1rYVdwaC9zYW5kYm94LzhVeWlSaXQ4b09vV21kZkNMekliY3JfMTc4MTU0MjQxNjM2Ml9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCdmNuUm1iMnhwYjE5amFHVmphMnhwYzNRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCH2PIbLVHl6smLXhAfOywcLOt50w0T7wWZF1bQk4tmBMCIQC8g9Qi2-Sf6rtQOWNe-MkOwVlRmxavU7d9-bDxJlX0Uw__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/i8PgRj3gT83eMRLdMkaWph/sandbox/8UyiRit8oOoWmdfCLzIbcr_1781542416362_na1fn_L2hvbWUvdWJ1bnR1L3BvcnRmb2xpb19jaGVja2xpc3Q.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvaThQZ1JqM2dUODNlTVJMZE1rYVdwaC9zYW5kYm94LzhVeWlSaXQ4b09vV21kZkNMekliY3JfMTc4MTU0MjQxNjM2Ml9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCdmNuUm1iMnhwYjE5amFHVmphMnhwYzNRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCICoc38j~miLbQN17dlWvqy3zt82ifIq0WghRqO75UUAFAiBol6ZF4pg1fkxXEatk7I14RtsA5OpNqVXDFg~dyM5AQA__",
       "status": "archived",
       "bytes": 41453,
-      "archive_path": "attachments/i8PgRj3gT83eMRLdMkaWph/376-assistant_message-0_80eb0dba148bd420_portfolio_checklist.pdf"
+      "archive_path": "attachments/i8PgRj3gT83eMRLdMkaWph/376-assistant_message-0_b5d5c26fe679f962_portfolio_checklist.pdf"
     },
     {
       "event_index": 414,
       "type": "file",
       "filename": "portfolio_checklist.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/i8PgRj3gT83eMRLdMkaWph/sandbox/HVsZzLadwftsbuyW5XJy7e_1781544369953_na1fn_L2hvbWUvdWJ1bnR1L3BvcnRmb2xpb19jaGVja2xpc3Q.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvaThQZ1JqM2dUODNlTVJMZE1rYVdwaC9zYW5kYm94L0hWc1p6TGFkd2Z0c2J1eVc1WEp5N2VfMTc4MTU0NDM2OTk1M19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCdmNuUm1iMnhwYjE5amFHVmphMnhwYzNRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQD-nQgMDmgLYDilf1uHruaBLytphwbtD78YhA~CjNJxegIhAIXcxZilx4AmCBjv-iYzf8xkmIbsnBglM0LL1I8OQI57",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/i8PgRj3gT83eMRLdMkaWph/sandbox/HVsZzLadwftsbuyW5XJy7e_1781544369953_na1fn_L2hvbWUvdWJ1bnR1L3BvcnRmb2xpb19jaGVja2xpc3Q.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvaThQZ1JqM2dUODNlTVJMZE1rYVdwaC9zYW5kYm94L0hWc1p6TGFkd2Z0c2J1eVc1WEp5N2VfMTc4MTU0NDM2OTk1M19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCdmNuUm1iMnhwYjE5amFHVmphMnhwYzNRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCvziXs5rSISBUDfnrrWsZgYIAaas6ioTPfKAjLDYoN4QIgN3KteY-CXGvmxl3S3kOwloEAbH9mxsEEOKSSIZN0FQY_",
       "status": "archived",
       "bytes": 43691,
-      "archive_path": "attachments/i8PgRj3gT83eMRLdMkaWph/414-assistant_message-0_6fc56c5308f9e6e9_portfolio_checklist.pdf"
+      "archive_path": "attachments/i8PgRj3gT83eMRLdMkaWph/414-assistant_message-0_84cd6cf121d93ae4_portfolio_checklist.pdf"
     },
     {
       "event_index": 419,
       "type": "file",
       "filename": "portfolio_checklist.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/i8PgRj3gT83eMRLdMkaWph/sandbox/6CXHyXbj9tkippdN06rS2s_1781544638196_na1fn_L2hvbWUvdWJ1bnR1L3BvcnRmb2xpb19jaGVja2xpc3Q.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvaThQZ1JqM2dUODNlTVJMZE1rYVdwaC9zYW5kYm94LzZDWEh5WGJqOXRraXBwZE4wNnJTMnNfMTc4MTU0NDYzODE5Nl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCdmNuUm1iMnhwYjE5amFHVmphMnhwYzNRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIDBd5hz7mAObSLYBrSIbxVfwaxWmn--CyEAsbNrrSNUNAiEA4~qeeGzdaD~hqwc0GtE~gP4MHIQ4vw3Ohy7aiX7J2ek_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/i8PgRj3gT83eMRLdMkaWph/sandbox/6CXHyXbj9tkippdN06rS2s_1781544638196_na1fn_L2hvbWUvdWJ1bnR1L3BvcnRmb2xpb19jaGVja2xpc3Q.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvaThQZ1JqM2dUODNlTVJMZE1rYVdwaC9zYW5kYm94LzZDWEh5WGJqOXRraXBwZE4wNnJTMnNfMTc4MTU0NDYzODE5Nl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCdmNuUm1iMnhwYjE5amFHVmphMnhwYzNRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIGjTgmBCiA2cqEamxIvvKQemi9yTwzzXKXVMrKfg414MAiBkzAWmX2Nkk6uwHlSTQ0alg9ZLC78daFqIc3oJJZ9uxw__",
       "status": "archived",
       "bytes": 43194,
-      "archive_path": "attachments/i8PgRj3gT83eMRLdMkaWph/419-assistant_message-0_a898bc27a20a9282_portfolio_checklist.pdf"
+      "archive_path": "attachments/i8PgRj3gT83eMRLdMkaWph/419-assistant_message-0_be530c358ab746a5_portfolio_checklist.pdf"
     },
     {
       "event_index": 431,
       "type": "file",
       "filename": "pasted_file_RAvMI5_recording.webm",
       "content_type": "video/webm",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-5JBsxgVK6iBI4yCOdeNr7t_na1fn_cGFzdGVkX2ZpbGVfUkF2TUk1X3JlY29yZGluZw.webm?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC01SkJzeGdWSzZpQkk0eUNPZGVOcjd0X25hMWZuX2NHRnpkR1ZrWDJacGJHVmZVa0YyVFVrMVgzSmxZMjl5WkdsdVp3LndlYm0iLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIDoZieb9Wxqdcu3xsGrgtvBixe8hHoqnPzYhwkOCTuVlAiEAxnZiTD697j0oq-H152w6HjamyU9ZmV6A0X1ISZnrVn8_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-5JBsxgVK6iBI4yCOdeNr7t_na1fn_cGFzdGVkX2ZpbGVfUkF2TUk1X3JlY29yZGluZw.webm?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC01SkJzeGdWSzZpQkk0eUNPZGVOcjd0X25hMWZuX2NHRnpkR1ZrWDJacGJHVmZVa0YyVFVrMVgzSmxZMjl5WkdsdVp3LndlYm0iLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODk0MzA0MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICb0HIrlQCFlb2~B5ll3E8383ZCJAnIeOiU-EKzMf6I3AiEAqocwuuNZbnVBNMvFdDqixW4S7kBAXQ0m48Qf-wbcQCA_",
       "status": "archived",
       "bytes": 3653452,
-      "archive_path": "attachments/i8PgRj3gT83eMRLdMkaWph/431-user_message-0_71945ee9b2d8c306_pasted_file_RAvMI5_recording.webm"
+      "archive_path": "attachments/i8PgRj3gT83eMRLdMkaWph/431-user_message-0_236df68332a4a975_pasted_file_RAvMI5_recording.webm"
     },
     {
       "event_index": 523,
       "type": "file",
       "filename": "portfolio_checklist.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/i8PgRj3gT83eMRLdMkaWph/sandbox/XRF2xFNWuNZC3yTODQjfsO_1781558501618_na1fn_L2hvbWUvdWJ1bnR1L3BvcnRmb2xpb19jaGVja2xpc3Q.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvaThQZ1JqM2dUODNlTVJMZE1rYVdwaC9zYW5kYm94L1hSRjJ4Rk5XdU5aQzN5VE9EUWpmc09fMTc4MTU1ODUwMTYxOF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCdmNuUm1iMnhwYjE5amFHVmphMnhwYzNRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIFqUP5o-hehbSFIEbkiWcgdKxTRmYdLfAzJXzaP~OAEDAiB85Bz3kpIuXClSy26QMGAQSYBlPB~2KKZBjmp8HiByRQ__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/i8PgRj3gT83eMRLdMkaWph/sandbox/XRF2xFNWuNZC3yTODQjfsO_1781558501618_na1fn_L2hvbWUvdWJ1bnR1L3BvcnRmb2xpb19jaGVja2xpc3Q.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvaThQZ1JqM2dUODNlTVJMZE1rYVdwaC9zYW5kYm94L1hSRjJ4Rk5XdU5aQzN5VE9EUWpmc09fMTc4MTU1ODUwMTYxOF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCdmNuUm1iMnhwYjE5amFHVmphMnhwYzNRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIQDwF1AVGBxDTuAhxpc27TewPhroJL4XXBcjFiMAmjRX4wIfAyvvPlaWFacuW~cKvfGhBDFD13TkOJZi3gPDB8-hEw__",
       "status": "archived",
       "bytes": 332057,
-      "archive_path": "attachments/i8PgRj3gT83eMRLdMkaWph/523-assistant_message-0_3d19eb77cb178190_portfolio_checklist.pdf"
+      "archive_path": "attachments/i8PgRj3gT83eMRLdMkaWph/523-assistant_message-0_33f6b14c1efbf10c_portfolio_checklist.pdf"
     },
     {
       "event_index": 555,
       "type": "file",
       "filename": "portfolio_checklist.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/i8PgRj3gT83eMRLdMkaWph/sandbox/joPqrYfaFokw0YT5GSPXFt_1781568034786_na1fn_L2hvbWUvdWJ1bnR1L3BvcnRmb2xpb19jaGVja2xpc3Q.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvaThQZ1JqM2dUODNlTVJMZE1rYVdwaC9zYW5kYm94L2pvUHFyWWZhRm9rdzBZVDVHU1BYRnRfMTc4MTU2ODAzNDc4Nl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCdmNuUm1iMnhwYjE5amFHVmphMnhwYzNRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIGkMTLd2rAAf24RT4wr4BZczwDiqBwqAjfip2evxwtbnAiA5KqPzALltGpI2g323d3UBM5qcdX~kAfIrSML6VSY-WA__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/i8PgRj3gT83eMRLdMkaWph/sandbox/joPqrYfaFokw0YT5GSPXFt_1781568034786_na1fn_L2hvbWUvdWJ1bnR1L3BvcnRmb2xpb19jaGVja2xpc3Q.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvaThQZ1JqM2dUODNlTVJMZE1rYVdwaC9zYW5kYm94L2pvUHFyWWZhRm9rdzBZVDVHU1BYRnRfMTc4MTU2ODAzNDc4Nl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCdmNuUm1iMnhwYjE5amFHVmphMnhwYzNRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIFLT4nZNYpC-t6lx4dBNFKB4Gf0PqdmYC9wrwfVB8FQNAiEAvzRod56HAMaANiu8m-aE0TuxCDCaeDkPVm7ZhuVGOcU_",
       "status": "archived",
       "bytes": 164669,
-      "archive_path": "attachments/i8PgRj3gT83eMRLdMkaWph/555-assistant_message-0_28daade38538ba06_portfolio_checklist.pdf"
+      "archive_path": "attachments/i8PgRj3gT83eMRLdMkaWph/555-assistant_message-0_b03728848fc6f99f_portfolio_checklist.pdf"
     },
     {
       "event_index": 691,
       "type": "file",
       "filename": "portfolio_checklist.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/i8PgRj3gT83eMRLdMkaWph/sandbox/9TdoSF7ChrnOMf1TIsnhL6_1782149338294_na1fn_L2hvbWUvdWJ1bnR1L3BvcnRmb2xpb19jaGVja2xpc3Q.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvaThQZ1JqM2dUODNlTVJMZE1rYVdwaC9zYW5kYm94LzlUZG9TRjdDaHJuT01mMVRJc25oTDZfMTc4MjE0OTMzODI5NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCdmNuUm1iMnhwYjE5amFHVmphMnhwYzNRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIAc~F9A0~aRgn0e3lDkTG5ia9eRtXLa4n8Jpxk56IireAiAZ62Nsvf1AgYlS~h64UGmfsILTxN7vOt4Mjpcq-TBfDA__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/i8PgRj3gT83eMRLdMkaWph/sandbox/9TdoSF7ChrnOMf1TIsnhL6_1782149338294_na1fn_L2hvbWUvdWJ1bnR1L3BvcnRmb2xpb19jaGVja2xpc3Q.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvaThQZ1JqM2dUODNlTVJMZE1rYVdwaC9zYW5kYm94LzlUZG9TRjdDaHJuT01mMVRJc25oTDZfMTc4MjE0OTMzODI5NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCdmNuUm1iMnhwYjE5amFHVmphMnhwYzNRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIBGFpBUqiXuxulCCxgIwjXd5e12zpDvh3FVdETlqFim0AiAfFQeWWCkQzjAFhHM9xaC710PEHmHpeVRvOA6dR4szwg__",
       "status": "archived",
       "bytes": 214040,
-      "archive_path": "attachments/i8PgRj3gT83eMRLdMkaWph/691-assistant_message-0_f4e1b0f718315cd3_portfolio_checklist.pdf"
+      "archive_path": "attachments/i8PgRj3gT83eMRLdMkaWph/691-assistant_message-0_221b220e0cf37af1_portfolio_checklist.pdf"
     },
     {
       "event_index": 699,
       "type": "file",
       "filename": "portfolio_checklist.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/i8PgRj3gT83eMRLdMkaWph/sandbox/9TdoSF7ChrnOMf1TIsnhL6_1782149338294_na1fn_L2hvbWUvdWJ1bnR1L3BvcnRmb2xpb19jaGVja2xpc3Q.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvaThQZ1JqM2dUODNlTVJMZE1rYVdwaC9zYW5kYm94LzlUZG9TRjdDaHJuT01mMVRJc25oTDZfMTc4MjE0OTMzODI5NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCdmNuUm1iMnhwYjE5amFHVmphMnhwYzNRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCwF5JzE7ow5Vuq-eWja455IhiBXpUNEe1p0PKeQdvxwAIhAPq5F6cUyMayQlUXAKkE8CgL8tnHMUWKA22j52~nXpOz",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/i8PgRj3gT83eMRLdMkaWph/sandbox/9TdoSF7ChrnOMf1TIsnhL6_1782149338294_na1fn_L2hvbWUvdWJ1bnR1L3BvcnRmb2xpb19jaGVja2xpc3Q.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvaThQZ1JqM2dUODNlTVJMZE1rYVdwaC9zYW5kYm94LzlUZG9TRjdDaHJuT01mMVRJc25oTDZfMTc4MjE0OTMzODI5NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCdmNuUm1iMnhwYjE5amFHVmphMnhwYzNRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIHAy6K9fLjIn80PKd0I~7ireu-rz7-pdMFS6UCvVtEELAiEAlkzgucv~egJewVKlbhFOvgDiMvDuR5mlOEQz2gVViDA_",
       "status": "archived",
       "bytes": 214040,
-      "archive_path": "attachments/i8PgRj3gT83eMRLdMkaWph/699-assistant_message-0_c6d318bb5d98b1e6_portfolio_checklist.pdf"
+      "archive_path": "attachments/i8PgRj3gT83eMRLdMkaWph/699-assistant_message-0_c807d62d7b6d7621_portfolio_checklist.pdf"
     },
     {
       "event_index": 714,
       "type": "file",
       "filename": "portfolio_checklist.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/i8PgRj3gT83eMRLdMkaWph/sandbox/MAtC3Rdoe7ERwSBTsWEESs_1782754470782_na1fn_L2hvbWUvdWJ1bnR1L3BvcnRmb2xpb19jaGVja2xpc3Q.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvaThQZ1JqM2dUODNlTVJMZE1rYVdwaC9zYW5kYm94L01BdEMzUmRvZTdFUndTQlRzV0VFU3NfMTc4Mjc1NDQ3MDc4Ml9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCdmNuUm1iMnhwYjE5amFHVmphMnhwYzNRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIHWRzAB0z4Gn~4QyEi-UJxjSGTKIh447~FxT2ShAjYOfAiBpYsvcrD5uYCrigRvNsPF4-9mRFHig-x7nmBG1Yq~jnQ__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/i8PgRj3gT83eMRLdMkaWph/sandbox/MAtC3Rdoe7ERwSBTsWEESs_1782754470782_na1fn_L2hvbWUvdWJ1bnR1L3BvcnRmb2xpb19jaGVja2xpc3Q.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvaThQZ1JqM2dUODNlTVJMZE1rYVdwaC9zYW5kYm94L01BdEMzUmRvZTdFUndTQlRzV0VFU3NfMTc4Mjc1NDQ3MDc4Ml9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCdmNuUm1iMnhwYjE5amFHVmphMnhwYzNRLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCrkC2j8AcYzAiBAlFjPoEQnItCvpSLDTRijAjKnbQOOAIhAO5twJike90t-dVzLuM576yjpqBiQRXrHTi-YjTMff1j",
       "status": "archived",
       "bytes": 41725,
-      "archive_path": "attachments/i8PgRj3gT83eMRLdMkaWph/714-assistant_message-0_0027f8885f9b8729_portfolio_checklist.pdf"
+      "archive_path": "attachments/i8PgRj3gT83eMRLdMkaWph/714-assistant_message-0_e354a9be70cb974f_portfolio_checklist.pdf"
     },
     {
       "event_index": 795,
       "type": "file",
       "filename": "PelicanBayRentRoll06-29-2026.xls",
       "content_type": "application/vnd.ms-excel",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-kOzdBFJRtgeZ41p1HdHJl9_na1fn_UGVsaWNhbkJheVJlbnRSb2xsMDYtMjktMjAyNg.xls?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1rT3pkQkZKUnRnZVo0MXAxSGRISmw5X25hMWZuX1VHVnNhV05oYmtKaGVWSmxiblJTYjJ4c01EWXRNamt0TWpBeU5nLnhscyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICriPtKlirru~S~wWV8QlgCH3Vhjqqd-kc1hiWsFlidoAiEAi5UM8J7v7C2-YcZOR8TZQjZEvtxqQl2xevrBD1m62XA_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-kOzdBFJRtgeZ41p1HdHJl9_na1fn_UGVsaWNhbkJheVJlbnRSb2xsMDYtMjktMjAyNg.xls?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1rT3pkQkZKUnRnZVo0MXAxSGRISmw5X25hMWZuX1VHVnNhV05oYmtKaGVWSmxiblJTYjJ4c01EWXRNamt0TWpBeU5nLnhscyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIDWSQHLAYux73wL8sOPE6gG3yLmg4yR2PsseugHIOY93AiEAt~Q~n4UwmFLxYPPMCelM2O1~iaXhWJKwnpp3tzOG1cU_",
       "status": "archived",
       "bytes": 141312,
-      "archive_path": "attachments/i8PgRj3gT83eMRLdMkaWph/795-user_message-0_4ffa9c78dd4ea638_PelicanBayRentRoll06-29-2026.xls"
+      "archive_path": "attachments/i8PgRj3gT83eMRLdMkaWph/795-user_message-0_1782845052b92964_PelicanBayRentRoll06-29-2026.xls"
     }
   ]
 }

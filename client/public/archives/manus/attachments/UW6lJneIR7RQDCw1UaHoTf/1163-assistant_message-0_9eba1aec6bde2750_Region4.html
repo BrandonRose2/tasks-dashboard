@@ -1,0 +1,644 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>Region 4 — Blake Weddington — Daily Report</title>
+  <style>
+  body {
+    margin: 0;
+    padding: 0;
+    background-color: #f3f4f6;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: #1f2937;
+    -webkit-text-size-adjust: 100%;
+  }
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05), 0 2px 4px -1px rgba(0,0,0,0.03);
+    border-radius: 8px;
+    overflow: hidden;
+    box-sizing: border-box;
+  }
+  .header-table {
+    width: 100%;
+    border-collapse: collapse;
+    background: linear-gradient(135deg, #1e3a8a 0%, #0f172a 100%);
+    color: #ffffff;
+  }
+  .header-cell {
+    padding: 24px;
+  }
+  .brand-sub {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: #93c5fd;
+    font-weight: 700;
+    margin-bottom: 6px;
+  }
+  .title {
+    font-size: 24px;
+    font-weight: 800;
+    color: #ffffff;
+    margin: 0 0 8px 0;
+    letter-spacing: -0.5px;
+  }
+  .meta {
+    font-size: 12px;
+    color: #cbd5e1;
+  }
+  .logo-img {
+    height: 48px;
+    width: auto;
+    display: block;
+  }
+  
+  /* Alert Banners */
+  .banner-alert {
+    padding: 14px 20px;
+    font-size: 13px;
+    line-height: 1.5;
+    border-bottom: 1px solid #e5e7eb;
+  }
+  .banner-alert.success {
+    background-color: #f0fdf4;
+    color: #166534;
+    border-bottom: 1px solid #bbf7d0;
+    font-weight: 600;
+  }
+  .banner-alert.warning {
+    background-color: #fffbeb;
+    color: #92400e;
+    border-bottom: 1px solid #fde68a;
+  }
+  .alert-title {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 700;
+    color: #b45309;
+    margin-bottom: 6px;
+  }
+  .alert-list {
+    margin: 0;
+    padding: 0 0 0 16px;
+  }
+  .alert-list li {
+    margin-bottom: 4px;
+    font-weight: 500;
+  }
+
+  /* KPI Layout (Fluid Table) */
+  .kpi-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 16px 0;
+  }
+  .kpi-container-cell {
+    padding: 0 16px;
+  }
+  .kpi-cell {
+    padding: 4px;
+  }
+  .kpi-card {
+    border-radius: 8px;
+    padding: 14px;
+    text-align: left;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.02);
+  }
+  
+  /* Solid Color Fills for KPI Cards */
+  .kpi-card.blue { 
+    background-color: #eff6ff !important; 
+    border: 1px solid #bfdbfe !important; 
+    border-left: 4px solid #2563eb !important; 
+  }
+  .kpi-card.blue .kpi-label { color: #1e40af !important; }
+  .kpi-card.blue .kpi-value { color: #1e3a8a !important; }
+  
+  .kpi-card.green { 
+    background-color: #f0fdf4 !important; 
+    border: 1px solid #bbf7d0 !important; 
+    border-left: 4px solid #16a34a !important; 
+  }
+  .kpi-card.green .kpi-label { color: #166534 !important; }
+  .kpi-card.green .kpi-value { color: #14532d !important; }
+  
+  .kpi-card.orange { 
+    background-color: #fff7ed !important; 
+    border: 1px solid #fed7aa !important; 
+    border-left: 4px solid #ea580c !important; 
+  }
+  .kpi-card.orange .kpi-label { color: #9a3412 !important; }
+  .kpi-card.orange .kpi-value { color: #7c2d12 !important; }
+  
+  .kpi-label {
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 700;
+    margin-bottom: 4px;
+  }
+  .kpi-value {
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 1.2;
+  }
+  .kpi-subtext {
+    font-size: 11px;
+    margin-top: 4px;
+    font-weight: 600;
+  }
+
+  /* Table Styles */
+  .table-container {
+    padding: 0 16px;
+    margin-bottom: 20px;
+  }
+  .table-title {
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 800;
+    color: #4b5563;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #e5e7eb;
+    padding-bottom: 4px;
+  }
+  .responsive-table-wrapper {
+    width: 100%;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+    font-size: 12px;
+    table-layout: fixed;
+  }
+  th {
+    background-color: #f8fafc;
+    color: #475569;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 9px;
+    letter-spacing: 0.5px;
+    padding: 10px 6px;
+    border-bottom: 1px solid #e2e8f0;
+  }
+  td {
+    padding: 10px 6px;
+    border-bottom: 1px solid #f1f5f9;
+    color: #334155;
+    word-wrap: break-word;
+  }
+  tr.total-row {
+    background-color: #f8fafc !important;
+    font-weight: bold;
+    border-top: 2px solid #e2e8f0;
+  }
+  tr.total-row td {
+    color: #0f172a;
+  }
+  
+  /* Badges */
+  .at-risk-badge {
+    background-color: #fee2e2;
+    color: #991b1b;
+    font-size: 8px;
+    font-weight: 800;
+    padding: 2px 4px;
+    border-radius: 3px;
+    margin-left: 4px;
+    display: inline-block;
+    vertical-align: middle;
+    border: 1px solid #fecaca;
+  }
+  
+  /* Detail Sections */
+  .detail-section {
+    padding: 0 16px;
+    margin-bottom: 20px;
+  }
+  .detail-card {
+    background: #ffffff;
+    border: 1px solid #e5e7eb;
+    border-radius: 8px;
+    margin-bottom: 12px;
+    overflow: hidden;
+  }
+  .detail-card.at-risk {
+    border-left: 4px solid #ea580c;
+  }
+  .detail-card-header {
+    padding: 10px 14px;
+    background-color: #f9fafb;
+    border-bottom: 1px solid #e5e7eb;
+  }
+  .detail-card-header.at-risk {
+    background-color: #fff7ed;
+    border-bottom: 1px solid #ffedd5;
+  }
+  .detail-card-title {
+    font-weight: 700;
+    font-size: 13px;
+  }
+  .detail-card-badge {
+    float: right;
+    font-size: 9px;
+    font-weight: 700;
+    padding: 2px 6px;
+    border-radius: 9999px;
+  }
+  .detail-card-badge.danger {
+    background-color: #fee2e2;
+    color: #991b1b;
+  }
+  
+  /* Legend & Footer */
+  .legend-box {
+    background-color: #f8fafc;
+    border: 1px solid #e2e8f0;
+    border-radius: 6px;
+    padding: 10px 12px;
+    font-size: 11px;
+    color: #475569;
+    line-height: 1.6;
+    margin-bottom: 12px;
+  }
+  .legend-item {
+    display: inline-block;
+    margin-right: 14px;
+    font-weight: 500;
+  }
+  .attachment-box {
+    background-color: #eff6ff;
+    border: 1px solid #bfdbfe;
+    border-radius: 6px;
+    padding: 10px 12px;
+    font-size: 11px;
+    color: #1e40af;
+    font-weight: 600;
+  }
+  .footer {
+    padding: 20px 16px;
+    text-align: center;
+    font-size: 10px;
+    color: #6b7280;
+    background-color: #f9fafb;
+    border-top: 1px solid #e5e7eb;
+    line-height: 1.5;
+  }
+  .footer a {
+    color: #4b5563;
+    text-decoration: none;
+  }
+
+  /* Responsive Mobile Overrides */
+  @media only screen and (max-width: 600px) {
+    .container {
+      border-radius: 0 !important;
+      box-shadow: none !important;
+    }
+    .header-cell {
+      padding: 16px !important;
+    }
+    .title {
+      font-size: 20px !important;
+    }
+    .header-logo-cell {
+      width: 80px !important;
+    }
+    .logo-img {
+      height: 36px !important;
+    }
+    
+    /* Stack KPI Cards Vertically */
+    td.kpi-cell {
+      display: block !important;
+      width: 100% !important;
+      box-sizing: border-box !important;
+      padding: 6px 0 !important;
+    }
+    .kpi-card {
+      padding: 12px !important;
+    }
+    .kpi-value {
+      font-size: 22px !important;
+    }
+    
+    /* Transform Tables into Cards */
+    table.responsive-table, 
+    table.responsive-table thead, 
+    table.responsive-table tbody, 
+    table.responsive-table th, 
+    table.responsive-table td, 
+    table.responsive-table tr { 
+      display: block !important; 
+      width: 100% !important;
+      box-sizing: border-box !important;
+    }
+    
+    table.responsive-table thead tr { 
+      position: absolute !important;
+      top: -9999px !important;
+      left: -9999px !important;
+    }
+    
+    table.responsive-table tr {
+      border: 1px solid #e2e8f0 !important;
+      border-radius: 8px !important;
+      margin-bottom: 12px !important;
+      background-color: #ffffff !important;
+      padding: 8px !important;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.02) !important;
+    }
+    
+    table.responsive-table tr.total-row {
+      background-color: #f8fafc !important;
+      border: 2px solid #cbd5e1 !important;
+    }
+    
+    table.responsive-table td { 
+      border: none !important;
+      border-bottom: 1px solid #f1f5f9 !important; 
+      position: relative !important;
+      padding: 8px 6px 8px 45% !important; 
+      text-align: right !important;
+      font-size: 12px !important;
+      min-height: 36px !important;
+    }
+    
+    table.responsive-table td:last-child {
+      border-bottom: none !important;
+    }
+    
+    table.responsive-table td::before { 
+      content: attr(data-label) !important;
+      position: absolute !important;
+      top: 8px !important;
+      left: 6px !important;
+      width: 40% !important; 
+      padding-right: 10px !important; 
+      white-space: nowrap !important;
+      text-align: left !important;
+      font-weight: bold !important;
+      color: #475569 !important;
+      text-transform: uppercase !important;
+      font-size: 9px !important;
+      letter-spacing: 0.5px !important;
+    }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+  <!-- Header (Table-based for email safety) -->
+  <table class="header-table">
+    <tr>
+      <td class="header-cell">
+        <table style="width:100%; border-collapse:collapse;">
+          <tr>
+            <td style="vertical-align:top; padding:0;">
+              <div class="brand-sub">Apartment Corp · Daily Performance & Vacancy Report</div>
+              <h1 class="title" style="margin:0 0 6px 0;">Region 4</h1>
+              <div class="meta">Regional Manager: <strong style="color:#1d4ed8;"><a href="mailto:blake@apartmentcorp.com" style="color:#1d4ed8;text-decoration:none;">Blake Weddington</a></strong> · Date: <strong>August 15, 2026</strong></div>
+            </td>
+            <td style="vertical-align:top; text-align:right; padding:0; width:120px;" class="header-logo-cell">
+              <a href="https://www.apartmentcorp.com" target="_blank" rel="noopener noreferrer">
+                <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663449376037/yiqjXhtjVpBGrWlZ.gif" alt="Apartment Corp Emblem" class="logo-img" style="float:right;">
+              </a>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Alert -->
+  <div class="banner-alert success">✓ No vacancy changes today across all buildings.</div>
+
+  <!-- Summary Cards (Table-based for email safety) -->
+  <table class="kpi-table">
+    <tr>
+      <td class="kpi-container-cell">
+        <table style="width:100%; border-collapse:collapse;">
+          <tr>
+            <td class="kpi-cell" style="width:33%;">
+              <div class="kpi-card blue">
+                <div class="kpi-label">Total Billed</div>
+                <div class="kpi-value">$576,609</div>
+              </div>
+            </td>
+            <td class="kpi-cell" style="width:33%;">
+              <div class="kpi-card green">
+                <div class="kpi-label">Total Collected</div>
+                <div class="kpi-value">$472,122</div>
+                <div class="kpi-subtext" style="color:#dc2626;">81.9% Collection</div>
+              </div>
+            </td>
+            <td class="kpi-cell" style="width:33%;">
+              <div class="kpi-card orange">
+                <div class="kpi-label">Total Vacant</div>
+                <div class="kpi-value">10 Units</div>
+                <div class="kpi-subtext" style="font-size:10px;"><span style="color:#6b7280;">Day: 0</span> &nbsp;·&nbsp; <span style="color:#6b7280;">Week: 0</span></div>
+              </div>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Building Table -->
+  <div class="table-container">
+    <div class="table-title">Building Performance Overview</div>
+    <div class="responsive-table-wrapper">
+      <table style="width:100%; border-collapse:collapse; table-layout:fixed;">
+        <thead>
+          <tr>
+            <th style="text-align:left; width:35%;">Building</th>
+            <th style="text-align:right; width:33%; white-space:nowrap !important;">Collections</th>
+            <th style="text-align:center; width:15%; white-space:nowrap !important;">Col %</th>
+            <th style="text-align:center; width:17%; white-space:nowrap !important;">Vacant</th>
+          </tr>
+        </thead>
+        <tbody>
+          
+        <tr style="background:#ffffff;">
+          <td style="padding:12px 6px;font-weight:600;width:35%;font-size:13px;"><a href="https://aptreports-bj4azy4t.manus.space/?building=AnaheimGardensApts" style="color:#1e40af;text-decoration:none;">Anaheim Gardens Apts</a></td>
+          <td style="padding:12px 6px;text-align:right;width:33%;white-space:nowrap !important;">
+            <div style="font-weight:700;color:#0f172a;font-size:13px;">$0</div>
+            <div style="font-size:11px;color:#64748b;margin-top:2px;">of $0</div>
+          </td>
+          <td style="padding:12px 6px;text-align:center;font-weight:800;color:#dc2626;width:15%;font-size:14px;white-space:nowrap !important;">0.0%</td>
+          <td style="padding:12px 6px;text-align:center;width:17%;white-space:nowrap !important;">
+            <div style="font-weight:800;color:#374151;font-size:14px;">0</div>
+            <div style="font-size:11px;color:#6b7280;font-weight:700;margin-top:2px;white-space:nowrap !important;">No Change</div>
+          </td>
+        </tr>
+        <tr style="background:#ffffff;">
+          <td style="padding:12px 6px;font-weight:600;width:35%;font-size:13px;"><a href="https://aptreports-bj4azy4t.manus.space/?building=ColumbiaVillage" style="color:#1e40af;text-decoration:none;">Columbia Village</a></td>
+          <td style="padding:12px 6px;text-align:right;width:33%;white-space:nowrap !important;">
+            <div style="font-weight:700;color:#0f172a;font-size:13px;">$66</div>
+            <div style="font-size:11px;color:#64748b;margin-top:2px;">of $0</div>
+          </td>
+          <td style="padding:12px 6px;text-align:center;font-weight:800;color:#dc2626;width:15%;font-size:14px;white-space:nowrap !important;">0.0%</td>
+          <td style="padding:12px 6px;text-align:center;width:17%;white-space:nowrap !important;">
+            <div style="font-weight:800;color:#374151;font-size:14px;">0</div>
+            <div style="font-size:11px;color:#6b7280;font-weight:700;margin-top:2px;white-space:nowrap !important;">No Change</div>
+          </td>
+        </tr>
+        <tr style="background:#ffffff;">
+          <td style="padding:12px 6px;font-weight:600;width:35%;font-size:13px;"><a href="https://aptreports-bj4azy4t.manus.space/?building=ForestViewSeniorApts" style="color:#1e40af;text-decoration:none;">Forest View Senior Apts</a></td>
+          <td style="padding:12px 6px;text-align:right;width:33%;white-space:nowrap !important;">
+            <div style="font-weight:700;color:#0f172a;font-size:13px;">$35</div>
+            <div style="font-size:11px;color:#64748b;margin-top:2px;">of $0</div>
+          </td>
+          <td style="padding:12px 6px;text-align:center;font-weight:800;color:#dc2626;width:15%;font-size:14px;white-space:nowrap !important;">0.0%</td>
+          <td style="padding:12px 6px;text-align:center;width:17%;white-space:nowrap !important;">
+            <div style="font-weight:800;color:#374151;font-size:14px;">0</div>
+            <div style="font-size:11px;color:#6b7280;font-weight:700;margin-top:2px;white-space:nowrap !important;">No Change</div>
+          </td>
+        </tr>
+        <tr style="background:#ffffff;">
+          <td style="padding:12px 6px;font-weight:600;width:35%;font-size:13px;"><a href="https://aptreports-bj4azy4t.manus.space/?building=GraniteRidgeApts" style="color:#1e40af;text-decoration:none;">Granite Ridge Apts</a></td>
+          <td style="padding:12px 6px;text-align:right;width:33%;white-space:nowrap !important;">
+            <div style="font-weight:700;color:#0f172a;font-size:13px;">$76,094</div>
+            <div style="font-size:11px;color:#64748b;margin-top:2px;">of $97,759</div>
+          </td>
+          <td style="padding:12px 6px;text-align:center;font-weight:800;color:#dc2626;width:15%;font-size:14px;white-space:nowrap !important;">77.8%</td>
+          <td style="padding:12px 6px;text-align:center;width:17%;white-space:nowrap !important;">
+            <div style="font-weight:800;color:#374151;font-size:14px;">1</div>
+            <div style="font-size:11px;color:#6b7280;font-weight:700;margin-top:2px;white-space:nowrap !important;">No Change</div>
+          </td>
+        </tr>
+        <tr style="background:#ffffff;">
+          <td style="padding:12px 6px;font-weight:600;width:35%;font-size:13px;"><a href="https://aptreports-bj4azy4t.manus.space/?building=MidtownManor" style="color:#1e40af;text-decoration:none;">Midtown Manor</a></td>
+          <td style="padding:12px 6px;text-align:right;width:33%;white-space:nowrap !important;">
+            <div style="font-weight:700;color:#0f172a;font-size:13px;">$0</div>
+            <div style="font-size:11px;color:#64748b;margin-top:2px;">of $0</div>
+          </td>
+          <td style="padding:12px 6px;text-align:center;font-weight:800;color:#dc2626;width:15%;font-size:14px;white-space:nowrap !important;">0.0%</td>
+          <td style="padding:12px 6px;text-align:center;width:17%;white-space:nowrap !important;">
+            <div style="font-weight:800;color:#374151;font-size:14px;">0</div>
+            <div style="font-size:11px;color:#6b7280;font-weight:700;margin-top:2px;white-space:nowrap !important;">No Change</div>
+          </td>
+        </tr>
+        <tr style="background:#ffffff;">
+          <td style="padding:12px 6px;font-weight:600;width:35%;font-size:13px;"><a href="https://aptreports-bj4azy4t.manus.space/?building=NewWilmingtonArms" style="color:#1e40af;text-decoration:none;">New Wilmington Arms</a></td>
+          <td style="padding:12px 6px;text-align:right;width:33%;white-space:nowrap !important;">
+            <div style="font-weight:700;color:#0f172a;font-size:13px;">$0</div>
+            <div style="font-size:11px;color:#64748b;margin-top:2px;">of $0</div>
+          </td>
+          <td style="padding:12px 6px;text-align:center;font-weight:800;color:#dc2626;width:15%;font-size:14px;white-space:nowrap !important;">0.0%</td>
+          <td style="padding:12px 6px;text-align:center;width:17%;white-space:nowrap !important;">
+            <div style="font-weight:800;color:#374151;font-size:14px;">0</div>
+            <div style="font-size:11px;color:#6b7280;font-weight:700;margin-top:2px;white-space:nowrap !important;">No Change</div>
+          </td>
+        </tr>
+        <tr style="background:#ffffff;">
+          <td style="padding:12px 6px;font-weight:600;width:35%;font-size:13px;"><a href="https://aptreports-bj4azy4t.manus.space/?building=OakHillsApts" style="color:#1e40af;text-decoration:none;">Oak Hills Apts</a></td>
+          <td style="padding:12px 6px;text-align:right;width:33%;white-space:nowrap !important;">
+            <div style="font-weight:700;color:#0f172a;font-size:13px;">$0</div>
+            <div style="font-size:11px;color:#64748b;margin-top:2px;">of $0</div>
+          </td>
+          <td style="padding:12px 6px;text-align:center;font-weight:800;color:#dc2626;width:15%;font-size:14px;white-space:nowrap !important;">0.0%</td>
+          <td style="padding:12px 6px;text-align:center;width:17%;white-space:nowrap !important;">
+            <div style="font-weight:800;color:#374151;font-size:14px;">0</div>
+            <div style="font-size:11px;color:#6b7280;font-weight:700;margin-top:2px;white-space:nowrap !important;">No Change</div>
+          </td>
+        </tr>
+        <tr style="background:#ffffff;">
+          <td style="padding:12px 6px;font-weight:600;width:35%;font-size:13px;"><a href="https://aptreports-bj4azy4t.manus.space/?building=PacificPointeApts" style="color:#1e40af;text-decoration:none;">Pacific Pointe Apts</a></td>
+          <td style="padding:12px 6px;text-align:right;width:33%;white-space:nowrap !important;">
+            <div style="font-weight:700;color:#0f172a;font-size:13px;">$72,388</div>
+            <div style="font-size:11px;color:#64748b;margin-top:2px;">of $96,155</div>
+          </td>
+          <td style="padding:12px 6px;text-align:center;font-weight:800;color:#dc2626;width:15%;font-size:14px;white-space:nowrap !important;">75.3%</td>
+          <td style="padding:12px 6px;text-align:center;width:17%;white-space:nowrap !important;">
+            <div style="font-weight:800;color:#374151;font-size:14px;">2</div>
+            <div style="font-size:11px;color:#6b7280;font-weight:700;margin-top:2px;white-space:nowrap !important;">No Change</div>
+          </td>
+        </tr>
+        <tr style="background:#ffffff;">
+          <td style="padding:12px 6px;font-weight:600;width:35%;font-size:13px;"><a href="https://aptreports-bj4azy4t.manus.space/?building=RiverGarden" style="color:#1e40af;text-decoration:none;">River Garden</a></td>
+          <td style="padding:12px 6px;text-align:right;width:33%;white-space:nowrap !important;">
+            <div style="font-weight:700;color:#0f172a;font-size:13px;">$107,002</div>
+            <div style="font-size:11px;color:#64748b;margin-top:2px;">of $157,725</div>
+          </td>
+          <td style="padding:12px 6px;text-align:center;font-weight:800;color:#dc2626;width:15%;font-size:14px;white-space:nowrap !important;">67.8%</td>
+          <td style="padding:12px 6px;text-align:center;width:17%;white-space:nowrap !important;">
+            <div style="font-weight:800;color:#374151;font-size:14px;">4</div>
+            <div style="font-size:11px;color:#6b7280;font-weight:700;margin-top:2px;white-space:nowrap !important;">No Change</div>
+          </td>
+        </tr>
+        <tr style="background:#ffffff;">
+          <td style="padding:12px 6px;font-weight:600;width:35%;font-size:13px;"><a href="https://aptreports-bj4azy4t.manus.space/?building=RiverPointeApts" style="color:#1e40af;text-decoration:none;">River Pointe Apts</a></td>
+          <td style="padding:12px 6px;text-align:right;width:33%;white-space:nowrap !important;">
+            <div style="font-weight:700;color:#0f172a;font-size:13px;">$216,537</div>
+            <div style="font-size:11px;color:#64748b;margin-top:2px;">of $224,970</div>
+          </td>
+          <td style="padding:12px 6px;text-align:center;font-weight:800;color:#d97706;width:15%;font-size:14px;white-space:nowrap !important;">96.3%</td>
+          <td style="padding:12px 6px;text-align:center;width:17%;white-space:nowrap !important;">
+            <div style="font-weight:800;color:#374151;font-size:14px;">3</div>
+            <div style="font-size:11px;color:#6b7280;font-weight:700;margin-top:2px;white-space:nowrap !important;">No Change</div>
+          </td>
+        </tr>
+        <tr style="background:#ffffff;">
+          <td style="padding:12px 6px;font-weight:600;width:35%;font-size:13px;"><a href="https://aptreports-bj4azy4t.manus.space/?building=UrbanRehab" style="color:#1e40af;text-decoration:none;">Urban Rehab</a></td>
+          <td style="padding:12px 6px;text-align:right;width:33%;white-space:nowrap !important;">
+            <div style="font-weight:700;color:#0f172a;font-size:13px;">$0</div>
+            <div style="font-size:11px;color:#64748b;margin-top:2px;">of $0</div>
+          </td>
+          <td style="padding:12px 6px;text-align:center;font-weight:800;color:#dc2626;width:15%;font-size:14px;white-space:nowrap !important;">0.0%</td>
+          <td style="padding:12px 6px;text-align:center;width:17%;white-space:nowrap !important;">
+            <div style="font-weight:800;color:#374151;font-size:14px;">0</div>
+            <div style="font-size:11px;color:#6b7280;font-weight:700;margin-top:2px;white-space:nowrap !important;">No Change</div>
+          </td>
+        </tr>
+          <tr class="total-row">
+            <td style="padding:12px 8px;font-weight:800;width:35%;">Region Total</td>
+            <td style="padding:12px 8px;text-align:right;width:30%;">
+              <div style="font-weight:800;color:#0f172a;font-size:13px;">$472,122</div>
+              <div style="font-size:11px;color:#64748b;margin-top:2px;">of $576,609</div>
+            </td>
+            <td style="padding:12px 8px;text-align:center;font-weight:800;color:#dc2626;width:15%;font-size:14px;">81.9%</td>
+            <td style="padding:12px 8px;text-align:center;width:20%;">
+              <div style="font-weight:800;color:#dc2626;font-size:14px;">10</div>
+              <div style="font-size:10px;color:#6b7280;font-weight:600;margin-top:2px;">0</div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- Embedded At-Risk Properties Detail Section -->
+  
+
+  <!-- Legend & Notes -->
+  <div class="detail-section">
+    <div class="legend-box">
+      <span class="legend-item"><span style="background:#fff7ed;border:1px solid #fed7aa;padding:2px 4px;border-radius:3px;margin-right:4px;font-size:10px;">Highlight</span> At-Risk (&gt;4 vacant)</span>
+      <span class="legend-item" style="color:#15803d;">▼ Leased</span>
+      <span class="legend-item" style="color:#dc2626;">▲ Vacant</span>
+      <span class="legend-item" style="color:#15803d;">Green = ≥100%</span>
+      <span class="legend-item" style="color:#b45309;">Amber = 90–99%</span>
+    </div>
+    
+    <div class="attachment-box">
+      📎 Individual building detail reports are attached to this email as separate HTML files.
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <div class="footer">
+    Automated daily report · PropertyMax.ai · From: <a href="mailto:Brandon@ApartmentCorp.com" style="color:#6b7280;text-decoration:underline;">Brandon@ApartmentCorp.com</a> · © 2026 Apartment Corp
+  </div>
+</div>
+</body>
+</html>

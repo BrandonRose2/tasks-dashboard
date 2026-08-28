@@ -1,0 +1,272 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-08-28T21:47:29.028872Z",
+  "task": {
+    "id": "N9mWpHi1ZmP3ohHKsdhZRi",
+    "title": "Why Isn't My MacBook Pro Recognizing My External Hard Drive?",
+    "status": "waiting",
+    "type": "agent_subtask",
+    "agent_profile": "manus-1.6",
+    "credits_used": 12,
+    "created_at": "1787882813",
+    "updated_at": "1787884981",
+    "task_url": "https://manus.im/app/N9mWpHi1ZmP3ohHKsdhZRi",
+    "message_count": 0
+  },
+  "event_count": 18,
+  "events": [
+    {
+      "id": "74Sy6t32LmvIVvl6FmasD0",
+      "timestamp": "1787882813479",
+      "type": "user_message",
+      "user_message": {
+        "attachments": [
+          {
+            "content_type": "image/jpeg",
+            "filename": "IMG_2072.jpeg",
+            "type": "image",
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/YLE654NQOl0AsRpxRGAihM_1787882813198_na1fn_L2hvbWUvdWJ1bnR1L3VwbG9hZC9JTUdfMjA3Mg.jpeg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L1lMRTY1NE5RT2wwQXNScHhSR0FpaE1fMTc4Nzg4MjgxMzE5OF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNWd2JHOWhaQzlKVFVkZk1qQTNNZy5qcGVnIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIFCzl1i97okR6n-slbWz21QoZDhbyHu5CN3XBvqQq29RAiAljKXMDsnYh3D8IJRcI-Zkzer2PW57ZVQ15y8OHpys0Q__"
+          }
+        ],
+        "content": "My external hard drive has stopped being recognized by my MacBook Pro - can you find out why this may be ?",
+        "message_type": "text"
+      }
+    },
+    {
+      "id": "jZ3qZEonLI65RdduDneFqX-1",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1787882814055",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "I’ll help narrow this down safely. The photo gives a useful clue about the drive, but I’ll need to distinguish a cable/power problem, a Mac mounting issue, a filesystem problem, or a failed drive without risking your data."
+      },
+      "id": "1tA96A5sQW74qn9aTPlZp1",
+      "timestamp": "1787882820559",
+      "type": "assistant_message"
+    },
+    {
+      "assistant_message": {
+        "content": "Please tell me what happens when you connect it, especially: **(1)** does the drive’s light turn on or do you hear it spin/click, **(2)** does it appear in **Disk Utility** under *View → Show All Devices* even if the volume is greyed out, **(3)** does it appear under **Apple menu → About This Mac → More Info → System Report → USB**, and **(4)** which MacBook Pro model/year and macOS version you have. Also tell me whether you are using a USB-C adapter/hub and whether another cable or computer has been tried. **Do not erase, initialize, or reformat the drive**, especially if it contains important files."
+      },
+      "id": "1noOI4zDI7ZOtousmnr1O1",
+      "timestamp": "1787882830766",
+      "type": "assistant_message"
+    },
+    {
+      "id": "gsbpXCsyTcxnabO4DAPqZX",
+      "status_update": {
+        "agent_status": "waiting",
+        "brief": "Manus is waiting for your reply",
+        "description": "Manus will continue working after your reply",
+        "status_detail": {
+          "waiting_description": "Please tell me what happens when you connect it, especially: **(1)** does the drive’s light turn on or do you hear it spin/click, **(2)** does it appear in **Disk Utility** under *View → Show All Devices* even if the volume is greyed out, **(3)** does it appear under **Apple menu → About This Mac → More Info → System Report → USB**, and **(4)** which MacBook Pro model/year and macOS version you have. Also tell me whether you are using a USB-C adapter/hub and whether another cable or computer has been tried. **Do not erase, initialize, or reformat the drive**, especially if it contains important files.",
+          "waiting_for_event_id": "1noOI4zDI7ZOtousmnr1O1",
+          "waiting_for_event_type": "messageAskUser"
+        }
+      },
+      "timestamp": "1787882831009",
+      "type": "status_update"
+    },
+    {
+      "id": "SZT0put4F1mnUYHG38Ib0P",
+      "timestamp": "1787884674632",
+      "type": "user_message",
+      "user_message": {
+        "attachments": [
+          {
+            "content_type": "image/png",
+            "filename": "Camera_1787884641.7481918_296F9122.png",
+            "type": "image",
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/GLTt20ECseYDpOynaD7zuj_1787884674147_na1fn_L2hvbWUvdWJ1bnR1L3VwbG9hZC9DYW1lcmFfMTc4Nzg4NDY0MS43NDgxOTE4XzI5NkY5MTIy.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L0dMVHQyMEVDc2VZRHBPeW5hRDd6dWpfMTc4Nzg4NDY3NDE0N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNWd2JHOWhaQzlEWVcxbGNtRmZNVGM0TnpnNE5EWTBNUzQzTkRneE9URTRYekk1TmtZNU1USXkucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIFqPIExfn8CCQ7kNdc5dAiZ0taYR76nZfR0FRlBaFsbfAiAdWjpBouNeWOAt8u3paputlHXGy3QbA8JTkdxXFIeG4g__"
+          }
+        ],
+        "content": "1. Yes light turns on 2. I found it in disk utilities!",
+        "message_type": "text"
+      }
+    },
+    {
+      "id": "68zzZJK3LfiOpVoYKIdGVr",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1787884674809",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "**This is good news:** the Mac is detecting the USB device, its 500.11 GB physical disk, and its GUID partition map. That makes a dead USB port, adapter, cable, or completely failed drive **much less likely**. The issue is now most likely that its **APFS data volume is not mounting** or is not being displayed beneath `Container disk9`.\n\n| What your screenshot confirms | What it means |\n|---|---|\n| `YOTUO USB 3.2 Media` appears as an external physical disk | The Mac can communicate with the enclosure/storage device. |\n| Capacity reads `500.11 GB` | The device is reporting a normal-sized disk. |\n| `Container disk9` is present | The drive has an APFS container, but I cannot yet see the actual named data volume beneath it. |\n\nPlease do this **without clicking Erase or Partition**:\n\n1. In Disk Utility, choose **View → Show All Devices** (it appears you already have this enabled).\n2. Click the small disclosure arrow beside **`Container disk9`**. If a named volume appears underneath, select **that named volume**—not the top YOTUO physical disk—and click **Mount**.\n3. Tell me precisely what happens: does it mount and appear in Finder, does it ask for a password, or does it show an error? A screenshot of the result is ideal.\n4. If no named volume appears under `Container disk9`, click `Container disk9`, then click **Info** and send the fields shown for **Type, Capacity, Available/Used space, and Device**.\n\nApple’s documented first step for an ejected volume is to select the **volume** and use **Mount**. First Aid is the next potential step, but because repair can modify filesystem metadata, I want to see the mount result first if these files are important or not backed up. [1] [2]\n\n### References\n\n[1]: https://support.apple.com/en-kz/guide/disk-utility/dskutl1027/mac \"Apple Support — Mount a volume using Disk Utility\"\n[2]: https://support.apple.com/guide/disk-utility/repair-a-storage-device-dskutl1040/mac \"Apple Support — Repair a storage device in Disk Utility\""
+      },
+      "id": "mqCfQ0HBmB6tGPo2zhwE6O",
+      "timestamp": "1787884712977",
+      "type": "assistant_message"
+    },
+    {
+      "id": "kDyJggcAouiFLbjcgc6SP1",
+      "status_update": {
+        "agent_status": "waiting",
+        "brief": "Manus is waiting for your reply",
+        "description": "Manus will continue working after your reply",
+        "status_detail": {
+          "waiting_description": "**This is good news:** the Mac is detecting the USB device, its 500.11 GB physical disk, and its GUID partition map. That makes a dead USB port, adapter, cable, or completely failed drive **much less likely**. The issue is now most likely that its **APFS data volume is not mounting** or is not being displayed beneath `Container disk9`.\n\n| What your screenshot confirms | What it means |\n|---|---|\n| `YOTUO USB 3.2 Media` appears as an external physical disk | The Mac can communicate with the enclosure/storage device. |\n| Capacity reads `500.11 GB` | The device is reporting a normal-sized disk. |\n| `Container disk9` is present | The drive has an APFS container, but I cannot yet see the actual named data volume beneath it. |\n\nPlease do this **without clicking Erase or Partition**:\n\n1. In Disk Utility, choose **View → Show All Devices** (it appears you already have this enabled).\n2. Click the small disclosure arrow beside **`Container disk9`**. If a named volume appears underneath, select **that named volume**—not the top YOTUO physical disk—and click **Mount**.\n3. Tell me precisely what happens: does it mount and appear in Finder, does it ask for a password, or does it show an error? A screenshot of the result is ideal.\n4. If no named volume appears under `Container disk9`, click `Container disk9`, then click **Info** and send the fields shown for **Type, Capacity, Available/Used space, and Device**.\n\nApple’s documented first step for an ejected volume is to select the **volume** and use **Mount**. First Aid is the next potential step, but because repair can modify filesystem metadata, I want to see the mount result first if these files are important or not backed up. [1] [2]\n\n### References\n\n[1]: https://support.apple.com/en-kz/guide/disk-utility/dskutl1027/mac \"Apple Support — Mount a volume using Disk Utility\"\n[2]: https://support.apple.com/guide/disk-utility/repair-a-storage-device-dskutl1040/mac \"Apple Support — Repair a storage device in Disk Utility\"",
+          "waiting_for_event_id": "mqCfQ0HBmB6tGPo2zhwE6O",
+          "waiting_for_event_type": "messageAskUser"
+        }
+      },
+      "timestamp": "1787884713110",
+      "type": "status_update"
+    },
+    {
+      "id": "n7upqK6E9EwLAmr26Y8kJU",
+      "timestamp": "1787884740290",
+      "type": "user_message",
+      "user_message": {
+        "attachments": [
+          {
+            "content_type": "image/png",
+            "filename": "Camera_1787884706.422291_07F0AFD4.png",
+            "type": "image",
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/PlRWhn300sqOe7SXtGYDi0_1787884739770_na1fn_L2hvbWUvdWJ1bnR1L3VwbG9hZC9DYW1lcmFfMTc4Nzg4NDcwNi40MjIyOTFfMDdGMEFGRDQ.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L1BsUldobjMwMHNxT2U3U1h0R1lEaTBfMTc4Nzg4NDczOTc3MF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNWd2JHOWhaQzlEWVcxbGNtRmZNVGM0TnpnNE5EY3dOaTQwTWpJeU9URmZNRGRHTUVGR1JEUS5wbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODk0MzA0MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDJnoL1BjO6U0rW2mgmmjuQvjWxrgfaV78oYLeCkP2HcwIgEFi5I3Pb-F20JuGEO4BR5vfr2DL-f59hebWBsYdII0c_"
+          }
+        ],
+        "content": "What are these bottom disk images ?",
+        "message_type": "text"
+      }
+    },
+    {
+      "id": "G694JctbimJQcnFEWcYAml",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1787884740420",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Those two items under **Disk Images** are **virtual disks**, not additional physical hard drives and not part of your YOTUO drive.\n\n| Disk image | What it most likely is |\n|---|---|\n| **iOS 26.5 Simulator** | A virtual disk mounted by Apple’s iOS Simulator, normally installed with Xcode or related developer tools. It contains the simulated iOS runtime. |\n| **MetalToolchainCryptex** | A protected virtual disk used by Apple’s developer/graphics tools, likely associated with Xcode’s Metal toolchain. |\n\nThey appear because a developer tool or simulator is currently open—or was not fully unmounted after use. The fact that they are listed there does **not** indicate a problem with your external drive.\n\nYou may generally eject them using the small eject icon, but first close **Xcode**, **Simulator**, and other development tools. If you eject them while those applications are running, the application may stop working temporarily; macOS can usually mount them again when needed.\n\nThe item relevant to your missing external-drive files is still **YOTUO USB 3.2 Media → Container disk9**. Do not erase or partition either the YOTUO disk or the disk images."
+      },
+      "id": "NXjLQNNCpRVLtoFEpdCaNc",
+      "timestamp": "1787884753398",
+      "type": "assistant_message"
+    },
+    {
+      "id": "1nxfC0Usi4dSTJsRONTnZZ",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1787884755761",
+      "type": "status_update"
+    },
+    {
+      "id": "aB9mIJVVH8Y47Tr5OJu8Kx",
+      "timestamp": "1787884952409",
+      "type": "user_message",
+      "user_message": {
+        "attachments": [
+          {
+            "content_type": "image/png",
+            "filename": "pasted_file_kVEPUG_image.png",
+            "type": "image",
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/qDMLsQMMVynLJ0ZmuPGMd7_1787884952214_na1fn_L2hvbWUvdWJ1bnR1L3VwbG9hZC9wYXN0ZWRfZmlsZV9rVkVQVUdfaW1hZ2U.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L3FETUxzUU1NVnluTEowWm11UEdNZDdfMTc4Nzg4NDk1MjIxNF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNWd2JHOWhaQzl3WVhOMFpXUmZabWxzWlY5clZrVlFWVWRmYVcxaFoyVS5wbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODk0MzA0MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDQjWg7EO7udmr884ciTe3265TqpqssFKoHdeut8LoLIAiADFjaijJ1aOWU08BgNiR-xojQDM7Ouzp~diFPyYThK1Q__"
+          }
+        ],
+        "content": "no",
+        "message_type": "text"
+      }
+    },
+    {
+      "id": "trdaAsD7KCR5KmQ8oNidaS",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1787884952573",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "**Important: this changes the diagnosis.** The drive itself is being detected and it still reports **434.26 GB used**, but its APFS container shows **“Volume count: 0” / “NO VOLUMES.”** That is consistent with damaged or missing APFS volume metadata—not an empty drive. **Do not run First Aid, erase, partition, reformat, or copy anything to this drive.** I’m shifting to a data-preservation-first recovery path."
+      },
+      "id": "gqRFB76ZG3B11jRSd7CNrm",
+      "timestamp": "1787884964107",
+      "type": "assistant_message"
+    },
+    {
+      "assistant_message": {
+        "content": "Correct—there are **no volumes** beneath it. Your screenshot confirms the concern: **434.26 GB is still allocated**, yet the APFS container has **zero volume records**. In other words, the files may still physically be on the disk, but macOS has lost the filesystem structure it needs to mount them.\n\nFor now, please leave the drive connected but **do not run First Aid, erase it, create a new volume, or reconnect it repeatedly**. First Aid may be appropriate for ordinary corruption, but at this point preserving the current state is safer until we know how important the missing files are.\n\nPlease answer two things:\n\n1. Are the files on this drive **irreplaceable or especially time-sensitive**?\n2. Did this begin after an abrupt unplug, power loss, Mac crash, drive drop, or a message asking you to erase/initialize it?\n\nThen open **Terminal** (`⌘ Space` → type `Terminal`) and run this exact **read-only** command, which will not alter the drive:\n\n```bash\ndiskutil apfs list\n```\n\nCopy/paste the output here or send a screenshot. That will tell us whether macOS can see any hidden or encrypted APFS volumes despite Disk Utility reporting zero volumes. The strong detection of the disk itself is encouraging, but we need to choose recovery steps carefully from here."
+      },
+      "id": "h50CdsqlPS4ZYGMS82RcOi",
+      "timestamp": "1787884981716",
+      "type": "assistant_message"
+    },
+    {
+      "id": "jujZdEvIZ5xD2lj3xwabNW",
+      "status_update": {
+        "agent_status": "waiting",
+        "brief": "Manus is waiting for your reply",
+        "description": "Manus will continue working after your reply",
+        "status_detail": {
+          "waiting_description": "Correct—there are **no volumes** beneath it. Your screenshot confirms the concern: **434.26 GB is still allocated**, yet the APFS container has **zero volume records**. In other words, the files may still physically be on the disk, but macOS has lost the filesystem structure it needs to mount them.\n\nFor now, please leave the drive connected but **do not run First Aid, erase it, create a new volume, or reconnect it repeatedly**. First Aid may be appropriate for ordinary corruption, but at this point preserving the current state is safer until we know how important the missing files are.\n\nPlease answer two things:\n\n1. Are the files on this drive **irreplaceable or especially time-sensitive**?\n2. Did this begin after an abrupt unplug, power loss, Mac crash, drive drop, or a message asking you to erase/initialize it?\n\nThen open **Terminal** (`⌘ Space` → type `Terminal`) and run this exact **read-only** command, which will not alter the drive:\n\n```bash\ndiskutil apfs list\n```\n\nCopy/paste the output here or send a screenshot. That will tell us whether macOS can see any hidden or encrypted APFS volumes despite Disk Utility reporting zero volumes. The strong detection of the disk itself is encouraging, but we need to choose recovery steps carefully from here.",
+          "waiting_for_event_id": "h50CdsqlPS4ZYGMS82RcOi",
+          "waiting_for_event_type": "messageAskUser"
+        }
+      },
+      "timestamp": "1787884981863",
+      "type": "status_update"
+    }
+  ],
+  "attachments": [
+    {
+      "event_index": 0,
+      "type": "image",
+      "filename": "IMG_2072.jpeg",
+      "content_type": "image/jpeg",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/YLE654NQOl0AsRpxRGAihM_1787882813198_na1fn_L2hvbWUvdWJ1bnR1L3VwbG9hZC9JTUdfMjA3Mg.jpeg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L1lMRTY1NE5RT2wwQXNScHhSR0FpaE1fMTc4Nzg4MjgxMzE5OF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNWd2JHOWhaQzlKVFVkZk1qQTNNZy5qcGVnIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIFCzl1i97okR6n-slbWz21QoZDhbyHu5CN3XBvqQq29RAiAljKXMDsnYh3D8IJRcI-Zkzer2PW57ZVQ15y8OHpys0Q__",
+      "status": "archived",
+      "bytes": 1220048,
+      "archive_path": "attachments/N9mWpHi1ZmP3ohHKsdhZRi/0-user_message-0_985ce54642188152_IMG_2072.jpeg"
+    },
+    {
+      "event_index": 5,
+      "type": "image",
+      "filename": "Camera_1787884641.7481918_296F9122.png",
+      "content_type": "image/png",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/GLTt20ECseYDpOynaD7zuj_1787884674147_na1fn_L2hvbWUvdWJ1bnR1L3VwbG9hZC9DYW1lcmFfMTc4Nzg4NDY0MS43NDgxOTE4XzI5NkY5MTIy.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L0dMVHQyMEVDc2VZRHBPeW5hRDd6dWpfMTc4Nzg4NDY3NDE0N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNWd2JHOWhaQzlEWVcxbGNtRmZNVGM0TnpnNE5EWTBNUzQzTkRneE9URTRYekk1TmtZNU1USXkucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIFqPIExfn8CCQ7kNdc5dAiZ0taYR76nZfR0FRlBaFsbfAiAdWjpBouNeWOAt8u3paputlHXGy3QbA8JTkdxXFIeG4g__",
+      "status": "archived",
+      "bytes": 21374635,
+      "archive_path": "attachments/N9mWpHi1ZmP3ohHKsdhZRi/5-user_message-0_a61764bd7f975125_Camera_1787884641.7481918_296F9122.png"
+    },
+    {
+      "event_index": 9,
+      "type": "image",
+      "filename": "Camera_1787884706.422291_07F0AFD4.png",
+      "content_type": "image/png",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/PlRWhn300sqOe7SXtGYDi0_1787884739770_na1fn_L2hvbWUvdWJ1bnR1L3VwbG9hZC9DYW1lcmFfMTc4Nzg4NDcwNi40MjIyOTFfMDdGMEFGRDQ.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L1BsUldobjMwMHNxT2U3U1h0R1lEaTBfMTc4Nzg4NDczOTc3MF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNWd2JHOWhaQzlEWVcxbGNtRmZNVGM0TnpnNE5EY3dOaTQwTWpJeU9URmZNRGRHTUVGR1JEUS5wbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODk0MzA0MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDJnoL1BjO6U0rW2mgmmjuQvjWxrgfaV78oYLeCkP2HcwIgEFi5I3Pb-F20JuGEO4BR5vfr2DL-f59hebWBsYdII0c_",
+      "status": "archived",
+      "bytes": 29959052,
+      "archive_path": "attachments/N9mWpHi1ZmP3ohHKsdhZRi/9-user_message-0_a61dd3abf684b3d1_Camera_1787884706.422291_07F0AFD4.png"
+    },
+    {
+      "event_index": 13,
+      "type": "image",
+      "filename": "pasted_file_kVEPUG_image.png",
+      "content_type": "image/png",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/RsJWRZJEhfgfpDLXhmVZFp/sandbox/qDMLsQMMVynLJ0ZmuPGMd7_1787884952214_na1fn_L2hvbWUvdWJ1bnR1L3VwbG9hZC9wYXN0ZWRfZmlsZV9rVkVQVUdfaW1hZ2U.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUnNKV1JaSkVoZmdmcERMWGhtVlpGcC9zYW5kYm94L3FETUxzUU1NVnluTEowWm11UEdNZDdfMTc4Nzg4NDk1MjIxNF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNWd2JHOWhaQzl3WVhOMFpXUmZabWxzWlY5clZrVlFWVWRmYVcxaFoyVS5wbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODk0MzA0MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDQjWg7EO7udmr884ciTe3265TqpqssFKoHdeut8LoLIAiADFjaijJ1aOWU08BgNiR-xojQDM7Ouzp~diFPyYThK1Q__",
+      "status": "archived",
+      "bytes": 137827,
+      "archive_path": "attachments/N9mWpHi1ZmP3ohHKsdhZRi/13-user_message-0_fedcb7b7d31f3ecf_pasted_file_kVEPUG_image.png"
+    }
+  ]
+}

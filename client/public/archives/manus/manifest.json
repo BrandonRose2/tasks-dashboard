@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "source": "Manus API v2 task.listMessages",
-  "archive_status": "completed_with_failures",
-  "total_indexed_tasks": 902,
-  "complete_task_count": 909,
-  "partial_artifact_task_count": 5,
-  "failed_task_count": 8,
+  "archive_status": "complete",
+  "total_indexed_tasks": 888,
+  "complete_task_count": 918,
+  "partial_artifact_task_count": 7,
+  "failed_task_count": 0,
   "tasks": {
     "4s0Qu11aj1LJLZ0wbcfhjp": {
       "task_updated_at": "1785867041",
@@ -138,10 +138,14 @@
       "status": "complete"
     },
     "872IgKOR9sHygIUYCY0oJO": {
-      "task_updated_at": "1787032283",
-      "archived_at": "2026-08-21T12:54:52.950107Z",
-      "status": "failed",
-      "error": "Manus API HTTP 500 for /task.listMessages: {\"error\":{\"code\":\"internal\",\"message\":\"node server request failed\"},\"ok\":false,\"request_id\":\"d26c4c23d1a1431fd3117c126c0f1894\"}"
+      "task_updated_at": "1786240512",
+      "archived_at": "2026-08-28T21:48:25.248855Z",
+      "messages_path": "tasks/872IgKOR9sHygIUYCY0oJO.json",
+      "event_count": 351,
+      "attachment_count": 61,
+      "archived_attachment_count": 52,
+      "referenced_only_attachment_count": 0,
+      "status": "complete"
     },
     "XeGbefjCZUbapQmKEWVe8n": {
       "task_updated_at": "1785951647",
@@ -214,8 +218,8 @@
       "status": "complete"
     },
     "4N5vR2lTk29lLfLTJrr0IV": {
-      "task_updated_at": "1787008833",
-      "archived_at": "2026-08-21T12:55:02.704217Z",
+      "task_updated_at": "1786749983",
+      "archived_at": "2026-08-28T21:48:27.990663Z",
       "messages_path": "tasks/4N5vR2lTk29lLfLTJrr0IV.json",
       "event_count": 103,
       "attachment_count": 6,
@@ -1444,16 +1448,24 @@
       "status": "complete"
     },
     "ddSLZDcAvjOsPTDjn5zXz3": {
-      "task_updated_at": "1786814172",
-      "archived_at": "2026-08-21T12:55:12.594801Z",
-      "status": "failed",
-      "error": "Manus API HTTP 500 for /task.listMessages: {\"error\":{\"code\":\"internal\",\"message\":\"node server request failed\"},\"ok\":false,\"request_id\":\"13348f9c30ba194fa2d8947389f03381\"}"
+      "task_updated_at": "1787951404",
+      "archived_at": "2026-08-28T21:48:35.146121Z",
+      "messages_path": "tasks/ddSLZDcAvjOsPTDjn5zXz3.json",
+      "event_count": 561,
+      "attachment_count": 14,
+      "archived_attachment_count": 14,
+      "referenced_only_attachment_count": 0,
+      "status": "complete"
     },
     "JBpFhJDwONTjE2A2XRTOkh": {
       "task_updated_at": "1786814325",
-      "archived_at": "2026-08-21T12:55:22.766081Z",
-      "status": "failed",
-      "error": "Manus API HTTP 500 for /task.listMessages: {\"error\":{\"code\":\"internal\",\"message\":\"node server request failed\"},\"ok\":false,\"request_id\":\"11e669987fefdae690e9a714952cfded\"}"
+      "archived_at": "2026-08-28T21:49:14.916171Z",
+      "messages_path": "tasks/JBpFhJDwONTjE2A2XRTOkh.json",
+      "event_count": 2658,
+      "attachment_count": 137,
+      "archived_attachment_count": 134,
+      "referenced_only_attachment_count": 3,
+      "status": "partial_artifacts"
     },
     "4YFtViPEMbtTR1qqs3ekFm": {
       "task_updated_at": "1782463175",
@@ -1576,10 +1588,10 @@
       "status": "complete"
     },
     "gkPG1zk4auEHTrVhxz68oR": {
-      "task_updated_at": "1786305206",
-      "archived_at": "2026-08-11T15:09:05.844910Z",
+      "task_updated_at": "1787778013",
+      "archived_at": "2026-08-28T21:49:28.965048Z",
       "messages_path": "tasks/gkPG1zk4auEHTrVhxz68oR.json",
-      "event_count": 860,
+      "event_count": 874,
       "attachment_count": 30,
       "archived_attachment_count": 30,
       "referenced_only_attachment_count": 0,
@@ -1596,10 +1608,14 @@
       "status": "complete"
     },
     "GQrpeXJdhfHENkD8724noD": {
-      "task_updated_at": "1787008824",
-      "archived_at": "2026-08-21T12:55:52.306483Z",
-      "status": "failed",
-      "error": "Manus API HTTP 500 for /task.listMessages: {\"error\":{\"code\":\"internal\",\"message\":\"node server request failed\"},\"ok\":false,\"request_id\":\"6fe3c5713ef57ccea30659c82316898d\"}"
+      "task_updated_at": "1785603041",
+      "archived_at": "2026-08-28T21:50:57.411403Z",
+      "messages_path": "tasks/GQrpeXJdhfHENkD8724noD.json",
+      "event_count": 1927,
+      "attachment_count": 433,
+      "archived_attachment_count": 433,
+      "referenced_only_attachment_count": 0,
+      "status": "complete"
     },
     "zuijQZBhAEMQ1FIObvreTw": {
       "task_updated_at": "1781567551",
@@ -1652,8 +1668,8 @@
       "status": "complete"
     },
     "i8PgRj3gT83eMRLdMkaWph": {
-      "task_updated_at": "1782854439",
-      "archived_at": "2026-08-11T15:12:43.962097Z",
+      "task_updated_at": "1787777018",
+      "archived_at": "2026-08-28T21:51:04.389792Z",
       "messages_path": "tasks/i8PgRj3gT83eMRLdMkaWph.json",
       "event_count": 800,
       "attachment_count": 13,
@@ -2503,9 +2519,13 @@
     },
     "UW6lJneIR7RQDCw1UaHoTf": {
       "task_updated_at": "1786814254",
-      "archived_at": "2026-08-21T12:55:57.819919Z",
-      "status": "failed",
-      "error": "Manus API HTTP 500 for /task.listMessages: {\"error\":{\"code\":\"internal\",\"message\":\"node server request failed\"},\"ok\":false,\"request_id\":\"fd430b2b6b1efce38cff14847716c30d\"}"
+      "archived_at": "2026-08-28T21:51:17.518621Z",
+      "messages_path": "tasks/UW6lJneIR7RQDCw1UaHoTf.json",
+      "event_count": 1165,
+      "attachment_count": 39,
+      "archived_attachment_count": 39,
+      "referenced_only_attachment_count": 0,
+      "status": "complete"
     },
     "04nAdyG8QA5T9xvL2e5NEY": {
       "task_updated_at": "1779945072",
@@ -2958,10 +2978,14 @@
       "status": "complete"
     },
     "RsJWRZJEhfgfpDLXhmVZFp": {
-      "task_updated_at": "1787207892",
-      "archived_at": "2026-08-21T12:56:19.428039Z",
-      "status": "failed",
-      "error": "Manus API HTTP 500 for /task.listMessages: {\"error\":{\"code\":\"internal\",\"message\":\"node server request failed\"},\"ok\":false,\"request_id\":\"6000b5cac34fd39e6c64ab1de9987f1b\"}"
+      "task_updated_at": "1787953632",
+      "archived_at": "2026-08-28T21:51:48.187552Z",
+      "messages_path": "tasks/RsJWRZJEhfgfpDLXhmVZFp.json",
+      "event_count": 1278,
+      "attachment_count": 125,
+      "archived_attachment_count": 125,
+      "referenced_only_attachment_count": 0,
+      "status": "complete"
     },
     "2nltvb4eZ2Rchtq7Ae0coY": {
       "task_updated_at": "1778023216",
@@ -7015,9 +7039,13 @@
     },
     "9Ap8dG4ztrNsH94FP2Q6UC": {
       "task_updated_at": "1786814178",
-      "archived_at": "2026-08-21T12:56:33.077950Z",
-      "status": "failed",
-      "error": "Manus API HTTP 500 for /task.listMessages: {\"error\":{\"code\":\"internal\",\"message\":\"node server request failed\"},\"ok\":false,\"request_id\":\"005dd25c17fcde67a56a121564ef9623\"}"
+      "archived_at": "2026-08-28T21:52:49.909576Z",
+      "messages_path": "tasks/9Ap8dG4ztrNsH94FP2Q6UC.json",
+      "event_count": 3650,
+      "attachment_count": 176,
+      "archived_attachment_count": 176,
+      "referenced_only_attachment_count": 0,
+      "status": "complete"
     },
     "vaimYuNEIzQsF4JRz3IOIk": {
       "task_updated_at": "1778640847",
@@ -7760,12 +7788,12 @@
       "status": "complete"
     },
     "ZyMNjMqrfWqxl0S7FX0tLV": {
-      "task_updated_at": "1787004150",
-      "archived_at": "2026-08-21T12:57:22.109123Z",
+      "task_updated_at": "1786817827",
+      "archived_at": "2026-08-28T21:53:06.552766Z",
       "messages_path": "tasks/ZyMNjMqrfWqxl0S7FX0tLV.json",
-      "event_count": 1359,
-      "attachment_count": 24,
-      "archived_attachment_count": 23,
+      "event_count": 1324,
+      "attachment_count": 21,
+      "archived_attachment_count": 20,
       "referenced_only_attachment_count": 0,
       "status": "complete"
     },
@@ -7780,10 +7808,14 @@
       "status": "complete"
     },
     "NbhgKtK59qVK0L9xsaC0pF": {
-      "task_updated_at": "1787275855",
-      "archived_at": "2026-08-21T12:54:42.197696Z",
-      "status": "failed",
-      "error": "Manus API HTTP 500 for /task.listMessages: {\"error\":{\"code\":\"internal\",\"message\":\"node server request failed\"},\"ok\":false,\"request_id\":\"a35b3a2264afcdbae0237964c2f082ef\"}"
+      "task_updated_at": "1787875506",
+      "archived_at": "2026-08-28T21:48:08.857643Z",
+      "messages_path": "tasks/NbhgKtK59qVK0L9xsaC0pF.json",
+      "event_count": 696,
+      "attachment_count": 27,
+      "archived_attachment_count": 27,
+      "referenced_only_attachment_count": 0,
+      "status": "complete"
     },
     "Tp8H6JZylqrLm2KaUNUqXa": {
       "task_updated_at": "1785960991",
@@ -8566,12 +8598,12 @@
       "status": "complete"
     },
     "psocAx9v0t2aE73ePrDnZk": {
-      "task_updated_at": "1787272919",
-      "archived_at": "2026-08-21T12:52:41.827269Z",
+      "task_updated_at": "1786661011",
+      "archived_at": "2026-08-28T21:47:56.059861Z",
       "messages_path": "tasks/psocAx9v0t2aE73ePrDnZk.json",
-      "event_count": 136,
-      "attachment_count": 8,
-      "archived_attachment_count": 8,
+      "event_count": 61,
+      "attachment_count": 6,
+      "archived_attachment_count": 6,
       "referenced_only_attachment_count": 0,
       "status": "complete"
     },
@@ -9194,52 +9226,41 @@
       "archived_attachment_count": 0,
       "referenced_only_attachment_count": 0,
       "status": "complete"
+    },
+    "N9mWpHi1ZmP3ohHKsdhZRi": {
+      "task_updated_at": "1787884981",
+      "archived_at": "2026-08-28T21:47:29.028872Z",
+      "messages_path": "tasks/N9mWpHi1ZmP3ohHKsdhZRi.json",
+      "event_count": 18,
+      "attachment_count": 4,
+      "archived_attachment_count": 4,
+      "referenced_only_attachment_count": 0,
+      "status": "complete"
+    },
+    "3tjXd2AbZdS2wKlOh0ZwKx": {
+      "task_updated_at": "1787869533",
+      "archived_at": "2026-08-28T21:47:31.260702Z",
+      "messages_path": "tasks/3tjXd2AbZdS2wKlOh0ZwKx.json",
+      "event_count": 78,
+      "attachment_count": 10,
+      "archived_attachment_count": 9,
+      "referenced_only_attachment_count": 1,
+      "status": "partial_artifacts"
+    },
+    "LyAQOTkn3HQF3vk3FynFw2": {
+      "task_updated_at": "1787953572",
+      "archived_at": "2026-08-28T21:47:54.549383Z",
+      "messages_path": "tasks/LyAQOTkn3HQF3vk3FynFw2.json",
+      "event_count": 947,
+      "attachment_count": 83,
+      "archived_attachment_count": 80,
+      "referenced_only_attachment_count": 0,
+      "status": "complete"
     }
   },
-  "failures": [
-    {
-      "task_id": "NbhgKtK59qVK0L9xsaC0pF",
-      "title": "OneSite & Yardi Reporting Portal",
-      "error": "Manus API HTTP 500 for /task.listMessages: {\"error\":{\"code\":\"internal\",\"message\":\"node server request failed\"},\"ok\":false,\"request_id\":\"a35b3a2264afcdbae0237964c2f082ef\"}"
-    },
-    {
-      "task_id": "872IgKOR9sHygIUYCY0oJO",
-      "title": "B.Rose Creations Portfolio",
-      "error": "Manus API HTTP 500 for /task.listMessages: {\"error\":{\"code\":\"internal\",\"message\":\"node server request failed\"},\"ok\":false,\"request_id\":\"d26c4c23d1a1431fd3117c126c0f1894\"}"
-    },
-    {
-      "task_id": "ddSLZDcAvjOsPTDjn5zXz3",
-      "title": "MyLoneWorkers : Monthly Inspections",
-      "error": "Manus API HTTP 500 for /task.listMessages: {\"error\":{\"code\":\"internal\",\"message\":\"node server request failed\"},\"ok\":false,\"request_id\":\"13348f9c30ba194fa2d8947389f03381\"}"
-    },
-    {
-      "task_id": "JBpFhJDwONTjE2A2XRTOkh",
-      "title": "Investor Summary Portal",
-      "error": "Manus API HTTP 500 for /task.listMessages: {\"error\":{\"code\":\"internal\",\"message\":\"node server request failed\"},\"ok\":false,\"request_id\":\"11e669987fefdae690e9a714952cfded\"}"
-    },
-    {
-      "task_id": "GQrpeXJdhfHENkD8724noD",
-      "title": "Cost Segregation Study Evaluation for Property Depreciation",
-      "error": "Manus API HTTP 500 for /task.listMessages: {\"error\":{\"code\":\"internal\",\"message\":\"node server request failed\"},\"ok\":false,\"request_id\":\"6fe3c5713ef57ccea30659c82316898d\"}"
-    },
-    {
-      "task_id": "UW6lJneIR7RQDCw1UaHoTf",
-      "title": "Daily Regional Manager Report Draft",
-      "error": "Manus API HTTP 500 for /task.listMessages: {\"error\":{\"code\":\"internal\",\"message\":\"node server request failed\"},\"ok\":false,\"request_id\":\"fd430b2b6b1efce38cff14847716c30d\"}"
-    },
-    {
-      "task_id": "RsJWRZJEhfgfpDLXhmVZFp",
-      "title": "IM Binding Initialization",
-      "error": "Manus API HTTP 500 for /task.listMessages: {\"error\":{\"code\":\"internal\",\"message\":\"node server request failed\"},\"ok\":false,\"request_id\":\"6000b5cac34fd39e6c64ab1de9987f1b\"}"
-    },
-    {
-      "task_id": "9Ap8dG4ztrNsH94FP2Q6UC",
-      "title": "4 Comparables/Building : Dashboard Widget",
-      "error": "Manus API HTTP 500 for /task.listMessages: {\"error\":{\"code\":\"internal\",\"message\":\"node server request failed\"},\"ok\":false,\"request_id\":\"005dd25c17fcde67a56a121564ef9623\"}"
-    }
-  ],
-  "last_attempt_at": "2026-08-21T12:50:56.608650Z",
-  "task_index_last_synced": "2026-08-21T12:50:56.511798+00:00",
-  "last_synced": "2026-08-21T12:57:22.247802Z",
+  "failures": [],
+  "last_attempt_at": "2026-08-28T21:47:27.386706Z",
+  "task_index_last_synced": "2026-08-28T21:47:27.277789+00:00",
+  "last_synced": "2026-08-28T21:53:06.690825Z",
   "last_mode": "updated"
 }

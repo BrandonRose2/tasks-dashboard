@@ -1,0 +1,81 @@
+Last login: Thu Aug 27 10:23:29 on ttys000
+brandonrose@B-Rose ~ % ^[[200~cd ~/actions-runner/_work/realpage-portal-runner/realpage-portal-runner
+zsh: bad pattern: ^[[200~cd
+brandonrose@B-Rose ~ % git pull --ff-only
+Already up to date.
+brandonrose@B-Rose ~ % source ~/.config/onesite-runner.env
+brandonrose@B-Rose ~ % export PORTAL_BASE_URL='https://onesiterepor-tsrr864t.manus.space'
+brandonrose@B-Rose ~ % npm run sync:live-edge-report-catalog
+^[[201~npm error Missing script: "sync:live-edge-report-catalog"
+npm error
+npm error To see a list of scripts, run:
+npm error   npm run
+npm error A complete log of this run can be found in: /Users/brandonrose/.npm/_logs/2026-08-27T17_24_34_419Z-debug-0.log
+brandonrose@B-Rose ~ % cd ~/actions-runner/_work/realpage-portal-runner/realpage-portal-runner
+git pull --ff-only
+source ~/.config/onesite-runner.env
+export PORTAL_BASE_URL='https://onesiterepor-tsrr864t.manus.space'
+npm run sync:live-edge-report-catalog
+
+Already up to date.
+
+> sync:live-edge-report-catalog
+> tsx src/syncLiveEdgeReportCatalog.ts
+
+{
+  "discovered": 310,
+  "success": true,
+  "source": "onesite",
+  "count": 310
+}
+brandonrose@B-Rose realpage-portal-runner % cd ~/actions-runner/_work/realpage-portal-runner/realpage-portal-runner
+npm run check:live-edge-session
+
+
+> check:live-edge-session
+> tsx src/checkLiveEdgeSession.ts
+
+Live Microsoft Edge Reports Hub is ready: Reports | RealPage (34 inputs detected).
+brandonrose@B-Rose realpage-portal-runner % npm run preflight:live-edge-onesite-generation -- 'Boca Ciega Townhomes' 'Delinquent and Prepaid (Excel)'
+
+
+> preflight:live-edge-onesite-generation
+> tsx src/preflightLiveEdgeOneSiteGeneration.ts Boca Ciega Townhomes Delinquent and Prepaid (Excel)
+
+{"prepared":{"propertyScope":"Boca Ciega Townhomes","requestedFormat":"excel"},"panel":{"present":true,"text":"Generate Report Created with Sketch. Advanced Search Created with Sketch. Advanced Property Search Licensed Product is prefiltered for this report. However, you can see other products that are licensed by the property. Close Apply Generate Report Delinquent and Prepaid (Excel) Accounts Receivable / Management DetailsColumnsSort OrderGenerate NowSchedule for LaterFormatExcelCancelFormatStandard XMLExcelSelect Property35 options selectedCancelSelect PropertyDoneSelect All135th Street ApartmentsAnaheim GardensArbor CrestBayou PointeBoca Ciega TownhomesBreckenridge VillageCoral VillageCrossroads of Lees SummitCumberland ApartmentsFairfax Sr ApartmentsAdvanced Search Send Email to External Recipient(s) upon Completion Send Notification to Internal User(s) upon CompletionSelect UsersCancelDoneSelect AllAbraham RoseAda VuAdrienne McCallArlene VinsonBeth CohenBlake WeddingtonBrandon RoseBrandy Amadorcarolina hernandezCierra PritchettSend File to Cloud Service upon CompletionSelect OptionCancelSend File to Cloud Service upon CompletionSelect Optionreport bucket | LockedParametersFiscal Period * Current AR PeriodCancelSelect OptionPrevious AR PeriodCurrent AR Period122012012013022013032013042013052013062013Subproperty * ALLCancelSelect OptionALL2836023 135th Street ApartmentsSubjournal * ALLCancelSelect OptionALLHUD REPARESIDENTSUBSIDYAccount Status * Select AllApplicantApproved applicantFormer applicantPending residentCurrent residentFormer residentReport Type * DetailsCancelSelect OptionDetailsSummaryInclude Delinquent Rent Only Include Delinquent Equal NTV Include Outstanding Deposits Include Transactions Payable in Arrears Display Prepaid as Allocated Hide all PII Data Include Delinquent Balances Greater Than * $Include Delinquent Balances Less Than * $Aging Columns * FiscalCancelSelect OptionCalendarFiscalFilter Type * ALLCancelSelect OptionALLDelinquent Subjournals OnlyNet Del and PPD Balances OnlyNet Delinquent Balances OnlyNet Prepaid Balances OnlySort by * UnitCancelSelect OptionNameUnitDisplay Historical Delinquent/Prepaid Comments for * Current onlyCancelSelect OptionAll accountsAll eviction accountsCurrent onlyCancelGenerate","propertyScope":"35 options selected","buttons":[{"text":"Details","disabled":false,"ariaDisabled":null},{"text":"Columns","disabled":true,"ariaDisabled":null},{"text":"Sort Order","disabled":true,"ariaDisabled":null},{"text":"Excel","disabled":false,"ariaDisabled":null},{"text":"35 options selected","disabled":false,"ariaDisabled":null},{"text":"Select Users","disabled":false,"ariaDisabled":null},{"text":"Select Option","disabled":false,"ariaDisabled":null},{"text":"Current AR Period","disabled":false,"ariaDisabled":null},{"text":"ALL","disabled":false,"ariaDisabled":null},{"text":"ALL","disabled":false,"ariaDisabled":null},{"text":"Details","disabled":false,"ariaDisabled":null},{"text":"Fiscal","disabled":false,"ariaDisabled":null},{"text":"ALL","disabled":false,"ariaDisabled":null},{"text":"Unit","disabled":false,"ariaDisabled":null},{"text":"Current only","disabled":false,"ariaDisabled":null},{"text":"Cancel","disabled":false,"ariaDisabled":null},{"text":"Generate","disabled":false,"ariaDisabled":null}]}}
+brandonrose@B-Rose realpage-portal-runner % cd ~/actions-runner/_work/realpage-portal-runner/realpage-portal-runner
+git pull --ff-only
+npm run preflight:live-edge-onesite-generation -- 'Boca Ciega Townhomes' 'Delinquent and Prepaid (Excel)'
+
+remote: Enumerating objects: 12, done.
+remote: Counting objects: 100% (12/12), done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 8 (delta 6), reused 8 (delta 6), pack-reused 0 (from 0)
+Unpacking objects: 100% (8/8), 1.07 KiB | 218.00 KiB/s, done.
+From https://github.com/BrandonRose2/realpage-portal-runner
+   a0b8cd5..ec56107  main       -> origin/main
+Updating a0b8cd5..ec56107
+Fast-forward
+ src/liveEdgeSession.ts                    | 17 +++++++++++----
+ src/preflightLiveEdgeOneSiteGeneration.ts | 35 ++++++++++++++++++-------------
+ 2 files changed, 33 insertions(+), 19 deletions(-)
+
+> preflight:live-edge-onesite-generation
+> tsx src/preflightLiveEdgeOneSiteGeneration.ts Boca Ciega Townhomes Delinquent and Prepaid (Excel)
+
+{"prepared":{"propertyScope":"Boca Ciega Townhomes","requestedFormat":"excel"},"panel":{"present":true,"text":"Generate Report Created with Sketch. Advanced Search Created with Sketch. Advanced Property Search Licensed Product is prefiltered for this report. However, you can see other products that are licensed by the property. Close Apply Generate Report Delinquent and Prepaid (Excel) Accounts Receivable / Management DetailsColumnsSort OrderGenerate NowSchedule for LaterFormatExcelCancelFormatStandard XMLExcelSelect PropertyBoca Ciega TownhomesCancelSelect PropertyDoneSelect All135th Street ApartmentsAnaheim GardensArbor CrestBayou PointeBoca Ciega TownhomesBreckenridge VillageCoral VillageCrossroads of Lees SummitCumberland ApartmentsFairfax Sr ApartmentsAdvanced Search Send Email to External Recipient(s) upon Completion Send Notification to Internal User(s) upon CompletionSelect UsersCancelDoneSelect AllAbraham RoseAda VuAdrienne McCallArlene VinsonBeth CohenBlake WeddingtonBrandon RoseBrandy Amadorcarolina hernandezCierra PritchettSend File to Cloud Service upon CompletionSelect OptionCancelSend File to Cloud Service upon CompletionSelect Optionreport bucket | LockedParametersFiscal Period * Current AR PeriodCancelSelect OptionPrevious AR PeriodCurrent AR Period022009032009042009052009062009072009082009Subproperty * ALLCancelSelect OptionALL1482145 Boca Ciega TownhomesSubjournal * ALLCancelSelect OptionALLHUD REPARESIDENTSUBSIDYAccount Status * Select AllApplicantApproved applicantFormer applicantPending residentCurrent residentFormer residentReport Type * DetailsCancelSelect OptionDetailsSummaryInclude Delinquent Rent Only Include Delinquent Equal NTV Include Outstanding Deposits Include Transactions Payable in Arrears Display Prepaid as Allocated Hide all PII Data Include Delinquent Balances Greater Than * $Include Delinquent Balances Less Than * $Aging Columns * FiscalCancelSelect OptionCalendarFiscalFilter Type * ALLCancelSelect OptionALLDelinquent Subjournals OnlyNet Del and PPD Balances OnlyNet Delinquent Balances OnlyNet Prepaid Balances OnlySort by * UnitCancelSelect OptionNameUnitDisplay Historical Delinquent/Prepaid Comments for * Current onlyCancelSelect OptionAll accountsAll eviction accountsCurrent onlyCancelGenerate","propertyScope":"Boca Ciega Townhomes","buttons":[{"text":"Details","disabled":false,"ariaDisabled":null},{"text":"Columns","disabled":true,"ariaDisabled":null},{"text":"Sort Order","disabled":true,"ariaDisabled":null},{"text":"Excel","disabled":false,"ariaDisabled":null},{"text":"Boca Ciega Townhomes","disabled":false,"ariaDisabled":null},{"text":"Select Users","disabled":false,"ariaDisabled":null},{"text":"Select Option","disabled":false,"ariaDisabled":null},{"text":"Current AR Period","disabled":false,"ariaDisabled":null},{"text":"ALL","disabled":false,"ariaDisabled":null},{"text":"ALL","disabled":false,"ariaDisabled":null},{"text":"Details","disabled":false,"ariaDisabled":null},{"text":"Fiscal","disabled":false,"ariaDisabled":null},{"text":"ALL","disabled":false,"ariaDisabled":null},{"text":"Unit","disabled":false,"ariaDisabled":null},{"text":"Current only","disabled":false,"ariaDisabled":null},{"text":"Cancel","disabled":false,"ariaDisabled":null},{"text":"Generate","disabled":false,"ariaDisabled":null}]}}
+brandonrose@B-Rose realpage-portal-runner % cd ~/actions-runner/_work/realpage-portal-runner/realpage-portal-runner
+git pull --ff-only
+source ~/.config/onesite-runner.env
+export PORTAL_BASE_URL='https://onesiterepor-tsrr864t.manus.space'
+export LIVE_EDGE_SESSION=true
+export ONESITE_REQUEST_ID=1
+npm run process:queue
+
+Already up to date.
+
+> process:queue
+> tsx src/runQueuedRequest.ts
+
+Request 1 was submitted in live Microsoft Edge for Boca Ciega Townhomes.
+brandonrose@B-Rose realpage-portal-runner % 

@@ -1,0 +1,102 @@
+brandonrose@B-Rose realpage-portal-runner % cd ~/actions-runner/_work/realpage-portal-runner/realpage-portal-runner
+git pull --ff-only
+git log -1 --oneline
+npm run preflight:live-edge-select-all -- "All Units (Excel)" 38
+
+remote: Enumerating objects: 13, done.
+remote: Counting objects: 100% (13/13), done.
+remote: Compressing objects: 100% (5/5), done.
+remote: Total 9 (delta 7), reused 6 (delta 4), pack-reused 0 (from 0)
+Unpacking objects: 100% (9/9), 1.15 KiB | 168.00 KiB/s, done.
+From https://github.com/BrandonRose2/realpage-portal-runner
+   070c998..2ba7c1b  main       -> origin/main
+Updating 070c998..2ba7c1b
+Fast-forward
+ src/liveEdgeSession.ts  | 12 +++++++-----
+ src/runQueuedRequest.ts |  5 ++++-
+ 2 files changed, 11 insertions(+), 6 deletions(-)
+2ba7c1b (HEAD -> main, origin/main, origin/HEAD) Record native OneSite Select All scope
+
+> preflight:live-edge-select-all
+> tsx src/preflightLiveEdgeSelectAll.ts All Units (Excel) 38
+
+{
+  "source": "onesite",
+  "report": "All Units (Excel)",
+  "readOnly": true,
+  "selectAllConfirmed": true,
+  "expectedCount": 38,
+  "prepared": {
+    "propertyScope": "35 options selected",
+    "selectedPropertyCount": 35,
+    "requestedFormat": "excel"
+  },
+  "panel": {
+    "present": true,
+    "text": "Generate Report Created with Sketch. Advanced Search Created with Sketch. Advanced Property Search Licensed Product is prefiltered for this report. However, you can see other products that are licensed by the property. Close Apply Generate Report All Units (Excel) Property Information / Management DetailsColumnsSort OrderGenerate NowSchedule for LaterFormatExcelCancelFormatStandard XMLExcelSelect Property35 options selectedCancelSelect PropertyDoneSelect All135th Street ApartmentsAnaheim GardensArbor CrestBayou PointeBoca Ciega TownhomesBreckenridge VillageCoral VillageCrossroads of Lees SummitCumberland ApartmentsFairfax Sr ApartmentsAdvanced Search Send Email to External Recipient(s) upon Completion Send Notification to Internal User(s) upon CompletionSelect UsersCancelDoneSelect AllAbraham RoseAda VuAdrienne McCallArlene VinsonBeth CohenBlake WeddingtonBrandon RoseBrandy Amadorcarolina hernandezCierra PritchettSend File to Cloud Service upon CompletionSelect OptionCancelSend File to Cloud Service upon CompletionSelect Optionreport bucket | LockedParametersReport Type * Details + SummaryCancelSelect OptionDetails + SummaryDetailsSubproperty * - all subproperties-CancelSelect Option- all subproperties-Sort by * FloorplanCancelSelect OptionFloorplanUnit numberCancelGenerate",
+    "propertyScope": "35 options selected",
+    "buttons": [
+      {
+        "text": "Details",
+        "disabled": false,
+        "ariaDisabled": null
+      },
+      {
+        "text": "Columns",
+        "disabled": true,
+        "ariaDisabled": null
+      },
+      {
+        "text": "Sort Order",
+        "disabled": true,
+        "ariaDisabled": null
+      },
+      {
+        "text": "Excel",
+        "disabled": false,
+        "ariaDisabled": null
+      },
+      {
+        "text": "35 options selected",
+        "disabled": false,
+        "ariaDisabled": null
+      },
+      {
+        "text": "Select Users",
+        "disabled": false,
+        "ariaDisabled": null
+      },
+      {
+        "text": "Select Option",
+        "disabled": false,
+        "ariaDisabled": null
+      },
+      {
+        "text": "Details + Summary",
+        "disabled": false,
+        "ariaDisabled": null
+      },
+      {
+        "text": "- all subproperties-",
+        "disabled": false,
+        "ariaDisabled": null
+      },
+      {
+        "text": "Floorplan",
+        "disabled": false,
+        "ariaDisabled": null
+      },
+      {
+        "text": "Cancel",
+        "disabled": false,
+        "ariaDisabled": null
+      },
+      {
+        "text": "Generate",
+        "disabled": false,
+        "ariaDisabled": null
+      }
+    ]
+  }
+}
+brandonrose@B-Rose realpage-portal-runner % 

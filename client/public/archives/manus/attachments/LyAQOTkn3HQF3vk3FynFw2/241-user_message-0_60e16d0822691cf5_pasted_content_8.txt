@@ -1,0 +1,132 @@
+Last login: Wed Aug 26 15:58:13 on ttys004
+brandonrose@B-Rose ~ % cd ~/actions-runner/_work/realpage-portal-runner/realpage-portal-runner
+git pull --ff-only
+source ~/.config/onesite-runner.env
+export PORTAL_BASE_URL='https://onesiterepor-tsrr864t.manus.space'
+npm ci
+npm run check:live-edge-session && npm run sync:live-edge-report-catalog
+
+remote: Enumerating objects: 7, done.
+remote: Counting objects: 100% (7/7), done.
+remote: Compressing objects: 100% (1/1), done.
+remote: Total 4 (delta 3), reused 4 (delta 3), pack-reused 0 (from 0)
+Unpacking objects: 100% (4/4), 437 bytes | 145.00 KiB/s, done.
+From https://github.com/BrandonRose2/realpage-portal-runner
+   76f02f5..7335387  main       -> origin/main
+Updating 76f02f5..7335387
+Fast-forward
+ src/liveEdgeSession.ts | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+added 19 packages, and audited 20 packages in 1s
+
+1 high severity vulnerability
+
+Some issues need review, and may require choosing
+a different dependency.
+
+Run `npm audit` for details.
+npm warn allow-scripts 3 packages have install scripts not yet covered by allowScripts:
+npm warn allow-scripts   esbuild@0.28.2 (postinstall: node install.js)
+npm warn allow-scripts   fsevents@2.3.2 (install: (install scripts present))
+npm warn allow-scripts   fsevents@2.3.3 (install: (install scripts present))
+npm warn allow-scripts
+npm warn allow-scripts Run `npm install-scripts ls` to review, or `npm install-scripts approve <pkg>` to allow.
+
+> check:live-edge-session
+> tsx src/checkLiveEdgeSession.ts
+
+Command failed: osascript -e 
+on run argv
+  set encodedSource to item 1 of argv
+  set sourceCode to do shell script "printf %s " & quoted form of encodedSource & " | base64 -D"
+  tell application "Microsoft Edge"
+    if not running then error "Microsoft Edge is not running. Open your signed-in Edge session before running a OneSite request."
+    repeat with windowIndex from 1 to count of windows
+      set currentWindow to window windowIndex
+      repeat with tabIndex from 1 to count of tabs of currentWindow
+        set currentTab to tab tabIndex of currentWindow
+        if (URL of currentTab) starts with "https://www.realpage.com/reporting/" or (URL of currentTab) starts with "https://arainc.onesite.realpage.com/" then
+          set active tab of currentWindow to currentTab
+          delay 0.15
+          return execute active tab of currentWindow javascript sourceCode
+        end if
+      end repeat
+    end repeat
+    error "A RealPage Reports Hub or Classic OneSite Reporting tab is not open in Microsoft Edge. Open the signed-in OneSite Reporting page and try again."
+  end tell
+end run
+ SlNPTi5zdHJpbmdpZnkoeyB0aXRsZTogZG9jdW1lbnQudGl0bGUsIHVybDogbG9jYXRpb24uaHJlZiwgc2VhcmNoSW5wdXRzOiBkb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKCdpbnB1dCcpLmxlbmd0aCwgaGFzUmVwb3J0Q2F0YWxvZzogQm9vbGVhbihkb2N1bWVudC5xdWVyeVNlbGVjdG9yKCcjc2VhcmNoUmVwb3J0SW5wdXQsIHJhdWwtZ3JpZC1yb3cnKSkgfSk=
+709:754: execution error: Microsoft Edge got an error: Can’t set active tab of window to tab id "1124133292" of window id "1124133280". (-10006)
+
+brandonrose@B-Rose realpage-portal-runner % cd ~/actions-runner/_work/realpage-portal-runner/realpage-portal-runner
+git pull --ff-only
+source ~/.config/onesite-runner.env
+export PORTAL_BASE_URL='https://onesiterepor-tsrr864t.manus.space'
+npm run check:live-edge-session && npm run sync:live-edge-report-catalog
+
+remote: Enumerating objects: 7, done.
+remote: Counting objects: 100% (7/7), done.
+remote: Compressing objects: 100% (1/1), done.
+remote: Total 4 (delta 3), reused 4 (delta 3), pack-reused 0 (from 0)
+Unpacking objects: 100% (4/4), 411 bytes | 82.00 KiB/s, done.
+From https://github.com/BrandonRose2/realpage-portal-runner
+   7335387..68aa2b4  main       -> origin/main
+Updating 7335387..68aa2b4
+Fast-forward
+ src/liveEdgeSession.ts | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+> check:live-edge-session
+> tsx src/checkLiveEdgeSession.ts
+
+Live Microsoft Edge Reports Hub is ready: Reports | RealPage (34 inputs detected).
+
+> sync:live-edge-report-catalog
+> tsx src/syncLiveEdgeReportCatalog.ts
+
+{
+  "discovered": 341,
+  "success": true,
+  "source": "onesite",
+  "count": 341
+}
+brandonrose@B-Rose realpage-portal-runner % cd ~/actions-runner/_work/realpage-portal-runner/realpage-portal-runner
+git pull --ff-only
+source ~/.config/onesite-runner.env
+export PORTAL_BASE_URL='https://onesiterepor-tsrr864t.manus.space'
+npm run sync:live-edge-properties
+
+remote: Enumerating objects: 9, done.
+remote: Counting objects: 100% (9/9), done.
+remote: Compressing objects: 100% (1/1), done.
+remote: Total 5 (delta 4), reused 5 (delta 4), pack-reused 0 (from 0)
+Unpacking objects: 100% (5/5), 1.12 KiB | 287.00 KiB/s, done.
+From https://github.com/BrandonRose2/realpage-portal-runner
+   68aa2b4..22dc82d  main       -> origin/main
+Updating 68aa2b4..22dc82d
+Fast-forward
+ src/liveEdgeSession.ts        | 40 ++++++++++++++++++++++++++++++++++++++++
+ src/syncLiveEdgeProperties.ts | 12 +++++++++---
+ 2 files changed, 49 insertions(+), 3 deletions(-)
+
+> sync:live-edge-properties
+> tsx src/syncLiveEdgeProperties.ts
+
+{
+  "discovered": 1,
+  "success": true,
+  "source": "onesite",
+  "count": 1
+}
+brandonrose@B-Rose realpage-portal-runner % cd ~/actions-runner/_work/realpage-portal-runner/realpage-portal-runner
+git pull --ff-only
+npm run inspect:live-edge-property-model
+
+Already up to date.
+
+> inspect:live-edge-property-model
+> tsx src/inspectLiveEdgePropertySelectorModel.ts
+
+undefined
+brandonrose@B-Rose realpage-portal-runner % 

@@ -1,0 +1,131 @@
+Last login: Wed Aug 26 01:17:22 on console
+brandonrose@B-Rose ~ % curl -sv http://localhost:3000/
+* Host localhost:3000 was resolved.
+* IPv6: ::1
+* IPv4: 127.0.0.1
+*   Trying [::1]:3000...
+* connect to ::1 port 3000 from ::1 port 52630 failed: Connection refused
+*   Trying 127.0.0.1:3000...
+* connect to 127.0.0.1 port 3000 from 127.0.0.1 port 52631 failed: Connection refused
+* Failed to connect to localhost port 3000 after 0 ms: Could not connect to server
+* closing connection #0
+brandonrose@B-Rose ~ % pm2 status
+[PM2] Spawning PM2 daemon with pm2_home=/Users/brandonrose/.pm2
+[PM2] PM2 Successfully daemonized
+┌────┬───────────┬──────────┬──────┬───────────┬──────────┬──────────┐
+│ id │ name      │ mode     │ ↺    │ status    │ cpu      │ memory   │
+└────┴───────────┴──────────┴──────┴───────────┴──────────┴──────────┘
+brandonrose@B-Rose ~ % curl -sv http://localhost:3000/
+* Host localhost:3000 was resolved.
+* IPv6: ::1
+* IPv4: 127.0.0.1
+*   Trying [::1]:3000...
+* connect to ::1 port 3000 from ::1 port 53391 failed: Connection refused
+*   Trying 127.0.0.1:3000...
+* connect to 127.0.0.1 port 3000 from 127.0.0.1 port 53392 failed: Connection refused
+* Failed to connect to localhost port 3000 after 0 ms: Could not connect to server
+* closing connection #0
+brandonrose@B-Rose ~ % ls -lhtR ~/Library/Application\ Support/1132Fixer/Backups | head -30
+total 0
+drwxr-xr-x@ 4 brandonrose  staff   128B Aug 22 12:28 2026-08-22T19-28-35Z
+drwxr-xr-x@ 4 brandonrose  staff   128B Aug 19 19:12 2026-08-20T02-12-55Z
+drwxr-xr-x@ 4 brandonrose  staff   128B Aug 19 18:43 2026-08-20T01-43-34Z
+drwxr-xr-x@ 4 brandonrose  staff   128B Aug 18 18:26 2026-08-19T01-26-43Z
+drwxr-xr-x@ 4 brandonrose  staff   128B Aug 17 20:33 2026-08-18T03-33-05Z
+drwxr-xr-x@ 4 brandonrose  staff   128B Aug 16 17:00 2026-08-17T00-00-03Z
+drwxr-xr-x@ 4 brandonrose  staff   128B Aug 15 15:44 2026-08-15T22-44-14Z
+drwxr-xr-x@ 4 brandonrose  staff   128B Aug 14 19:13 2026-08-15T02-13-07Z
+drwxr-xr-x@ 4 brandonrose  staff   128B Aug 12 01:17 2026-08-12T08-17-32Z
+drwxr-xr-x@ 4 brandonrose  staff   128B Aug  9 19:29 2026-08-10T02-29-05Z
+drwxr-xr-x@ 4 brandonrose  staff   128B Aug  8 15:17 2026-08-08T22-17-03Z
+drwxr-xr-x@ 4 brandonrose  staff   128B Aug  4 19:55 2026-08-05T02-55-23Z
+drwxr-xr-x@ 4 brandonrose  staff   128B Aug  3 22:26 2026-08-04T05-26-20Z
+drwxr-xr-x@ 4 brandonrose  staff   128B Aug  2 15:09 2026-08-02T22-09-19Z
+drwxr-xr-x@ 4 brandonrose  staff   128B Jul 31 19:23 2026-08-01T02-23-28Z
+drwxr-xr-x@ 3 brandonrose  staff    96B Jul 30 20:27 2026-07-31T03-27-24Z
+drwxr-xr-x@ 4 brandonrose  staff   128B Jul 30 20:25 2026-07-31T03-25-19Z
+drwxr-xr-x@ 4 brandonrose  staff   128B Jul 30 19:04 2026-07-31T02-04-00Z
+drwxr-xr-x@ 4 brandonrose  staff   128B Jul 27 18:32 2026-07-28T01-32-40Z
+drwxr-xr-x@ 4 brandonrose  staff   128B Jul 25 00:42 2026-07-25T07-42-56Z
+drwxr-xr-x@ 4 brandonrose  staff   128B Jul 19 19:20 2026-07-20T02-20-49Z
+drwxr-xr-x@ 4 brandonrose  staff   128B Jul 19 11:28 2026-07-19T18-28-30Z
+drwxr-xr-x@ 4 brandonrose  staff   128B Jul 18 17:35 2026-07-19T00-35-25Z
+drwxr-xr-x@ 5 brandonrose  staff   160B Jul 17 02:16 2026-07-17T09-16-40Z
+drwxr-xr-x@ 4 brandonrose  staff   128B Jul 16 18:11 2026-07-17T01-11-30Z
+drwxr-xr-x@ 4 brandonrose  staff   128B Jul 14 01:52 2026-07-14T08-52-28Z
+drwxr-xr-x@ 4 brandonrose  staff   128B Jul 12 15:44 2026-07-12T22-44-51Z
+drwxr-xr-x@ 4 brandonrose  staff   128B Jul 11 21:49 2026-07-12T04-49-07Z
+drwxr-xr-x@ 4 brandonrose  staff   128B Jul 11 15:09 2026-07-11T22-09-34Z
+brandonrose@B-Rose ~ % rm -rf ~/Library/Application\ Support/1132Fixer/Backups/*
+zsh: sure you want to delete all 47 files in /Users/brandonrose/Library/Application Support/1132Fixer/Backups [yn]? y
+
+brandonrose@B-Rose ~ % 
+brandonrose@B-Rose ~ % rm -rf ~/Library/Application\ Support/Claude/vm_bundles/*
+zsh: sure you want to delete all 2 files in /Users/brandonrose/Library/Application Support/Claude/vm_bundles [yn]? y
+brandonrose@B-Rose ~ % 
+brandonrose@B-Rose ~ % du -sh ~/Downloads/* | sort -rh | head -20
+7.2G	/Users/brandonrose/Downloads/Menowitz, Marc (1)
+687M	/Users/brandonrose/Downloads/realpage-delinquency-portal 3
+683M	/Users/brandonrose/Downloads/Dia-1.45.2-85817.dmg
+630M	/Users/brandonrose/Downloads/RobertTasks.zip
+630M	/Users/brandonrose/Downloads/Manus Data Recovery - Bsixty8 - task - 2026-08-11_20-33-15 2
+630M	/Users/brandonrose/Downloads/Manus Data Recovery - Bsixty8 - task - 2026-08-11_20-33-15
+426M	/Users/brandonrose/Downloads/Arc-1.161.1-85803.dmg
+423M	/Users/brandonrose/Downloads/K-1's.zip
+410M	/Users/brandonrose/Downloads/K-1's
+341M	/Users/brandonrose/Downloads/Psycho-CyberneticsUpdatedandExpanded_ep6.aax
+273M	/Users/brandonrose/Downloads/NewYouNewLifeReprogramYourMindandBodytoCreatetheFutureYouWant_ep7.aax
+269M	/Users/brandonrose/Downloads/realpage-delinquency-portal
+265M	/Users/brandonrose/Downloads/IMG_1542.MOV
+250M	/Users/brandonrose/Downloads/IMG_1770.MOV
+249M	/Users/brandonrose/Downloads/2020-2021-Tax Returns 2
+238M	/Users/brandonrose/Downloads/notion_headers_all.zip
+211M	/Users/brandonrose/Downloads/HanonExercises.pdf
+202M	/Users/brandonrose/Downloads/HanonExercises.pdf.zip
+202M	/Users/brandonrose/Downloads/490035834-hanon-pdf.pdf.zip
+201M	/Users/brandonrose/Downloads/IMG_1768.MOV
+brandonrose@B-Rose ~ % rm -f ~/Downloads/*.dmg ~/Downloads/*.pkg
+zsh: no matches found: /Users/brandonrose/Downloads/*.pkg
+brandonrose@B-Rose ~ % rm -f ~/Downloads/*.dmg ~/Downloads/*.pkg
+zsh: no matches found: /Users/brandonrose/Downloads/*.pkg
+brandonrose@B-Rose ~ % du -sh ~/Downloads/* | sort -rh | head -20
+7.2G	/Users/brandonrose/Downloads/Menowitz, Marc (1)
+687M	/Users/brandonrose/Downloads/realpage-delinquency-portal 3
+683M	/Users/brandonrose/Downloads/Dia-1.45.2-85817.dmg
+630M	/Users/brandonrose/Downloads/RobertTasks.zip
+630M	/Users/brandonrose/Downloads/Manus Data Recovery - Bsixty8 - task - 2026-08-11_20-33-15 2
+630M	/Users/brandonrose/Downloads/Manus Data Recovery - Bsixty8 - task - 2026-08-11_20-33-15
+426M	/Users/brandonrose/Downloads/Arc-1.161.1-85803.dmg
+423M	/Users/brandonrose/Downloads/K-1's.zip
+410M	/Users/brandonrose/Downloads/K-1's
+341M	/Users/brandonrose/Downloads/Psycho-CyberneticsUpdatedandExpanded_ep6.aax
+273M	/Users/brandonrose/Downloads/NewYouNewLifeReprogramYourMindandBodytoCreatetheFutureYouWant_ep7.aax
+269M	/Users/brandonrose/Downloads/realpage-delinquency-portal
+265M	/Users/brandonrose/Downloads/IMG_1542.MOV
+250M	/Users/brandonrose/Downloads/IMG_1770.MOV
+249M	/Users/brandonrose/Downloads/2020-2021-Tax Returns 2
+238M	/Users/brandonrose/Downloads/notion_headers_all.zip
+211M	/Users/brandonrose/Downloads/HanonExercises.pdf
+202M	/Users/brandonrose/Downloads/HanonExercises.pdf.zip
+202M	/Users/brandonrose/Downloads/490035834-hanon-pdf.pdf.zip
+201M	/Users/brandonrose/Downloads/IMG_1768.MOV
+brandonrose@B-Rose ~ % rm -f ~/Downloads/*.dmg ~/Downloads/*.pkg
+zsh: no matches found: /Users/brandonrose/Downloads/*.pkg
+brandonrose@B-Rose ~ % find ~ -maxdepth 4 -name node_modules -type d -prune -exec rm -rf {} +
+rm -rf ~/Library/Messages/Attachments/*
+brandonrose@B-Rose ~ % rm -rf ~/Library/Messages/Attachments/*
+zsh: sure you want to delete more than 100 files in /Users/brandonrose/Library/Messages/Attachments [yn]? y
+
+brandonrose@B-Rose ~ % 
+brandonrose@B-Rose ~ % df -h /System/Volumes/Data
+Filesystem      Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s5   460Gi   374Gi    63Gi    86%    2.3M  657M    0%   /System/Volumes/Data
+brandonrose@B-Rose ~ % cd ~/actions-runner && ./run.sh
+
+
+√ Connected to GitHub
+
+Current runner version: '2.336.0'
+2026-08-26 22:12:09Z: Listening for Jobs
+2026-08-26 22:12:12Z: Running job: sync-live-edge-source
+

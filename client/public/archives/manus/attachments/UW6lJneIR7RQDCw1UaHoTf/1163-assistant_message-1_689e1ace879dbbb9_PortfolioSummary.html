@@ -1,0 +1,1290 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>Daily Portfolio Summary — August 15, 2026</title>
+  <style>
+  body {
+    margin: 0;
+    padding: 0;
+    background-color: #f3f4f6;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: #1f2937;
+    -webkit-text-size-adjust: 100%;
+  }
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05), 0 2px 4px -1px rgba(0,0,0,0.03);
+    border-radius: 8px;
+    overflow: hidden;
+    box-sizing: border-box;
+  }
+  .header-table {
+    width: 100%;
+    border-collapse: collapse;
+    background: linear-gradient(135deg, #1e3a8a 0%, #0f172a 100%);
+    color: #ffffff;
+  }
+  .header-cell {
+    padding: 24px;
+  }
+  .brand-sub {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: #93c5fd;
+    font-weight: 700;
+    margin-bottom: 6px;
+  }
+  .title {
+    font-size: 24px;
+    font-weight: 800;
+    color: #ffffff;
+    margin: 0 0 8px 0;
+    letter-spacing: -0.5px;
+  }
+  .meta {
+    font-size: 12px;
+    color: #cbd5e1;
+  }
+  .logo-img {
+    height: 48px;
+    width: auto;
+    display: block;
+  }
+  
+  /* Alert Banners */
+  .banner-alert {
+    padding: 14px 20px;
+    font-size: 13px;
+    line-height: 1.5;
+    border-bottom: 1px solid #e5e7eb;
+  }
+  .banner-alert.success {
+    background-color: #f0fdf4;
+    color: #166534;
+    border-bottom: 1px solid #bbf7d0;
+    font-weight: 600;
+  }
+  .banner-alert.warning {
+    background-color: #fffbeb;
+    color: #92400e;
+    border-bottom: 1px solid #fde68a;
+  }
+  .alert-title {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 700;
+    color: #b45309;
+    margin-bottom: 6px;
+  }
+  .alert-list {
+    margin: 0;
+    padding: 0 0 0 16px;
+  }
+  .alert-list li {
+    margin-bottom: 4px;
+    font-weight: 500;
+  }
+
+  /* KPI Layout (Fluid Table) */
+  .kpi-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 16px 0;
+  }
+  .kpi-container-cell {
+    padding: 0 16px;
+  }
+  .kpi-cell {
+    padding: 4px;
+  }
+  .kpi-card {
+    border-radius: 8px;
+    padding: 14px;
+    text-align: left;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.02);
+  }
+  
+  /* Solid Color Fills for KPI Cards */
+  .kpi-card.blue { 
+    background-color: #eff6ff !important; 
+    border: 1px solid #bfdbfe !important; 
+    border-left: 4px solid #2563eb !important; 
+  }
+  .kpi-card.blue .kpi-label { color: #1e40af !important; }
+  .kpi-card.blue .kpi-value { color: #1e3a8a !important; }
+  
+  .kpi-card.green { 
+    background-color: #f0fdf4 !important; 
+    border: 1px solid #bbf7d0 !important; 
+    border-left: 4px solid #16a34a !important; 
+  }
+  .kpi-card.green .kpi-label { color: #166534 !important; }
+  .kpi-card.green .kpi-value { color: #14532d !important; }
+  
+  .kpi-card.orange { 
+    background-color: #fff7ed !important; 
+    border: 1px solid #fed7aa !important; 
+    border-left: 4px solid #ea580c !important; 
+  }
+  .kpi-card.orange .kpi-label { color: #9a3412 !important; }
+  .kpi-card.orange .kpi-value { color: #7c2d12 !important; }
+  
+  .kpi-label {
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 700;
+    margin-bottom: 4px;
+  }
+  .kpi-value {
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 1.2;
+  }
+  .kpi-subtext {
+    font-size: 11px;
+    margin-top: 4px;
+    font-weight: 600;
+  }
+
+  /* Table Styles */
+  .table-container {
+    padding: 0 16px;
+    margin-bottom: 20px;
+  }
+  .table-title {
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 800;
+    color: #4b5563;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #e5e7eb;
+    padding-bottom: 4px;
+  }
+  .responsive-table-wrapper {
+    width: 100%;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+    font-size: 12px;
+    table-layout: fixed;
+  }
+  th {
+    background-color: #f8fafc;
+    color: #475569;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 9px;
+    letter-spacing: 0.5px;
+    padding: 10px 6px;
+    border-bottom: 1px solid #e2e8f0;
+  }
+  td {
+    padding: 10px 6px;
+    border-bottom: 1px solid #f1f5f9;
+    color: #334155;
+    word-wrap: break-word;
+  }
+  tr.total-row {
+    background-color: #f8fafc !important;
+    font-weight: bold;
+    border-top: 2px solid #e2e8f0;
+  }
+  tr.total-row td {
+    color: #0f172a;
+  }
+  
+  /* Badges */
+  .at-risk-badge {
+    background-color: #fee2e2;
+    color: #991b1b;
+    font-size: 8px;
+    font-weight: 800;
+    padding: 2px 4px;
+    border-radius: 3px;
+    margin-left: 4px;
+    display: inline-block;
+    vertical-align: middle;
+    border: 1px solid #fecaca;
+  }
+  
+  /* Detail Sections */
+  .detail-section {
+    padding: 0 16px;
+    margin-bottom: 20px;
+  }
+  .detail-card {
+    background: #ffffff;
+    border: 1px solid #e5e7eb;
+    border-radius: 8px;
+    margin-bottom: 12px;
+    overflow: hidden;
+  }
+  .detail-card.at-risk {
+    border-left: 4px solid #ea580c;
+  }
+  .detail-card-header {
+    padding: 10px 14px;
+    background-color: #f9fafb;
+    border-bottom: 1px solid #e5e7eb;
+  }
+  .detail-card-header.at-risk {
+    background-color: #fff7ed;
+    border-bottom: 1px solid #ffedd5;
+  }
+  .detail-card-title {
+    font-weight: 700;
+    font-size: 13px;
+  }
+  .detail-card-badge {
+    float: right;
+    font-size: 9px;
+    font-weight: 700;
+    padding: 2px 6px;
+    border-radius: 9999px;
+  }
+  .detail-card-badge.danger {
+    background-color: #fee2e2;
+    color: #991b1b;
+  }
+  
+  /* Legend & Footer */
+  .legend-box {
+    background-color: #f8fafc;
+    border: 1px solid #e2e8f0;
+    border-radius: 6px;
+    padding: 10px 12px;
+    font-size: 11px;
+    color: #475569;
+    line-height: 1.6;
+    margin-bottom: 12px;
+  }
+  .legend-item {
+    display: inline-block;
+    margin-right: 14px;
+    font-weight: 500;
+  }
+  .attachment-box {
+    background-color: #eff6ff;
+    border: 1px solid #bfdbfe;
+    border-radius: 6px;
+    padding: 10px 12px;
+    font-size: 11px;
+    color: #1e40af;
+    font-weight: 600;
+  }
+  .footer {
+    padding: 20px 16px;
+    text-align: center;
+    font-size: 10px;
+    color: #6b7280;
+    background-color: #f9fafb;
+    border-top: 1px solid #e5e7eb;
+    line-height: 1.5;
+  }
+  .footer a {
+    color: #4b5563;
+    text-decoration: none;
+  }
+
+  /* Responsive Mobile Overrides */
+  @media only screen and (max-width: 600px) {
+    .container {
+      border-radius: 0 !important;
+      box-shadow: none !important;
+    }
+    .header-cell {
+      padding: 16px !important;
+    }
+    .title {
+      font-size: 20px !important;
+    }
+    .header-logo-cell {
+      width: 80px !important;
+    }
+    .logo-img {
+      height: 36px !important;
+    }
+    
+    /* Stack KPI Cards Vertically */
+    td.kpi-cell {
+      display: block !important;
+      width: 100% !important;
+      box-sizing: border-box !important;
+      padding: 6px 0 !important;
+    }
+    .kpi-card {
+      padding: 12px !important;
+    }
+    .kpi-value {
+      font-size: 22px !important;
+    }
+    
+    /* Transform Tables into Cards */
+    table.responsive-table, 
+    table.responsive-table thead, 
+    table.responsive-table tbody, 
+    table.responsive-table th, 
+    table.responsive-table td, 
+    table.responsive-table tr { 
+      display: block !important; 
+      width: 100% !important;
+      box-sizing: border-box !important;
+    }
+    
+    table.responsive-table thead tr { 
+      position: absolute !important;
+      top: -9999px !important;
+      left: -9999px !important;
+    }
+    
+    table.responsive-table tr {
+      border: 1px solid #e2e8f0 !important;
+      border-radius: 8px !important;
+      margin-bottom: 12px !important;
+      background-color: #ffffff !important;
+      padding: 8px !important;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.02) !important;
+    }
+    
+    table.responsive-table tr.total-row {
+      background-color: #f8fafc !important;
+      border: 2px solid #cbd5e1 !important;
+    }
+    
+    table.responsive-table td { 
+      border: none !important;
+      border-bottom: 1px solid #f1f5f9 !important; 
+      position: relative !important;
+      padding: 8px 6px 8px 45% !important; 
+      text-align: right !important;
+      font-size: 12px !important;
+      min-height: 36px !important;
+    }
+    
+    table.responsive-table td:last-child {
+      border-bottom: none !important;
+    }
+    
+    table.responsive-table td::before { 
+      content: attr(data-label) !important;
+      position: absolute !important;
+      top: 8px !important;
+      left: 6px !important;
+      width: 40% !important; 
+      padding-right: 10px !important; 
+      white-space: nowrap !important;
+      text-align: left !important;
+      font-weight: bold !important;
+      color: #475569 !important;
+      text-transform: uppercase !important;
+      font-size: 9px !important;
+      letter-spacing: 0.5px !important;
+    }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+  <!-- Header (Table-based for email safety) -->
+  <table class="header-table">
+    <tr>
+      <td class="header-cell">
+        <table style="width:100%; border-collapse:collapse;">
+          <tr>
+            <td style="vertical-align:top; padding:0;">
+              <div class="brand-sub">Apartment Corp · Daily Portfolio Summary</div>
+              <h1 class="title" style="margin:0 0 6px 0;">Portfolio Overview</h1>
+              <div class="meta">Date: <strong>August 15, 2026</strong> · Prepared for: <strong style="color:#1d4ed8;">Brandon Rose & Marc</strong></div>
+            </td>
+            <td style="vertical-align:top; text-align:right; padding:0; width:120px;" class="header-logo-cell">
+              <a href="https://www.apartmentcorp.com" target="_blank" rel="noopener noreferrer">
+                <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663449376037/yiqjXhtjVpBGrWlZ.gif" alt="Apartment Corp Emblem" class="logo-img" style="float:right;">
+              </a>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Grand Totals (Table-based for email safety) -->
+  <table class="kpi-table">
+    <tr>
+      <td class="kpi-container-cell">
+        <table style="width:100%; border-collapse:collapse;">
+          <tr>
+            <td class="kpi-cell" style="width:33%;">
+              <div class="kpi-card blue">
+                <div class="kpi-label">Portfolio Billed</div>
+                <div class="kpi-value">$4,091,454</div>
+              </div>
+            </td>
+            <td class="kpi-cell" style="width:33%;">
+              <div class="kpi-card green">
+                <div class="kpi-label">Portfolio Collected</div>
+                <div class="kpi-value">$2,913,758</div>
+                <div class="kpi-subtext" style="color:#dc2626;">71.2% Collection</div>
+              </div>
+            </td>
+            <td class="kpi-cell" style="width:33%;">
+              <div class="kpi-card orange">
+                <div class="kpi-label">Portfolio Vacant</div>
+                <div class="kpi-value">119 Units</div>
+              </div>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Region Summary Table -->
+  <div class="table-container">
+    <div class="table-title">Regional Performance Summary</div>
+    <div class="responsive-table-wrapper">
+      <table style="width:100%; border-collapse:collapse; table-layout:fixed;">
+        <thead>
+          <tr>
+            <th style="text-align:left; width:35%;">Region / Manager</th>
+            <th style="text-align:right; width:33%; white-space:nowrap !important;">Collections</th>
+            <th style="text-align:center; width:15%; white-space:nowrap !important;">Col %</th>
+            <th style="text-align:center; width:17%; white-space:nowrap !important;">Vacant</th>
+          </tr>
+        </thead>
+        <tbody>
+          
+        <tr style="background:#ffffff;">
+          <td style="padding:12px 6px;width:35%;font-size:13px;">
+            <div style="font-weight:700;"><a href="https://aptreports-bj4azy4t.manus.space/?region=Region1" style="color:#1e40af;text-decoration:none;">Region 1</a></div>
+            <div style="font-size:11px;margin-top:2px;"><a href="mailto:jrrolon@apartmentcorp.com" style="color:#2563eb;text-decoration:none;font-weight:500;">JR Rolon</a></div>
+            <div style="font-size:11px;color:#dc2626;margin-top:3px;font-weight:600;">⚠ At-Risk: Arbor Crest Apts</div>
+          </td>
+          <td style="padding:12px 6px;text-align:right;width:33%;white-space:nowrap !important;">
+            <div style="font-weight:700;color:#0f172a;font-size:13px;">$687,241</div>
+            <div style="font-size:11px;color:#64748b;margin-top:2px;">of $803,312</div>
+          </td>
+          <td style="padding:12px 6px;text-align:center;font-weight:800;color:#dc2626;width:15%;font-size:14px;white-space:nowrap !important;">85.6%</td>
+          <td style="padding:12px 6px;text-align:center;width:17%;white-space:nowrap !important;">
+            <div style="font-weight:800;color:#dc2626;font-size:14px;">13</div>
+            <div style="font-size:11px;color:#6b7280;font-weight:700;margin-top:2px;white-space:nowrap !important;">No Change</div>
+          </td>
+        </tr>
+        <tr style="background:#ffffff;">
+          <td style="padding:12px 6px;width:35%;font-size:13px;">
+            <div style="font-weight:700;"><a href="https://aptreports-bj4azy4t.manus.space/?region=Region2" style="color:#1e40af;text-decoration:none;">Region 2</a></div>
+            <div style="font-size:11px;margin-top:2px;"><a href="mailto:leslie@apartmentcorp.com" style="color:#2563eb;text-decoration:none;font-weight:500;">Leslie Rolon</a></div>
+            <div style="font-size:11px;color:#dc2626;margin-top:3px;font-weight:600;">⚠ At-Risk: Crossroads of Lee Summit, Grace Townhomes, Walnut Hill Apartments</div>
+          </td>
+          <td style="padding:12px 6px;text-align:right;width:33%;white-space:nowrap !important;">
+            <div style="font-weight:700;color:#0f172a;font-size:13px;">$936,765</div>
+            <div style="font-size:11px;color:#64748b;margin-top:2px;">of $1,331,493</div>
+          </td>
+          <td style="padding:12px 6px;text-align:center;font-weight:800;color:#dc2626;width:15%;font-size:14px;white-space:nowrap !important;">70.4%</td>
+          <td style="padding:12px 6px;text-align:center;width:17%;white-space:nowrap !important;">
+            <div style="font-weight:800;color:#dc2626;font-size:14px;">29</div>
+            <div style="font-size:11px;color:#6b7280;font-weight:700;margin-top:2px;white-space:nowrap !important;">No Change</div>
+          </td>
+        </tr>
+        <tr style="background:#ffffff;">
+          <td style="padding:12px 6px;width:35%;font-size:13px;">
+            <div style="font-weight:700;"><a href="https://aptreports-bj4azy4t.manus.space/?region=Region3" style="color:#1e40af;text-decoration:none;">Region 3</a></div>
+            <div style="font-size:11px;margin-top:2px;"><a href="mailto:ginger@apartmentcorp.com" style="color:#2563eb;text-decoration:none;font-weight:500;">Ginger Positerry</a></div>
+            <div style="font-size:11px;color:#dc2626;margin-top:3px;font-weight:600;">⚠ At-Risk: Marrero 3, Pelican Bay, St. Charles Place, The Gates on Manhattan, Thibodaux - Colonial Estates Apts, Yorkshire / Windsor Village</div>
+          </td>
+          <td style="padding:12px 6px;text-align:right;width:33%;white-space:nowrap !important;">
+            <div style="font-weight:700;color:#0f172a;font-size:13px;">$817,630</div>
+            <div style="font-size:11px;color:#64748b;margin-top:2px;">of $1,380,040</div>
+          </td>
+          <td style="padding:12px 6px;text-align:center;font-weight:800;color:#dc2626;width:15%;font-size:14px;white-space:nowrap !important;">59.2%</td>
+          <td style="padding:12px 6px;text-align:center;width:17%;white-space:nowrap !important;">
+            <div style="font-weight:800;color:#dc2626;font-size:14px;">67</div>
+            <div style="font-size:11px;color:#6b7280;font-weight:700;margin-top:2px;white-space:nowrap !important;">No Change</div>
+          </td>
+        </tr>
+        <tr style="background:#ffffff;">
+          <td style="padding:12px 6px;width:35%;font-size:13px;">
+            <div style="font-weight:700;"><a href="https://aptreports-bj4azy4t.manus.space/?region=Region4" style="color:#1e40af;text-decoration:none;">Region 4</a></div>
+            <div style="font-size:11px;margin-top:2px;"><a href="mailto:blake@apartmentcorp.com" style="color:#2563eb;text-decoration:none;font-weight:500;">Blake Weddington</a></div>
+            
+          </td>
+          <td style="padding:12px 6px;text-align:right;width:33%;white-space:nowrap !important;">
+            <div style="font-weight:700;color:#0f172a;font-size:13px;">$472,122</div>
+            <div style="font-size:11px;color:#64748b;margin-top:2px;">of $576,609</div>
+          </td>
+          <td style="padding:12px 6px;text-align:center;font-weight:800;color:#dc2626;width:15%;font-size:14px;white-space:nowrap !important;">81.9%</td>
+          <td style="padding:12px 6px;text-align:center;width:17%;white-space:nowrap !important;">
+            <div style="font-weight:800;color:#dc2626;font-size:14px;">10</div>
+            <div style="font-size:11px;color:#6b7280;font-weight:700;margin-top:2px;white-space:nowrap !important;">No Change</div>
+          </td>
+        </tr>
+          <tr class="total-row">
+            <td style="padding:12px 6px;font-weight:800;width:32%;font-size:13px;">Portfolio Total</td>
+            <td style="padding:12px 6px;text-align:right;width:30%;">
+              <div style="font-weight:800;color:#0f172a;font-size:13px;">$2,913,758</div>
+              <div style="font-size:11px;color:#64748b;margin-top:2px;">of $4,091,454</div>
+            </td>
+            <td style="padding:12px 6px;text-align:center;font-weight:800;color:#dc2626;width:18%;font-size:14px;white-space:nowrap !important;">71.2%</td>
+            <td style="padding:12px 6px;text-align:center;width:20%;white-space:nowrap !important;">
+              <div style="font-weight:800;color:#dc2626;font-size:14px;">119</div>
+              <div style="font-size:11px;color:#4b5563;font-weight:normal;margin-top:2px;white-space:nowrap !important;">Total</div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- Embedded At-Risk Section -->
+  
+        <div class="detail-section">
+          <div class="table-title" style="color:#9a3412;margin-bottom:8px;">⚠ Portfolio At-Risk Properties Detail (Vacancy &gt; 4)</div>
+          
+                    <div class="detail-card at-risk">
+                      <div class="detail-card-header at-risk">
+                        <span class="detail-card-badge danger">12 VACANCIES</span>
+                        <span class="detail-card-title" style="color:#9a3412;">⚠ Arbor Crest Apts (Region 1)</span>
+                      </div>
+                      
+    <!-- Legend -->
+    <div style="padding: 8px 16px; border-bottom: 1px solid #f3f4f6; background-color: #fafafa; font-size: 11px;">
+      <span style="display: inline-block; margin-right: 12px; font-weight: 600; color: #475569;">
+        <span style="display: inline-block; width: 10px; height: 10px; background-color: #f1f5f9; border-left: 3px solid #94a3b8; border-radius: 2px; margin-right: 4px; vertical-align: middle;"></span>Vacant
+      </span>
+      <span style="display: inline-block; margin-right: 12px; font-weight: 600; color: #991b1b;">
+        <span style="display: inline-block; width: 10px; height: 10px; background-color: #fffbfa; border-left: 3px solid #ef4444; border-radius: 2px; margin-right: 4px; vertical-align: middle;"></span>Long Vacant (&gt;90d)
+      </span>
+      <span style="display: inline-block; font-weight: 600; color: #166534;">
+        <span style="display: inline-block; width: 10px; height: 10px; background-color: #f0fdf4; border-left: 3px solid #22c55e; border-radius: 2px; margin-right: 4px; vertical-align: middle;"></span>Pre-leased
+      </span>
+    </div>
+
+    <table class="sub-table" style="width:100%; border-collapse:collapse;">
+      <thead>
+        <tr>
+          <th style="width: 25%; text-align: left; padding: 8px 12px; font-size: 10px; text-transform: uppercase; background:#f3f4f6; border-bottom: 1px solid #e5e7eb;">Unit</th>
+          <th style="width: 50%; text-align: left; padding: 8px 12px; font-size: 10px; text-transform: uppercase; background:#f3f4f6; border-bottom: 1px solid #e5e7eb;">Vacancy Duration</th>
+          <th style="width: 25%; text-align: center; padding: 8px 12px; font-size: 10px; text-transform: uppercase; background:#f3f4f6; border-bottom: 1px solid #e5e7eb;">Status</th>
+        </tr>
+      </thead>
+      <tbody>
+    
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 1101</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>2/10/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">106d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 2311</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>10/16/2025</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">223d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 1207</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>2/10/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">106d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 1102</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>2/10/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">106d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 2212</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>2/10/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">106d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 2211</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>11/17/2025</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">191d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 1219</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>1/19/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">128d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 2316</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>1/19/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">128d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 1303</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>4/15/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">42d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 2313</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>4/15/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">42d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 2108</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>4/15/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">42d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 3201</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>5/26/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">1d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr></tbody></table>
+                    </div>
+                    <div class="detail-card at-risk">
+                      <div class="detail-card-header at-risk">
+                        <span class="detail-card-badge danger">13 VACANCIES</span>
+                        <span class="detail-card-title" style="color:#9a3412;">⚠ Crossroads of Lee Summit (Region 2)</span>
+                      </div>
+                      
+    <!-- Legend -->
+    <div style="padding: 8px 16px; border-bottom: 1px solid #f3f4f6; background-color: #fafafa; font-size: 11px;">
+      <span style="display: inline-block; margin-right: 12px; font-weight: 600; color: #475569;">
+        <span style="display: inline-block; width: 10px; height: 10px; background-color: #f1f5f9; border-left: 3px solid #94a3b8; border-radius: 2px; margin-right: 4px; vertical-align: middle;"></span>Vacant
+      </span>
+      <span style="display: inline-block; margin-right: 12px; font-weight: 600; color: #991b1b;">
+        <span style="display: inline-block; width: 10px; height: 10px; background-color: #fffbfa; border-left: 3px solid #ef4444; border-radius: 2px; margin-right: 4px; vertical-align: middle;"></span>Long Vacant (&gt;90d)
+      </span>
+      <span style="display: inline-block; font-weight: 600; color: #166534;">
+        <span style="display: inline-block; width: 10px; height: 10px; background-color: #f0fdf4; border-left: 3px solid #22c55e; border-radius: 2px; margin-right: 4px; vertical-align: middle;"></span>Pre-leased
+      </span>
+    </div>
+
+    <table class="sub-table" style="width:100%; border-collapse:collapse;">
+      <thead>
+        <tr>
+          <th style="width: 25%; text-align: left; padding: 8px 12px; font-size: 10px; text-transform: uppercase; background:#f3f4f6; border-bottom: 1px solid #e5e7eb;">Unit</th>
+          <th style="width: 50%; text-align: left; padding: 8px 12px; font-size: 10px; text-transform: uppercase; background:#f3f4f6; border-bottom: 1px solid #e5e7eb;">Vacancy Duration</th>
+          <th style="width: 25%; text-align: center; padding: 8px 12px; font-size: 10px; text-transform: uppercase; background:#f3f4f6; border-bottom: 1px solid #e5e7eb;">Status</th>
+        </tr>
+      </thead>
+      <tbody>
+    
+        <tr style="border-left: 4px solid #94a3b8;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 1601</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><strong style="font-size: 12px;">28 days</strong> vacant</td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill gray" style="background-color: #f1f5f9; color: #475569; border: 1px solid #cbd5e1; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Vacant</span></td>
+        </tr>
+        <tr style="border-left: 4px solid #94a3b8;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 2001</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><strong style="font-size: 12px;">14 days</strong> vacant</td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill gray" style="background-color: #f1f5f9; color: #475569; border: 1px solid #cbd5e1; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Vacant</span></td>
+        </tr>
+        <tr style="border-left: 4px solid #94a3b8;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 1105</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><strong style="font-size: 12px;">14 days</strong> vacant</td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill gray" style="background-color: #f1f5f9; color: #475569; border: 1px solid #cbd5e1; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Vacant</span></td>
+        </tr>
+        <tr style="border-left: 4px solid #94a3b8;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 2104</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><strong style="font-size: 12px;">14 days</strong> vacant</td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill gray" style="background-color: #f1f5f9; color: #475569; border: 1px solid #cbd5e1; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Vacant</span></td>
+        </tr>
+        <tr style="border-left: 4px solid #94a3b8;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 2106</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><strong style="font-size: 12px;">14 days</strong> vacant</td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill gray" style="background-color: #f1f5f9; color: #475569; border: 1px solid #cbd5e1; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Vacant</span></td>
+        </tr>
+        <tr style="border-left: 4px solid #94a3b8;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 206</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><strong style="font-size: 12px;">14 days</strong> vacant</td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill gray" style="background-color: #f1f5f9; color: #475569; border: 1px solid #cbd5e1; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Vacant</span></td>
+        </tr>
+        <tr style="border-left: 4px solid #94a3b8;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 303</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><strong style="font-size: 12px;">14 days</strong> vacant</td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill gray" style="background-color: #f1f5f9; color: #475569; border: 1px solid #cbd5e1; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Vacant</span></td>
+        </tr>
+        <tr style="border-left: 4px solid #94a3b8;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 1707</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><strong style="font-size: 12px;">14 days</strong> vacant</td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill gray" style="background-color: #f1f5f9; color: #475569; border: 1px solid #cbd5e1; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Vacant</span></td>
+        </tr>
+        <tr style="border-left: 4px solid #94a3b8;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 503</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><strong style="font-size: 12px;">14 days</strong> vacant</td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill gray" style="background-color: #f1f5f9; color: #475569; border: 1px solid #cbd5e1; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Vacant</span></td>
+        </tr>
+        <tr style="border-left: 4px solid #94a3b8;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 1305</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><strong style="font-size: 12px;">14 days</strong> vacant</td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill gray" style="background-color: #f1f5f9; color: #475569; border: 1px solid #cbd5e1; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Vacant</span></td>
+        </tr>
+        <tr style="border-left: 4px solid #94a3b8;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 304</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><strong style="font-size: 12px;">14 days</strong> vacant</td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill gray" style="background-color: #f1f5f9; color: #475569; border: 1px solid #cbd5e1; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Vacant</span></td>
+        </tr>
+        <tr style="border-left: 4px solid #94a3b8;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 1504</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><strong style="font-size: 12px;">14 days</strong> vacant</td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill gray" style="background-color: #f1f5f9; color: #475569; border: 1px solid #cbd5e1; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Vacant</span></td>
+        </tr>
+        <tr style="border-left: 4px solid #94a3b8;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 1703</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><strong style="font-size: 12px;">14 days</strong> vacant</td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill gray" style="background-color: #f1f5f9; color: #475569; border: 1px solid #cbd5e1; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Vacant</span></td>
+        </tr></tbody></table>
+                    </div>
+                    <div class="detail-card at-risk">
+                      <div class="detail-card-header at-risk">
+                        <span class="detail-card-badge danger">5 VACANCIES</span>
+                        <span class="detail-card-title" style="color:#9a3412;">⚠ Grace Townhomes (Region 2)</span>
+                      </div>
+                      
+    <!-- Legend -->
+    <div style="padding: 8px 16px; border-bottom: 1px solid #f3f4f6; background-color: #fafafa; font-size: 11px;">
+      <span style="display: inline-block; margin-right: 12px; font-weight: 600; color: #475569;">
+        <span style="display: inline-block; width: 10px; height: 10px; background-color: #f1f5f9; border-left: 3px solid #94a3b8; border-radius: 2px; margin-right: 4px; vertical-align: middle;"></span>Vacant
+      </span>
+      <span style="display: inline-block; margin-right: 12px; font-weight: 600; color: #991b1b;">
+        <span style="display: inline-block; width: 10px; height: 10px; background-color: #fffbfa; border-left: 3px solid #ef4444; border-radius: 2px; margin-right: 4px; vertical-align: middle;"></span>Long Vacant (&gt;90d)
+      </span>
+      <span style="display: inline-block; font-weight: 600; color: #166534;">
+        <span style="display: inline-block; width: 10px; height: 10px; background-color: #f0fdf4; border-left: 3px solid #22c55e; border-radius: 2px; margin-right: 4px; vertical-align: middle;"></span>Pre-leased
+      </span>
+    </div>
+
+    <table class="sub-table" style="width:100%; border-collapse:collapse;">
+      <thead>
+        <tr>
+          <th style="width: 25%; text-align: left; padding: 8px 12px; font-size: 10px; text-transform: uppercase; background:#f3f4f6; border-bottom: 1px solid #e5e7eb;">Unit</th>
+          <th style="width: 50%; text-align: left; padding: 8px 12px; font-size: 10px; text-transform: uppercase; background:#f3f4f6; border-bottom: 1px solid #e5e7eb;">Vacancy Duration</th>
+          <th style="width: 25%; text-align: center; padding: 8px 12px; font-size: 10px; text-transform: uppercase; background:#f3f4f6; border-bottom: 1px solid #e5e7eb;">Status</th>
+        </tr>
+      </thead>
+      <tbody>
+    
+        <tr style="border-left: 4px solid #94a3b8;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 2514</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><strong style="font-size: 12px;">16 days</strong> vacant</td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill gray" style="background-color: #f1f5f9; color: #475569; border: 1px solid #cbd5e1; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Vacant</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 2213</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>6/1/2026</strong> <span style="background-color: #dcfce7; color: #166534; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">In 5d</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 2312</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>2/26/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">90d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 1713</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>1/13/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">134d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 1812</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>5/15/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">12d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr></tbody></table>
+                    </div>
+                    <div class="detail-card at-risk">
+                      <div class="detail-card-header at-risk">
+                        <span class="detail-card-badge danger">6 VACANCIES</span>
+                        <span class="detail-card-title" style="color:#9a3412;">⚠ Walnut Hill Apartments (Region 2)</span>
+                      </div>
+                      
+    <!-- Legend -->
+    <div style="padding: 8px 16px; border-bottom: 1px solid #f3f4f6; background-color: #fafafa; font-size: 11px;">
+      <span style="display: inline-block; margin-right: 12px; font-weight: 600; color: #475569;">
+        <span style="display: inline-block; width: 10px; height: 10px; background-color: #f1f5f9; border-left: 3px solid #94a3b8; border-radius: 2px; margin-right: 4px; vertical-align: middle;"></span>Vacant
+      </span>
+      <span style="display: inline-block; margin-right: 12px; font-weight: 600; color: #991b1b;">
+        <span style="display: inline-block; width: 10px; height: 10px; background-color: #fffbfa; border-left: 3px solid #ef4444; border-radius: 2px; margin-right: 4px; vertical-align: middle;"></span>Long Vacant (&gt;90d)
+      </span>
+      <span style="display: inline-block; font-weight: 600; color: #166534;">
+        <span style="display: inline-block; width: 10px; height: 10px; background-color: #f0fdf4; border-left: 3px solid #22c55e; border-radius: 2px; margin-right: 4px; vertical-align: middle;"></span>Pre-leased
+      </span>
+    </div>
+
+    <table class="sub-table" style="width:100%; border-collapse:collapse;">
+      <thead>
+        <tr>
+          <th style="width: 25%; text-align: left; padding: 8px 12px; font-size: 10px; text-transform: uppercase; background:#f3f4f6; border-bottom: 1px solid #e5e7eb;">Unit</th>
+          <th style="width: 50%; text-align: left; padding: 8px 12px; font-size: 10px; text-transform: uppercase; background:#f3f4f6; border-bottom: 1px solid #e5e7eb;">Vacancy Duration</th>
+          <th style="width: 25%; text-align: center; padding: 8px 12px; font-size: 10px; text-transform: uppercase; background:#f3f4f6; border-bottom: 1px solid #e5e7eb;">Status</th>
+        </tr>
+      </thead>
+      <tbody>
+    
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 302-K</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>6/30/2026</strong> <span style="background-color: #dcfce7; color: #166534; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">In 34d</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 302-E</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>3/12/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">76d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 201-I</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>5/7/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">20d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 402-E</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>5/7/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">20d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 104-B</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>6/12/2026</strong> <span style="background-color: #dcfce7; color: #166534; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">In 16d</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 203-A</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>5/20/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">7d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr></tbody></table>
+                    </div>
+                    <div class="detail-card at-risk">
+                      <div class="detail-card-header at-risk">
+                        <span class="detail-card-badge danger">6 VACANCIES</span>
+                        <span class="detail-card-title" style="color:#9a3412;">⚠ Marrero 3 (Region 3)</span>
+                      </div>
+                      
+    <!-- Legend -->
+    <div style="padding: 8px 16px; border-bottom: 1px solid #f3f4f6; background-color: #fafafa; font-size: 11px;">
+      <span style="display: inline-block; margin-right: 12px; font-weight: 600; color: #475569;">
+        <span style="display: inline-block; width: 10px; height: 10px; background-color: #f1f5f9; border-left: 3px solid #94a3b8; border-radius: 2px; margin-right: 4px; vertical-align: middle;"></span>Vacant
+      </span>
+      <span style="display: inline-block; margin-right: 12px; font-weight: 600; color: #991b1b;">
+        <span style="display: inline-block; width: 10px; height: 10px; background-color: #fffbfa; border-left: 3px solid #ef4444; border-radius: 2px; margin-right: 4px; vertical-align: middle;"></span>Long Vacant (&gt;90d)
+      </span>
+      <span style="display: inline-block; font-weight: 600; color: #166534;">
+        <span style="display: inline-block; width: 10px; height: 10px; background-color: #f0fdf4; border-left: 3px solid #22c55e; border-radius: 2px; margin-right: 4px; vertical-align: middle;"></span>Pre-leased
+      </span>
+    </div>
+
+    <table class="sub-table" style="width:100%; border-collapse:collapse;">
+      <thead>
+        <tr>
+          <th style="width: 25%; text-align: left; padding: 8px 12px; font-size: 10px; text-transform: uppercase; background:#f3f4f6; border-bottom: 1px solid #e5e7eb;">Unit</th>
+          <th style="width: 50%; text-align: left; padding: 8px 12px; font-size: 10px; text-transform: uppercase; background:#f3f4f6; border-bottom: 1px solid #e5e7eb;">Vacancy Duration</th>
+          <th style="width: 25%; text-align: center; padding: 8px 12px; font-size: 10px; text-transform: uppercase; background:#f3f4f6; border-bottom: 1px solid #e5e7eb;">Status</th>
+        </tr>
+      </thead>
+      <tbody>
+    
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 1315 Smith Square</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>2/12/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">104d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 1213 Smith Sq</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>4/3/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">54d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 7130 HNASKO</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>5/31/2026</strong> <span style="background-color: #dcfce7; color: #166534; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">In 4d</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 7117 KAYLA</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>6/1/2026</strong> <span style="background-color: #dcfce7; color: #166534; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">In 5d</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 544 FREEDOM</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>5/5/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">22d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 3140 HAVENWOOD</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>6/1/2026</strong> <span style="background-color: #dcfce7; color: #166534; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">In 5d</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr></tbody></table>
+                    </div>
+                    <div class="detail-card at-risk">
+                      <div class="detail-card-header at-risk">
+                        <span class="detail-card-badge danger">9 VACANCIES</span>
+                        <span class="detail-card-title" style="color:#9a3412;">⚠ Pelican Bay (Region 3)</span>
+                      </div>
+                      
+    <!-- Legend -->
+    <div style="padding: 8px 16px; border-bottom: 1px solid #f3f4f6; background-color: #fafafa; font-size: 11px;">
+      <span style="display: inline-block; margin-right: 12px; font-weight: 600; color: #475569;">
+        <span style="display: inline-block; width: 10px; height: 10px; background-color: #f1f5f9; border-left: 3px solid #94a3b8; border-radius: 2px; margin-right: 4px; vertical-align: middle;"></span>Vacant
+      </span>
+      <span style="display: inline-block; margin-right: 12px; font-weight: 600; color: #991b1b;">
+        <span style="display: inline-block; width: 10px; height: 10px; background-color: #fffbfa; border-left: 3px solid #ef4444; border-radius: 2px; margin-right: 4px; vertical-align: middle;"></span>Long Vacant (&gt;90d)
+      </span>
+      <span style="display: inline-block; font-weight: 600; color: #166534;">
+        <span style="display: inline-block; width: 10px; height: 10px; background-color: #f0fdf4; border-left: 3px solid #22c55e; border-radius: 2px; margin-right: 4px; vertical-align: middle;"></span>Pre-leased
+      </span>
+    </div>
+
+    <table class="sub-table" style="width:100%; border-collapse:collapse;">
+      <thead>
+        <tr>
+          <th style="width: 25%; text-align: left; padding: 8px 12px; font-size: 10px; text-transform: uppercase; background:#f3f4f6; border-bottom: 1px solid #e5e7eb;">Unit</th>
+          <th style="width: 50%; text-align: left; padding: 8px 12px; font-size: 10px; text-transform: uppercase; background:#f3f4f6; border-bottom: 1px solid #e5e7eb;">Vacancy Duration</th>
+          <th style="width: 25%; text-align: center; padding: 8px 12px; font-size: 10px; text-transform: uppercase; background:#f3f4f6; border-bottom: 1px solid #e5e7eb;">Status</th>
+        </tr>
+      </thead>
+      <tbody>
+    
+        <tr style="border-left: 4px solid #94a3b8;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 1405</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><strong style="font-size: 12px;">8 days</strong> vacant</td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill gray" style="background-color: #f1f5f9; color: #475569; border: 1px solid #cbd5e1; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Vacant</span></td>
+        </tr>
+        <tr style="border-left: 4px solid #94a3b8;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 1106</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><strong style="font-size: 12px;">8 days</strong> vacant</td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill gray" style="background-color: #f1f5f9; color: #475569; border: 1px solid #cbd5e1; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Vacant</span></td>
+        </tr>
+        <tr style="border-left: 4px solid #94a3b8;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 304</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><strong style="font-size: 12px;">8 days</strong> vacant</td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill gray" style="background-color: #f1f5f9; color: #475569; border: 1px solid #cbd5e1; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Vacant</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 301</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>5/5/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">22d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 805</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>3/25/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">63d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 1206</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>5/26/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">1d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 711</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>5/26/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">1d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 408</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>6/5/2026</strong> <span style="background-color: #dcfce7; color: #166534; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">In 9d</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 506</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>5/29/2026</strong> <span style="background-color: #dcfce7; color: #166534; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">In 2d</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr></tbody></table>
+                    </div>
+                    <div class="detail-card at-risk">
+                      <div class="detail-card-header at-risk">
+                        <span class="detail-card-badge danger">6 VACANCIES</span>
+                        <span class="detail-card-title" style="color:#9a3412;">⚠ St. Charles Place (Region 3)</span>
+                      </div>
+                      
+    <!-- Legend -->
+    <div style="padding: 8px 16px; border-bottom: 1px solid #f3f4f6; background-color: #fafafa; font-size: 11px;">
+      <span style="display: inline-block; margin-right: 12px; font-weight: 600; color: #475569;">
+        <span style="display: inline-block; width: 10px; height: 10px; background-color: #f1f5f9; border-left: 3px solid #94a3b8; border-radius: 2px; margin-right: 4px; vertical-align: middle;"></span>Vacant
+      </span>
+      <span style="display: inline-block; margin-right: 12px; font-weight: 600; color: #991b1b;">
+        <span style="display: inline-block; width: 10px; height: 10px; background-color: #fffbfa; border-left: 3px solid #ef4444; border-radius: 2px; margin-right: 4px; vertical-align: middle;"></span>Long Vacant (&gt;90d)
+      </span>
+      <span style="display: inline-block; font-weight: 600; color: #166534;">
+        <span style="display: inline-block; width: 10px; height: 10px; background-color: #f0fdf4; border-left: 3px solid #22c55e; border-radius: 2px; margin-right: 4px; vertical-align: middle;"></span>Pre-leased
+      </span>
+    </div>
+
+    <table class="sub-table" style="width:100%; border-collapse:collapse;">
+      <thead>
+        <tr>
+          <th style="width: 25%; text-align: left; padding: 8px 12px; font-size: 10px; text-transform: uppercase; background:#f3f4f6; border-bottom: 1px solid #e5e7eb;">Unit</th>
+          <th style="width: 50%; text-align: left; padding: 8px 12px; font-size: 10px; text-transform: uppercase; background:#f3f4f6; border-bottom: 1px solid #e5e7eb;">Vacancy Duration</th>
+          <th style="width: 25%; text-align: center; padding: 8px 12px; font-size: 10px; text-transform: uppercase; background:#f3f4f6; border-bottom: 1px solid #e5e7eb;">Status</th>
+        </tr>
+      </thead>
+      <tbody>
+    
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 043</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>4/17/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">40d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 061</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>4/30/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">27d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 058</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>4/30/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">27d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 064</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>4/30/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">27d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 066</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>5/29/2026</strong> <span style="background-color: #dcfce7; color: #166534; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">In 2d</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 081</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>5/5/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">22d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr></tbody></table>
+                    </div>
+                    <div class="detail-card at-risk">
+                      <div class="detail-card-header at-risk">
+                        <span class="detail-card-badge danger">19 VACANCIES</span>
+                        <span class="detail-card-title" style="color:#9a3412;">⚠ The Gates on Manhattan (Region 3)</span>
+                      </div>
+                      
+    <!-- Legend -->
+    <div style="padding: 8px 16px; border-bottom: 1px solid #f3f4f6; background-color: #fafafa; font-size: 11px;">
+      <span style="display: inline-block; margin-right: 12px; font-weight: 600; color: #475569;">
+        <span style="display: inline-block; width: 10px; height: 10px; background-color: #f1f5f9; border-left: 3px solid #94a3b8; border-radius: 2px; margin-right: 4px; vertical-align: middle;"></span>Vacant
+      </span>
+      <span style="display: inline-block; margin-right: 12px; font-weight: 600; color: #991b1b;">
+        <span style="display: inline-block; width: 10px; height: 10px; background-color: #fffbfa; border-left: 3px solid #ef4444; border-radius: 2px; margin-right: 4px; vertical-align: middle;"></span>Long Vacant (&gt;90d)
+      </span>
+      <span style="display: inline-block; font-weight: 600; color: #166534;">
+        <span style="display: inline-block; width: 10px; height: 10px; background-color: #f0fdf4; border-left: 3px solid #22c55e; border-radius: 2px; margin-right: 4px; vertical-align: middle;"></span>Pre-leased
+      </span>
+    </div>
+
+    <table class="sub-table" style="width:100%; border-collapse:collapse;">
+      <thead>
+        <tr>
+          <th style="width: 25%; text-align: left; padding: 8px 12px; font-size: 10px; text-transform: uppercase; background:#f3f4f6; border-bottom: 1px solid #e5e7eb;">Unit</th>
+          <th style="width: 50%; text-align: left; padding: 8px 12px; font-size: 10px; text-transform: uppercase; background:#f3f4f6; border-bottom: 1px solid #e5e7eb;">Vacancy Duration</th>
+          <th style="width: 25%; text-align: center; padding: 8px 12px; font-size: 10px; text-transform: uppercase; background:#f3f4f6; border-bottom: 1px solid #e5e7eb;">Status</th>
+        </tr>
+      </thead>
+      <tbody>
+    
+        <tr style="border-left: 4px solid #94a3b8;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 1625CA</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><strong style="font-size: 12px;">30 days</strong> vacant</td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill gray" style="background-color: #f1f5f9; color: #475569; border: 1px solid #cbd5e1; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Vacant</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 1141CT</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>12/3/2025</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">175d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 1025dt</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>1/2/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">145d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 1044DT</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>6/1/2026</strong> <span style="background-color: #dcfce7; color: #166534; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">In 5d</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 1016DT</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>12/31/2025</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">147d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 1620DU</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>2/4/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">112d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 1624CU</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>2/4/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">112d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 1032ct</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>3/18/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">70d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 1112ct</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>3/18/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">70d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 1013CI</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>5/29/2026</strong> <span style="background-color: #dcfce7; color: #166534; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">In 2d</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 1017BT</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>5/22/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">5d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 1620AU</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>4/11/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">46d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 1128DT</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>4/15/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">42d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 1017BI</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>5/17/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">10d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 1017CI</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>4/11/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">46d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 1100DT</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>5/29/2026</strong> <span style="background-color: #dcfce7; color: #166534; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">In 2d</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 1020AI</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>5/29/2026</strong> <span style="background-color: #dcfce7; color: #166534; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">In 2d</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 1044BT</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>6/1/2026</strong> <span style="background-color: #dcfce7; color: #166534; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">In 5d</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 1141DT</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>6/26/2026</strong> <span style="background-color: #dcfce7; color: #166534; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">In 30d</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr></tbody></table>
+                    </div>
+                    <div class="detail-card at-risk">
+                      <div class="detail-card-header at-risk">
+                        <span class="detail-card-badge danger">13 VACANCIES</span>
+                        <span class="detail-card-title" style="color:#9a3412;">⚠ Thibodaux - Colonial Estates Apts (Region 3)</span>
+                      </div>
+                      
+    <!-- Legend -->
+    <div style="padding: 8px 16px; border-bottom: 1px solid #f3f4f6; background-color: #fafafa; font-size: 11px;">
+      <span style="display: inline-block; margin-right: 12px; font-weight: 600; color: #475569;">
+        <span style="display: inline-block; width: 10px; height: 10px; background-color: #f1f5f9; border-left: 3px solid #94a3b8; border-radius: 2px; margin-right: 4px; vertical-align: middle;"></span>Vacant
+      </span>
+      <span style="display: inline-block; margin-right: 12px; font-weight: 600; color: #991b1b;">
+        <span style="display: inline-block; width: 10px; height: 10px; background-color: #fffbfa; border-left: 3px solid #ef4444; border-radius: 2px; margin-right: 4px; vertical-align: middle;"></span>Long Vacant (&gt;90d)
+      </span>
+      <span style="display: inline-block; font-weight: 600; color: #166534;">
+        <span style="display: inline-block; width: 10px; height: 10px; background-color: #f0fdf4; border-left: 3px solid #22c55e; border-radius: 2px; margin-right: 4px; vertical-align: middle;"></span>Pre-leased
+      </span>
+    </div>
+
+    <table class="sub-table" style="width:100%; border-collapse:collapse;">
+      <thead>
+        <tr>
+          <th style="width: 25%; text-align: left; padding: 8px 12px; font-size: 10px; text-transform: uppercase; background:#f3f4f6; border-bottom: 1px solid #e5e7eb;">Unit</th>
+          <th style="width: 50%; text-align: left; padding: 8px 12px; font-size: 10px; text-transform: uppercase; background:#f3f4f6; border-bottom: 1px solid #e5e7eb;">Vacancy Duration</th>
+          <th style="width: 25%; text-align: center; padding: 8px 12px; font-size: 10px; text-transform: uppercase; background:#f3f4f6; border-bottom: 1px solid #e5e7eb;">Status</th>
+        </tr>
+      </thead>
+      <tbody>
+    
+        <tr style="background-color: #fffbfa; border-left: 4px solid #ef4444;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 812</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><strong style="color: #dc2626; font-size: 12px;">147 days</strong> vacant</td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill red" style="background-color: #fee2e2; color: #991b1b; border: 1px solid #fca5a5; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Long Vacant</span></td>
+        </tr>
+        <tr style="background-color: #fffbfa; border-left: 4px solid #ef4444;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 112</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><strong style="color: #dc2626; font-size: 12px;">124 days</strong> vacant</td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill red" style="background-color: #fee2e2; color: #991b1b; border: 1px solid #fca5a5; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Long Vacant</span></td>
+        </tr>
+        <tr style="border-left: 4px solid #94a3b8;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 304</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><strong style="font-size: 12px;">19 days</strong> vacant</td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill gray" style="background-color: #f1f5f9; color: #475569; border: 1px solid #cbd5e1; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Vacant</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 512</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>12/29/2025</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">149d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 207</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>3/12/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">76d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 107</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>4/7/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">50d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 506</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>4/7/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">50d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 704</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>6/8/2026</strong> <span style="background-color: #dcfce7; color: #166534; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">In 12d</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 808</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>4/6/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">51d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 508</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>5/1/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">26d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 405</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>4/7/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">50d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 311</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>5/7/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">20d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr>
+        <tr style="background-color: #f0fdf4; border-left: 4px solid #22c55e;">
+          <td style="font-weight: 700; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;">Unit 116</td>
+          <td style="padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span style="color: #166534; font-size: 12px;">Move-in: <strong>5/26/2026</strong> <span style="background-color: #fee2e2; color: #991b1b; font-size: 9px; font-weight: 700; padding: 1px 4px; border-radius: 3px; white-space: nowrap;">1d ago</span></span></td>
+          <td style="text-align: center; padding: 8px 12px; border-bottom: 1px solid #e5e7eb;"><span class="status-pill green" style="background-color: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700;">Pre-leased</span></td>
+        </tr></tbody></table>
+                    </div>
+        </div>
+
+  <!-- Note about attachments -->
+  <div class="detail-section">
+    <div class="legend-box">
+      <span class="legend-item" style="color:#15803d;">▼ Leased</span>
+      <span class="legend-item" style="color:#dc2626;">▲ Vacant</span>
+      <span class="legend-item" style="color:#15803d;">Green = ≥100%</span>
+      <span class="legend-item" style="color:#b45309;">Amber = 90–99%</span>
+    </div>
+    
+    <div class="attachment-box">
+      📎 Individual regional reports are attached to this email as separate HTML files.
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <div class="footer">
+    Automated daily report · PropertyMax.ai · From: <a href="mailto:Brandon@ApartmentCorp.com" style="color:#6b7280;text-decoration:underline;">Brandon@ApartmentCorp.com</a> · © 2026 Apartment Corp
+  </div>
+</div>
+</body>
+</html>
