@@ -1,13 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title>Brandon's Tasks Dashboard</title>
 <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
-:root{--bg:#0d0f1a;--sb:#0b0d17;--card:#131625;--card2:#181b2e;--border:rgba(255,255,255,.07);--border2:rgba(255,255,255,.12);--text:#e8eaf0;--muted:#5a5e78;--muted2:#7c8099;--amber:#f5a623;--ad:rgba(245,166,35,.12);--ab:rgba(245,166,35,.3);--em:#34d399;--ed:rgba(52,211,153,.1);--eb:rgba(52,211,153,.3);--bl:#60a5fa;--bld:rgba(96,165,250,.1);--blb:rgba(96,165,250,.3);--red:#f87171;--redd:rgba(248,113,113,.1);--redb:rgba(248,113,113,.3);--cl:#cc785c;--cld:rgba(204,120,92,.12);--clb:rgba(204,120,92,.35);--pu:#a78bfa;--pud:rgba(167,139,250,.1);--pub:rgba(167,139,250,.3);--fd:'Space Grotesk',sans-serif;--fm:'JetBrains Mono',monospace;--sw:224px}
-html{font-family:var(--fd);background:var(--bg);color:var(--text);height:100%}body{height:100%;overflow:hidden}
+:root{
+  --bg:#0d0f1a;--sb:#0b0d17;--card:#131625;--card2:#181b2e;
+  --border:rgba(255,255,255,.07);--border2:rgba(255,255,255,.12);
+  --text:#e8eaf0;--muted:#5a5e78;--muted2:#7c8099;
+  --amber:#f5a623;--ad:rgba(245,166,35,.12);--ab:rgba(245,166,35,.3);
+  --em:#34d399;--ed:rgba(52,211,153,.1);--eb:rgba(52,211,153,.3);
+  --bl:#60a5fa;--bld:rgba(96,165,250,.1);--blb:rgba(96,165,250,.3);
+  --red:#f87171;--redd:rgba(248,113,113,.1);--redb:rgba(248,113,113,.3);
+  --cl:#cc785c;--cld:rgba(204,120,92,.12);--clb:rgba(204,120,92,.35);
+  --pu:#a78bfa;--pud:rgba(167,139,250,.1);--pub:rgba(167,139,250,.3);
+  --fd:'Space Grotesk',sans-serif;--fm:'JetBrains Mono',monospace;--sw:224px
+}
+html{font-family:var(--fd);background:var(--bg);color:var(--text);height:100%}
+body{height:100%;overflow:hidden}
 #app{display:flex;height:100vh}
 aside{width:var(--sw);min-width:var(--sw);background:var(--sb);border-right:1px solid var(--border);display:flex;flex-direction:column;height:100vh;overflow:hidden}
 #main{flex:1;display:flex;flex-direction:column;min-width:0;height:100vh;overflow:hidden}
@@ -17,15 +30,19 @@ aside{width:var(--sw);min-width:var(--sw);background:var(--sb);border-right:1px 
 .lrow{display:flex;align-items:center;gap:9px;margin-bottom:4px}
 .logo{width:30px;height:30px;border-radius:7px;display:flex;align-items:center;justify-content:center;font-size:14px}
 .logo.m{background:var(--ad);border:1px solid var(--ab)}.logo.c{background:var(--cld);border:1px solid var(--clb)}
-.stitle{font-size:13px;font-weight:700;letter-spacing:.02em}.stitle.m{color:var(--amber)}.stitle.c{color:var(--cl)}
+.stitle{font-size:13px;font-weight:700;letter-spacing:.02em}
+.stitle.m{color:var(--amber)}.stitle.c{color:var(--cl)}
 .ssub{font-size:10px;color:var(--muted)}
 .srctog{margin:10px 10px 0;display:flex;background:rgba(255,255,255,.04);border:1px solid var(--border);border-radius:8px;padding:3px;gap:3px}
-.srb{flex:1;padding:6px 0;border-radius:5px;font-size:11px;font-weight:600;cursor:pointer;border:none;background:none;color:var(--muted2);font-family:var(--fd);display:flex;align-items:center;justify-content:center;gap:5px}
-.srb.am{background:var(--ad);color:var(--amber);border:1px solid var(--ab)}.srb.ac{background:var(--cld);color:var(--cl);border:1px solid var(--clb)}
+.srb{flex:1;padding:6px 0;border-radius:5px;font-size:11px;font-weight:600;cursor:pointer;border:none;background:none;color:var(--muted2);transition:all .2s;display:flex;align-items:center;justify-content:center;gap:5px;font-family:var(--fd)}
+.srb.am{background:var(--ad);color:var(--amber);border:1px solid var(--ab)}
+.srb.ac{background:var(--cld);color:var(--cl);border:1px solid var(--clb)}
 .snav{padding:8px 8px 0}
-.nb{display:flex;align-items:center;gap:7px;padding:7px 10px;border-radius:6px;font-size:12px;font-weight:600;cursor:pointer;border:1px solid transparent;width:100%;text-align:left;background:none;color:var(--muted2);margin-bottom:3px;font-family:var(--fd);transition:all .15s}
+.nb{display:flex;align-items:center;gap:7px;padding:7px 10px;border-radius:6px;font-size:12px;font-weight:600;cursor:pointer;transition:all .15s;border:1px solid transparent;width:100%;text-align:left;background:none;color:var(--muted2);margin-bottom:3px;font-family:var(--fd)}
 .nb:hover{background:rgba(255,255,255,.04);color:var(--text)}
-.nb.am{background:var(--ad);border-color:var(--ab);color:var(--amber)}.nb.ac{background:var(--cld);border-color:var(--clb);color:var(--cl)}.nb.ar{background:var(--redd);border-color:var(--redb);color:var(--red)}
+.nb.am{background:var(--ad);border-color:var(--ab);color:var(--amber)}
+.nb.ac{background:var(--cld);border-color:var(--clb);color:var(--cl)}
+.nb.ar{background:var(--redd);border-color:var(--redb);color:var(--red)}
 .bdg{margin-left:auto;font-size:9px;padding:1px 5px;border-radius:3px;background:rgba(255,255,255,.06);color:var(--muted);font-family:var(--fm)}
 .sstats{padding:10px 8px;border-top:1px solid var(--border)}
 .stl{font-size:9px;font-weight:700;text-transform:uppercase;letter-spacing:.1em;color:var(--muted);padding:0 4px;margin-bottom:7px}
@@ -33,31 +50,36 @@ aside{width:var(--sw);min-width:var(--sw);background:var(--sb);border-right:1px 
 .scard{background:var(--card);border:1px solid var(--border);border-radius:6px;padding:7px;text-align:center}
 .sval{font-size:17px;font-weight:700}.slbl{font-size:9px;color:var(--muted);margin-top:1px}
 .sscroll{flex:1;overflow-y:auto;padding:8px}
-.fc{display:flex;align-items:center;gap:6px;padding:6px 10px;border-radius:5px;font-size:11px;font-weight:500;cursor:pointer;border:1px solid transparent;width:100%;text-align:left;background:none;color:var(--muted2);margin-bottom:3px;font-family:var(--fd);transition:all .15s}
+.fc{display:flex;align-items:center;gap:6px;padding:6px 10px;border-radius:5px;font-size:11px;font-weight:500;cursor:pointer;transition:all .15s;border:1px solid transparent;width:100%;text-align:left;background:none;color:var(--muted2);margin-bottom:3px;font-family:var(--fd)}
 .fc:hover{background:rgba(255,255,255,.04);color:var(--text)}
-.fc.am{background:var(--ad);border-color:var(--ab);color:var(--amber)}.fc.ac{background:var(--cld);border-color:var(--clb);color:var(--cl)}.fc.ae{background:var(--ed);border-color:var(--eb);color:var(--em)}.fc.abl{background:var(--bld);border-color:var(--blb);color:var(--bl)}
+.fc.am{background:var(--ad);border-color:var(--ab);color:var(--amber)}
+.fc.ac{background:var(--cld);border-color:var(--clb);color:var(--cl)}
+.fc.ae{background:var(--ed);border-color:var(--eb);color:var(--em)}
+.fc.abl{background:var(--bld);border-color:var(--blb);color:var(--bl)}
 .cc{margin-left:auto;font-size:9px;padding:1px 5px;border-radius:3px;background:rgba(255,255,255,.06);color:var(--muted);font-family:var(--fm)}
-.clrbtn{display:flex;align-items:center;gap:6px;padding:8px 14px;font-size:11px;color:var(--muted);cursor:pointer;border:none;background:none;width:100%;border-top:1px solid var(--border);font-family:var(--fd)}
+.clrbtn{display:flex;align-items:center;gap:6px;padding:8px 14px;font-size:11px;color:var(--muted);cursor:pointer;border:none;background:none;width:100%;border-top:1px solid var(--border);transition:color .15s;font-family:var(--fd)}
+.clrbtn:hover{color:var(--text)}
 .sw{position:relative;flex:1;max-width:480px}
 .sw svg{position:absolute;left:10px;top:50%;transform:translateY(-50%);opacity:.4;pointer-events:none}
 #search{width:100%;height:34px;background:var(--card);border:1px solid var(--border2);border-radius:6px;padding:0 32px;font-size:12px;color:var(--text);font-family:var(--fd);outline:none}
 #search:focus{border-color:var(--ab)}#search::placeholder{color:var(--muted)}
 .ssel{height:34px;background:var(--card);border:1px solid var(--border);border-radius:6px;padding:0 10px;font-size:11px;color:var(--text);font-family:var(--fd);outline:none;cursor:pointer}
 .vtog{display:flex;gap:2px;background:var(--card);border:1px solid var(--border);border-radius:6px;padding:3px}
-.vbtn{width:28px;height:28px;display:flex;align-items:center;justify-content:center;border-radius:4px;cursor:pointer;border:none;background:none;color:var(--muted)}
+.vbtn{width:28px;height:28px;display:flex;align-items:center;justify-content:center;border-radius:4px;cursor:pointer;border:none;background:none;color:var(--muted);transition:all .15s}
 .vbtn.on{background:var(--ad);color:var(--amber)}
 .rc{font-size:11px;color:var(--muted);font-family:var(--fm);white-space:nowrap}
 #sbar{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-bottom:16px}
 .sc{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:14px 16px}
 .sc.hlm{border-color:var(--ab);background:var(--ad)}.sc.hlc{border-color:var(--clb);background:var(--cld)}
 .sl{font-size:9px;font-weight:700;text-transform:uppercase;letter-spacing:.1em;color:var(--muted);margin-bottom:4px}
-.sv{font-size:26px;font-weight:700;color:var(--text)}.sc.hlm .sv{color:var(--amber)}.sc.hlc .sv{color:var(--cl)}
-.ss2t{font-size:10px;color:var(--muted);margin-top:2px}
+.sv{font-size:26px;font-weight:700;color:var(--text)}
+.sc.hlm .sv{color:var(--amber)}.sc.hlc .sv{color:var(--cl)}
+.ss3{font-size:10px;color:var(--muted);margin-top:2px}
 #cw{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:14px 16px;margin-bottom:16px}
 #cb{display:flex;align-items:flex-end;gap:6px;height:60px}
 .cbc{display:flex;flex-direction:column;align-items:center;gap:4px;flex:1}
-.cbar{width:100%;background:rgba(255,255,255,.08);border-radius:3px 3px 0 0;min-height:3px;cursor:pointer}
-.cbar.cur,.cbar:hover{background:var(--bc,var(--amber))!important}
+.cbar{width:100%;background:rgba(255,255,255,.08);border-radius:3px 3px 0 0;min-height:3px}
+.cbar:hover,.cbar.cur{background:var(--bc,var(--amber))!important}
 .clbl{font-size:8px;color:var(--muted);font-family:var(--fm);white-space:nowrap}
 #fp{display:flex;align-items:center;gap:6px;flex-wrap:wrap;margin-bottom:12px}
 .pill{display:inline-flex;align-items:center;gap:5px;padding:3px 8px 3px 10px;border-radius:20px;font-size:11px;background:var(--ad);border:1px solid var(--ab);color:var(--amber)}
@@ -66,12 +88,15 @@ aside{width:var(--sw);min-width:var(--sw);background:var(--sb);border-right:1px 
 .sel-bar{display:none;align-items:center;gap:10px;padding:8px 14px;background:var(--card2);border:1px solid var(--border2);border-radius:8px;margin-bottom:12px}
 .sel-bar.show{display:flex}
 .sel-count{font-size:12px;font-weight:600}
-.sa-btn,.clr-sel{padding:4px 10px;border-radius:5px;font-size:11px;font-weight:600;cursor:pointer;border:1px solid var(--border2);background:none;color:var(--muted2);font-family:var(--fd)}
+.sa-btn{padding:4px 10px;border-radius:5px;font-size:11px;font-weight:600;cursor:pointer;border:1px solid var(--border2);background:none;color:var(--muted2);font-family:var(--fd)}
+.sa-btn:hover{color:var(--text)}
+.clr-sel{padding:4px 8px;border-radius:5px;font-size:11px;cursor:pointer;border:none;background:none;color:var(--muted);font-family:var(--fd)}
 .del-sel-btn{padding:5px 12px;border-radius:5px;font-size:11px;font-weight:600;cursor:pointer;border:1px solid var(--redb);background:var(--redd);color:var(--red);font-family:var(--fd);display:flex;align-items:center;gap:5px;margin-left:auto}
 #tg{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:10px}
 #tg.lv{display:block}
-.tc{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:14px;cursor:pointer;position:relative;transition:border-color .15s,background .15s}
-.tc.tm:hover{border-color:var(--ab);background:var(--card2)}.tc.tcc:hover{border-color:var(--clb);background:var(--card2)}
+.tc{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:14px;cursor:pointer;transition:border-color .15s,background .15s;position:relative}
+.tc.tm:hover{border-color:var(--ab);background:var(--card2)}
+.tc.tcc:hover{border-color:var(--clb);background:var(--card2)}
 .tc.selected{border-color:var(--amber)!important;background:rgba(245,166,35,.06)!important}
 .tc.tcc.selected{border-color:var(--cl)!important;background:rgba(204,120,92,.06)!important}
 .ss2{position:absolute;top:0;left:0;bottom:0;width:3px;border-radius:8px 0 0 8px}
@@ -82,21 +107,31 @@ aside{width:var(--sw);min-width:var(--sw);background:var(--sb);border-right:1px 
 .tc.tcc.selected .tc-cb{background:var(--cl);border-color:var(--cl)}
 .tbadges{display:flex;gap:5px;flex-wrap:wrap;margin-bottom:8px}
 .b{display:inline-flex;align-items:center;gap:3px;padding:2px 6px;border-radius:3px;font-size:9px;font-weight:600;border:1px solid transparent}
-.bs{background:var(--ed);border-color:var(--eb);color:var(--em)}.br{background:var(--bld);border-color:var(--blb);color:var(--bl)}.bw{background:var(--ad);border-color:var(--ab);color:var(--amber)}.bp{background:var(--pud);border-color:var(--pub);color:var(--pu)}.bhv{background:var(--ad);border-color:var(--ab);color:var(--amber)}.bcl{background:var(--cld);border-color:var(--clb);color:var(--cl)}.bcat{background:rgba(255,255,255,.05);border-color:var(--border);color:var(--muted2)}
-.dot{width:5px;height:5px;border-radius:50%;display:inline-block}.ds{background:var(--em)}.dr{background:var(--bl);animation:pulse 1.5s infinite}.dw{background:var(--amber);animation:pulse 1.5s infinite}
+.bs{background:var(--ed);border-color:var(--eb);color:var(--em)}
+.br{background:var(--bld);border-color:var(--blb);color:var(--bl)}
+.bw{background:var(--ad);border-color:var(--ab);color:var(--amber)}
+.bp{background:var(--pud);border-color:var(--pub);color:var(--pu)}
+.bhv{background:var(--ad);border-color:var(--ab);color:var(--amber)}
+.bcl{background:var(--cld);border-color:var(--clb);color:var(--cl)}
+.bcat{background:rgba(255,255,255,.05);border-color:var(--border);color:var(--muted2)}
+.dot{width:5px;height:5px;border-radius:50%;display:inline-block}
+.ds{background:var(--em)}.dr{background:var(--bl);animation:pulse 1.5s infinite}.dw{background:var(--amber);animation:pulse 1.5s infinite}
 @keyframes pulse{0%,100%{opacity:1}50%{opacity:.4}}
 .ttitle{font-size:13px;font-weight:600;line-height:1.35;color:var(--text);margin-bottom:8px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;padding-left:6px}
 .tc.tm:hover .ttitle{color:var(--amber)}.tc.tcc:hover .ttitle{color:var(--cl)}
 .tmeta{display:flex;align-items:center;gap:10px;font-size:10px;color:var(--muted);font-family:var(--fm);flex-wrap:wrap;padding-left:6px}
 .lt{width:100%;border-collapse:collapse;border:1px solid var(--border);border-radius:8px;overflow:hidden}
-.lt th{text-align:left;padding:8px 12px;font-size:9px;font-weight:700;text-transform:uppercase;color:var(--muted);background:rgba(19,22,37,.8);border-bottom:1px solid var(--border)}
+.lt th{text-align:left;padding:8px 12px;font-size:9px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);background:rgba(19,22,37,.8);border-bottom:1px solid var(--border)}
 .lt td{padding:8px 12px;border-bottom:1px solid rgba(255,255,255,.04);font-size:12px;vertical-align:middle}
-.lt tr:last-child td{border-bottom:none}.lt tr{cursor:pointer}.lt tr:hover td{background:rgba(255,255,255,.02)}
+.lt tr:last-child td{border-bottom:none}
+.lt tr{cursor:pointer;transition:background .1s}
+.lt tr:hover td{background:rgba(255,255,255,.02)}
 .ltt{font-weight:500;color:var(--text);max-width:300px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .lt tr.trm:hover .ltt{color:var(--amber)}.lt tr.trc:hover .ltt{color:var(--cl)}
 #lmw{text-align:center;margin-top:20px}
 .lmb{padding:8px 24px;border-radius:6px;border:1px solid var(--border2);background:none;color:var(--muted2);font-size:12px;cursor:pointer;font-family:var(--fd)}
-#repos-page{display:none}
+.lmb:hover{border-color:var(--ab);color:var(--amber)}
+#repos-page,#del-page{display:none}
 .repos-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:10px}
 .rcard{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:14px;text-decoration:none;display:block;transition:border-color .15s}
 .rcard:hover{border-color:var(--ab)}
@@ -108,31 +143,36 @@ aside{width:var(--sw);min-width:var(--sw);background:var(--sb);border-right:1px 
 .rfb{padding:5px 12px;border-radius:20px;font-size:11px;font-weight:600;cursor:pointer;border:1px solid var(--border2);background:none;color:var(--muted2);font-family:var(--fd)}
 .rfb.on{background:var(--ad);border-color:var(--ab);color:var(--amber)}
 .rsch{height:32px;background:var(--card);border:1px solid var(--border2);border-radius:6px;padding:0 12px;font-size:12px;color:var(--text);font-family:var(--fd);outline:none;width:200px;margin-left:auto}
-#del-page{display:none}
-.del-card{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:14px;display:flex;align-items:flex-start;justify-content:space-between;gap:12px;opacity:.75}
-.del-title{font-size:13px;font-weight:600;color:var(--muted2);line-height:1.35;margin-bottom:4px}
-.del-meta{font-size:10px;color:var(--muted);font-family:var(--fm)}
+.rsch:focus{border-color:var(--ab)}
+.del-card{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:14px;display:flex;align-items:flex-start;justify-content:space-between;gap:12px;opacity:.8}
 .rest-one{padding:4px 10px;border-radius:5px;font-size:11px;font-weight:600;cursor:pointer;border:1px solid var(--eb);background:var(--ed);color:var(--em);font-family:var(--fd);white-space:nowrap}
 .rest-all{padding:6px 14px;border-radius:6px;font-size:12px;font-weight:600;cursor:pointer;border:1px solid var(--eb);background:var(--ed);color:var(--em);font-family:var(--fd)}
-#po{position:fixed;inset:0;background:rgba(0,0,0,.5);z-index:50;opacity:0;pointer-events:none;transition:opacity .2s}#po.open{opacity:1;pointer-events:all}
-#panel{position:fixed;right:0;top:0;bottom:0;width:420px;max-width:90vw;background:var(--sb);border-left:1px solid var(--border2);z-index:51;transform:translateX(100%);transition:transform .25s cubic-bezier(.4,0,.2,1);overflow-y:auto;padding:20px}#panel.open{transform:translateX(0)}
+#po{position:fixed;inset:0;background:rgba(0,0,0,.5);z-index:50;opacity:0;pointer-events:none;transition:opacity .2s}
+#po.open{opacity:1;pointer-events:all}
+#panel{position:fixed;right:0;top:0;bottom:0;width:420px;max-width:90vw;background:var(--sb);border-left:1px solid var(--border2);z-index:51;transform:translateX(100%);transition:transform .25s cubic-bezier(.4,0,.2,1);overflow-y:auto;padding:20px}
+#panel.open{transform:translateX(0)}
 .psb{height:3px;border-radius:2px;margin-bottom:16px}
 .pc{position:absolute;top:14px;right:14px;width:28px;height:28px;display:flex;align-items:center;justify-content:center;border-radius:5px;cursor:pointer;border:none;background:rgba(255,255,255,.06);color:var(--muted);font-size:16px}
 .pg{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:14px}
 .pce{background:var(--card);border:1px solid var(--border);border-radius:7px;padding:10px}
-.pcel{font-size:9px;font-weight:700;text-transform:uppercase;color:var(--muted);margin-bottom:5px}
-.pcev{font-size:18px;font-weight:700;font-family:var(--fm)}.pcev.a{color:var(--amber)}.pcev.cl{color:var(--cl)}.pcev.sm{font-size:12px;font-weight:500;margin-top:3px;font-family:var(--fd)}
+.pcel{font-size:9px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin-bottom:5px}
+.pcev{font-size:18px;font-weight:700;font-family:var(--fm)}
+.pcev.a{color:var(--amber)}.pcev.cl{color:var(--cl)}.pcev.sm{font-size:12px;font-weight:500;margin-top:3px;font-family:var(--fd)}
 .pr{background:var(--card);border:1px solid var(--border);border-radius:7px;padding:10px 12px;display:flex;align-items:flex-start;justify-content:space-between;gap:10px;margin-bottom:6px}
-.prk{font-size:11px;color:var(--muted);white-space:nowrap}.prv{font-size:11px;font-weight:500;color:var(--text);text-align:right}
+.prk{font-size:11px;color:var(--muted);white-space:nowrap}
+.prv{font-size:11px;font-weight:500;color:var(--text);text-align:right}
 .prv.lnk{color:var(--amber);text-decoration:none;font-size:10px}.prv.lnk:hover{text-decoration:underline}.prv.lnk.cl{color:var(--cl)}
 .dbox{background:var(--card);border:1px solid var(--border);border-radius:7px;padding:12px;margin-bottom:14px;font-size:12px;color:var(--muted2);line-height:1.6}
 .tw{display:flex;gap:5px;flex-wrap:wrap;margin-bottom:14px}
 .tag{padding:2px 7px;border-radius:3px;font-size:10px;background:rgba(255,255,255,.05);border:1px solid var(--border);color:var(--muted2)}
 .pbtns{display:flex;gap:8px}
-.pbtn{flex:1;padding:9px;border-radius:7px;font-size:12px;font-weight:600;cursor:pointer;display:flex;align-items:center;justify-content:center;text-decoration:none;font-family:var(--fd);border:1px solid}
-.pa{background:var(--ad);border-color:var(--ab);color:var(--amber)}.pcl{background:var(--cld);border-color:var(--clb);color:var(--cl)}.pbl{background:var(--bld);border-color:var(--blb);color:var(--bl)}
+.pbtn{flex:1;padding:9px;border-radius:7px;font-size:12px;font-weight:600;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:6px;text-decoration:none;font-family:var(--fd);border:1px solid}
+.pa{background:var(--ad);border-color:var(--ab);color:var(--amber)}
+.pcl{background:var(--cld);border-color:var(--clb);color:var(--cl)}
+.pbl{background:var(--bld);border-color:var(--blb);color:var(--bl)}
 .pid{font-size:9px;color:var(--muted);text-align:center;margin-top:10px;font-family:var(--fm)}
-#empty{display:none;flex-direction:column;align-items:center;justify-content:center;padding:60px;text-align:center}#empty.show{display:flex}
+#empty{display:none;flex-direction:column;align-items:center;justify-content:center;padding:60px;text-align:center}
+#empty.show{display:flex}
 #footer{border-top:1px solid var(--border);padding:8px 20px;display:flex;align-items:center;justify-content:space-between;font-size:10px;color:var(--muted);font-family:var(--fm)}
 .spn{width:18px;height:18px;border:2px solid var(--border);border-top-color:var(--amber);border-radius:50%;animation:spin 1s linear infinite;display:inline-block}
 @keyframes spin{to{transform:rotate(360deg)}}
@@ -143,48 +183,70 @@ aside{width:var(--sw);min-width:var(--sw);background:var(--sb);border-right:1px 
 <body>
 <div id="app">
 <aside>
-  <div class="brand"><div class="lrow"><div class="logo m" id="slogo">⚡</div><div><div class="stitle m" id="stitle">TASKS DASHBOARD</div><div class="ssub">Brandon Rose</div></div></div></div>
+  <div class="brand">
+    <div class="lrow">
+      <div class="logo m" id="slogo">⚡</div>
+      <div><div class="stitle m" id="stitle">TASKS DASHBOARD</div><div class="ssub">Brandon Rose</div></div>
+    </div>
+  </div>
   <div class="srctog">
-    <button class="srb am" id="srcm" onclick="setSrc('manus')"><b style="font-size:10px">M</b>&nbsp;Manus</button>
-    <button class="srb" id="srcc" onclick="setSrc('claude')"><b style="font-size:10px">C</b>&nbsp;Claude</button>
+    <button class="srb am" id="srcm" onclick="setSrc('manus')"><b style="font-size:10px">M</b> Manus</button>
+    <button class="srb" id="srcc" onclick="setSrc('claude')"><b style="font-size:10px">C</b> Claude</button>
   </div>
   <div class="snav" style="margin-top:6px">
-    <button class="nb am" id="navt" onclick="showTasks()"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M9 9h6M9 12h6M9 15h4"/></svg>All Tasks<span class="bdg" id="ntc">635</span></button>
-    <button class="nb" id="navr" onclick="showRepos()"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/></svg>GitHub Repos<span class="bdg" id="repo-count">61</span></button>
-    <button class="nb" id="nav-del" onclick="showDeleted()"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="3 6 5 6 21 6"/><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6"/><path d="M10 11v6M14 11v6"/><path d="M9 6V4h6v2"/></svg>Deleted<span class="bdg" id="del-count">0</span></button>
+    <button class="nb am" id="navt" onclick="showTasks()">
+      <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M9 9h6M9 12h6M9 15h4"/></svg>
+      All Tasks <span class="bdg" id="ntc">635</span>
+    </button>
+    <button class="nb" id="navr" onclick="showRepos()">
+      <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/></svg>
+      GitHub Repos <span class="bdg" id="repo-count">—</span>
+    </button>
+    <button class="nb" id="nav-del" onclick="showDeleted()">
+      <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="3 6 5 6 21 6"/><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6"/><path d="M10 11v6M14 11v6"/><path d="M9 6V4h6v2"/></svg>
+      Deleted <span class="bdg" id="del-count">0</span>
+    </button>
   </div>
   <div class="sstats">
     <div class="stl">Overview</div>
     <div class="sgrid">
       <div class="scard"><div class="sval" id="stot" style="color:var(--amber)">635</div><div class="slbl">Total</div></div>
-      <div class="scard"><div class="sval" id="smet" style="color:var(--amber)">281k</div><div class="slbl" id="smetl">Credits</div></div>
-      <div class="scard"><div class="sval" id="sdon" style="color:var(--em)">99</div><div class="slbl">Done</div></div>
-      <div class="scard"><div class="sval" id="s4th" style="color:var(--pu)">19</div><div class="slbl" id="s4thl">Projects</div></div>
+      <div class="scard"><div class="sval" id="smet" style="color:var(--amber)">—</div><div class="slbl" id="smetl">Credits</div></div>
+      <div class="scard"><div class="sval" id="sdon" style="color:var(--em)">—</div><div class="slbl">Done</div></div>
+      <div class="scard"><div class="sval" id="s4th" style="color:var(--pu)">—</div><div class="slbl" id="s4thl">Projects</div></div>
     </div>
   </div>
   <div class="sscroll">
     <div id="mf">
-      <div style="margin-bottom:12px"><div class="stl">Status</div>
+      <div style="margin-bottom:12px">
+        <div class="stl">Status</div>
         <button class="fc" id="fc-stopped" onclick="tf('status','stopped')"><span class="dot ds"></span>Completed<span class="cc" id="c-stopped">0</span></button>
         <button class="fc" id="fc-waiting" onclick="tf('status','waiting')"><span class="dot dw"></span>Waiting<span class="cc" id="c-waiting">0</span></button>
         <button class="fc" id="fc-running" onclick="tf('status','running')"><span class="dot dr"></span>Running<span class="cc" id="c-running">0</span></button>
       </div>
-      <div style="margin-bottom:12px"><div class="stl">Type</div>
+      <div style="margin-bottom:12px">
+        <div class="stl">Type</div>
         <button class="fc" id="fc-standard" onclick="tf('type','standard')">Standard<span class="cc" id="c-standard">0</span></button>
         <button class="fc" id="fc-project" onclick="tf('type','project')">Project<span class="cc" id="c-project">0</span></button>
         <button class="fc" id="fc-agent_subtask" onclick="tf('type','agent_subtask')">Subtask<span class="cc" id="c-agent_subtask">0</span></button>
       </div>
-      <div style="margin-bottom:12px"><div class="stl">Agent</div>
+      <div style="margin-bottom:12px">
+        <div class="stl">Agent</div>
         <button class="fc" id="fc-m16" onclick="tf('agent','manus-1.6')">Manus 1.6<span class="cc" id="c-manus-1.6">0</span></button>
         <button class="fc" id="fc-m16l" onclick="tf('agent','manus-1.6-lite')">1.6 Lite<span class="cc" id="c-manus-1.6-lite">0</span></button>
         <button class="fc" id="fc-m16m" onclick="tf('agent','manus-1.6-max')">1.6 Max<span class="cc" id="c-manus-1.6-max">0</span></button>
       </div>
-      <div><div class="stl">Options</div>
-        <button class="fc" id="fc-hs" onclick="toggleHS()"><span id="hschk" style="width:12px;height:12px;border:1px solid var(--muted);border-radius:2px;display:inline-flex;align-items:center;justify-content:center;font-size:8px"></span>Hide Research Subtasks</button>
+      <div>
+        <div class="stl">Options</div>
+        <button class="fc" id="fc-hs" onclick="toggleHS()">
+          <span id="hschk" style="width:12px;height:12px;border:1px solid var(--muted);border-radius:2px;display:inline-flex;align-items:center;justify-content:center;font-size:8px"></span>
+          Hide Research Subtasks
+        </button>
       </div>
     </div>
     <div id="cf" style="display:none">
-      <div style="margin-bottom:12px"><div class="stl">Type</div>
+      <div style="margin-bottom:12px">
+        <div class="stl">Type</div>
         <button class="fc" id="cfc-build" onclick="ctf('type','build')">Build<span class="cc" id="cc-build">0</span></button>
         <button class="fc" id="cfc-automation" onclick="ctf('type','automation')">Automation<span class="cc" id="cc-automation">0</span></button>
         <button class="fc" id="cfc-research" onclick="ctf('type','research')">Research<span class="cc" id="cc-research">0</span></button>
@@ -192,43 +254,96 @@ aside{width:var(--sw);min-width:var(--sw);background:var(--sb);border-right:1px 
         <button class="fc" id="cfc-writing" onclick="ctf('type','writing')">Writing<span class="cc" id="cc-writing">0</span></button>
         <button class="fc" id="cfc-devops" onclick="ctf('type','devops')">DevOps<span class="cc" id="cc-devops">0</span></button>
       </div>
-      <div><div class="stl">Domain</div>
+      <div>
+        <div class="stl">Domain</div>
         <button class="fc" id="cfc-pm" onclick="ctf('cat','Property Management')">Property Mgmt<span class="cc" id="cc-pm">0</span></button>
-        <button class="fc" id="cfc-da" onclick="ctf('cat','Dashboards & Analytics')">Dashboards<span class="cc" id="cc-da">0</span></button>
-        <button class="fc" id="cfc-at" onclick="ctf('cat','Apps & Tools')">Apps &amp; Tools<span class="cc" id="cc-at">0</span></button>
-        <button class="fc" id="cfc-ops" onclick="ctf('cat','Operations & Strategy')">Operations<span class="cc" id="cc-ops">0</span></button>
-        <button class="fc" id="cfc-doc" onclick="ctf('cat','Documents & Templates')">Documents<span class="cc" id="cc-doc">0</span></button>
+        <button class="fc" id="cfc-da" onclick="ctf('cat','Dashboards &amp; Analytics')">Dashboards<span class="cc" id="cc-da">0</span></button>
+        <button class="fc" id="cfc-at" onclick="ctf('cat','Apps &amp; Tools')">Apps &amp; Tools<span class="cc" id="cc-at">0</span></button>
+        <button class="fc" id="cfc-ops" onclick="ctf('cat','Operations &amp; Strategy')">Operations<span class="cc" id="cc-ops">0</span></button>
+        <button class="fc" id="cfc-doc" onclick="ctf('cat','Documents &amp; Templates')">Documents<span class="cc" id="cc-doc">0</span></button>
       </div>
     </div>
   </div>
-  <button class="clrbtn" id="clrbtn" onclick="clearAll()" style="display:none"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 6 6 18M6 6l12 12"/></svg>Clear filters<span class="cc" id="afc" style="margin-left:auto">0</span></button>
+  <button class="clrbtn" id="clrbtn" onclick="clearAll()" style="display:none">
+    <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 6 6 18M6 6l12 12"/></svg>
+    Clear filters <span class="cc" id="afc" style="margin-left:auto">0</span>
+  </button>
 </aside>
 <div id="main">
   <div id="tb">
-    <div class="sw"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg><input type="text" id="search" placeholder="Search tasks… (⌘K)" oninput="onSearch(this.value)"></div>
-    <select class="ssel" id="ssel" onchange="onSort(this.value)"><option value="newest">Newest First</option><option value="oldest">Oldest First</option><option value="credits">Most Credits</option></select>
-    <div class="vtog"><button class="vbtn on" id="vbg" onclick="setView('grid')" title="Grid"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg></button><button class="vbtn" id="vbl" onclick="setView('list')" title="List"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M8 6h13M8 12h13M8 18h13M3 6h.01M3 12h.01M3 18h.01"/></svg></button></div>
+    <div class="sw">
+      <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+      <input type="text" id="search" placeholder="Search tasks… (⌘K)" oninput="onSearch(this.value)">
+    </div>
+    <select class="ssel" id="ssel" onchange="onSort(this.value)">
+      <option value="newest">Newest First</option>
+      <option value="oldest">Oldest First</option>
+      <option value="credits">Most Credits</option>
+    </select>
+    <div class="vtog">
+      <button class="vbtn on" id="vbg" onclick="setView('grid')" title="Grid">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>
+      </button>
+      <button class="vbtn" id="vbl" onclick="setView('list')" title="List">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M8 6h13M8 12h13M8 18h13M3 6h.01M3 12h.01M3 18h.01"/></svg>
+      </button>
+    </div>
     <div class="rc"><span id="cd">635</span> / <span id="tot">635</span></div>
   </div>
   <div id="content">
-    <div class="sel-bar" id="sel-bar"><span class="sel-count" id="sel-count">0 selected</span><button class="sa-btn" onclick="selectAll()">Select All</button><button class="clr-sel" onclick="clearSel()">✕ Clear</button><button class="del-sel-btn" onclick="deleteSel()"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="3 6 5 6 21 6"/><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6"/><path d="M10 11v6M14 11v6"/><path d="M9 6V4h6v2"/></svg>Delete Selected</button></div>
-    <div id="sbar"><div class="sc hlm" id="sc1"><div class="sl" id="sl1">Total Tasks</div><div class="sv" id="sv1">635</div><div class="ss2t">All time</div></div><div class="sc" id="sc2"><div class="sl" id="sl2">Credits Used</div><div class="sv" id="sv2">—</div><div class="ss2t">Across all tasks</div></div><div class="sc"><div class="sl">Completed</div><div class="sv" id="sv3">—</div><div class="ss2t" id="sv3s"></div></div><div class="sc"><div class="sl" id="sl4">Awaiting</div><div class="sv" id="sv4">—</div><div class="ss2t" id="sv4s"></div></div></div>
-    <div id="cw"><div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:10px"><span style="font-size:12px;font-weight:600">Task Activity</span><span style="font-size:10px;color:var(--muted);font-family:var(--fm)">Last 8 months</span></div><div id="cb"></div></div>
+    <div class="sel-bar" id="sel-bar">
+      <span class="sel-count" id="sel-count">0 selected</span>
+      <button class="sa-btn" onclick="selectAll()">Select All</button>
+      <button class="clr-sel" onclick="clearSel()">✕ Clear</button>
+      <button class="del-sel-btn" onclick="deleteSel()">
+        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="3 6 5 6 21 6"/><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6"/><path d="M10 11v6M14 11v6"/><path d="M9 6V4h6v2"/></svg>
+        Delete Selected
+      </button>
+    </div>
+    <div id="sbar">
+      <div class="sc hlm" id="sc1"><div class="sl" id="sl1">Total Tasks</div><div class="sv" id="sv1">635</div><div class="ss3">All time</div></div>
+      <div class="sc"><div class="sl" id="sl2">Credits Used</div><div class="sv" id="sv2">—</div><div class="ss3">Across all tasks</div></div>
+      <div class="sc"><div class="sl">Completed</div><div class="sv" id="sv3">—</div><div class="ss3" id="sv3s"></div></div>
+      <div class="sc"><div class="sl" id="sl4">Awaiting</div><div class="sv" id="sv4">—</div><div class="ss3" id="sv4s"></div></div>
+    </div>
+    <div id="cw">
+      <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:10px">
+        <span style="font-size:12px;font-weight:600">Task Activity</span>
+        <span style="font-size:10px;color:var(--muted);font-family:var(--fm)">Last 8 months</span>
+      </div>
+      <div id="cb"></div>
+    </div>
     <div id="fp"></div>
     <div id="tg"></div>
     <div id="empty"><svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" style="opacity:.2;margin-bottom:12px"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg><p style="color:var(--muted);font-size:13px">No tasks match</p></div>
     <div id="lmw" style="display:none"><button class="lmb" onclick="loadMore()" id="lmb">Load more</button></div>
     <div id="repos-page" style="display:none">
-      <div style="margin-bottom:16px;display:flex;align-items:flex-end;justify-content:space-between;flex-wrap:wrap;gap:10px"><div><div style="font-size:20px;font-weight:700;margin-bottom:4px">GitHub Repositories</div><div style="font-size:12px;color:var(--muted)">@BrandonRose2 · <span id="repo-total">Loading...</span></div></div><input type="text" class="rsch" id="rsch" placeholder="Search repos…" oninput="renderRepos()"></div>
-      <div class="rfrow"><button class="rfb on" id="rfb-all" onclick="setRF('all')">All</button><button class="rfb" id="rfb-public" onclick="setRF('public')">Public</button><button class="rfb" id="rfb-private" onclick="setRF('private')">Private</button><button class="rfb" id="rfb-forked" onclick="setRF('forked')">Forked</button></div>
+      <div style="margin-bottom:16px;display:flex;align-items:flex-end;justify-content:space-between;flex-wrap:wrap;gap:10px">
+        <div><div style="font-size:20px;font-weight:700;margin-bottom:4px">GitHub Repositories</div>
+        <div style="font-size:12px;color:var(--muted)">@BrandonRose2 · <span id="repo-total">Loading...</span></div></div>
+        <input type="text" class="rsch" id="rsch" placeholder="Search repos…" oninput="renderRepos()">
+      </div>
+      <div class="rfrow">
+        <button class="rfb on" id="rfb-all" onclick="setRF('all')">All</button>
+        <button class="rfb" id="rfb-public" onclick="setRF('public')">Public</button>
+        <button class="rfb" id="rfb-private" onclick="setRF('private')">Private</button>
+        <button class="rfb" id="rfb-forked" onclick="setRF('forked')">Forked</button>
+      </div>
       <div id="repos-grid" class="repos-grid"><div style="padding:40px;display:flex;align-items:center;gap:10px;color:var(--muted)"><span class="spn"></span>&nbsp;Loading...</div></div>
     </div>
     <div id="del-page" style="display:none">
-      <div style="display:flex;align-items:flex-end;justify-content:space-between;margin-bottom:16px;flex-wrap:wrap;gap:10px"><div><div style="font-size:20px;font-weight:700;margin-bottom:4px">🗑 Deleted Tasks</div><div style="font-size:12px;color:var(--muted)" id="del-sub">Stored locally in your browser</div></div><button class="rest-all" onclick="restoreAll()">↩ Restore All</button></div>
+      <div style="display:flex;align-items:flex-end;justify-content:space-between;margin-bottom:16px;flex-wrap:wrap;gap:10px">
+        <div><div style="font-size:20px;font-weight:700;margin-bottom:4px">🗑 Deleted Tasks</div>
+        <div style="font-size:12px;color:var(--muted)" id="del-sub">Stored locally in your browser</div></div>
+        <button class="rest-all" onclick="restoreAll()">↩ Restore All</button>
+      </div>
       <div id="del-grid" style="display:flex;flex-direction:column;gap:8px"></div>
     </div>
   </div>
-  <div id="footer"><span>Built 2026-08-31 · 635 Manus · 22 Claude · brandonrose2.github.io/tasks-dashboard</span></div>
+  <div id="footer">
+    <span>Built 2026-08-31 · Brandon Rose · 635 Manus · 22 Claude</span>
+    <span>brandonrose2.github.io/tasks-dashboard</span>
+  </div>
 </div>
 </div>
 <div id="po" onclick="closePanel()"></div>
@@ -253,19 +368,21 @@ const TL={standard:'Standard',project:'Project',agent_subtask:'Subtask',build:'B
 const MST={stopped:{l:'Completed',bc:'bs',dc:'ds'},running:{l:'Running',bc:'br',dc:'dr'},waiting:{l:'Waiting',bc:'bw',dc:'dw'}};
 const S={src:'manus',q:'',sort:'newest',view:'grid',mf:{status:null,type:null,agent:null},cf:{type:null,cat:null},page:1,ps:60,hs:false};
 const fk=n=>n>=1000?(n/1000).toFixed(1)+'k':String(n);
-const fd=d=>d?new Date(d+'T00:00:00').toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'}):'—';
+const fd=d=>d?new Date(d+'T00:00:00').toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'}):'-';
 const isSub=t=>t.title==='Wide Research Subtask'||t.type==='agent_subtask';
 const cur=()=>S.src==='manus'?MANUS:CLAUDE;
 var DELETED_M=new Set(JSON.parse(localStorage.getItem('dm')||'[]'));
 var DELETED_C=new Set(JSON.parse(localStorage.getItem('dc')||'[]'));
 var SELECTED=new Set();
 function saveDel(){localStorage.setItem('dm',JSON.stringify([...DELETED_M]));localStorage.setItem('dc',JSON.stringify([...DELETED_C]));}
-function updateDelCount(){const n=DELETED_M.size+DELETED_C.size;const e=document.getElementById('del-count');if(e)e.textContent=n;document.getElementById('nav-del').className='nb'+(n>0?' ar':'');}
+function updateDelCount(){const n=DELETED_M.size+DELETED_C.size;const e=document.getElementById('del-count');if(e)e.textContent=n;const nb=document.getElementById('nav-del');if(nb)nb.className='nb'+(n>0?' ar':'');}
 function getFilt(){
-  let l=cur().slice();const iM=S.src==='manus';
-  const del=iM?DELETED_M:DELETED_C;if(del.size)l=l.filter(t=>!del.has(t.num));
+  let l=cur().slice();
+  const iM=S.src==='manus';
+  if(iM&&DELETED_M.size)l=l.filter(t=>!DELETED_M.has(t.num));
+  if(!iM&&DELETED_C.size)l=l.filter(t=>!DELETED_C.has(t.num));
   if(iM&&S.hs)l=l.filter(t=>!isSub(t));
-  if(S.q){const q=S.q.toLowerCase();l=l.filter(t=>t.title.toLowerCase().includes(q)||(t.description||'').toLowerCase().includes(q));}
+  if(S.q){const q=S.q.toLowerCase();l=l.filter(t=>t.title.toLowerCase().includes(q)||(t.description||''). toLowerCase().includes(q));}
   if(iM){
     if(S.mf.status)l=l.filter(t=>t.status===S.mf.status);
     if(S.mf.type)l=l.filter(t=>t.type===S.mf.type);
@@ -281,31 +398,40 @@ function getFilt(){
   return l;
 }
 function setSrc(src){
-  S.src=src;S.page=1;S.mf={status:null,type:null,agent:null};S.cf={type:null,cat:null};S.q='';
-  document.getElementById('search').value='';SELECTED.clear();updateSelUI();
+  S.src=src;S.page=1;S.mf={status:null,type:null,agent:null};S.cf={type:null,cat:null};
+  S.q='';document.getElementById('search').value='';
+  SELECTED.clear();updateSelUI();
   const iM=src==='manus';
-  document.getElementById('slogo').className='logo '+(iM?'m':'c');document.getElementById('slogo').textContent=iM?'⚡':'◆';
+  document.getElementById('slogo').className='logo '+(iM?'m':'c');
+  document.getElementById('slogo').textContent=iM?'⚡':'◆';
   document.getElementById('stitle').className='stitle '+(iM?'m':'c');
-  document.getElementById('srcm').className='srb '+(iM?'am':'');document.getElementById('srcc').className='srb '+(iM?'':'ac');
-  document.getElementById('mf').style.display=iM?'block':'none';document.getElementById('cf').style.display=iM?'none':'block';
+  document.getElementById('srcm').className='srb '+(iM?'am':'');
+  document.getElementById('srcc').className='srb '+(iM?'':' ac');
+  document.getElementById('mf').style.display=iM?'block':'none';
+  document.getElementById('cf').style.display=iM?'none':'block';
   document.getElementById('ssel').style.display=iM?'block':'none';
   document.getElementById('sc1').className='sc '+(iM?'hlm':'hlc');
   document.getElementById('sv1').style.color=iM?'var(--amber)':'var(--cl)';
   document.getElementById('stot').style.color=iM?'var(--amber)':'var(--cl)';
   document.getElementById('smet').style.color=iM?'var(--amber)':'var(--cl)';
-  document.getElementById('sl2').textContent=iM?'Credits Used':'Conversations';
+  document.getElementById('sl2').textContent=iM?'Credits Used':'Sessions';
   document.getElementById('sl4').textContent=iM?'Awaiting':'Builds';
-  document.getElementById('smetl').textContent=iM?'Credits':'Convos';
+  document.getElementById('smetl').textContent=iM?'Credits':'Sessions';
   document.getElementById('s4thl').textContent=iM?'Projects':'Builds';
   showTasks();
 }
 function render(){
   const tasks=cur(),filt=getFilt(),iM=S.src==='manus',total=tasks.length;
-  document.getElementById('stot').textContent=total;document.getElementById('ntc').textContent=filt.length;
-  document.getElementById('cd').textContent=filt.length;document.getElementById('tot').textContent=total;
+  document.getElementById('stot').textContent=total;
+  document.getElementById('ntc').textContent=filt.length;
+  document.getElementById('cd').textContent=filt.length;
+  document.getElementById('tot').textContent=total;
   if(iM){
     const tc=tasks.reduce((s,t)=>s+(t.credits||0),0);
-    const done=tasks.filter(t=>t.status==='stopped').length,wait=tasks.filter(t=>t.status==='waiting').length,run=tasks.filter(t=>t.status==='running').length,proj=tasks.filter(t=>t.type==='project').length;
+    const done=tasks.filter(t=>t.status==='stopped').length;
+    const wait=tasks.filter(t=>t.status==='waiting').length;
+    const run=tasks.filter(t=>t.status==='running').length;
+    const proj=tasks.filter(t=>t.type==='project').length;
     document.getElementById('smet').textContent=fk(tc);document.getElementById('sdon').textContent=done;document.getElementById('s4th').textContent=proj;
     document.getElementById('sv1').textContent=total;document.getElementById('sv2').textContent=fk(tc);document.getElementById('sv3').textContent=done;
     document.getElementById('sv3s').textContent=Math.round(done/total*100)+'% completion';document.getElementById('sv4').textContent=wait;document.getElementById('sv4s').textContent=run+' running';
@@ -315,7 +441,8 @@ function render(){
     ['standard','project','agent_subtask'].forEach(k=>{const e=document.getElementById('fc-'+k);if(e)e.className='fc'+(S.mf.type===k?' am':'');});
     [['m16','manus-1.6'],['m16l','manus-1.6-lite'],['m16m','manus-1.6-max']].forEach(([id,k])=>{const e=document.getElementById('fc-'+id);if(e)e.className='fc'+(S.mf.agent===k?' am':'');});
   }else{
-    const done=tasks.filter(t=>t.status==='completed').length,builds=tasks.filter(t=>t.type==='build').length;
+    const done=tasks.filter(t=>t.status==='completed').length;
+    const builds=tasks.filter(t=>t.type==='build').length;
     document.getElementById('smet').textContent=total;document.getElementById('sdon').textContent=done;document.getElementById('s4th').textContent=builds;
     document.getElementById('sv1').textContent=total;document.getElementById('sv2').textContent=total;document.getElementById('sv3').textContent=done;
     document.getElementById('sv3s').textContent=Math.round(done/total*100)+'% completion';document.getElementById('sv4').textContent=builds;document.getElementById('sv4s').textContent='builds & apps';
@@ -325,7 +452,8 @@ function render(){
     [['pm','Property Management'],['da','Dashboards & Analytics'],['at','Apps & Tools'],['ops','Operations & Strategy'],['doc','Documents & Templates']].forEach(([id,cat])=>{const e=document.getElementById('cfc-'+id);if(e)e.className='fc'+(S.cf.cat===cat?' ac':'');});
   }
   const ac=(iM?Object.values(S.mf):Object.values(S.cf)).filter(Boolean).length+(S.q?1:0);
-  document.getElementById('clrbtn').style.display=ac>0?'flex':'none';document.getElementById('afc').textContent=ac;
+  document.getElementById('clrbtn').style.display=ac>0?'flex':'none';
+  document.getElementById('afc').textContent=ac;
   const pe=document.getElementById('fp');pe.innerHTML='';
   if(S.q)pe.innerHTML+=`<span class="pill${!iM?' c':''}">"${S.q}"<button class="px" onclick="clearSearch()">✕</button></span>`;
   if(iM){if(S.mf.status)pe.innerHTML+=`<span class="pill">${MST[S.mf.status]?.l}<button class="px" onclick="tf('status','${S.mf.status}')">✕</button></span>`;if(S.mf.type)pe.innerHTML+=`<span class="pill">${TL[S.mf.type]||S.mf.type}<button class="px" onclick="tf('type','${S.mf.type}')">✕</button></span>`;if(S.mf.agent)pe.innerHTML+=`<span class="pill">${AL[S.mf.agent]||S.mf.agent}<button class="px" onclick="tf('agent','${S.mf.agent}')">✕</button></span>`;}
@@ -345,24 +473,35 @@ function mCard(t){
   const cb='<div class="tc-cb'+(sel?' chk':'')+'" onclick="toggleSel('+t.num+',true,event)">'+(sel?'✓':'')+'</div>';
   if(sub)return'<div class="tc tm'+(sel?' selected':'')+'" data-key="'+key+'" onclick="cardClick('+t.num+',true,event)">'+cb+'<div style="padding:8px 14px"><span style="font-size:11px;color:var(--muted)">↳ Subtask · '+fk(t.credits||0)+' cr</span></div></div>';
   const st=MST[t.status]||MST.stopped;
-  return'<div class="tc tm'+(sel?' selected':'')+'" data-key="'+key+'" onclick="cardClick('+t.num+',true,event)"><div class="ss2 m"></div>'+cb+
-    '<div class="tbadges"><span class="b '+st.bc+'"><span class="dot '+st.dc+'"></span> '+st.l+'</span>'+(t.type==='project'?'<span class="b bp">Project</span>':'')+(t.credits>1000?'<span class="b bhv">★ High Value</span>':'')+
-    '</div><div class="ttitle">'+t.title+'</div><div class="tmeta"><span>'+(AL[t.agent]||t.agent)+'</span><span style="'+(t.credits>500?'color:var(--amber);opacity:.8':'')+'">'+(fk(t.credits||0))+' cr</span><span>'+fd(t.created)+'</span></div></div>';
+  return'<div class="tc tm'+(sel?' selected':'')+'" data-key="'+key+'" onclick="cardClick('+t.num+',true,event)">'
+    +'<div class="ss2 m"></div>'+cb
+    +'<div class="tbadges"><span class="b '+st.bc+'"><span class="dot '+st.dc+'"></span> '+st.l+'</span>'
+    +(t.type==='project'?'<span class="b bp">Project</span>':'')
+    +(t.credits>1000?'<span class="b bhv">★ High Value</span>':'')+'</div>'
+    +'<div class="ttitle">'+t.title+'</div>'
+    +'<div class="tmeta"><span>'+(AL[t.agent]||t.agent)+'</span>'
+    +'<span style="'+(t.credits>500?'color:var(--amber);opacity:.8':'')+'">'+fk(t.credits||0)+' cr</span>'
+    +'<span>'+fd(t.created)+'</span></div></div>';
 }
 function cCard(t){
   const key='c'+t.num;const sel=SELECTED.has(key);const col=CT[t.type]||'var(--cl)';
   const cb='<div class="tc-cb'+(sel?' chk':'')+'" onclick="toggleSel('+t.num+',false,event)">'+(sel?'✓':'')+'</div>';
-  return'<div class="tc tcc'+(sel?' selected':'')+'" data-key="'+key+'" onclick="cardClick('+t.num+',false,event)"><div class="ss2 c"></div>'+cb+
-    '<div class="tbadges"><span class="b bcl">◆ Claude</span><span class="b" style="background:rgba(255,255,255,.05);border-color:var(--border);color:'+col+'">'+(TL[t.type]||t.type)+'</span><span class="b bcat">'+t.category+'</span></div>'+
-    '<div class="ttitle">'+t.title+'</div><div class="tmeta"><span>'+t.category+'</span><span>'+fd(t.created)+'</span></div></div>';
+  return'<div class="tc tcc'+(sel?' selected':'')+'" data-key="'+key+'" onclick="cardClick('+t.num+',false,event)">'
+    +'<div class="ss2 c"></div>'+cb
+    +'<div class="tbadges"><span class="b bcl">◆ Claude</span>'
+    +'<span class="b" style="background:rgba(255,255,255,.05);border-color:var(--border);color:'+col+'">'+（TL[t.type]||t.type)+'</span>'
+    +'<span class="b bcat">'+t.category+'</span></div>'
+    +'<div class="ttitle">'+t.title+'</div>'
+    +'<div class="tmeta"><span>'+t.category+'</span><span>'+fd(t.created)+'</span></div></div>';
 }
-function mRow(t){const st=MST[t.status]||MST.stopped;return`<tr class="trm" onclick="openM(${t.num})"><td style="font-size:10px;color:var(--muted);font-family:var(--fm)">${t.num}</td><td><div class="ltt">${t.title}</div></td><td><span class="b ${st.bc}"><span class="dot ${st.dc}"></span>${st.l}</span></td><td style="font-size:11px;color:var(--muted)">${TL[t.type]||t.type}</td><td style="font-size:10px;color:var(--muted);font-family:var(--fm)">${AL[t.agent]||t.agent}</td><td style="font-size:10px;font-family:var(--fm);${(t.credits||0)>500?'color:var(--amber)':''}">${fk(t.credits||0)}</td><td style="font-size:10px;color:var(--muted)">${fd(t.created)}</td></tr>`;}
+function mRow(t){const st=MST[t.status]||MST.stopped;return`<tr class="trm" onclick="openM(${t.num})"><td style="font-size:10px;color:var(--muted);font-family:var(--fm)">${t.num}</td><td><div class="ltt">${t.title}</div></td><td><span class="b ${st.bc}"><span class="dot ${st.dc}"></span>${st.l}</span></td><td style="font-size:11px;color:var(--muted)">${TL[t.type]||t.type}</td><td style="font-size:10px;color:var(--muted)">${AL[t.agent]||t.agent}</td><td style="font-size:10px;font-family:var(--fm);${(t.credits||0)>500?'color:var(--amber)':''}">${fk(t.credits||0)}</td><td style="font-size:10px;color:var(--muted)">${fd(t.created)}</td></tr>`;}
 function cRow(t){const col=CT[t.type]||'var(--cl)';return`<tr class="trc" onclick="openC(${t.num})"><td style="font-size:10px;color:var(--muted);font-family:var(--fm)">${t.num}</td><td><div class="ltt">${t.title}</div></td><td><span class="b bcl">◆</span></td><td style="color:${col};font-size:11px">${TL[t.type]||t.type}</td><td style="font-size:11px;color:var(--muted)">${t.category}</td><td style="font-size:10px;color:var(--muted)">${fd(t.created)}</td></tr>`;}
 function renderChart(){
   const tasks=cur(),iM=S.src==='manus';
   const bm={};tasks.forEach(t=>{if(!t.created)return;const m=t.created.slice(0,7);bm[m]=(bm[m]||0)+1;});
   const entries=Object.entries(bm).sort(([a],[b])=>a.localeCompare(b)).slice(-8);
-  const max=Math.max(...entries.map(([,v])=>v),1);const bc=iM?'var(--amber)':'var(--cl)';
+  const max=Math.max(...entries.map(([,v])=>v),1);
+  const bc=iM?'var(--amber)':'var(--cl)';
   document.getElementById('cb').innerHTML=entries.map(([m,v],i)=>{
     const pct=Math.max(4,Math.round(v/max*100));
     const lbl=new Date(m+'-15').toLocaleDateString('en-US',{month:'short',year:'2-digit'});
@@ -375,7 +514,7 @@ function selectAll(){getFilt().forEach(t=>SELECTED.add((S.src==='manus'?'m':'c')
 function clearSel(){SELECTED.clear();updateSelUI();render();}
 function deleteSel(){
   if(!SELECTED.size)return;
-  if(!confirm('Delete '+SELECTED.size+' task'+(SELECTED.size>1?'s':'')+' from view? Restore them anytime from the Deleted tab.'))return;
+  if(!confirm('Delete '+SELECTED.size+' task'+(SELECTED.size>1?'s':'')+' from view? You can restore them from the Deleted tab.'))return;
   SELECTED.forEach(key=>{const num=parseInt(key.slice(1));if(key[0]==='m')DELETED_M.add(num);else DELETED_C.add(num);});
   saveDel();SELECTED.clear();updateSelUI();updateDelCount();render();
 }
@@ -387,28 +526,36 @@ function showTasks(){
   if(SELECTED.size>0)document.getElementById('sel-bar').classList.add('show');
   const iM=S.src==='manus';
   document.getElementById('navt').className='nb '+(iM?'am':'ac');
-  document.getElementById('navr').className='nb';updateDelCount();render();
+  document.getElementById('navr').className='nb';
+  document.getElementById('nav-del').className='nb'+(DELETED_M.size+DELETED_C.size>0?' ar':'');
+  render();
 }
 function showRepos(){
   ALLPAGES.forEach(id=>{const e=document.getElementById(id);if(e)e.style.display='none';});
   document.getElementById('repos-page').style.display='block';
-  document.getElementById('navt').className='nb';document.getElementById('navr').className='nb am';document.getElementById('nav-del').className='nb';
+  document.getElementById('navt').className='nb';
+  document.getElementById('navr').className='nb am';
+  document.getElementById('nav-del').className='nb'+(DELETED_M.size+DELETED_C.size>0?' ar':'');
   if(!ALL_REPOS)loadRepos();
 }
 function showDeleted(){
   ALLPAGES.forEach(id=>{const e=document.getElementById(id);if(e)e.style.display='none';});
   document.getElementById('del-page').style.display='block';
-  document.getElementById('navt').className='nb';document.getElementById('navr').className='nb';updateDelCount();renderDeleted();
+  document.getElementById('navt').className='nb';
+  document.getElementById('navr').className='nb';
+  document.getElementById('nav-del').className='nb ar';
+  renderDeleted();
 }
 var ALL_REPOS=null,RF='all';
-const LC={'JavaScript':'#f1e05a','TypeScript':'#2b7489','Python':'#3572A5','HTML':'#e34c26','CSS':'#563d7c','Shell':'#89e051','Vue':'#41b883','Ruby':'#701516','Go':'#00ADD8','Rust':'#dea584'};
+const LC={JavaScript:'#f1e05a',TypeScript:'#2b7489',Python:'#3572A5',HTML:'#e34c26',CSS:'#563d7c',Shell:'#89e051',Vue:'#41b883',Ruby:'#701516',Go:'#00ADD8',Rust:'#dea584'};
 async function loadRepos(){
   try{
     const r=await fetch('https://api.github.com/users/BrandonRose2/repos?per_page=100&sort=updated&type=public');
     if(!r.ok)throw new Error('GitHub API error: '+r.status);
     ALL_REPOS=await r.json();
     document.getElementById('repo-total').textContent=ALL_REPOS.length+' repositories';
-    document.getElementById('repo-count').textContent=ALL_REPOS.length;renderRepos();
+    document.getElementById('repo-count').textContent=ALL_REPOS.length;
+    renderRepos();
   }catch(e){document.getElementById('repos-grid').innerHTML='<div style="padding:40px;color:var(--red)">'+e.message+'</div>';}
 }
 function setRF(f){RF=f;['all','public','private','forked'].forEach(k=>{const b=document.getElementById('rfb-'+k);if(b)b.className='rfb'+(k===f?' on':'');});renderRepos();}
@@ -418,21 +565,23 @@ function renderRepos(){
   let repos=ALL_REPOS.filter(r=>{if(RF==='public'&&r.private)return false;if(RF==='private'&&!r.private)return false;if(RF==='forked'&&!r.fork)return false;if(q&&!r.name.toLowerCase().includes(q)&&!(r.description||'').toLowerCase().includes(q))return false;return true;});
   const g=document.getElementById('repos-grid');
   if(!repos.length){g.innerHTML='<div style="padding:40px;color:var(--muted)">No repos match</div>';return;}
-  g.innerHTML=repos.map(r=>`<a class="rcard" href="${r.html_url}" target="_blank" rel="noopener"><div class="rname">${r.name}${r.private?'<span style="font-size:9px;padding:1px 5px;border-radius:3px;background:rgba(255,255,255,.06);color:var(--muted);margin-left:6px">private</span>':''}${r.fork?'<span style="font-size:9px;padding:1px 5px;border-radius:3px;background:var(--bld);color:var(--bl);margin-left:6px">fork</span>':''}</div><div class="rdesc">${r.description||'<span style="opacity:.35">No description</span>'}</div><div class="rmeta">${r.language?`<span><span class="ldot" style="background:${LC[r.language]||'var(--muted)'}"></span>${r.language}</span>`:''}&nbsp;${r.stargazers_count?`<span>⭐ ${r.stargazers_count}</span>`:''}<span>${new Date(r.updated_at).toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'})}</span>${r.has_pages?'<span style="color:var(--em)">● Pages</span>':''}</div></a>`).join('');
+  g.innerHTML=repos.map(r=>`<a class="rcard" href="${r.html_url}" target="_blank" rel="noopener"><div class="rname">${r.name}${r.private?'<span style="font-size:9px;padding:1px 5px;border-radius:3px;background:rgba(255,255,255,.06);color:var(--muted);margin-left:6px">private</span>':''}${r.fork?'<span style="font-size:9px;padding:1px 5px;border-radius:3px;background:var(--bld);color:var(--bl);margin-left:6px">fork</span>':''}</div><div class="rdesc">${r.description||'<span style="opacity:.35">No description</span>'}</div><div class="rmeta">${r.language?`<span><span class="ldot" style="background:${LC[r.language]||'var(--muted)'}"></span>${r.language}</span>`:''}&nbsp;${r.stargazers_count?`<span>⭐ ${r.stargazers_count}</span>`:''}  <span>${new Date(r.updated_at).toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'})}</span>${r.has_pages?'<span style="color:var(--em)">● Pages</span>':''}</div></a>`).join('');
 }
 function renderDeleted(){
-  const grid=document.getElementById('del-grid'),sub=document.getElementById('del-sub');
+  const grid=document.getElementById('del-grid');
+  const sub=document.getElementById('del-sub');
   const all=[];
   DELETED_M.forEach(num=>{const t=MANUS.find(x=>x.num===num);if(t)all.push({t,iM:true});});
   DELETED_C.forEach(num=>{const t=CLAUDE.find(x=>x.num===num);if(t)all.push({t,iM:false});});
   if(sub)sub.textContent=all.length+' deleted task'+(all.length!==1?'s':'')+' · stored locally in your browser';
-  if(!all.length){grid.innerHTML='<div style="display:flex;flex-direction:column;align-items:center;padding:60px;color:var(--muted);text-align:center;gap:10px"><svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" style="opacity:.2"><polyline points="3 6 5 6 21 6"/><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6"/><path d="M10 11v6M14 11v6"/><path d="M9 6V4h6v2"/></svg><div style="font-size:14px;font-weight:600">No deleted tasks</div><div style="font-size:12px">Deleted tasks will appear here</div></div>';return;}
-  grid.innerHTML=all.map(({t,iM})=>`<div class="del-card"><div style="flex:1"><div style="display:flex;align-items:center;gap:6px;margin-bottom:6px">${iM?'<span class="b bw" style="font-size:9px">⚡ Manus</span>':'<span class="b bcl" style="font-size:9px">◆ Claude</span>'}</div><div class="del-title">${t.title}</div><div class="del-meta">${iM?(AL[t.agent]||t.agent)+' · '+fk(t.credits||0)+' cr · '+fd(t.created):t.category+' · '+fd(t.created)}</div></div><button class="rest-one" onclick="restoreOne(${t.num},${iM})">↩ Restore</button></div>`).join('');
+  if(!all.length){grid.innerHTML='<div style="display:flex;flex-direction:column;align-items:center;padding:60px;color:var(--muted);text-align:center;gap:10px"><svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" style="opacity:.2"><polyline points="3 6 5 6 21 6"/><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6"/><path d="M10 11v6M14 11v6"/><path d="M9 6V4h6v2"/></svg><div style="font-size:14px;font-weight:600">No deleted tasks</div><div style="font-size:12px">Tasks you delete will appear here</div></div>';return;}
+  grid.innerHTML=all.map(({t,iM})=>`<div class="del-card"><div style="flex:1"><div style="display:flex;align-items:center;gap:6px;margin-bottom:6px">${iM?'<span class="b bw" style="font-size:9px">⚡ Manus</span>':'<span class="b bcl" style="font-size:9px">◆ Claude</span>'}${iM&&t.type==='project'?'<span class="b bp" style="font-size:9px">Project</span>':''} </div><div style="font-size:13px;font-weight:600;color:var(--muted2);margin-bottom:4px">${t.title}</div><div style="font-size:10px;color:var(--muted);font-family:var(--fm)">${iM?(AL[t.agent]||t.agent)+' · '+fk(t.credits||0)+' cr · '+fd(t.created):t.category+' · '+fd(t.created)}</div></div><button class="rest-one" onclick="restoreOne(${t.num},${iM})">↩ Restore</button></div>`).join('');
 }
 function restoreOne(num,iM){if(iM)DELETED_M.delete(num);else DELETED_C.delete(num);saveDel();updateDelCount();renderDeleted();}
 function restoreAll(){DELETED_M.clear();DELETED_C.clear();saveDel();updateDelCount();renderDeleted();}
 function openM(num){
-  const t=MANUS.find(x=>x.num===num);if(!t)return;const st=MST[t.status]||MST.stopped;
+  const t=MANUS.find(x=>x.num===num);if(!t)return;
+  const st=MST[t.status]||MST.stopped;
   document.getElementById('psb').style.background='var(--amber)';
   document.getElementById('pb').innerHTML=`<span class="b ${st.bc}"><span class="dot ${st.dc}"></span> ${st.l}</span>${t.type==='project'?'<span class="b bp">Project</span>':''}${t.credits>1000?'<span class="b bhv">★ High Value</span>':''}`;
   document.getElementById('pt').textContent=t.title;
@@ -443,14 +592,15 @@ function openM(num){
   document.getElementById('pid').textContent='ID: '+t.id;openPanel();
 }
 function openC(num){
-  const t=CLAUDE.find(x=>x.num===num);if(!t)return;const col=CT[t.type]||'var(--cl)';
+  const t=CLAUDE.find(x=>x.num===num);if(!t)return;
+  const col=CT[t.type]||'var(--cl)';
   document.getElementById('psb').style.background='var(--cl)';
   document.getElementById('pb').innerHTML=`<span class="b bcl">◆ Claude</span><span class="b" style="background:rgba(255,255,255,.05);border-color:var(--border);color:${col}">${TL[t.type]||t.type}</span><span class="b bcat">${t.category}</span>`;
   document.getElementById('pt').textContent=t.title;
   document.getElementById('pg').innerHTML=`<div class="pce"><div class="pcel">Session #</div><div class="pcev cl">${t.num}</div></div><div class="pce"><div class="pcel">Type</div><div class="pcev sm" style="color:${col};font-size:13px;font-weight:700">${TL[t.type]||t.type}</div></div><div class="pce"><div class="pcel">Status</div><div class="pcev sm" style="color:var(--em)">✓ Completed</div></div><div class="pce"><div class="pcel">Created</div><div class="pcev sm">${fd(t.created)}</div></div>`;
   if(t.description){document.getElementById('pdesc').textContent=t.description;document.getElementById('pdesc').style.display='block';}else document.getElementById('pdesc').style.display='none';
   if(t.tags&&t.tags.length){document.getElementById('ptags').innerHTML=t.tags.map(g=>`<span class="tag">${g}</span>`).join('');document.getElementById('ptags').style.display='flex';}else document.getElementById('ptags').style.display='none';
-  document.getElementById('pr').innerHTML=`<div class="pr"><span class="prk">Domain</span><span class="prv">${t.category}</span></div>${t.output?`<div class="pr"><span class="prk">Output</span><span class="prv" style="color:var(--em)">${t.output}</span></div>`:''}<div class="pr"><span class="prk">Conversation</span><a class="prv lnk cl" href="${t.url}" target="_blank">Open in Claude →</a></div>`;
+  document.getElementById('pr').innerHTML=`<div class="pr"><span class="prk">Domain</span><span class="prv">${t.category}</span></div>${t.output?`<div class="pr"><span class="prk">Output</span><span class="prv" style="color:var(--em)">${t.output}</span></div>`:''} <div class="pr"><span class="prk">Conversation</span><a class="prv lnk cl" href="${t.url}" target="_blank">Open in Claude →</a></div>`;
   document.getElementById('pbtns').innerHTML=`<a class="pbtn pcl" href="${t.url}" target="_blank">Open Conversation</a><button class="pbtn pbl" onclick="dlTask(${t.num},'claude')">JSON</button>`;
   document.getElementById('pid').textContent='ID: '+t.id;openPanel();
 }
