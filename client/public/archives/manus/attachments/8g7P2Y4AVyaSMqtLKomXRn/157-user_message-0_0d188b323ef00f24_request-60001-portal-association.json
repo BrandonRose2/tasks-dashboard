@@ -1,0 +1,394 @@
+
+> inspect:request-reconciliation
+> tsx src/inspectRequestReconciliation.ts 60001
+
+{
+  "readOnly": true,
+  "request": {
+    "id": 60001,
+    "requestedReportName": "All Units (Excel)",
+    "requestedFormat": "excel",
+    "status": "in_progress",
+    "providerSelectedPropertyCount": 35
+  },
+  "portalPropertyCount": 38,
+  "portalDocumentCount": 22,
+  "documentCounts": {
+    "workbook_html": 11,
+    "source_report": 11
+  },
+  "duplicateCandidates": [],
+  "propertyStatus": [
+    {
+      "propertyName": "135th Street Apartments",
+      "documentKinds": [
+        "source_report",
+        "workbook_html"
+      ],
+      "sourceReportPresent": true,
+      "workbookPresent": false,
+      "workbookHtmlPresent": true,
+      "filenames": [
+        "135th-street-apartments.html",
+        "135th-street-apartments.xls"
+      ]
+    },
+    {
+      "propertyName": "Anaheim Gardens",
+      "documentKinds": [
+        "source_report",
+        "workbook_html"
+      ],
+      "sourceReportPresent": true,
+      "workbookPresent": false,
+      "workbookHtmlPresent": true,
+      "filenames": [
+        "anaheim-gardens.html",
+        "anaheim-gardens.xls"
+      ]
+    },
+    {
+      "propertyName": "Arbor Crest",
+      "documentKinds": [
+        "source_report",
+        "workbook_html"
+      ],
+      "sourceReportPresent": true,
+      "workbookPresent": false,
+      "workbookHtmlPresent": true,
+      "filenames": [
+        "arbor-crest.html",
+        "arbor-crest.xls"
+      ]
+    },
+    {
+      "propertyName": "Bayou Pointe",
+      "documentKinds": [
+        "source_report",
+        "workbook_html"
+      ],
+      "sourceReportPresent": true,
+      "workbookPresent": false,
+      "workbookHtmlPresent": true,
+      "filenames": [
+        "bayou-pointe.html",
+        "bayou-pointe.xls"
+      ]
+    },
+    {
+      "propertyName": "Boca Ciega Townhomes",
+      "documentKinds": [
+        "source_report",
+        "workbook_html"
+      ],
+      "sourceReportPresent": true,
+      "workbookPresent": false,
+      "workbookHtmlPresent": true,
+      "filenames": [
+        "boca-ciega-townhomes.html",
+        "boca-ciega-townhomes.xls"
+      ]
+    },
+    {
+      "propertyName": "Breckenridge Village",
+      "documentKinds": [
+        "source_report",
+        "workbook_html"
+      ],
+      "sourceReportPresent": true,
+      "workbookPresent": false,
+      "workbookHtmlPresent": true,
+      "filenames": [
+        "breckenridge-village.html",
+        "breckenridge-village.xls"
+      ]
+    },
+    {
+      "propertyName": "Coral Village",
+      "documentKinds": [
+        "source_report",
+        "workbook_html"
+      ],
+      "sourceReportPresent": true,
+      "workbookPresent": false,
+      "workbookHtmlPresent": true,
+      "filenames": [
+        "coral-village.html",
+        "coral-village.xls"
+      ]
+    },
+    {
+      "propertyName": "Crossroads of Lees Summit",
+      "documentKinds": [
+        "source_report",
+        "workbook_html"
+      ],
+      "sourceReportPresent": true,
+      "workbookPresent": false,
+      "workbookHtmlPresent": true,
+      "filenames": [
+        "crossroads-of-lees-summit.html",
+        "crossroads-of-lees-summit.xls"
+      ]
+    },
+    {
+      "propertyName": "Cumberland Apartments",
+      "documentKinds": [],
+      "sourceReportPresent": false,
+      "workbookPresent": false,
+      "workbookHtmlPresent": false,
+      "filenames": []
+    },
+    {
+      "propertyName": "Fairfax Sr Apartments",
+      "documentKinds": [
+        "source_report",
+        "workbook_html"
+      ],
+      "sourceReportPresent": true,
+      "workbookPresent": false,
+      "workbookHtmlPresent": true,
+      "filenames": [
+        "fairfax-sr-apartments.html",
+        "fairfax-sr-apartments.xls"
+      ]
+    },
+    {
+      "propertyName": "Gates On Manhattan",
+      "documentKinds": [],
+      "sourceReportPresent": false,
+      "workbookPresent": false,
+      "workbookHtmlPresent": false,
+      "filenames": []
+    },
+    {
+      "propertyName": "Grace Townhomes",
+      "documentKinds": [
+        "source_report",
+        "workbook_html"
+      ],
+      "sourceReportPresent": true,
+      "workbookPresent": false,
+      "workbookHtmlPresent": true,
+      "filenames": [
+        "grace-townhomes.html",
+        "grace-townhomes.xls"
+      ]
+    },
+    {
+      "propertyName": "Granite Elmwood Indiana Homes",
+      "documentKinds": [],
+      "sourceReportPresent": false,
+      "workbookPresent": false,
+      "workbookHtmlPresent": false,
+      "filenames": []
+    },
+    {
+      "propertyName": "Granite Ridge Apartments",
+      "documentKinds": [],
+      "sourceReportPresent": false,
+      "workbookPresent": false,
+      "workbookHtmlPresent": false,
+      "filenames": []
+    },
+    {
+      "propertyName": "Granite Valencia Villas",
+      "documentKinds": [],
+      "sourceReportPresent": false,
+      "workbookPresent": false,
+      "workbookHtmlPresent": false,
+      "filenames": []
+    },
+    {
+      "propertyName": "Grove Park Terrace",
+      "documentKinds": [
+        "source_report",
+        "workbook_html"
+      ],
+      "sourceReportPresent": true,
+      "workbookPresent": false,
+      "workbookHtmlPresent": true,
+      "filenames": [
+        "All+Units+-+Excel.html",
+        "All+Units+-+Excel.xls"
+      ]
+    },
+    {
+      "propertyName": "Historical - Riverchase Homes",
+      "documentKinds": [],
+      "sourceReportPresent": false,
+      "workbookPresent": false,
+      "workbookHtmlPresent": false,
+      "filenames": []
+    },
+    {
+      "propertyName": "Holiday Apartments",
+      "documentKinds": [],
+      "sourceReportPresent": false,
+      "workbookPresent": false,
+      "workbookHtmlPresent": false,
+      "filenames": []
+    },
+    {
+      "propertyName": "Howell Place",
+      "documentKinds": [],
+      "sourceReportPresent": false,
+      "workbookPresent": false,
+      "workbookHtmlPresent": false,
+      "filenames": []
+    },
+    {
+      "propertyName": "Jefferson Arms Apts",
+      "documentKinds": [],
+      "sourceReportPresent": false,
+      "workbookPresent": false,
+      "workbookHtmlPresent": false,
+      "filenames": []
+    },
+    {
+      "propertyName": "Lexington Arms",
+      "documentKinds": [],
+      "sourceReportPresent": false,
+      "workbookPresent": false,
+      "workbookHtmlPresent": false,
+      "filenames": []
+    },
+    {
+      "propertyName": "Macedonia Gardens",
+      "documentKinds": [],
+      "sourceReportPresent": false,
+      "workbookPresent": false,
+      "workbookHtmlPresent": false,
+      "filenames": []
+    },
+    {
+      "propertyName": "Marrero 3 LP",
+      "documentKinds": [],
+      "sourceReportPresent": false,
+      "workbookPresent": false,
+      "workbookHtmlPresent": false,
+      "filenames": []
+    },
+    {
+      "propertyName": "Midtown Manor",
+      "documentKinds": [],
+      "sourceReportPresent": false,
+      "workbookPresent": false,
+      "workbookHtmlPresent": false,
+      "filenames": []
+    },
+    {
+      "propertyName": "New Wilmington Arms",
+      "documentKinds": [],
+      "sourceReportPresent": false,
+      "workbookPresent": false,
+      "workbookHtmlPresent": false,
+      "filenames": []
+    },
+    {
+      "propertyName": "North Pointe",
+      "documentKinds": [],
+      "sourceReportPresent": false,
+      "workbookPresent": false,
+      "workbookHtmlPresent": false,
+      "filenames": []
+    },
+    {
+      "propertyName": "Pacific Pointe Apartments",
+      "documentKinds": [],
+      "sourceReportPresent": false,
+      "workbookPresent": false,
+      "workbookHtmlPresent": false,
+      "filenames": []
+    },
+    {
+      "propertyName": "Pelican Bay",
+      "documentKinds": [],
+      "sourceReportPresent": false,
+      "workbookPresent": false,
+      "workbookHtmlPresent": false,
+      "filenames": []
+    },
+    {
+      "propertyName": "Pirates Bend",
+      "documentKinds": [],
+      "sourceReportPresent": false,
+      "workbookPresent": false,
+      "workbookHtmlPresent": false,
+      "filenames": []
+    },
+    {
+      "propertyName": "Ruby and Diamond Homes",
+      "documentKinds": [],
+      "sourceReportPresent": false,
+      "workbookPresent": false,
+      "workbookHtmlPresent": false,
+      "filenames": []
+    },
+    {
+      "propertyName": "Silver Springs Terrace",
+      "documentKinds": [],
+      "sourceReportPresent": false,
+      "workbookPresent": false,
+      "workbookHtmlPresent": false,
+      "filenames": []
+    },
+    {
+      "propertyName": "St. Charles",
+      "documentKinds": [],
+      "sourceReportPresent": false,
+      "workbookPresent": false,
+      "workbookHtmlPresent": false,
+      "filenames": []
+    },
+    {
+      "propertyName": "Star Homes",
+      "documentKinds": [],
+      "sourceReportPresent": false,
+      "workbookPresent": false,
+      "workbookHtmlPresent": false,
+      "filenames": []
+    },
+    {
+      "propertyName": "Thomasville Church Homes",
+      "documentKinds": [],
+      "sourceReportPresent": false,
+      "workbookPresent": false,
+      "workbookHtmlPresent": false,
+      "filenames": []
+    },
+    {
+      "propertyName": "Urban Rehab",
+      "documentKinds": [],
+      "sourceReportPresent": false,
+      "workbookPresent": false,
+      "workbookHtmlPresent": false,
+      "filenames": []
+    },
+    {
+      "propertyName": "Walnut Hill",
+      "documentKinds": [],
+      "sourceReportPresent": false,
+      "workbookPresent": false,
+      "workbookHtmlPresent": false,
+      "filenames": []
+    },
+    {
+      "propertyName": "Windsor Village",
+      "documentKinds": [],
+      "sourceReportPresent": false,
+      "workbookPresent": false,
+      "workbookHtmlPresent": false,
+      "filenames": []
+    },
+    {
+      "propertyName": "Yorkshire Apartments",
+      "documentKinds": [],
+      "sourceReportPresent": false,
+      "workbookPresent": false,
+      "workbookHtmlPresent": false,
+      "filenames": []
+    }
+  ],
+  "note": "This command issued only the portal reconciliation GET request. It did not claim, download, upload, file, complete, or modify any request or document."
+}

@@ -1,0 +1,158 @@
+Last login: Mon Aug 31 19:03:29 on ttys001
+brandonrose@Brandon ~ % ls -la ~/actions-runner && cat ~/actions-runner/.runner 2>/dev/null
+
+total 120
+drwxr-xr-x@  11 brandonrose  staff   352 Aug 26 15:18 _diag
+drwxr-xr-x@   7 brandonrose  staff   224 Aug 26 15:18 _work
+drwxr-xr-x@  22 brandonrose  staff   704 Aug 26 15:14 .
+drwxr-x---+ 176 brandonrose  staff  5632 Sep  1 09:55 ..
+-rw-r--r--@   1 brandonrose  staff   268 Aug  9 17:22 .credentials
+-rw-------@   1 brandonrose  staff  1667 Aug  9 17:22 .credentials_rsaparams
+-rw-r--r--@   1 brandonrose  staff    17 Aug  9 17:22 .env
+-rw-r--r--@   1 brandonrose  staff   731 Aug  9 17:22 .path
+-rw-r--r--@   1 brandonrose  staff   410 Aug  9 17:22 .runner
+-rw-r--r--    1 brandonrose  staff   410 Aug 26 15:14 .runner_migrated
+drwxr-xr-x@  25 brandonrose  staff   800 Aug 29 13:20 bin
+-rwxr-xr-x@   1 brandonrose  staff  2458 Jul 20 10:42 config.sh
+-rwxr-xr-x@   1 brandonrose  staff   646 Jul 20 10:42 env.sh
+drwxr-xr-x@   4 brandonrose  staff   128 Jul 20 10:43 externals
+-rw-r--r--@   1 brandonrose  staff  1824 Jul 20 10:42 run-helper.cmd.template
+-rwxr-xr-x@   1 brandonrose  staff  2866 Aug 31 19:03 run-helper.sh
+-rwxr-xr-x@   1 brandonrose  staff  2866 Jul 20 10:42 run-helper.sh.template
+-rwxr-xr-x@   1 brandonrose  staff  2885 Jul 20 10:42 run.sh
+-rw-r--r--    1 brandonrose  staff     0 Aug  9 17:23 runner.err.log
+-rw-r--r--    1 brandonrose  staff   101 Aug  9 17:23 runner.out.log
+-rwxr-xr-x@   1 brandonrose  staff   751 Jul 20 10:42 safe_sleep.sh
+-rwxr-xr-x@   1 brandonrose  staff  3652 Aug  9 17:22 svc.sh
+{
+  "agentId": 2,
+  "agentName": "brandon-onesite-mac",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus6.actions.githubusercontent.com/zHFxlGk8pP2LgwlNiJc12m7cy8Rx7za1q9QWxlak6SSV9H9s54/",
+  "gitHubUrl": "https://github.com/BrandonRose2/realpage-portal-runner",
+  "workFolder": "_work",
+  "useV2Flow": true,
+  "serverUrlV2": "https://broker.actions.githubusercontent.com/"
+}%                                                   brandonrose@Brandon ~ % printf '\n--- bin inventory ---\n'
+ls -la ~/actions-runner/bin
+printf '\n--- version metadata ---\n'
+find ~/actions-runner -maxdepth 2 -type f \( -name '*.version' -o -name 'Runner.Listener*.json' -o -name 'runner.version' \) -print
+printf '\n--- latest runner diagnostic ---\n'
+latest=$(ls -t ~/actions-runner/_diag/Runner_*.log 2>/dev/null | head -1)
+[ -n "$latest" ] && tail -n 80 "$latest" || echo 'No Runner_ diagnostic log found.'
+
+
+--- bin inventory ---
+total 64
+drwxr-xr-x@ 25 brandonrose  staff   800 Aug 29 13:20 .
+drwxr-xr-x@ 22 brandonrose  staff   704 Aug 26 15:14 ..
+-rw-r--r--@  1 brandonrose  staff   940 Jul 20 10:42 actions.runner.plist.template
+-rw-r--r--@  1 brandonrose  staff   249 Jul 20 10:42 actions.runner.service.template
+drwxr-xr-x@  3 brandonrose  staff    96 Aug 29 13:20 checkScripts
+drwxr-xr-x@  2 brandonrose  staff    64 Aug 29 13:19 cs
+-rw-r--r--@  1 brandonrose  staff  3535 Jul 20 10:42 darwin.svc.sh.template
+drwxr-xr-x@  2 brandonrose  staff    64 Aug 29 13:20 de
+drwxr-xr-x@  2 brandonrose  staff    64 Aug 29 13:19 es
+drwxr-xr-x@  2 brandonrose  staff    64 Aug 29 13:19 fr
+drwxr-xr-x@  2 brandonrose  staff    64 Aug 29 13:20 hashFiles
+drwxr-xr-x@  2 brandonrose  staff    64 Aug 29 13:20 it
+drwxr-xr-x@  2 brandonrose  staff    64 Aug 29 13:19 ja
+drwxr-xr-x@  2 brandonrose  staff    64 Aug 29 13:19 ko
+-rw-r--r--@  1 brandonrose  staff   431 Jul 20 10:42 macos-run-invoker.js
+drwxr-xr-x@  2 brandonrose  staff    64 Aug 29 13:19 pl
+drwxr-xr-x@  2 brandonrose  staff    64 Aug 29 13:20 pt-BR
+drwxr-xr-x@  2 brandonrose  staff    64 Aug 29 13:20 ru
+-rw-r--r--@  1 brandonrose  staff   418 Jul 20 10:43 Runner.Listener.runtimeconfig.json
+-rw-r--r--@  1 brandonrose  staff   418 Jul 20 10:43 Runner.PluginHost.runtimeconfig.json
+-rw-r--r--@  1 brandonrose  staff   418 Jul 20 10:43 Runner.Worker.runtimeconfig.json
+-rwxr-xr-x@  1 brandonrose  staff   532 Jul 20 10:42 runsvc.sh
+drwxr-xr-x@  2 brandonrose  staff    64 Aug 29 13:20 tr
+drwxr-xr-x@  2 brandonrose  staff    64 Aug 29 13:19 zh-Hans
+drwxr-xr-x@  2 brandonrose  staff    64 Aug 29 13:20 zh-Hant
+
+--- version metadata ---
+/Users/brandonrose/actions-runner/bin/Runner.Listener.runtimeconfig.json
+
+--- latest runner diagnostic ---
+[2026-08-26 22:51:24Z ERR  BrokerServer] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: The read operation failed, see inner exception.
+ ---> System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+   at System.Net.Sockets.NetworkStream.ReadAsync(Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](CancellationToken cancellationToken, Int32 estimatedSize)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](Memory`1 buffer, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.RawHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Sdk.WebApi.WebApi.RawHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at Sdk.WebApi.WebApi.RawHttpClientBase.SendAsync[T](HttpRequestMessage message, Boolean readErrorBody, Object userState, CancellationToken cancellationToken)
+   at Sdk.WebApi.WebApi.RawHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Uri requestUri, HttpContent content, IEnumerable`1 queryParameters, Boolean readErrorBody, Object userState, CancellationToken cancellationToken)
+   at GitHub.Actions.RunService.WebApi.BrokerHttpClient.GetRunnerMessageAsync(Nullable`1 sessionId, String runnerVersion, Nullable`1 status, String os, String architecture, Nullable`1 disableUpdate, CancellationToken cancellationToken)
+   at GitHub.Runner.Common.BrokerServer.<>c__DisplayClass7_0.<<GetRunnerMessageAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at GitHub.Runner.Common.RunnerService.RetryRequest[T](Func`1 func, CancellationToken cancellationToken, Int32 maxAttempts, Func`2 shouldRetry)
+[2026-08-26 22:51:24Z ERR  BrokerServer] #####################################################
+[2026-08-26 22:51:24Z ERR  BrokerServer] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: The read operation failed, see inner exception.
+ ---> System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+   at System.Net.Sockets.NetworkStream.ReadAsync(Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](CancellationToken cancellationToken, Int32 estimatedSize)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](Memory`1 buffer, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.RawHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+[2026-08-26 22:51:24Z ERR  BrokerServer] #####################################################
+[2026-08-26 22:51:24Z ERR  BrokerServer] System.IO.IOException: The read operation failed, see inner exception.
+ ---> System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+   at System.Net.Sockets.NetworkStream.ReadAsync(Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](CancellationToken cancellationToken, Int32 estimatedSize)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](Memory`1 buffer, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+[2026-08-26 22:51:24Z ERR  BrokerServer] #####################################################
+[2026-08-26 22:51:24Z ERR  BrokerServer] System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+   at System.Net.Sockets.NetworkStream.ReadAsync(Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](CancellationToken cancellationToken, Int32 estimatedSize)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](Memory`1 buffer, CancellationToken cancellationToken)
+[2026-08-26 22:51:24Z WARN BrokerServer] Back off 5.227 seconds before next retry. 4 attempt left.
+[2026-08-26 22:51:24Z INFO BrokerMessageListener] Get next message has been cancelled.
+[2026-08-26 22:51:24Z INFO JobDispatcher] Shutting down JobDispatcher. Make sure all WorkerDispatcher has finished.
+[2026-08-26 22:51:24Z INFO JobDispatcher] Ensure WorkerDispatcher for job 2cadc855-6f9c-5c5c-87f0-aa826d47377c run to finish, cancel any running job.
+[2026-08-26 22:51:24Z INFO JobDispatcher] Job request 2cadc855-6f9c-5c5c-87f0-aa826d47377c processed succeed.
+[2026-08-26 22:51:24Z INFO Runner] Deleting Runner Session...
+[2026-08-26 22:51:25Z INFO Listener] Runner execution been cancelled.
+brandonrose@Brandon ~ % 

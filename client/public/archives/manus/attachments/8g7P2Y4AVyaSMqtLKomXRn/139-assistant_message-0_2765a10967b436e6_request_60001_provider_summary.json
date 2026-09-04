@@ -1,0 +1,178 @@
+{
+  "reportName": "All Units (Excel)",
+  "completedDatePrefix": "08/28/2026",
+  "readOnly": true,
+  "statusCounts": {
+    "Completed": 31,
+    "In Progress": 2
+  },
+  "row_count": 33,
+  "properties": [
+    {
+      "property": "Coral Village",
+      "status": "Completed",
+      "completed_date": "08/28/2026 11:04 AM"
+    },
+    {
+      "property": "Crossroads of Lees Summit",
+      "status": "Completed",
+      "completed_date": "08/28/2026 11:04 AM"
+    },
+    {
+      "property": "Cumberland Apartments",
+      "status": "In Progress",
+      "completed_date": "Completed Date"
+    },
+    {
+      "property": "Fairfax Sr Apartments",
+      "status": "Completed",
+      "completed_date": "08/28/2026 11:04 AM"
+    },
+    {
+      "property": "Grace Townhomes",
+      "status": "Completed",
+      "completed_date": "08/28/2026 11:04 AM"
+    },
+    {
+      "property": "Granite Ridge Apartments",
+      "status": "Completed",
+      "completed_date": "08/28/2026 11:04 AM"
+    },
+    {
+      "property": "Grove Park Terrace",
+      "status": "Completed",
+      "completed_date": "08/28/2026 11:04 AM"
+    },
+    {
+      "property": "Historical - Riverchase Homes",
+      "status": "Completed",
+      "completed_date": "08/28/2026 11:04 AM"
+    },
+    {
+      "property": "Holiday Apartments",
+      "status": "Completed",
+      "completed_date": "08/28/2026 11:04 AM"
+    },
+    {
+      "property": "Howell Place",
+      "status": "Completed",
+      "completed_date": "08/28/2026 11:04 AM"
+    },
+    {
+      "property": "Jefferson Arms Apts",
+      "status": "Completed",
+      "completed_date": "08/28/2026 11:04 AM"
+    },
+    {
+      "property": "Lexington Arms",
+      "status": "Completed",
+      "completed_date": "08/28/2026 11:04 AM"
+    },
+    {
+      "property": "Macedonia Gardens",
+      "status": "Completed",
+      "completed_date": "08/28/2026 11:04 AM"
+    },
+    {
+      "property": "Marrero 3 LP",
+      "status": "Completed",
+      "completed_date": "08/28/2026 11:04 AM"
+    },
+    {
+      "property": "Midtown Manor",
+      "status": "Completed",
+      "completed_date": "08/28/2026 11:04 AM"
+    },
+    {
+      "property": "New Wilmington Arms",
+      "status": "Completed",
+      "completed_date": "08/28/2026 11:04 AM"
+    },
+    {
+      "property": "North Pointe",
+      "status": "Completed",
+      "completed_date": "08/28/2026 11:04 AM"
+    },
+    {
+      "property": "Pacific Pointe Apartments",
+      "status": "Completed",
+      "completed_date": "08/28/2026 11:04 AM"
+    },
+    {
+      "property": "Pelican Bay",
+      "status": "Completed",
+      "completed_date": "08/28/2026 11:04 AM"
+    },
+    {
+      "property": "Pirates Bend",
+      "status": "Completed",
+      "completed_date": "08/28/2026 11:04 AM"
+    },
+    {
+      "property": "Silver Springs Terrace",
+      "status": "Completed",
+      "completed_date": "08/28/2026 11:04 AM"
+    },
+    {
+      "property": "St. Charles",
+      "status": "Completed",
+      "completed_date": "08/28/2026 11:04 AM"
+    },
+    {
+      "property": "Thomasville Church Homes",
+      "status": "Completed",
+      "completed_date": "08/28/2026 11:04 AM"
+    },
+    {
+      "property": "Urban Rehab",
+      "status": "In Progress",
+      "completed_date": "Completed Date"
+    },
+    {
+      "property": "Walnut Hill",
+      "status": "Completed",
+      "completed_date": "08/28/2026 11:04 AM"
+    },
+    {
+      "property": "Windsor Village",
+      "status": "Completed",
+      "completed_date": "08/28/2026 11:04 AM"
+    },
+    {
+      "property": "Yorkshire Apartments",
+      "status": "Completed",
+      "completed_date": "08/28/2026 11:04 AM"
+    },
+    {
+      "property": "135th Street Apartments",
+      "status": "Completed",
+      "completed_date": "08/28/2026 11:04 AM"
+    },
+    {
+      "property": "Anaheim Gardens",
+      "status": "Completed",
+      "completed_date": "08/28/2026 11:04 AM"
+    },
+    {
+      "property": "Arbor Crest",
+      "status": "Completed",
+      "completed_date": "08/28/2026 11:04 AM"
+    },
+    {
+      "property": "Bayou Pointe",
+      "status": "Completed",
+      "completed_date": "08/28/2026 11:04 AM"
+    },
+    {
+      "property": "Boca Ciega Townhomes",
+      "status": "Completed",
+      "completed_date": "08/28/2026 11:04 AM"
+    },
+    {
+      "property": "Breckenridge Village",
+      "status": "Completed",
+      "completed_date": "08/28/2026 11:04 AM"
+    }
+  ],
+  "unique_property_count": 33
+}

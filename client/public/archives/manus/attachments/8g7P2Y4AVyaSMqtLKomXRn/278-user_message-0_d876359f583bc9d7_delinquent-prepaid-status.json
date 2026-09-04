@@ -1,0 +1,679 @@
+
+> inspect:live-edge-current-report-statuses
+> tsx src/inspectLiveEdgeCurrentReportStatuses.ts Delinquent and Prepaid (Excel) 09/01/2026
+
+{
+  "reportName": "Delinquent and Prepaid (Excel)",
+  "completedDatePrefix": "09/01/2026",
+  "readOnly": true,
+  "statusCounts": {
+    "Completed": 35
+  },
+  "rows": [
+    {
+      "page": 1,
+      "cells": [
+        "NameDelinquent and Prepaid (Excel)",
+        "Report AreaAccounts Receivable / Management",
+        "PropertyMidtown Manor",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 09/01/2026 12:23 PM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "09/01/2026 12:23 PM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 1,
+      "cells": [
+        "NameDelinquent and Prepaid (Excel)",
+        "Report AreaAccounts Receivable / Management",
+        "PropertyNew Wilmington Arms",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 09/01/2026 12:23 PM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "09/01/2026 12:23 PM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 1,
+      "cells": [
+        "NameDelinquent and Prepaid (Excel)",
+        "Report AreaAccounts Receivable / Management",
+        "PropertyNorth Pointe",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 09/01/2026 12:23 PM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "09/01/2026 12:23 PM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 1,
+      "cells": [
+        "NameDelinquent and Prepaid (Excel)",
+        "Report AreaAccounts Receivable / Management",
+        "PropertyPacific Pointe Apartments",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 09/01/2026 12:23 PM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "09/01/2026 12:23 PM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 1,
+      "cells": [
+        "NameDelinquent and Prepaid (Excel)",
+        "Report AreaAccounts Receivable / Management",
+        "PropertyPelican Bay",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 09/01/2026 12:23 PM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "09/01/2026 12:23 PM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 1,
+      "cells": [
+        "NameDelinquent and Prepaid (Excel)",
+        "Report AreaAccounts Receivable / Management",
+        "PropertyPirates Bend",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 09/01/2026 12:23 PM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "09/01/2026 12:23 PM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 1,
+      "cells": [
+        "NameDelinquent and Prepaid (Excel)",
+        "Report AreaAccounts Receivable / Management",
+        "PropertySilver Springs Terrace",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 09/01/2026 12:23 PM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "09/01/2026 12:23 PM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 1,
+      "cells": [
+        "NameDelinquent and Prepaid (Excel)",
+        "Report AreaAccounts Receivable / Management",
+        "PropertySt. Charles",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 09/01/2026 12:23 PM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "09/01/2026 12:23 PM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 1,
+      "cells": [
+        "NameDelinquent and Prepaid (Excel)",
+        "Report AreaAccounts Receivable / Management",
+        "Property135th Street Apartments",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 09/01/2026 12:23 PM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "09/01/2026 12:23 PM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 1,
+      "cells": [
+        "NameDelinquent and Prepaid (Excel)",
+        "Report AreaAccounts Receivable / Management",
+        "PropertyAnaheim Gardens",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 09/01/2026 12:23 PM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "09/01/2026 12:23 PM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 2,
+      "cells": [
+        "NameDelinquent and Prepaid (Excel)",
+        "Report AreaAccounts Receivable / Management",
+        "PropertyArbor Crest",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 09/01/2026 12:23 PM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "09/01/2026 12:23 PM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 2,
+      "cells": [
+        "NameDelinquent and Prepaid (Excel)",
+        "Report AreaAccounts Receivable / Management",
+        "PropertyBayou Pointe",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 09/01/2026 12:23 PM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "09/01/2026 12:23 PM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 2,
+      "cells": [
+        "NameDelinquent and Prepaid (Excel)",
+        "Report AreaAccounts Receivable / Management",
+        "PropertyBoca Ciega Townhomes",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 09/01/2026 12:23 PM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "09/01/2026 12:23 PM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 2,
+      "cells": [
+        "NameDelinquent and Prepaid (Excel)",
+        "Report AreaAccounts Receivable / Management",
+        "PropertyBreckenridge Village",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 09/01/2026 12:23 PM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "09/01/2026 12:23 PM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 2,
+      "cells": [
+        "NameDelinquent and Prepaid (Excel)",
+        "Report AreaAccounts Receivable / Management",
+        "PropertyThomasville Church Homes",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 09/01/2026 12:23 PM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "09/01/2026 12:23 PM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 2,
+      "cells": [
+        "NameDelinquent and Prepaid (Excel)",
+        "Report AreaAccounts Receivable / Management",
+        "PropertyUrban Rehab",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 09/01/2026 12:23 PM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "09/01/2026 12:23 PM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 2,
+      "cells": [
+        "NameDelinquent and Prepaid (Excel)",
+        "Report AreaAccounts Receivable / Management",
+        "PropertyWalnut Hill",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 09/01/2026 12:23 PM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "09/01/2026 12:23 PM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 2,
+      "cells": [
+        "NameDelinquent and Prepaid (Excel)",
+        "Report AreaAccounts Receivable / Management",
+        "PropertyWindsor Village",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 09/01/2026 12:23 PM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "09/01/2026 12:23 PM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 2,
+      "cells": [
+        "NameDelinquent and Prepaid (Excel)",
+        "Report AreaAccounts Receivable / Management",
+        "PropertyYorkshire Apartments",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 09/01/2026 12:23 PM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "09/01/2026 12:23 PM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 2,
+      "cells": [
+        "NameDelinquent and Prepaid (Excel)",
+        "Report AreaAccounts Receivable / Management",
+        "PropertyCoral Village",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 09/01/2026 12:23 PM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "09/01/2026 12:23 PM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 3,
+      "cells": [
+        "NameDelinquent and Prepaid (Excel)",
+        "Report AreaAccounts Receivable / Management",
+        "PropertyCrossroads of Lees Summit",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 09/01/2026 12:24 PM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "09/01/2026 12:24 PM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 3,
+      "cells": [
+        "NameDelinquent and Prepaid (Excel)",
+        "Report AreaAccounts Receivable / Management",
+        "PropertyCumberland Apartments",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 09/01/2026 12:23 PM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "09/01/2026 12:23 PM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 3,
+      "cells": [
+        "NameDelinquent and Prepaid (Excel)",
+        "Report AreaAccounts Receivable / Management",
+        "PropertyFairfax Sr Apartments",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 09/01/2026 12:23 PM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "09/01/2026 12:23 PM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 3,
+      "cells": [
+        "NameDelinquent and Prepaid (Excel)",
+        "Report AreaAccounts Receivable / Management",
+        "PropertyGrace Townhomes",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 09/01/2026 12:23 PM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "09/01/2026 12:23 PM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 3,
+      "cells": [
+        "NameDelinquent and Prepaid (Excel)",
+        "Report AreaAccounts Receivable / Management",
+        "PropertyGranite Elmwood Indiana Homes",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 09/01/2026 12:23 PM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "09/01/2026 12:23 PM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 3,
+      "cells": [
+        "NameDelinquent and Prepaid (Excel)",
+        "Report AreaAccounts Receivable / Management",
+        "PropertyGranite Ridge Apartments",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 09/01/2026 12:23 PM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "09/01/2026 12:23 PM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 3,
+      "cells": [
+        "NameDelinquent and Prepaid (Excel)",
+        "Report AreaAccounts Receivable / Management",
+        "PropertyGranite Valencia Villas",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 09/01/2026 12:23 PM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "09/01/2026 12:23 PM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 3,
+      "cells": [
+        "NameDelinquent and Prepaid (Excel)",
+        "Report AreaAccounts Receivable / Management",
+        "PropertyGrove Park Terrace",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 09/01/2026 12:23 PM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "09/01/2026 12:23 PM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 3,
+      "cells": [
+        "NameDelinquent and Prepaid (Excel)",
+        "Report AreaAccounts Receivable / Management",
+        "PropertyHistorical - Riverchase Homes",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 09/01/2026 12:23 PM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "09/01/2026 12:23 PM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 3,
+      "cells": [
+        "NameDelinquent and Prepaid (Excel)",
+        "Report AreaAccounts Receivable / Management",
+        "PropertyHoliday Apartments",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 09/01/2026 12:23 PM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "09/01/2026 12:23 PM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 4,
+      "cells": [
+        "NameDelinquent and Prepaid (Excel)",
+        "Report AreaAccounts Receivable / Management",
+        "PropertyHowell Place",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 09/01/2026 12:23 PM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "09/01/2026 12:23 PM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 4,
+      "cells": [
+        "NameDelinquent and Prepaid (Excel)",
+        "Report AreaAccounts Receivable / Management",
+        "PropertyJefferson Arms Apts",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 09/01/2026 12:23 PM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "09/01/2026 12:23 PM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 4,
+      "cells": [
+        "NameDelinquent and Prepaid (Excel)",
+        "Report AreaAccounts Receivable / Management",
+        "PropertyLexington Arms",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 09/01/2026 12:23 PM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "09/01/2026 12:23 PM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 4,
+      "cells": [
+        "NameDelinquent and Prepaid (Excel)",
+        "Report AreaAccounts Receivable / Management",
+        "PropertyMacedonia Gardens",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 09/01/2026 12:23 PM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "09/01/2026 12:23 PM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 4,
+      "cells": [
+        "NameDelinquent and Prepaid (Excel)",
+        "Report AreaAccounts Receivable / Management",
+        "PropertyMarrero 3 LP",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 09/01/2026 12:23 PM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "09/01/2026 12:23 PM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    }
+  ]
+}

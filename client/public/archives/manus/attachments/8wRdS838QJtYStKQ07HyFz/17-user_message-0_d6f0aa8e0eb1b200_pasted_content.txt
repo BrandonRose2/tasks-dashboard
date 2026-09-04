@@ -1,0 +1,290 @@
+1. What Robert Asked For
+
+The recording describes a private weekly NFL pick’em pool with roughly 200 friends. Each person can buy one or more $10 entry cards, pick the winner of each game, enter a predicted combined Monday Night Football score as a tiebreaker, and later see results through a shared leaderboard. Robert wants the portal to eliminate the existing workflow of sending a flyer, tracking person-to-person payments, retyping picks into Excel, manually checking results, and distributing weekly spreadsheets. 
+
+The portal should be a mobile-first website, rather than a native app, because a friend should be able to tap a secure link in a text message, enter the private group, and make picks immediately. The same site can later be saved to a phone’s home screen and behave much like an app without an App Store installation.
+
+Participant need
+Portal response
+Receive an invite by text
+A branded, stable group link opens a simple landing page and sign-in flow.
+Submit one or more cards
+Card quantity is selected before picks are made; each card has its own entry and status.
+Pay for entry
+Payment status is visibly tracked as pending, verified, declined, or waived/free entry.
+Make weekly picks
+A one-tap team selector appears for each game, with a required Monday-night total-score field.
+Know the card is final
+A receipt page displays a confirmation number, timestamp, picked teams, and payment status.
+See the competition
+A standings page shows the current week and season results, with appropriate pick-reveal rules.
+Avoid missed deadlines
+Opted-in, scheduled text reminders are sent before the pick cutoff.
+
+
+
+
+2. The Core Experience
+
+Player flow
+
+A user opens the texted link and verifies their identity using either email magic link or phone-based sign-in. For a private group, I would begin with an invite-only roster: Robert imports names and phone numbers, and only invited people can create an account. This prevents strangers from accessing the group merely because a link was forwarded.
+
+The player then chooses the current NFL week, selects the number of cards, and completes the payment step selected by the legally approved operating model. Each card displays the week’s games, lets the player tap one winner per matchup, and asks for the combined Monday Night Football score. The player reviews and submits. The portal records the exact submission time and locks that version.
+
+
+Fairness rule: players may edit an unsubmitted draft, but a submitted card should not change after the cut-off. If edits before the deadline are permitted, each saved revision should be retained in an audit log. To prevent copying, other players’ picks should be hidden until the deadline; each person can always see their own cards.
+
+Weekly contest lifecycle
+
+Stage
+What the portal does
+What Robert controls
+Open the week
+Publishes the NFL slate, card price, rules, and closing time.
+Confirms schedule and sets deadline.
+Invite and remind
+Sends approved invite/reminder messages to opted-in members.
+Selects recipients and message timing.
+Collect entries
+Creates cards, records payment status, and accepts picks.
+Approves, declines, or waives pending payments.
+Lock the contest
+Blocks new cards and pick edits at the precise cutoff.
+May reopen only with an audit-noted exception.
+Reveal picks
+Makes the weekly pick grid visible after lock.
+Chooses reveal timing for exceptional cases.
+Score games
+Updates correct-pick totals as results are entered or imported.
+Reviews exceptions, postponements, and corrections.
+Resolve winner
+Applies Monday-night combined-score tiebreaker to tied high scores.
+Confirms the winner and marks prize status.
+Archive week
+Preserves cards, results, payment ledger, and activity log.
+Publishes a recap and begins the next week.
+
+
+
+
+3. MVP: Build This First
+
+The first release should solve the manual pain Robert specifically described, without overbuilding.
+
+MVP module
+Essential functionality
+Why it matters
+Private access
+Invite-only registration, secure sign-in, basic profile, SMS-consent record.
+Protects a friends-only group and creates accountability.
+Weekly contest manager
+Create/open/close a week; adjust deadline; show status; import or enter games.
+Lets Robert run the pool without technical help.
+Card purchase and status
+Select card quantity; $10-per-card calculation; pending/verified/declined/waived labels.
+Replaces the handwritten entry/payment reconciliation.
+Pick card
+Team selection for every game, mandatory MNF total, review, and submit confirmation.
+Replaces the paper flyer.
+My Cards
+Shows all current and historical cards, status, picks, timestamps, and revisions.
+Gives players a self-service record.
+Admin payment queue
+Search by member/card/week; approve payments; note payment reference; export ledger.
+Replaces payment-text back-and-forth and Excel tracking.
+Leaderboard and pick grid
+Current weekly standings, season standings, and post-lock group picks.
+Replaces manually distributed spreadsheets.
+Scoring and tiebreaker
+Enter/import final scores; calculate correct picks; rank tied leaders by distance from MNF combined score.
+Removes the weekly manual checking.
+Reminder center
+Draft/send a single invitation and scheduled deadline reminders to opted-in players.
+Helps participation without manual group chasing.
+Audit log and export
+Immutable record of submissions, edits, payment decisions, score corrections, and CSV export.
+Protects trust when a card, payment, or result is questioned.
+
+
+
+
+The MVP should not initially include public leaderboards, social feeds, sports betting odds, cash-out functionality, unlimited open registration, or automatic prize payouts. Those features add risk and complexity without solving the main operational bottleneck.
+
+4. Payment: Use a Deliberate Two-Step Design
+
+Robert mentioned Zelle, Cash App, Venmo, and a desire to authenticate entries against payment. In practice, the portal needs to distinguish submitting a pick card from confirming payment.
+
+Option
+How it works
+Tradeoffs
+Best use
+Manual payment verification
+The portal shows the approved payment instructions and a unique card reference. The participant marks “I paid” and can upload a receipt; Robert approves it in an admin queue.
+Lowest technical and regulatory complexity, but Robert still verifies transfers.
+Best private-pilot approach while rules and payment compliance are reviewed.
+Approved integrated checkout
+Once counsel confirms that the specific contest and processor arrangement is allowed, the card purchase uses a compliant provider and payment event to mark it paid.
+Lowest manual work, but requires legal review, processor approval, policies, fraud controls, and settlement handling.
+Possible later enhancement after an approved operating model is established.
+
+
+
+
+The portal should never treat a card as fully eligible merely because a participant clicked “paid.” The status should remain Pending verification until Robert or an approved payment event confirms it. The system can allow a participant to make picks while pending, but a card must be in Verified or Waived status before the deadline to be eligible.
+
+If Robert has free cards or internal organizer adjustments, those should be created through a visible admin action with a reason field. Any organizer fee or prize allocation should be calculated transparently in an internal contest ledger, but it should not be exposed as a general payment feature until it has been legally reviewed.
+
+5. Admin Portal: Robert’s Operations Console
+
+Robert needs a dashboard designed around the few actions that must happen every week, not a generic website back office.
+
+Dashboard area
+Robert can do there
+This Week
+See cards sold, pending payments, completed picks, missing picks, deadline countdown, and provisional standings.
+Payment Review
+Search a participant; review a receipt/reference; approve, decline, waive, or add a private admin note.
+Members
+Add/import friends, resend invite, revoke access, adjust SMS permission, and see entry history.
+Schedule & Rules
+Load the weekly slate, correct game time changes, set price/deadline, define the visible contest rules, and flag special early games.
+Scoring
+Enter final results, handle postponed/cancelled games, recalculate standings, and inspect tiebreak outcomes.
+Communications
+Select a prewritten invite/reminder template, preview recipients, schedule a send, and view delivery/opt-out status.
+Reports
+Export entries, payment ledger, weekly picks, results, and season standings to CSV for recordkeeping.
+
+
+
+
+6. Data and Rules That Must Be Explicit
+
+The build begins with a brief rules workshop, because the database and scoring engine need decisions that are not yet fully stated in the recording.
+
+Decision to finalize
+Recommended default
+Eligible members
+Invited adults only, with a confirmed account and consented contact method.
+Entry cutoff
+Set one precise timezone-aware closing timestamp for every week; do not rely on a generic “Saturday midnight” rule.
+Early/international games
+Either close all cards before the earliest game, or lock only affected game picks at kickoff; the first model is simpler and fairer for an MVP.
+Visibility of picks
+A player sees only their own picks before deadline; the full grid becomes visible after lock.
+Payment deadline
+Payment verified by contest lock, unless Robert records an exception.
+Incomplete cards
+Cannot be submitted until every winner pick and the tiebreaker are completed.
+Duplicate cards
+Allowed; each gets a unique card number and independent payment/status record.
+Tied tiebreaker prediction
+Establish a second deterministic rule now, such as a shared prize or next specified metric, rather than improvising later.
+Game cancellation/postponement
+Establish in advance whether the game is removed from scoring or the week is delayed.
+Disputes
+Admin changes require a reason, timestamp, actor, and before/after record.
+
+
+
+
+7. Technical Blueprint
+
+This should be built as a secure full-stack web application with a responsive interface, an authenticated database, an administrator role, and scheduled background tasks. It does not need a persistent always-on server for its normal workload: scheduled reminders and score refreshes can run in the background on a managed application host.
+
+Layer
+Recommended responsibility
+Mobile web interface
+Invite landing page, sign-in, weekly card flow, My Cards, standings, and admin dashboard.
+Application backend
+Enforces eligibility, deadlines, locking, scoring, tiebreaking, payment status, permissions, and audit logging.
+Database
+Stores users, invitations, consent, weekly contests, games, entry cards, picks, payment records, score records, notifications, and audit events.
+Schedule source
+Start with an administrator-controlled weekly import/review; add a licensed sports-data integration only after its accuracy, cost, and terms are evaluated.
+Notification service
+Sends transactional invitation/reminder texts only to players who opted in; records delivery and opt-out state.
+Background jobs
+Lock cards at deadline, trigger reminders, refresh scores, calculate standings, and archive finished weeks.
+Security controls
+Role-based access, encrypted secrets, rate limiting, unique submission IDs, server-side deadline enforcement, and daily backup/export procedure.
+
+
+
+
+The database should treat every submitted pick card as an immutable contest record. Important entities include Member, Invitation, ContestWeek, Game, EntryCard, CardPick, PaymentRecord, Result, NotificationConsent, Notification, and AuditEvent. That structure lets Robert correct a legitimate error without erasing what originally happened.
+
+8. Text Sharing and Reminder Design
+
+The initial text link should be simple, identifiable, and safe to forward only within the intended group. Example:
+
+
+Robert’s NFL Picks — Week 4 is open. Submit your card before Saturday, 11:59 p.m. CT: https://[short-link]
+Reply STOP to stop reminder texts.
+
+For automated texts, the portal must record affirmative consent, identify the sender, provide a simple opt-out mechanism, and stop reminders for opted-out recipients. The FCC states that autodialed texts to a mobile phone require prior consent and that recipients may opt out of robotexts in a reasonable manner. 
+
+Delivery approach
+Tradeoffs
+Cost profile
+Setup complexity
+Private-link pilot with manual group texts
+Fastest start; no automated messaging system; Robert personally sends the link and reminders.
+Minimal platform expense; staff time remains manual.
+Low
+Portal with opt-in automated reminders
+Saves recurring effort; records consent, delivery, and opt-out; supports targeted “you have not submitted” messages.
+Ongoing messaging and application-hosting charges.
+Medium
+
+
+
+
+The second approach is the natural operational target for a 200-person weekly pool, while the first is a valid way to test the user experience and contest rules before automating communications.
+
+9. Build Sequence
+
+Work package 1 — Product and compliance foundations
+
+Finalize contest rules, legal review scope, payment method, message-consent language, privacy policy, age/geography eligibility, deadline timezone, pick reveal policy, tiebreak rules, and prize-handling process. This work package ends with a signed-off functional specification and clickable screen map.
+
+Work package 2 — Private portal MVP
+
+Build the player experience and Robert’s admin console: private invites, sign-in, weekly cards, pick submission, payment-status queue, manual results entry, scoring, weekly/season leaderboard, exports, and audit log. Test all deadline, multiple-card, tiebreak, and admin-exception cases before inviting the full group.
+
+Work package 3 — Pilot with a small trusted group
+
+Run one complete private test week with a small group. Confirm the phone experience, accepted payment workflow, contest locking, result scoring, message language, and records. Use real test data but do not accept live paid entries until the legal/payment workflow is approved.
+
+Work package 4 — Production rollout
+
+Import the 200-person roster, send opt-in invitations, set up the live weekly schedule process, run the first public-to-the-group week, and retain a manual fallback spreadsheet for the first few live cycles. After the workflow is stable, add approved score-data automation and compliant payment automation only if they are still worthwhile.
+
+10. Questions to Resolve Before Coding
+
+1.
+What state or country governs the group, and will all participants be adults located in the same jurisdiction?
+
+2.
+Is Robert willing to keep payments manual at launch, with the portal simply tracking and verifying them, or does he want to wait for an approved integrated-payment design?
+
+3.
+Should everyone see all picks only after the deadline, or immediately after their own card is submitted?
+
+4.
+Is the contest always all NFL games that week, including Thursday and international games, or does it begin with Sunday games only?
+
+5.
+What should happen if two entrants also have the exact same Monday-night combined-score prediction?
+
+6.
+Does Robert want one private pool initially, or the ability to create separate groups for different circles of friends later?
+
+7.
+Does he already have the prototype link/screens he showed in the recording? If so, those can be used as a design reference rather than rebuilt from memory.
+
+Bottom Line
+
+This is very feasible as a private, text-shareable web portal. The core product is not a complex betting platform; it is a secure weekly contest-management system that handles membership, cards, picks, deadlines, payment-status verification, scoring, standings, and reminders. The most important design choices are: keep the first release mobile-first and invite-only; lock/audit submitted picks; hide group picks until the fair reveal point; use a payment-verification queue at launch; and complete jurisdiction-specific legal and payment review before money moves through the portal.
+

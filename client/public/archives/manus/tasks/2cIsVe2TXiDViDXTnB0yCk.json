@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
-  "archived_at": "2026-08-11T15:16:38.196410Z",
+  "archived_at": "2026-09-04T15:55:46.520512Z",
   "task": {
     "id": "2cIsVe2TXiDViDXTnB0yCk",
     "title": "New Hire - Onboarding",
-    "status": "stopped",
+    "status": "waiting",
     "type": "project",
     "agent_profile": "manus-1.6",
-    "credits_used": 23285,
+    "credits_used": 23409,
     "created_at": "1778621956",
-    "updated_at": "1781887461",
+    "updated_at": "1788251335",
     "task_url": "https://manus.im/app/2cIsVe2TXiDViDXTnB0yCk",
     "message_count": 0
   },
-  "event_count": 1160,
+  "event_count": 1170,
   "events": [
     {
       "id": "xSnaU3roaOmulVLuHHgevV",
@@ -1089,13 +1089,13 @@
             "content_type": "application/zip",
             "filename": "ApartmentCorp_Employee_Directory.zip",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/IHsopAuThrrEniGt4G03Qx_1778732016877_na1fn_L2hvbWUvdWJ1bnR1L0FwYXJ0bWVudENvcnBfRW1wbG95ZWVfRGlyZWN0b3J5.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L0lIc29wQXVUaHJyRW5pR3Q0RzAzUXhfMTc3ODczMjAxNjg3N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBGd1lYSjBiV1Z1ZEVOdmNuQmZSVzF3Ykc5NVpXVmZSR2x5WldOMGIzSjUuemlwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIAqEo9xTNJTAEK5s6zQFn-556hHlxGY3Kgw6EjMt8KQIAiBCt~njCTYmZUEOUHq1nk~ugM2RBJVpcqA64AVJ8JkIyw__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/IHsopAuThrrEniGt4G03Qx_1778732016877_na1fn_L2hvbWUvdWJ1bnR1L0FwYXJ0bWVudENvcnBfRW1wbG95ZWVfRGlyZWN0b3J5.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L0lIc29wQXVUaHJyRW5pR3Q0RzAzUXhfMTc3ODczMjAxNjg3N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBGd1lYSjBiV1Z1ZEVOdmNuQmZSVzF3Ykc5NVpXVmZSR2x5WldOMGIzSjUuemlwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwODEyODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIE5bIeokiWOWt91TOZ5QB1sY6TfPUNFFMl8mXEuRBKA2AiAeUEGa6Opq~bpJ6h74948uLX~O5FjMXlKYA2K4gU8UXw__"
           },
           {
             "content_type": "text/markdown",
             "filename": "FOLDER_MAP.md",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/IHsopAuThrrEniGt4G03Qx_1778732016877_na1fn_L2hvbWUvdWJ1bnR1L0FwYXJ0bWVudENvcnAgRW1wbG95ZWUgRGlyZWN0b3J5L0ZPTERFUl9NQVA.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L0lIc29wQXVUaHJyRW5pR3Q0RzAzUXhfMTc3ODczMjAxNjg3N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBGd1lYSjBiV1Z1ZEVOdmNuQWdSVzF3Ykc5NVpXVWdSR2x5WldOMGIzSjVMMFpQVEVSRlVsOU5RVkEubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCID3XWQHcnD-pZERfj-31k2MetC7VvpTt8UoVgtijYYyKAiBIzHyKEhKmz3vbyoXxZQdB9Y3FpsPWzPzDQM1SImrmHg__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/IHsopAuThrrEniGt4G03Qx_1778732016877_na1fn_L2hvbWUvdWJ1bnR1L0FwYXJ0bWVudENvcnAgRW1wbG95ZWUgRGlyZWN0b3J5L0ZPTERFUl9NQVA.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L0lIc29wQXVUaHJyRW5pR3Q0RzAzUXhfMTc3ODczMjAxNjg3N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBGd1lYSjBiV1Z1ZEVOdmNuQWdSVzF3Ykc5NVpXVWdSR2x5WldOMGIzSjVMMFpQVEVSRlVsOU5RVkEubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIBi54s-CgzffcFfTSbXthOD-JI9mvVqsxiHY33~xsWSYAiA3b-8LbDaGXs59fNcPJHguIkLfXwR2~QeYkm-r~3t10g__"
           }
         ],
         "content": "Done! **285 folders** have been created in the sandbox and zipped for easy transfer. Here's the full breakdown of what was built:\n\n| Section | What's Inside |\n|---|---|\n| **01 — Company Organization** | Role-based folders for Upper Management, Regional Managers, Property Managers, Assistant Managers, Leasing Staff, Maintenance, and Accounting — each with a reusable `_Template` folder |\n| **02 — Properties & Buildings** | A master `_Template - Property Folder` with 8 subfolders: Overview, Units, Inspections, Maintenance, Leasing, Financials, Compliance, and Assigned Staff — copy it for each property |\n| **03 — Human Resources** | New Hire Onboarding (with all form types + Ethan's Tech Onboarding folder), Employee Files (with 30/60/90-day review subfolders), Policies, Payroll, Compliance, and Offboarding |\n| **04 — Training & Development** | PropertyMAX.ai video recordings organized by module, platform training for all 7 systems, compliance training, role-specific training, and leadership development |\n| **05 — Technology & IT** | Credential folders for all 14 platforms (PropertyMAX, Yardi, OneSite, AppWork, Connecteam, Paychex, both banks, etc.), equipment inventory, IT policies, and browser bookmarks |\n| **06 — Operations & Administration** | SOPs for every workflow, vendor management, company communications, and a templates library |\n| **07 — Finance & Accounting** | Monthly reports, budgets, AP/AR, banking (B of A + Webster), taxes, audits, purchasing |\n| **08 — Compliance & Legal** | Fair Housing, corporate docs, insurance, legal correspondence |\n| **09 — Marketing & Leasing** | Brand assets, advertising, leasing reports |\n| **10 — Archive** | Former employees, closed properties, prior year records, superseded handbooks |\n\n**To use tomorrow:** Unzip `ApartmentCorp_Employee_Directory.zip` and drag the folder directly onto your company server or OneDrive. The `FOLDER_MAP.md` file inside has the full tree, naming conventions, and step-by-step instructions for adding new employees and properties.\n\n**Suggested next steps:**\n1. **Tell me the server path** when you're back in the office and I'll update the README and any portal links to point directly to the correct server location.\n2. **Add your actual properties** — give me the list of property names/numbers and I'll create the individual property folders (copies of the template) pre-named and ready to go.\n3. **Upload your new hire forms** — send over the W-4, I-9, direct deposit, and other paperwork and I'll build them as interactive fillable forms in the employee portal AND place the blank templates in `03 - Human Resources > 01 - New Hire Onboarding > Onboarding Forms & Templates`."
@@ -1416,13 +1416,13 @@
             "content_type": "application/zip",
             "filename": "ApartmentCorp_Employee_Directory_v2.zip",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/hLgQpkSmdn0GgNLZZiPkfI_1778733461979_na1fn_L2hvbWUvdWJ1bnR1L0FwYXJ0bWVudENvcnBfRW1wbG95ZWVfRGlyZWN0b3J5X3Yy.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L2hMZ1Fwa1NtZG4wR2dOTFpaaVBrZklfMTc3ODczMzQ2MTk3OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBGd1lYSjBiV1Z1ZEVOdmNuQmZSVzF3Ykc5NVpXVmZSR2x5WldOMGIzSjVYM1l5LnppcCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIGxSuJIA6zoXqhMbm0ecgnwIXBLWgqlQ002cA4-GX-1WAiEAxQ3dZBWeHPmzEKk~UfJoGJLiSrwbsWTv9OtHnCojKzQ_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/hLgQpkSmdn0GgNLZZiPkfI_1778733461979_na1fn_L2hvbWUvdWJ1bnR1L0FwYXJ0bWVudENvcnBfRW1wbG95ZWVfRGlyZWN0b3J5X3Yy.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L2hMZ1Fwa1NtZG4wR2dOTFpaaVBrZklfMTc3ODczMzQ2MTk3OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBGd1lYSjBiV1Z1ZEVOdmNuQmZSVzF3Ykc5NVpXVmZSR2x5WldOMGIzSjVYM1l5LnppcCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCc6H6y2oHCLqgfuQckqqK9Ex6DdsWqbROXf45B1AfBdQIgb8p-dXfGBp2lFr8vWyFaW8Hi3-AAJEyCAykPDJdD5dE_"
           },
           {
             "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
             "filename": "ApartmentCorp_Employee_Directory.xlsx",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/hLgQpkSmdn0GgNLZZiPkfI_1778733461979_na1fn_L2hvbWUvdWJ1bnR1L0FwYXJ0bWVudENvcnAgRW1wbG95ZWUgRGlyZWN0b3J5L0FwYXJ0bWVudENvcnBfRW1wbG95ZWVfRGlyZWN0b3J5.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L2hMZ1Fwa1NtZG4wR2dOTFpaaVBrZklfMTc3ODczMzQ2MTk3OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBGd1lYSjBiV1Z1ZEVOdmNuQWdSVzF3Ykc5NVpXVWdSR2x5WldOMGIzSjVMMEZ3WVhKMGJXVnVkRU52Y25CZlJXMXdiRzk1WldWZlJHbHlaV04wYjNKNS54bHN4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCE0kRxh-sGRRLXf44eya~0HxWL-WdMJWyBaioZ2LAIJAIgAhiZOzPvPDodCiJdzZ3QWLSsRYdtgsGKi57Y3Cq9XsA_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/hLgQpkSmdn0GgNLZZiPkfI_1778733461979_na1fn_L2hvbWUvdWJ1bnR1L0FwYXJ0bWVudENvcnAgRW1wbG95ZWUgRGlyZWN0b3J5L0FwYXJ0bWVudENvcnBfRW1wbG95ZWVfRGlyZWN0b3J5.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L2hMZ1Fwa1NtZG4wR2dOTFpaaVBrZklfMTc3ODczMzQ2MTk3OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBGd1lYSjBiV1Z1ZEVOdmNuQWdSVzF3Ykc5NVpXVWdSR2x5WldOMGIzSjVMMEZ3WVhKMGJXVnVkRU52Y25CZlJXMXdiRzk1WldWZlJHbHlaV04wYjNKNS54bHN4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwODEyODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDf8HvEfqtFYZS9keUi2nZGFfqEEBeujef-PsIqMAa59AIgWTJCIOoJLfi851j8eA28tOM1l1nIItPJLxFgk32geuU_"
           }
         ],
         "content": "Done! Here's everything I built based on the org chart data from your Notion workspace:\n\n**1,242 folders** across the full ApartmentCorp ecosystem, plus a **SharePoint-ready Excel workbook** — both attached above.\n\n---\n\n**Folder Structure — Top Level:**\n\n| # | Section | What's Inside |\n|---|---|---|\n| 01 | Company Organization | Upper Mgmt, 5 Regional Managers, Property Managers, Assistants, Leasing, Maintenance |\n| 02 | Properties | **All 41 properties** organized by Region → Building → 7 subfolders each |\n| 03 | Human Resources | Onboarding, Active Employee Files (template), Policies, Payroll, Benefits, Offboarding |\n| 04 | Training & Development | PropertyMAX.ai videos by module, Platform Training (7 systems), Compliance, Role-Specific |\n| 05 | Technology & IT | Platform Credentials (14 systems), Equipment, Browser Bookmarks, VPN |\n| 06 | Operations | SOPs by workflow, Vendor Mgmt, Templates Library |\n| 07 | Finance & Accounting | Monthly Reports, Budgets, AP/AR, B of A, Webster, Taxes, Purchasing |\n| 08 | Compliance & Legal | Fair Housing, HUD, LIHTC, Corporate Docs, Insurance |\n| 09 | Marketing & Leasing | Brand Assets, Advertising, Vacancy Reports, Section 8 FMRs |\n| 10 | Archive | Former Employees, Closed Properties, Prior Year Records |\n\n---\n\n**Excel Workbook — 5 Sheets:**\n\n| Sheet | Purpose |\n|---|---|\n| Master Employee Directory | All staff — name, title, region, property, contact info, Paychex ID |\n| Property Summary | All 41 properties with unit counts, HUD/LIHTC breakdown, manager fields |\n| Technology Access Tracker | Per-employee platform access status (Ethan's sheet) |\n| New Hire Onboarding Tracker | Every onboarding step tracked per hire with ✅/⏳/❌ dropdowns |\n| 30-60-90 Day Review Tracker | Scheduled, completed, scores, outcomes per employee |\n\n**To use tomorrow:** Unzip `ApartmentCorp_Employee_Directory_v2.zip` and drag the entire folder to your company server or OneDrive. The Excel file is already inside and ready to upload to SharePoint."
@@ -1684,7 +1684,7 @@
             "content_type": "image/png",
             "filename": "LogoGoldAptCorp.png",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-Rx2N5QIx23JMdv6a1SnLSE_na1fn_TG9nb0dvbGRBcHRDb3Jw.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1SeDJONVFJeDIzSk1kdjZhMVNuTFNFX25hMWZuX1RHOW5iMGR2YkdSQmNIUkRiM0p3LnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIAqV~kVs~b1h804Gl8Hniw-Oh1HUvD7k8ED-2HKI5ondAiEAvOyGY9Q7kGsZmMWu2U0PK~KvQLBRsDhR8LLnDbTvj8c_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-Rx2N5QIx23JMdv6a1SnLSE_na1fn_TG9nb0dvbGRBcHRDb3Jw.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1SeDJONVFJeDIzSk1kdjZhMVNuTFNFX25hMWZuX1RHOW5iMGR2YkdSQmNIUkRiM0p3LnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQC3kluEgkoETj7iGPFnSWRgRwLX-Caxt-zn6nZPhWD0HQIhAJ64B9kVox1QqtK5DtuA4YYU4iBEoiQk561vWjEehqer"
           }
         ],
         "content": "make the logo at the top be this image but make it a gif with white background remove and a slow glistening effect - also center it on the page at the top ",
@@ -2139,7 +2139,7 @@
             "content_type": "image/gif",
             "filename": "AptCorpShimmer.gif",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-lBcfUIPfly8c09Bwk5dgfu_na1fn_QXB0Q29ycFNoaW1tZXI.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1sQmNmVUlQZmx5OGMwOUJ3azVkZ2Z1X25hMWZuX1FYQjBRMjl5Y0ZOb2FXMXRaWEkuZ2lmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCZhOCuEUn6UmmKsHLayL80Z~iKIPQIN8LW-BZ8Lp4yngIhAPEgInRE-dTIyL~sWKph6iWXRu~F~5bYAIBA5SJzpU9A"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-lBcfUIPfly8c09Bwk5dgfu_na1fn_QXB0Q29ycFNoaW1tZXI.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1sQmNmVUlQZmx5OGMwOUJ3azVkZ2Z1X25hMWZuX1FYQjBRMjl5Y0ZOb2FXMXRaWEkuZ2lmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwODEyODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIDL-RGieH-cv84EvmlR3ygBNT4wSlHbeFro9NzrWvNiUAiEA9Bcmw0vICacyH5w5asBcqYM-XP1HPkE0rQuw2Ic3VX4_"
           }
         ],
         "content": "change the gold icon with this gif ",
@@ -2191,7 +2191,7 @@
             "content_type": "image/gif",
             "filename": "PropertyMaxShimmer.gif",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-hb2DbCYOgjw4sKZc7cEisq_na1fn_UHJvcGVydHlNYXhTaGltbWVy.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1oYjJEYkNZT2dqdzRzS1pjN2NFaXNxX25hMWZuX1VISnZjR1Z5ZEhsTllYaFRhR2x0YldWeS5naWYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIHH7MeDMd5J2l6XhAtoSRvUP0bHEtJBnpY7FOtCjLCF-AiEAoVnRIZLmyPHdpRxP6NEoZCc4N1h-sspqrp~JZ5h~DcM_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-hb2DbCYOgjw4sKZc7cEisq_na1fn_UHJvcGVydHlNYXhTaGltbWVy.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1oYjJEYkNZT2dqdzRzS1pjN2NFaXNxX25hMWZuX1VISnZjR1Z5ZEhsTllYaFRhR2x0YldWeS5naWYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIHlvUXlHWynd8nLO-59lk9454ekwFmSsoiY3rqyY9Ud~AiEAutfb4qnEW93nvVSYAwnMW9zL-Bzi7GpmFQb7zaQVGl4_"
           }
         ],
         "content": "put this gif on the top right corner ",
@@ -2432,7 +2432,7 @@
             "content_type": "image/gif",
             "filename": "PropertyMaxShimmer_5e119ab3.gif",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-68891XkGaUCqLmsyuvEJrv_na1fn_UHJvcGVydHlNYXhTaGltbWVyXzVlMTE5YWIz.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC02ODg5MVhrR2FVQ3FMbXN5dXZFSnJ2X25hMWZuX1VISnZjR1Z5ZEhsTllYaFRhR2x0YldWeVh6VmxNVEU1WVdJei5naWYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIApB4GUcdJACvrcdxhIiNWT7MsVUdukFs4qtAcdQW3s5AiB5uBLCOLfTwvzXPTdI3d0i4FnkjqzbBuszSiv5JhQx-A__"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-68891XkGaUCqLmsyuvEJrv_na1fn_UHJvcGVydHlNYXhTaGltbWVyXzVlMTE5YWIz.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC02ODg5MVhrR2FVQ3FMbXN5dXZFSnJ2X25hMWZuX1VISnZjR1Z5ZEhsTllYaFRhR2x0YldWeVh6VmxNVEU1WVdJei5naWYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCSRono4Kp4eLKBcw3Ga8Uq62qzs2B~GjDU7TRi97jazQIhAKPsAJs3i5hNOLVO-f37ORhJs2o-fH7FSIxMa927GE4s"
           }
         ],
         "message_type": "text"
@@ -3341,7 +3341,7 @@
             "content_type": "application/pdf",
             "filename": "pasted_file_9pXcWe_employee_application_packet_clean_fillable_final.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-Dt1DqVlRAFndPundsCQf4R_na1fn_cGFzdGVkX2ZpbGVfOXBYY1dlX2VtcGxveWVlX2FwcGxpY2F0aW9uX3BhY2tldF9jbGVhbl9maWxsYWJsZV9maW5hbA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1EdDFEcVZsUkFGbmRQdW5kc0NRZjRSX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZPWEJZWTFkbFgyVnRjR3h2ZVdWbFgyRndjR3hwWTJGMGFXOXVYM0JoWTJ0bGRGOWpiR1ZoYmw5bWFXeHNZV0pzWlY5bWFXNWhiQS5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIFtaSaeQK9i1cTF4RokAtScH0E2SWxGtM0MUv5cXwTrvAiB~qTnJwBfvjwrW~J4D8INBkiI2ob7tCPX9rI~gdMFgrA__"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-Dt1DqVlRAFndPundsCQf4R_na1fn_cGFzdGVkX2ZpbGVfOXBYY1dlX2VtcGxveWVlX2FwcGxpY2F0aW9uX3BhY2tldF9jbGVhbl9maWxsYWJsZV9maW5hbA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1EdDFEcVZsUkFGbmRQdW5kc0NRZjRSX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZPWEJZWTFkbFgyVnRjR3h2ZVdWbFgyRndjR3hwWTJGMGFXOXVYM0JoWTJ0bGRGOWpiR1ZoYmw5bWFXeHNZV0pzWlY5bWFXNWhiQS5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQChylIp2MIyTisbW5kLRkPInRoFY4fvFJXud9uC5db4pAIhAP7IQLApybp0Hta0WxpmL6pPs68PA9uZY1tyvtDsCff4"
           }
         ],
         "content": "i need you to upload these fillable forms into the new hire portal as well as in the documents section - put them in the best place that they apply - i want the new hire to fill out the form, then it goes to their applicable regional manager to approve, then goes to HR/Uppermanagement ",
@@ -3858,19 +3858,19 @@
             "content_type": "application/pdf",
             "filename": "EmployeeApplicationPacket3-9-2026.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-Y4lfidGTwQnuCbQudVFaf7_na1fn_RW1wbG95ZWVBcHBsaWNhdGlvblBhY2tldDMtOS0yMDI2.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1ZNGxmaWRHVHdRbnVDYlF1ZFZGYWY3X25hMWZuX1JXMXdiRzk1WldWQmNIQnNhV05oZEdsdmJsQmhZMnRsZERNdE9TMHlNREkyLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCTabq8aJ6lsUXBzTHcQCm6jfvFbhEFSQxXYUBhLT-6oQIgeduGCsF7nM2PYBzti0fF6Pw5IXzPnnk3DgQHxeEt9Wg_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-Y4lfidGTwQnuCbQudVFaf7_na1fn_RW1wbG95ZWVBcHBsaWNhdGlvblBhY2tldDMtOS0yMDI2.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1ZNGxmaWRHVHdRbnVDYlF1ZFZGYWY3X25hMWZuX1JXMXdiRzk1WldWQmNIQnNhV05oZEdsdmJsQmhZMnRsZERNdE9TMHlNREkyLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIB5t0R91RSEkHeY8fPC9enUT2Q9XUIZVZOlDAcu7aKToAiEAi3mIjMRjmUzwh0U0i3htvN0buSXfHr-t9U94Cw6TVBI_"
           },
           {
             "content_type": "application/pdf",
             "filename": "I-9Formexp.7-31-26.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-Db5UfqNxHO1MlUKt5LxtED_na1fn_SS05Rm9ybWV4cC43LTMxLTI2.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1EYjVVZnFOeEhPMU1sVUt0NUx4dEVEX25hMWZuX1NTMDVSbTl5YldWNGNDNDNMVE14TFRJMi5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQD48vAReGX83Z6Ovb77GwW09uVET3S6WxHoptBLefs69QIhAJv9RnWUhKBkePd9a2SZRJMTfHByOV~xg4asw37lyk4y"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-Db5UfqNxHO1MlUKt5LxtED_na1fn_SS05Rm9ybWV4cC43LTMxLTI2.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1EYjVVZnFOeEhPMU1sVUt0NUx4dEVEX25hMWZuX1NTMDVSbTl5YldWNGNDNDNMVE14TFRJMi5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCLue--dOK65qiMtesgb1VXJUWkbD-XU7QQKa1G7lS4sgIgdWOrwj94j0Z6cPSIVT8-m13U-5bAWiNGKshd8RCU5Vc_"
           },
           {
             "content_type": "application/pdf",
             "filename": "W-42026.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-7cNuSkbYkwdM3smYgvAFA6_na1fn_Vy00MjAyNg.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC03Y051U2tiWWt3ZE0zc21ZZ3ZBRkE2X25hMWZuX1Z5MDBNakF5TmcucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDU94Ylg08-YTF5EjmUyTtNJC2dmlyWIpHy5bXUvgtecQIhAL2mLFV4VTtP6ReVXnxCngX3KtDhwtBbZEtzA~c1k~zy"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-7cNuSkbYkwdM3smYgvAFA6_na1fn_Vy00MjAyNg.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC03Y051U2tiWWt3ZE0zc21ZZ3ZBRkE2X25hMWZuX1Z5MDBNakF5TmcucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwODEyODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIEWb2wArrNOdVrZb61BHAtWFnqtMtXwa6Q7ZM4jFnKouAiEAz8nrteYvrdZINvWPdOPORu1m2S6QjK7LgXcmwfyk4yI_"
           }
         ],
         "content": "did you already create fillable web forms for these?",
@@ -4951,7 +4951,7 @@
             "content_type": "image/png",
             "filename": "NewHireDocumentsAndLogins.png",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ohWEW926bOMwTDWZOK1b73_na1fn_TmV3SGlyZURvY3VtZW50c0FuZExvZ2lucw.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1vaFdFVzkyNmJPTXdURFdaT0sxYjczX25hMWZuX1RtVjNTR2x5WlVSdlkzVnRaVzUwYzBGdVpFeHZaMmx1Y3cucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDCeY5wkkJW6khXD10MSXqQykwNJUJU4Lo6GuThtT7CzwIgY6D8SJ1FdBRBYGliKggM5yEnJZQogKqVzPafna3P1OY_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ohWEW926bOMwTDWZOK1b73_na1fn_TmV3SGlyZURvY3VtZW50c0FuZExvZ2lucw.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1vaFdFVzkyNmJPTXdURFdaT0sxYjczX25hMWZuX1RtVjNTR2x5WlVSdlkzVnRaVzUwYzBGdVpFeHZaMmx1Y3cucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwODEyODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQC44AdcL~IDum8gEpshQNLzFLd-~Ogoda5h8m4z3nngHAIhAKNPDU-KrJXXxGQHTHAj0Hqf8bh1sM8cs0UxI9DrJHj9"
           }
         ],
         "content": "that should help a lot ",
@@ -5436,13 +5436,13 @@
             "content_type": "application/pdf",
             "filename": "propertymax_training_toc.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/UG8JQIW4CwhBM3JWSyOlfB_1779325756946_na1fn_L2hvbWUvdWJ1bnR1L3Byb3BlcnR5bWF4X3RyYWluaW5nX3RvYw.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L1VHOEpRSVc0Q3doQk0zSldTeU9sZkJfMTc3OTMyNTc1Njk0Nl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCeWIzQmxjblI1YldGNFgzUnlZV2x1YVc1blgzUnZZdy5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIF7S3P4p8RZLCstuG5K8XfgVlwdEhIgi-kqtZZ5QZXqoAiA~ZO8kI8pATo4bl2JTo53yoIXyoAoKEOfovJwFmmkByQ__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/UG8JQIW4CwhBM3JWSyOlfB_1779325756946_na1fn_L2hvbWUvdWJ1bnR1L3Byb3BlcnR5bWF4X3RyYWluaW5nX3RvYw.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L1VHOEpRSVc0Q3doQk0zSldTeU9sZkJfMTc3OTMyNTc1Njk0Nl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCeWIzQmxjblI1YldGNFgzUnlZV2x1YVc1blgzUnZZdy5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDkV6JED7FjZqg2eUVu661WE8FsmHXXUojkR06n8dHL7AiAciK7ijh2E50gmZbcNJnxyO2IGh8W5NOAI6pDQP~cpUA__"
           },
           {
             "content_type": "application/zip",
             "filename": "PropertyMAX_Training_Folders.zip",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/UG8JQIW4CwhBM3JWSyOlfB_1779325756946_na1fn_L2hvbWUvdWJ1bnR1L1Byb3BlcnR5TUFYX1RyYWluaW5nX0ZvbGRlcnM.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L1VHOEpRSVc0Q3doQk0zSldTeU9sZkJfMTc3OTMyNTc1Njk0Nl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDFCeWIzQmxjblI1VFVGWVgxUnlZV2x1YVc1blgwWnZiR1JsY25NLnppcCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCyjX8POHjzjZjpcKYKue6OeRDauSCCZhGuOTCjeOtkZAIhALEZyDVqKFvoNf-p~VepKgg-vsj35vKkqF65CD~rIyd~"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/UG8JQIW4CwhBM3JWSyOlfB_1779325756946_na1fn_L2hvbWUvdWJ1bnR1L1Byb3BlcnR5TUFYX1RyYWluaW5nX0ZvbGRlcnM.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L1VHOEpRSVc0Q3doQk0zSldTeU9sZkJfMTc3OTMyNTc1Njk0Nl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDFCeWIzQmxjblI1VFVGWVgxUnlZV2x1YVc1blgwWnZiR1JsY25NLnppcCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCsWvGu63FpqqwqGYYolMLzqFuaUR8niO2g6xVz8MFtRwIgfPsPf~jzlP2EdDdLLBSqhBA9p4NDeMgyLm~TB3er5rU_"
           }
         ],
         "content": "Checkpoint saved (version `40a9a303`). Here's everything completed in this batch:\n\n**Portal Features:**\n- **Admin Dashboard:** Logins modal per new hire — 14 platform checkboxes (Paychex, AppWork, Connecteam, Sensor, Phone Portal, Yardi, Inspections, Genesis, Webster, B of A, Purchasing, Vacancy, AI Bot, OneSite) with username/password/notes fields and reveal/copy buttons\n- **New Hire Portal:** My Logins screen with masked passwords and reveal/copy\n- **PropertyMAX Training Checklist:** 9 collapsible sections, checkbox per item, timestamp + employee e-signature on each completion\n- **Approval flow:** Updated to Applicant → Brandon → Robert → Ethan → Nicole → Marc throughout the DB, backend, and admin UI\n- **Employment Application:** \"Position Applied For\" and \"Property/Location\" are now dynamic dropdowns\n- **Required fields:** Neon orange outline when empty, neon green + checkmark when filled\n- **Form submission bug:** Fixed — email fallback auth ensures submissions work on the published site\n- **All 15 tests passing** across 4 test files\n\n**PropertyMAX Training Deliverables** (attached below):\n- PDF Table of Contents with all 9 sections and sub-items\n- ZIP folder structure ready for you to drop your screen recordings into"
@@ -6365,7 +6365,7 @@
             "content_type": "text/plain",
             "filename": "pasted_content.txt",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-sDiUsidLDKcoEQs9thZjBs_na1fn_cGFzdGVkX2NvbnRlbnQ.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1zRGlVc2lkTERLY29FUXM5dGhaakJzX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCHcnhxGoyIo8ozWZt~OgNrS4C27uMseScSXR1VOsJF1QIgSxvWuIuTmfVJB0Od6cm-K0sYeU2YmIa60lfmE3MVakM_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-sDiUsidLDKcoEQs9thZjBs_na1fn_cGFzdGVkX2NvbnRlbnQ.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1zRGlVc2lkTERLY29FUXM5dGhaakJzX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwODEyODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIE3DATfWyX5G-dis7m68ryIvB91m1YvQ4i6E0vWLL-osAiEA3zhqP~pNgPauJnuFdcBffphN0VaQe-am7whVVo9EPqA_"
           }
         ],
         "message_type": "text"
@@ -7129,7 +7129,7 @@
             "content_type": "image/png",
             "filename": "onboarding-flow.png",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/KIJjeN4uT9SM2Kf2f6usMJ_1779421751175_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdw.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L0tJSmplTjR1VDlTTTJLZjJmNnVzTUpfMTc3OTQyMTc1MTE3NV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkdy5wbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIFu8H6dPb2s1hHsWkdWC5a1VUE~xKUER~1CLk5p~yw7KAiBA8dsAWaTmoOpoXCmEfb43ChCnhQ~LAdJ29U23R033WA__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/KIJjeN4uT9SM2Kf2f6usMJ_1779421751175_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdw.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L0tJSmplTjR1VDlTTTJLZjJmNnVzTUpfMTc3OTQyMTc1MTE3NV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkdy5wbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDf-MXJa55O91P0ooSregNwvE5lo-eQntUi5Q3bNpRpTAIgU4nImmUY~3GkEQEE0FtR4TtBv5B6fP25sxHKr-GDzQA_"
           }
         ],
         "content": "Here's the full onboarding flow diagram. It covers every layer of the system:\n\n**What's included:**\n\n| Section | What it shows |\n|---|---|\n| **Entry Point** | Portal URL, two access paths (New Hire vs. Admin) |\n| **Registration** | Email + passcode creation, DB insert, welcome email, Brandon notification |\n| **6 Chapters** | Each chapter's color-coded unlock sequence, all form fields listed, special rules (Benefits skippable, Maintenance test position-gated, IT-2104 NY residency gate) |\n| **Submission & Approval Loop** | Submit → DB write → chapter locked → Brandon notified → Approve/Reject → DB audit trail → next chapter unlocks |\n| **PropertyMAX Training** | All 10 sections (Phone Excellence first), per-section sign-off flow, DB storage |\n| **All Database Tables** | 6 MySQL tables with their key columns |\n| **Admin Dashboard** | Review tab, Credentials tab, Buildings tab |\n| **Future: Completion Email** | HTML report to Regional Manager, Payroll Admin, HR after all chapters approved |\n\nThe diagram is best viewed zoomed in — the PNG is full resolution so you can zoom into any section when presenting."
@@ -7200,7 +7200,7 @@
             "content_type": "application/x-zip-compressed",
             "filename": "Managers&AssistantsNotionSpreadsheet.zip",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-pQ11nPH7TnzhkWTaGjrf3m_na1fn_TWFuYWdlcnMmQXNzaXN0YW50c05vdGlvblNwcmVhZHNoZWV0.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1wUTExblBIN1RuemhrV1RhR2pyZjNtX25hMWZuX1RXRnVZV2RsY25NbVFYTnphWE4wWVc1MGMwNXZkR2x2YmxOd2NtVmhaSE5vWldWMC56aXAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIHd2uA8GpdFie~HW9uZ9ijwYIycW586ceEFqMR~QDyZbAiA~puxFplWDDWwthefI6WhfIggbZLpganZNODDw5YtEIw__"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-pQ11nPH7TnzhkWTaGjrf3m_na1fn_TWFuYWdlcnMmQXNzaXN0YW50c05vdGlvblNwcmVhZHNoZWV0.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1wUTExblBIN1RuemhrV1RhR2pyZjNtX25hMWZuX1RXRnVZV2RsY25NbVFYTnphWE4wWVc1MGMwNXZkR2x2YmxOd2NtVmhaSE5vWldWMC56aXAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIDvoEeS8vqcFSX4-Doka-lY5iXQb~sEoo2ItQ0P~1-rbAiEA6zdws~yM~O~uCGi1Oxh7qZJjvFTTvLOD3Wqq-HDDj3s_"
           }
         ],
         "content": "Yes all of the emails are here in this spreadsheet but just put in placeholders for now ",
@@ -7258,7 +7258,7 @@
             "content_type": "application/x-zip-compressed",
             "filename": "UpperManagementNotionSpreadsheet.zip",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-TbNdSQSp3JDfcMoTQfu6os_na1fn_VXBwZXJNYW5hZ2VtZW50Tm90aW9uU3ByZWFkc2hlZXQ.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1UYk5kU1FTcDNKRGZjTW9UUWZ1Nm9zX25hMWZuX1ZYQndaWEpOWVc1aFoyVnRaVzUwVG05MGFXOXVVM0J5WldGa2MyaGxaWFEuemlwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIBLjuL1unSGsZGZ0RFwi3wErXEtunBzOalGz3QJkFsRaAiBr3471AgRlCvuWyp2BbHJzEfbQAWVCRn6SF1QVCrp3Lg__"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-TbNdSQSp3JDfcMoTQfu6os_na1fn_VXBwZXJNYW5hZ2VtZW50Tm90aW9uU3ByZWFkc2hlZXQ.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1UYk5kU1FTcDNKRGZjTW9UUWZ1Nm9zX25hMWZuX1ZYQndaWEpOWVc1aFoyVnRaVzUwVG05MGFXOXVVM0J5WldGa2MyaGxaWFEuemlwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwODEyODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCID03DXcrdLGLuuSbz1kCwupizvcL6wZ8sTfv5IhQKaJIAiA-LPbynRL43uJYJnaEnTHTncO0x947dOvnX963P9F6wg__"
           }
         ],
         "message_type": "text"
@@ -7394,7 +7394,7 @@
             "content_type": "application/pdf",
             "filename": "employee_handbook_2019.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-mJZb5XIhRd8MzW90E9Tvnw_na1fn_ZW1wbG95ZWVfaGFuZGJvb2tfMjAxOQ.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1tSlpiNVhJaFJkOE16VzkwRTlUdm53X25hMWZuX1pXMXdiRzk1WldWZmFHRnVaR0p2YjJ0Zk1qQXhPUS5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIFWpRWei8BJ86EeIMDDuaBfsimhfkrn4DP-xHjAy0wjHAiEAkxEJhgmJeT5z-VTIjYAJBlHr84vgBjVNMXW0RqyLWc4_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-mJZb5XIhRd8MzW90E9Tvnw_na1fn_ZW1wbG95ZWVfaGFuZGJvb2tfMjAxOQ.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1tSlpiNVhJaFJkOE16VzkwRTlUdm53X25hMWZuX1pXMXdiRzk1WldWZmFHRnVaR0p2YjJ0Zk1qQXhPUS5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIFIxEebVS2yTaVH9H0o-2RAw6h4YBBLEmm8KuquGFmRpAiEAmIDcy-1HS1v2fgsRKE66PFH5nQwZK8WvaN9V4Rp9Crk_"
           }
         ],
         "content": "create me and new revised employee handbook based off of this old one ",
@@ -7907,7 +7907,7 @@
             "content_type": "image/jpeg",
             "filename": "FlowDiagram.jpeg",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-YI7mbY2zMmicaCxY0Kd6Bj_na1fn_Rmxvd0RpYWdyYW0.jpeg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1ZSTdtYlkyek1taWNhQ3hZMEtkNkJqX25hMWZuX1JteHZkMFJwWVdkeVlXMC5qcGVnIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQC46GjwawfUduiPJbAe5tNgtAxF~hhXmedakOjVmlhsWgIhAPCnd6q5GdFr0vm1FJ0LU5d2ogwn3ZBXByBVWXaeVGkM"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-YI7mbY2zMmicaCxY0Kd6Bj_na1fn_Rmxvd0RpYWdyYW0.jpeg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1ZSTdtYlkyek1taWNhQ3hZMEtkNkJqX25hMWZuX1JteHZkMFJwWVdkeVlXMC5qcGVnIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwODEyODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIAtN07vTUmHsA2EHqLJ7W7R6-oXYm9KiQTE6gcG3NFUSAiEA~~v4OIUFFFu51gLizvT0KfR8PT5iSP4~yECMzNWWXkQ_"
           }
         ],
         "message_type": "text"
@@ -7938,7 +7938,7 @@
             "content_type": "text/html",
             "filename": "onboarding-flow-diagram.html",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/JV7ozMOuSqroSthGOcOWLD_1779491020718_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L0pWN296TU91U3Fyb1N0aEdPY09XTERfMTc3OTQ5MTAyMDcxOF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDp7lq8jlNJzhqYbztFyDtP8h9-RLG8x~OBg4vu1D3RTwIgfyKwfiKvj7KeHN0idLkyqDFyTU8MlQwOOIi-EZI6oWc_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/JV7ozMOuSqroSthGOcOWLD_1779491020718_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L0pWN296TU91U3Fyb1N0aEdPY09XTERfMTc3OTQ5MTAyMDcxOF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCzBApPAbp62p4GkEWsqOcf4XJ07jsl2XFkdEpHiZPbkwIgEqt0Fnrb5fgkoqf8tKmpvXR8aRHbUnqjlkFnEXTWaJs_"
           }
         ],
         "content": "Here is your interactive, color-coded onboarding flow diagram. Here's what's included:\n\n**6 Color-Coded Sections** (each collapsible):\n| Color | Section |\n|---|---|\n| 🟦 Navy | Onboarding Setup |\n| 🟣 Purple | Approval Flow (with clickable approver chain) |\n| 🟢 Teal | Application Forms |\n| 🟡 Amber | Training Videos |\n| 🟠 Orange | On-Boarding Flow Summary |\n| 🔵 Blue | Files / Data Path |\n\n**Interactive Features:**\n- **Checkboxes** on every item — check to mark complete (item grays out with strikethrough)\n- **Approval chain** (Applicant → Brandon → Robert → Ethan → Nicole → Marc) — each approver is individually checkable\n- **Click any label or sub-note to edit it** directly in the browser\n- **Progress bar** at the top tracks overall completion\n- **+ Add Item** button in every section to add new rows\n- **+ Add New Section** button at the bottom\n- **Expand All / Collapse All / Check All / Uncheck All** toolbar buttons\n- **💾 Save / Export** button — downloads the current state (with all your edits and checks) as a new HTML file you can reopen later"
@@ -8008,7 +8008,7 @@
             "content_type": "text/html",
             "filename": "onboarding-flow-diagram.html",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/uy94NH3BR1ARApM99KfJuP_1779491210045_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L3V5OTROSDNCUjFBUkFwTTk5S2ZKdVBfMTc3OTQ5MTIxMDA0NV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIEHcj16ljc0sbQjAQZEK2c7dNZPVxsfiM72PngxdtgYVAiAM9fMggQ9nq-CZ2YYky-LiZcjC1A2yqQ6eXW~k4QPPBQ__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/uy94NH3BR1ARApM99KfJuP_1779491210045_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L3V5OTROSDNCUjFBUkFwTTk5S2ZKdVBfMTc3OTQ5MTIxMDA0NV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIEk1dM9lk9Knbn~kv0J3805~lfJO1wRNYzL5pDZDOSO2AiBft3ZoENwC0ZDCfM2vSfk4~E-hRRaswnF2FsfI-ADiAA__"
           }
         ],
         "content": "Done — the \"Onboarding Setup\" section has been removed and the remaining sections are renumbered 1–5. Updated file attached."
@@ -8078,7 +8078,7 @@
             "content_type": "text/html",
             "filename": "onboarding-flow-diagram.html",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/lLiSVmrrbbKQl7B6iyx6EJ_1779491336774_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L2xMaVNWbXJyYmJLUWw3QjZpeXg2RUpfMTc3OTQ5MTMzNjc3NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIHwNaGWgGPgjfwB4WpkwFllAw5vBl3AACeLIfifqWLVgAiAryxf3cMy19nfMbl~pF~oAV4ThR6273gbH2f0kOe0nlA__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/lLiSVmrrbbKQl7B6iyx6EJ_1779491336774_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L2xMaVNWbXJyYmJLUWw3QjZpeXg2RUpfMTc3OTQ5MTMzNjc3NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDRLhCNt8GlgQW4rU0gGpxxAPvSFB53cEYChjD6KrReGgIgPSHBX~6OxwO5MddhbQFt8S1wcEPuEn-5Yv7pcVwnu6I_"
           }
         ],
         "content": "Done — the \"Create Table of Contents for Folder\" item has been removed. Updated file attached."
@@ -8131,7 +8131,7 @@
             "content_type": "text/html",
             "filename": "onboarding-flow-diagram.html",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/AQ7cVXq630ghovLuupN24L_1779491419472_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L0FRN2NWWHE2MzBnaG92THV1cE4yNExfMTc3OTQ5MTQxOTQ3Ml9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDlZk-ArXenniiXDl8QbQhIQIAu5GX0KLVmErarCPkvxQIhAJh4X1yXuPRwb3tY~RIQNE-j8LdkmUJAWOBjrfsp4eoj"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/AQ7cVXq630ghovLuupN24L_1779491419472_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L0FRN2NWWHE2MzBnaG92THV1cE4yNExfMTc3OTQ5MTQxOTQ3Ml9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCUsFj28BjaL8UGl9smHz2wsmdyKTvrLq6JTVqxI5CtVAIgG6zEvou6ydyE3WQtQ9d8jtIEUeBbyPrGlD84A4tlbBk_"
           }
         ],
         "content": "Done — \"Training Videos\" has been removed from the Application Forms section. Updated file attached."
@@ -8160,7 +8160,7 @@
             "content_type": "image/png",
             "filename": "diagramedit1.png",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-LQukDUi5jgRDbBle0qeXBu_na1fn_ZGlhZ3JhbWVkaXQx.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1MUXVrRFVpNWpnUkRiQmxlMHFlWEJ1X25hMWZuX1pHbGhaM0poYldWa2FYUXgucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCICl8WAMGvDvalVDclbIVGzuYhfOlTgvfmLvkDucdOM5oAiB8by5zcs2bnGfQVfi~93S6nTZiXhoGt2CGlQ~zH~nW6A__"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-LQukDUi5jgRDbBle0qeXBu_na1fn_ZGlhZ3JhbWVkaXQx.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1MUXVrRFVpNWpnUkRiQmxlMHFlWEJ1X25hMWZuX1pHbGhaM0poYldWa2FYUXgucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwODEyODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCImQMVkXWbBUgtNDxq~AEonQpw3p9iIFolts4eQjyaDQIhAMV~NKsQoiziUr1SCg2YNl-oQea~q4fYMLy3gUw2Nh2b"
           }
         ],
         "content": "make this edits and you should know better than me now what the flow should be - i wanted you to use your judgement and not miss anything and make a full flow diagram of the process ",
@@ -8931,7 +8931,7 @@
             "content_type": "text/html",
             "filename": "onboarding-flow-diagram.html",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/y8OD1G7o8YObQZ5UaXvrbI_1779494459697_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L3k4T0QxRzdvOFlPYlFaNVVhWHZyYklfMTc3OTQ5NDQ1OTY5N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDl6pTphQAPgahIWum5tlbaN9Qm-ObEVH9nrkq8dXT7aAiAHcwJdU16~WDs2Cvu00ylLq2paVypb-2trouSZqjqcDQ__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/y8OD1G7o8YObQZ5UaXvrbI_1779494459697_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L3k4T0QxRzdvOFlPYlFaNVVhWHZyYklfMTc3OTQ5NDQ1OTY5N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIEw2bDJoefGYoNDJv~R-4CwDexNb8fYeVMrW--DRBYoiAiAPbRkdiU5F3osqWZmEcIDMgSuG1EM1A-cL8sayieudFw__"
           }
         ],
         "content": "Here's the flow diagram. Now back to diagnosing the new hire visibility issue — the DB has both records (Brandon id:30001 and Robert id:1), and `getAllNewHires` has no filter, so the data is there. The issue must be in how the frontend is calling the procedure or how the admin session is authenticated. Checking the TechOnboardingTab query call now."
@@ -9033,7 +9033,7 @@
             "content_type": "text/html",
             "filename": "onboarding-flow-diagram.html",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/X7Du7Khysv30NYBf3yEeP0_1779495000162_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L1g3RHU3S2h5c3YzME5ZQmYzeUVlUDBfMTc3OTQ5NTAwMDE2Ml9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCQUC6nAQrAPGALiy1e3rUhKrcPQkgIgbE5u3QRbgHruAIhAL7D-2mQgbO56HgYnBuD9Upiuik8l5nxqCWM1MRBe4rw"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/X7Du7Khysv30NYBf3yEeP0_1779495000162_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L1g3RHU3S2h5c3YzME5ZQmYzeUVlUDBfMTc3OTQ5NTAwMDE2Ml9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCICm3Nnwt2wHn0Woev8PQ-vIuj2p-zRRxc5NULo2EalzgAiAuI3t4AhM0awR8SQ6y23H3T-nEP-jeap8Tw-np6brYcw__"
           }
         ],
         "content": "Here is the fully rebuilt, comprehensive onboarding flow diagram. This is no longer a copy of your handwritten notes — it's a complete professional schematic built from everything I know about the ApartmentCorp system.\n\n**9 Color-Coded Phases covering the entire process:**\n\n| Phase | Color | Owner |\n|---|---|---|\n| 1 — Candidate Intake & Registration | Navy | Brandon / HR |\n| 2 — Application Forms | Teal | New Hire |\n| 3 — Approval Flow | Purple | Management Chain |\n| 4 — IT Credential Provisioning | Amber | Ethan Cowles |\n| 5 — Training Videos | Rose | New Hire |\n| 6 — Document Hub & Records | Green | Brandon / HR |\n| 7 — Payroll Setup | Blue | Brandon |\n| 8 — Day 1 Onsite Orientation | Violet | Lindsey / Manager |\n| 9 — Onboarding Complete | Orange | Brandon / Marc |\n\n**Every step includes:**\n- Color-coded system, person, email, and automation tags\n- Editable labels and sub-notes (click any text to edit)\n- Individual checkboxes with strikethrough on completion\n- The full approval chain (Applicant → Brandon → Robert → Ethan → Nicole → Marc) with clickable approver checkboxes\n- Progress bar tracking overall completion percentage\n- Add Step and Add Phase buttons\n- Save/Export button to download your current state"
@@ -9086,7 +9086,7 @@
             "content_type": "text/html",
             "filename": "onboarding-flow-diagram.html",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/t2NTz778hYgIVfF92e9BGR_1779495400707_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L3QyTlR6Nzc4aFlnSVZmRjkyZTlCR1JfMTc3OTQ5NTQwMDcwN19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDcZXiOq8XqTg06prztOsRE4TP~52~DQAB-x4lF5qm~vAIhALc1jrVIk2JbqbAvg8366tVk8vj0Rdo4PF4tR1bSp~uL"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/t2NTz778hYgIVfF92e9BGR_1779495400707_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L3QyTlR6Nzc4aFlnSVZmRjkyZTlCR1JfMTc3OTQ5NTQwMDcwN19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIEZSuPDqckZngsG-QrOWubTcO2fn5w7wBKGmMrb-3tDBAiBGMKin5~2PNzeV6OAZHcVd5OYEBZx4VYpE4XQAv8sjbg__"
           }
         ],
         "content": "Done — Nicole is now labeled as **COO** throughout the diagram:\n\n- Approval chain: **Nicole (COO)**\n- Phase 3 step: **Nicole (COO) — Executive Operations Review**\n- Description updated to reflect her role in company operations and staffing strategy sign-off"
@@ -9139,7 +9139,7 @@
             "content_type": "text/html",
             "filename": "onboarding-flow-diagram.html",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/T7Dcu7OiVUnsEgqrKeNDEw_1779495478617_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L1Q3RGN1N09pVlVuc0VncXJLZU5ERXdfMTc3OTQ5NTQ3ODYxN19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIDcoT-UfIHOifue7gW2QQvx1S9ea7QtYb~jhrx0nOpk8AiEAz2lA28MrS2YglyQP2CCmSAEARmEF~faHla4Enx3hwwI_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/T7Dcu7OiVUnsEgqrKeNDEw_1779495478617_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L1Q3RGN1N09pVlVuc0VncXJLZU5ERXdfMTc3OTQ5NTQ3ODYxN19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQD4UdaOqDTWT5tmt4ue8zM-wU0Apfve1OZYVfbfLIZuOgIhALBU81tqnMrE8fTqphs2xLK3cMI3EY~vH0C2wddJFsQd"
           }
         ],
         "content": "Done — MyLoneWorkers has been corrected everywhere:\n\n**Flow Diagram:**\n- Phase 5 training step now reads: **\"MyLoneWorkers Training — property inspections management\"** with the correct description about creating, scheduling, and completing inspection reports\n- Removed from the GPS/location tracking step entirely\n\n**Company Websites & Logins (portal):**\n- Description updated to: *\"Property inspections management platform for creating, scheduling, and completing inspection reports across all ApartmentCorp properties\"*\n- Login instructions and notes updated to reflect inspections workflow\n- No more mention of safety check-ins or lone worker monitoring\n\nUpdated diagram attached."
@@ -9192,7 +9192,7 @@
             "content_type": "text/html",
             "filename": "onboarding-flow-diagram.html",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/UrNqsvV3uN0u181HIw4CFI_1779495515717_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L1VyTnFzdlYzdU4wdTE4MUhJdzRDRklfMTc3OTQ5NTUxNTcxN19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIHlR6A3bz0935A0tCPjkT~qJ4uhbYP~d23gx5jmlWmD4AiAtejDzdMoXMVuLvaUWZksqBP~lBXGJhaV-k2kd34XzVQ__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/UrNqsvV3uN0u181HIw4CFI_1779495515717_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L1VyTnFzdlYzdU4wdTE4MUhJdzRDRklfMTc3OTQ5NTUxNTcxN19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDUzC-9Iatv-8XgOO~l134ciOn8zaMqyFASKV9eY-7dDAIhAPbr4bsjuJo~xxiul0jfpPe17t4685FHje3hsYQI6q6h"
           }
         ],
         "content": "Done — the approval chain now reads:\n\n**Brandon → Regional Manager → Robert → Ethan → Nicole (COO) → Marc**\n\nUpdated diagram attached."
@@ -9338,7 +9338,7 @@
             "content_type": "text/html",
             "filename": "onboarding-flow-diagram.html",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/hvJ7wHJcpbuzuPv9n15eMz_1779497572992_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L2h2Sjd3SEpjcGJ1enVQdjluMTVlTXpfMTc3OTQ5NzU3Mjk5Ml9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQC6Ya6Gd99IvSFFeYge3hzei7EaD9~YWwen2IA7j9hznQIgMZbLx1a7Q732JOUrVbnkcAIuZjrebsdZ9f2Dy4pWTIc_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/hvJ7wHJcpbuzuPv9n15eMz_1779497572992_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L2h2Sjd3SEpjcGJ1enVQdjluMTVlTXpfMTc3OTQ5NzU3Mjk5Ml9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCID5nTjGFJUNNvUTEsGR0SnvK0iXGu6CcWYTB24l6KCZBAiAVrwlz0~WggNGj37QpJZRhcwRxPhMg0pkmIEIa2BsBIA__"
           }
         ],
         "content": "Here is the fully rebuilt, comprehensive ApartmentCorp New Hire Onboarding Schematic. Every phase, person, system, and trigger is documented:\n\n**10 Phases — Complete Flow:**\n\n| Phase | Owner | Key Action |\n|---|---|---|\n| 1 — Candidate Intake & Registration | Brandon / HR | Portal invite sent, PIN created, welcome email triggered |\n| 2 — Application Forms | New Hire | Employment App, W-4, I-9, Direct Deposit, IT-2104, Agreements |\n| 3 — Approval Chain | Brandon → Regional Manager → Robert → Ethan → Nicole (COO) → Marc | Sequential sign-off with email notifications at each step |\n| 4 — IT Credential Provisioning | **Ethan Cowles** | Sets up all 12 platforms; progress bar tracks completion; credential PDF emailed to new hire + Brandon |\n| 5 — Payroll & HR Systems Setup | **Accounting** | Paychex enrollment, direct deposit confirmation, payroll schedule |\n| 6 — Training Videos | New Hire | PropertyMAX, OneSite, Connecteam, MyLoneWorkers, Yardi, ConnectUC, SamePage |\n| 7 — Document Hub & Records | Brandon / HR | All submitted forms appear in Document Hub; bulk approve/reject; status badges |\n| 8 — Day 1 Orientation | Lindsey / Regional Manager | Property tour, team intro, keys/access, emergency procedures |\n| 9 — Onboarding Complete | Brandon / Marc | Final sign-off, 3-hour alert if overdue, completion email sent |\n| 10 — Server File Archiving | System | All files filed to service server: Core Data → New Hire Onboarding Folders |\n\n**Interactive features:** checkboxes, editable labels, collapsible phases, progress bar, Add Step / Add Phase buttons, and Save/Export."
@@ -9391,7 +9391,7 @@
             "content_type": "text/html",
             "filename": "onboarding-flow-diagram.html",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/31Xr7r0RvgY7KElyyFqMle_1779497616841_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94LzMxWHI3cjBSdmdZN0tFbHl5RnFNbGVfMTc3OTQ5NzYxNjg0MV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIEf8KnVh3YbSAYSlr0WU4oHCrkTUfPATNeolF1KqmCRbAiAx41TDZ4igOPs3K0fWc48QxbZjNd1QOop8pc~JQkcyoQ__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/31Xr7r0RvgY7KElyyFqMle_1779497616841_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94LzMxWHI3cjBSdmdZN0tFbHl5RnFNbGVfMTc3OTQ5NzYxNjg0MV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDmORQTOoeebZlnGW26LE3ciJog569jeCmhFu6l7j152AIgLLusoO~NlrpR1ZVllM0AjN-xUdWf6NVQQaS9pIx-JQ4_"
           }
         ],
         "content": "Done — all references to Lindsey have been replaced with **Regional Manager / New Hire** throughout Phase 8 and the header. Updated schematic attached."
@@ -9481,7 +9481,7 @@
             "content_type": "text/html",
             "filename": "onboarding-flow-diagram.html",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/TZTKpUuH11ihW4M8WoBwMD_1779497738180_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L1RaVEtwVXVIMTFpaFc0TThXb0J3TURfMTc3OTQ5NzczODE4MF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIGQxY1Nl5r-NfSS-izeKzrYlfWa8QDVwZA~rc6qbMBjcAiBURGPYvnsCefVWeEoipGYOhZuYYpT0WL1kl45f4K573Q__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/TZTKpUuH11ihW4M8WoBwMD_1779497738180_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L1RaVEtwVXVIMTFpaFc0TThXb0J3TURfMTc3OTQ5NzczODE4MF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQD8n615b3tXvnLIdj0bENTUsgBoBG27WLsLox9SfLGPYgIgGHX6EBtrgRod8l7vTZV8goqHqXna7F7PjO6QMkS2y7U_"
           }
         ],
         "content": "Here is the final ApartmentCorp New Hire Onboarding Flow Diagram — fully updated with all changes including the correct approval chain, Accounting for Paychex, Regional Manager for Day 1 orientation, Nicole as COO, and the server file archiving phase at the end."
@@ -9534,13 +9534,13 @@
             "content_type": "application/pdf",
             "filename": "onboarding-process-guide.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/okqRGtMZkR5DXFCZ5yl0dq_1779498540536_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctcHJvY2Vzcy1ndWlkZQ.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L29rcVJHdE1aa1I1RFhGQ1o1eWwwZHFfMTc3OTQ5ODU0MDUzNl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdGNISnZZMlZ6Y3kxbmRXbGtaUS5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIBjvzq8xgafxFKe9rzHN6uVk3kp-343D16ajDBipEqo9AiEA0fjiHt-tMbZxumLFzBFbk-VC82xQLfI0QyRwzGjklUM_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/okqRGtMZkR5DXFCZ5yl0dq_1779498540536_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctcHJvY2Vzcy1ndWlkZQ.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L29rcVJHdE1aa1I1RFhGQ1o1eWwwZHFfMTc3OTQ5ODU0MDUzNl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdGNISnZZMlZ6Y3kxbmRXbGtaUS5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIB4meNgWlGnN6gtHQ9J~2uDyH~loeVEJTwh-Fms4K7~GAiEAw7g17LscNla-C8-IwtD6EgasKqKy0PP3KaxNXfYOt9M_"
           },
           {
             "content_type": "text/markdown",
             "filename": "onboarding-process-guide.md",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/okqRGtMZkR5DXFCZ5yl0dq_1779498540536_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctcHJvY2Vzcy1ndWlkZQ.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L29rcVJHdE1aa1I1RFhGQ1o1eWwwZHFfMTc3OTQ5ODU0MDUzNl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdGNISnZZMlZ6Y3kxbmRXbGtaUS5tZCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDdH3GR73UIrjAEjSo0JyBQ3Q~TaCqj5ZmjabrLci8k5AIgGb1XfgaizCWLVxZd68RmjKwgMMC~8BJYXOOJKFIYDF8_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/okqRGtMZkR5DXFCZ5yl0dq_1779498540536_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctcHJvY2Vzcy1ndWlkZQ.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L29rcVJHdE1aa1I1RFhGQ1o1eWwwZHFfMTc3OTQ5ODU0MDUzNl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdGNISnZZMlZ6Y3kxbmRXbGtaUS5tZCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIF-r31x1oB82tYMvjo1adp64HGA4uEeQBxM3sklgd25jAiBwkIqz92aiy9gSZJbki06CfI5d15Gn4WdOWCBINhNlAw__"
           }
         ],
         "content": "Here is the detailed written explanation of every step in the ApartmentCorp onboarding process — available as both a **PDF** and **Markdown** document.\n\nThe guide covers all **10 phases** with a full narrative explanation of each step:\n\n| Phase | Owner |\n|---|---|\n| 1 — Candidate Intake & Registration | Brandon / HR |\n| 2 — Application Forms (9 forms) | New Hire |\n| 3 — Approval Chain | Brandon → Regional Manager → Robert → Ethan → Nicole (COO) → Marc |\n| 4 — IT Credential Provisioning | Ethan Cowles |\n| 5 — Payroll & Accounting Setup | Accounting Team |\n| 6 — Training Videos | New Hire |\n| 7 — Document Hub & Records Review | Brandon / HR |\n| 8 — Day 1 Onsite Orientation | Regional Manager / New Hire |\n| 9 — Onboarding Complete | Brandon / Marc |\n| 10 — Server File Archiving | System |\n\nA full summary table of all people and systems involved is included at the end."
@@ -9593,7 +9593,7 @@
             "content_type": "image/png",
             "filename": "onboarding-flowchart.png",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/fkzUd4dVqlnaWqPyBdtnCh_1779502503828_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvd2NoYXJ0.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L2ZrelVkNGRWcWxuYVdxUHlCZHRuQ2hfMTc3OTUwMjUwMzgyOF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkMk5vWVhKMC5wbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIAhbpL8K-1etHKT2Ig53N6fZfLmv5WKk0zsss5RIie76AiEAya3Y2coQDOalIoBJhYDL3IDYMTRa3EAAeR7B-5-82QI_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/fkzUd4dVqlnaWqPyBdtnCh_1779502503828_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvd2NoYXJ0.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L2ZrelVkNGRWcWxuYVdxUHlCZHRuQ2hfMTc3OTUwMjUwMzgyOF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkMk5vWVhKMC5wbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICdELpXky9V~oHyNEU1b8xDgxGmWPAa50cjrF7f1iDVCAiEA7F5geQfvikZYcYqW06XIwJMoTLWfOqp9GEKoQsXpaO4_"
           }
         ],
         "content": "Here is the complete visual flowchart of the ApartmentCorp New Hire Onboarding Process — all 10 phases rendered as a proper diagram with decision diamonds, process boxes, and directional arrows.\n\n**Color coding:**\n- **Navy boxes** — Phase headers\n- **Light blue boxes** — Action steps\n- **Yellow diamonds** — Decision points (Approved? / Submitted? / etc.)\n- **Green boxes** — Email/notification triggers\n- **Red/pink box** — 3-hour automated alert to Brandon\n- **Purple box** — Automated timer monitor\n- **Dark green oval** — Onboarding Complete\n\nThe full flow runs top to bottom: Intake → Forms → Approval Chain (Brandon → Regional Manager → Robert → Ethan → Nicole COO → Marc) → IT Provisioning → Accounting/Payroll → Training → Document Hub → Day 1 Orientation → Complete → Server Archiving. Rejection loops at any approval stage send the new hire back to correct and resubmit."
@@ -9646,7 +9646,7 @@
             "content_type": "text/html",
             "filename": "onboarding-visual-flowchart.html",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/TbRDjeaPlyuuni4tu4Gcgr_1779502769777_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctdmlzdWFsLWZsb3djaGFydA.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L1RiUkRqZWFQbHl1dW5pNHR1NEdjZ3JfMTc3OTUwMjc2OTc3N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdGRtbHpkV0ZzTFdac2IzZGphR0Z5ZEEuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDzJsUb~0YqT7VI9Hn45wqT6Ss3ipeGpTEg23mNtD6tiQIhAMo5zt1S80UV1Acjb5Os8AwrRsBoygsWCENLtQ9-dxW4"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/TbRDjeaPlyuuni4tu4Gcgr_1779502769777_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctdmlzdWFsLWZsb3djaGFydA.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L1RiUkRqZWFQbHl1dW5pNHR1NEdjZ3JfMTc3OTUwMjc2OTc3N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdGRtbHpkV0ZzTFdac2IzZGphR0Z5ZEEuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQC2w04TcljkGqfNrv1UR6Qsuk9LqT2QXGs-g~UZD8xOwAIhAOWCoxv06WhjaQ5O4XTxUvstqBCoChCmkLAjRV22WWp3"
           }
         ],
         "content": "Here is the fully readable visual flowchart — rebuilt as an HTML document so every step is large, clear, and easy to read at any screen size.\n\n**What's included:**\n- All 10 phases with color-coded headers and step cards\n- Full approval chain displayed visually: Brandon → Regional Manager → Robert → Ethan → Nicole (COO) → Marc\n- All 9 application forms shown as a grid\n- All 12 IT platforms listed under Phase 4\n- All 7 training platforms listed under Phase 6\n- The 3-hour automated alert box prominently displayed\n- Server file archiving path at the end\n- **Zoom In / Zoom Out** buttons in the bottom-right corner\n- **Print / Save as PDF** button for a hard copy\n\nOpen the file in any browser and use the zoom buttons or Ctrl+Scroll to adjust the size to your preference."
@@ -9738,7 +9738,7 @@
           {
             "filename": "ApartmentCorp New Hire Onboarding Process",
             "type": "slides",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/i6i4mmm6e4swzpy9a1s93-382651c1-e2b-prod-us2_1779556866620_na1fn_c2xpZGVz.json?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L2k2aTRtbW02ZTRzd3pweTlhMXM5My0zODI2NTFjMS1lMmItcHJvZC11czJfMTc3OTU1Njg2NjYyMF9uYTFmbl9jMnhwWkdWei5qc29uIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCkOjjoubZWObxNaNg9G-Wp5H9Jm5us1sssvXJjMBxWFQIhANiZbMm4N9Stfh8CnAC1yMst6ETB9Lk4zoLIRf4rBzIq"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/i6i4mmm6e4swzpy9a1s93-382651c1-e2b-prod-us2_1779556866620_na1fn_c2xpZGVz.json?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L2k2aTRtbW02ZTRzd3pweTlhMXM5My0zODI2NTFjMS1lMmItcHJvZC11czJfMTc3OTU1Njg2NjYyMF9uYTFmbl9jMnhwWkdWei5qc29uIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwODEyODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIE2SPjDnvCVGZ3mXiED8KpSAb6KMmZpoXgnEPq4zonzyAiEAzDMccjXVUe6QjkdVHcS6of3piXNtpf6dVgt9Ckq~2Oo_"
           }
         ],
         "content": "Here is the complete ApartmentCorp New Hire Onboarding Process presentation — **14 slides** covering every phase, person, system, and workflow.\n\n**Slide Breakdown:**\n\n| Slide | Content |\n|---|---|\n| 1 | Title — ApartmentCorp New Hire Onboarding |\n| 2 | Phase 1 — Candidate Intake & Registration |\n| 3 | Phase 2 — Application Forms (9 forms) |\n| 4 | Phase 3 — Approval Chain (Brandon → Regional Manager → Robert → Ethan → Nicole COO → Marc) |\n| 5 | Phase 4 — IT Credential Provisioning (Ethan, 12 platforms, PDF email) |\n| 6 | Phase 5 — Payroll & Accounting Setup (Accounting Team, Paychex) |\n| 7 | Phase 6 — Training Videos (7 platforms) |\n| 8 | Phase 7 — Document Hub & Records Review |\n| 9 | Phase 8 — Day 1 Onsite Orientation (Regional Manager / New Hire) |\n| 10 | Phase 9 — Onboarding Complete & Final Sign-Off (3-hour alert) |\n| 11 | Phase 10 — Server File Archiving |\n| 12 | Systems & Technology Stack (all 12 platforms) |\n| 13 | Key Contacts & Responsibilities (all 8 stakeholders) |\n| 14 | Closing — \"A Consistent Process Builds a Strong Team\" |\n\nYou can export this to PPT or PDF using the menu in the presentation viewer."
@@ -10035,7 +10035,7 @@
             "content_type": "image/webp",
             "filename": "IMG_9917.webp",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-WrgYhQ3yNS0kQGvbbgsruL_na1fn_SU1HXzk5MTc.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1XcmdZaFEzeU5TMGtRR3ZiYmdzcnVMX25hMWZuX1NVMUhYems1TVRjLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDakMkYojGrZr6ZHsEiqx1k8mr4F5g-Z-NngOKqz9U65gIgeuDi~x3MZTLTLxXWD29WLZlMRFfIaWufR9r3Q1SUCBM_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-WrgYhQ3yNS0kQGvbbgsruL_na1fn_SU1HXzk5MTc.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1XcmdZaFEzeU5TMGtRR3ZiYmdzcnVMX25hMWZuX1NVMUhYems1TVRjLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIHXU0ZEP8cmJ8GrsOK0nWQ~rWh33rP9K57rzK7BhO6aQAiEAg2naey4lgV-PcMp7iaWwC~vf6Ts0uJrJvIDkQh4OOic_"
           }
         ],
         "content": "one of the regional managers is testing the platform for me ... she is getting this error - how do i reset it or find her pin ? ",
@@ -10493,7 +10493,7 @@
             "content_type": "text/html",
             "filename": "onboarding-flow-diagram.html",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/Vcc690uBRqwzNdJN9gPoPY_1780555262194_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L1ZjYzY5MHVCUnF3ek5kSk45Z1BvUFlfMTc4MDU1NTI2MjE5NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIAbpf606KCotEQuNn7zebU~suaYmB50uSXvYdS1Uw5Y-AiEA6JYj-BImagJgloSQ-IVtuBZ7LNoSw2L6iX~hJqo3i2Y_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/Vcc690uBRqwzNdJN9gPoPY_1780555262194_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L1ZjYzY5MHVCUnF3ek5kSk45Z1BvUFlfMTc4MDU1NTI2MjE5NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDFfxASoGDw1smt6L0N6uvscPQ4jQXyY9Lxuu0m5LKMOwIhALXLPyphWrsI7Rba~rkcOBlpkYE1GXqCygbmwFTGqhYN"
           }
         ],
         "content": "Here it is! This is the latest version of the onboarding flow diagram, updated with all the recent additions including the Personality Assessment chapter and the \"Let's Get to Work\" credential delivery email. Your friend can open it directly in any browser — no internet connection needed."
@@ -10994,6 +10994,102 @@
       },
       "timestamp": "1785183142604",
       "type": "status_update"
+    },
+    {
+      "id": "HMMOqQFreIroL2iJ0UVQox",
+      "timestamp": "1788251145306",
+      "type": "user_message",
+      "user_message": {
+        "content": "i need this onboarding new hire page fixed now",
+        "message_type": "text"
+      }
+    },
+    {
+      "id": "03VioZled8iFOinsaOst1X",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1788251145507",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "I’m on it. I’ll inspect the current onboarding portal and recent errors, fix the active issue, and then give you a new checkpoint to publish."
+      },
+      "id": "GyrNfaNtpL0YYb7XAr3lfQ",
+      "timestamp": "1788251150902",
+      "type": "assistant_message"
+    },
+    {
+      "id": "iC1WhUbdjNlUckbX9NvY7L",
+      "timestamp": "1788251182586",
+      "type": "user_message",
+      "user_message": {
+        "content": "i found it",
+        "message_type": "text"
+      }
+    },
+    {
+      "id": "FTnM68LLloftrJUHTJ8fSA",
+      "timestamp": "1788251183578",
+      "type": "user_message",
+      "user_message": {
+        "content": "https://aptonboard-pxsj4nvm.manus.space/",
+        "message_type": "text"
+      }
+    },
+    {
+      "assistant_message": {
+        "content": "Thank you — I have the live link. I’ll inspect the published onboarding page directly, identify what is broken, and repair it."
+      },
+      "id": "dvrPwNzK9BY8AVegJ1MNJu",
+      "timestamp": "1788251186886",
+      "type": "assistant_message"
+    },
+    {
+      "id": "1xGcgNCjiY3rEJ5VOwXN0Q",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is resetting the computer",
+        "description": "Manus is resetting the computer, please wait for a while."
+      },
+      "timestamp": "1788251189968",
+      "type": "status_update"
+    },
+    {
+      "id": "ezYMOIP3zxrrqLeeDSkwQ9",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus has reset the computer successfully",
+        "description": "Manus has successfully reset the computer. You may now continue with the previous task."
+      },
+      "timestamp": "1788251204723",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "I tested the live new-hire page end-to-end just now: the email lookup, PIN login, and transition into the onboarding welcome screen are working. Please send a screenshot or tell me the exact behavior you need fixed—for example, a blank page, login loop, missing building/position choices, a form that won’t submit, or a specific error message. I’ll target the correct problem immediately."
+      },
+      "id": "xOE8SClz67zdP4VjH2lLdh",
+      "timestamp": "1788251335750",
+      "type": "assistant_message"
+    },
+    {
+      "id": "jmQRBomRZBmLPt8Hf2ShT9",
+      "status_update": {
+        "agent_status": "waiting",
+        "brief": "Manus is waiting for your reply",
+        "description": "Manus will continue working after your reply",
+        "status_detail": {
+          "waiting_description": "I tested the live new-hire page end-to-end just now: the email lookup, PIN login, and transition into the onboarding welcome screen are working. Please send a screenshot or tell me the exact behavior you need fixed—for example, a blank page, login loop, missing building/position choices, a form that won’t submit, or a specific error message. I’ll target the correct problem immediately.",
+          "waiting_for_event_id": "xOE8SClz67zdP4VjH2lLdh",
+          "waiting_for_event_type": "messageAskUser"
+        }
+      },
+      "timestamp": "1788251336030",
+      "type": "status_update"
     }
   ],
   "attachments": [
@@ -11002,410 +11098,410 @@
       "type": "file",
       "filename": "ApartmentCorp_Employee_Directory.zip",
       "content_type": "application/zip",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/IHsopAuThrrEniGt4G03Qx_1778732016877_na1fn_L2hvbWUvdWJ1bnR1L0FwYXJ0bWVudENvcnBfRW1wbG95ZWVfRGlyZWN0b3J5.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L0lIc29wQXVUaHJyRW5pR3Q0RzAzUXhfMTc3ODczMjAxNjg3N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBGd1lYSjBiV1Z1ZEVOdmNuQmZSVzF3Ykc5NVpXVmZSR2x5WldOMGIzSjUuemlwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIAqEo9xTNJTAEK5s6zQFn-556hHlxGY3Kgw6EjMt8KQIAiBCt~njCTYmZUEOUHq1nk~ugM2RBJVpcqA64AVJ8JkIyw__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/IHsopAuThrrEniGt4G03Qx_1778732016877_na1fn_L2hvbWUvdWJ1bnR1L0FwYXJ0bWVudENvcnBfRW1wbG95ZWVfRGlyZWN0b3J5.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L0lIc29wQXVUaHJyRW5pR3Q0RzAzUXhfMTc3ODczMjAxNjg3N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBGd1lYSjBiV1Z1ZEVOdmNuQmZSVzF3Ykc5NVpXVmZSR2x5WldOMGIzSjUuemlwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwODEyODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIE5bIeokiWOWt91TOZ5QB1sY6TfPUNFFMl8mXEuRBKA2AiAeUEGa6Opq~bpJ6h74948uLX~O5FjMXlKYA2K4gU8UXw__",
       "status": "archived",
       "bytes": 105078,
-      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/115-assistant_message-0_d1253d68358eae7c_ApartmentCorp_Employee_Directory.zip"
+      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/115-assistant_message-0_799c553334285e5d_ApartmentCorp_Employee_Directory.zip"
     },
     {
       "event_index": 115,
       "type": "file",
       "filename": "FOLDER_MAP.md",
       "content_type": "text/markdown",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/IHsopAuThrrEniGt4G03Qx_1778732016877_na1fn_L2hvbWUvdWJ1bnR1L0FwYXJ0bWVudENvcnAgRW1wbG95ZWUgRGlyZWN0b3J5L0ZPTERFUl9NQVA.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L0lIc29wQXVUaHJyRW5pR3Q0RzAzUXhfMTc3ODczMjAxNjg3N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBGd1lYSjBiV1Z1ZEVOdmNuQWdSVzF3Ykc5NVpXVWdSR2x5WldOMGIzSjVMMFpQVEVSRlVsOU5RVkEubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCID3XWQHcnD-pZERfj-31k2MetC7VvpTt8UoVgtijYYyKAiBIzHyKEhKmz3vbyoXxZQdB9Y3FpsPWzPzDQM1SImrmHg__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/IHsopAuThrrEniGt4G03Qx_1778732016877_na1fn_L2hvbWUvdWJ1bnR1L0FwYXJ0bWVudENvcnAgRW1wbG95ZWUgRGlyZWN0b3J5L0ZPTERFUl9NQVA.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L0lIc29wQXVUaHJyRW5pR3Q0RzAzUXhfMTc3ODczMjAxNjg3N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBGd1lYSjBiV1Z1ZEVOdmNuQWdSVzF3Ykc5NVpXVWdSR2x5WldOMGIzSjVMMFpQVEVSRlVsOU5RVkEubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIBi54s-CgzffcFfTSbXthOD-JI9mvVqsxiHY33~xsWSYAiA3b-8LbDaGXs59fNcPJHguIkLfXwR2~QeYkm-r~3t10g__",
       "status": "archived",
       "bytes": 14522,
-      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/115-assistant_message-1_b715aa66074bbd30_FOLDER_MAP.md"
+      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/115-assistant_message-1_8b803df6884ba44b_FOLDER_MAP.md"
     },
     {
       "event_index": 149,
       "type": "file",
       "filename": "ApartmentCorp_Employee_Directory_v2.zip",
       "content_type": "application/zip",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/hLgQpkSmdn0GgNLZZiPkfI_1778733461979_na1fn_L2hvbWUvdWJ1bnR1L0FwYXJ0bWVudENvcnBfRW1wbG95ZWVfRGlyZWN0b3J5X3Yy.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L2hMZ1Fwa1NtZG4wR2dOTFpaaVBrZklfMTc3ODczMzQ2MTk3OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBGd1lYSjBiV1Z1ZEVOdmNuQmZSVzF3Ykc5NVpXVmZSR2x5WldOMGIzSjVYM1l5LnppcCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIGxSuJIA6zoXqhMbm0ecgnwIXBLWgqlQ002cA4-GX-1WAiEAxQ3dZBWeHPmzEKk~UfJoGJLiSrwbsWTv9OtHnCojKzQ_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/hLgQpkSmdn0GgNLZZiPkfI_1778733461979_na1fn_L2hvbWUvdWJ1bnR1L0FwYXJ0bWVudENvcnBfRW1wbG95ZWVfRGlyZWN0b3J5X3Yy.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L2hMZ1Fwa1NtZG4wR2dOTFpaaVBrZklfMTc3ODczMzQ2MTk3OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBGd1lYSjBiV1Z1ZEVOdmNuQmZSVzF3Ykc5NVpXVmZSR2x5WldOMGIzSjVYM1l5LnppcCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCc6H6y2oHCLqgfuQckqqK9Ex6DdsWqbROXf45B1AfBdQIgb8p-dXfGBp2lFr8vWyFaW8Hi3-AAJEyCAykPDJdD5dE_",
       "status": "archived",
       "bytes": 469026,
-      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/149-assistant_message-0_6078f00fe4a2d31f_ApartmentCorp_Employee_Directory_v2.zip"
+      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/149-assistant_message-0_e71aec746072c39d_ApartmentCorp_Employee_Directory_v2.zip"
     },
     {
       "event_index": 149,
       "type": "file",
       "filename": "ApartmentCorp_Employee_Directory.xlsx",
       "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/hLgQpkSmdn0GgNLZZiPkfI_1778733461979_na1fn_L2hvbWUvdWJ1bnR1L0FwYXJ0bWVudENvcnAgRW1wbG95ZWUgRGlyZWN0b3J5L0FwYXJ0bWVudENvcnBfRW1wbG95ZWVfRGlyZWN0b3J5.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L2hMZ1Fwa1NtZG4wR2dOTFpaaVBrZklfMTc3ODczMzQ2MTk3OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBGd1lYSjBiV1Z1ZEVOdmNuQWdSVzF3Ykc5NVpXVWdSR2x5WldOMGIzSjVMMEZ3WVhKMGJXVnVkRU52Y25CZlJXMXdiRzk1WldWZlJHbHlaV04wYjNKNS54bHN4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCE0kRxh-sGRRLXf44eya~0HxWL-WdMJWyBaioZ2LAIJAIgAhiZOzPvPDodCiJdzZ3QWLSsRYdtgsGKi57Y3Cq9XsA_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/hLgQpkSmdn0GgNLZZiPkfI_1778733461979_na1fn_L2hvbWUvdWJ1bnR1L0FwYXJ0bWVudENvcnAgRW1wbG95ZWUgRGlyZWN0b3J5L0FwYXJ0bWVudENvcnBfRW1wbG95ZWVfRGlyZWN0b3J5.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L2hMZ1Fwa1NtZG4wR2dOTFpaaVBrZklfMTc3ODczMzQ2MTk3OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDBGd1lYSjBiV1Z1ZEVOdmNuQWdSVzF3Ykc5NVpXVWdSR2x5WldOMGIzSjVMMEZ3WVhKMGJXVnVkRU52Y25CZlJXMXdiRzk1WldWZlJHbHlaV04wYjNKNS54bHN4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwODEyODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDf8HvEfqtFYZS9keUi2nZGFfqEEBeujef-PsIqMAa59AIgWTJCIOoJLfi851j8eA28tOM1l1nIItPJLxFgk32geuU_",
       "status": "archived",
       "bytes": 26863,
-      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/149-assistant_message-1_c026038458972da2_ApartmentCorp_Employee_Directory.xlsx"
+      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/149-assistant_message-1_9ddf361700921a8a_ApartmentCorp_Employee_Directory.xlsx"
     },
     {
       "event_index": 177,
       "type": "image",
       "filename": "LogoGoldAptCorp.png",
       "content_type": "image/png",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-Rx2N5QIx23JMdv6a1SnLSE_na1fn_TG9nb0dvbGRBcHRDb3Jw.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1SeDJONVFJeDIzSk1kdjZhMVNuTFNFX25hMWZuX1RHOW5iMGR2YkdSQmNIUkRiM0p3LnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIAqV~kVs~b1h804Gl8Hniw-Oh1HUvD7k8ED-2HKI5ondAiEAvOyGY9Q7kGsZmMWu2U0PK~KvQLBRsDhR8LLnDbTvj8c_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-Rx2N5QIx23JMdv6a1SnLSE_na1fn_TG9nb0dvbGRBcHRDb3Jw.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1SeDJONVFJeDIzSk1kdjZhMVNuTFNFX25hMWZuX1RHOW5iMGR2YkdSQmNIUkRiM0p3LnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQC3kluEgkoETj7iGPFnSWRgRwLX-Caxt-zn6nZPhWD0HQIhAJ64B9kVox1QqtK5DtuA4YYU4iBEoiQk561vWjEehqer",
       "status": "archived",
       "bytes": 882970,
-      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/177-user_message-0_02c1381f1708fa0a_LogoGoldAptCorp.png"
+      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/177-user_message-0_0fd7fedd005cf1a1_LogoGoldAptCorp.png"
     },
     {
       "event_index": 227,
       "type": "image",
       "filename": "AptCorpShimmer.gif",
       "content_type": "image/gif",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-lBcfUIPfly8c09Bwk5dgfu_na1fn_QXB0Q29ycFNoaW1tZXI.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1sQmNmVUlQZmx5OGMwOUJ3azVkZ2Z1X25hMWZuX1FYQjBRMjl5Y0ZOb2FXMXRaWEkuZ2lmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCZhOCuEUn6UmmKsHLayL80Z~iKIPQIN8LW-BZ8Lp4yngIhAPEgInRE-dTIyL~sWKph6iWXRu~F~5bYAIBA5SJzpU9A",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-lBcfUIPfly8c09Bwk5dgfu_na1fn_QXB0Q29ycFNoaW1tZXI.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1sQmNmVUlQZmx5OGMwOUJ3azVkZ2Z1X25hMWZuX1FYQjBRMjl5Y0ZOb2FXMXRaWEkuZ2lmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwODEyODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIDL-RGieH-cv84EvmlR3ygBNT4wSlHbeFro9NzrWvNiUAiEA9Bcmw0vICacyH5w5asBcqYM-XP1HPkE0rQuw2Ic3VX4_",
       "status": "archived",
       "bytes": 608130,
-      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/227-user_message-0_1e3904f5da584519_AptCorpShimmer.gif"
+      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/227-user_message-0_1add727734646537_AptCorpShimmer.gif"
     },
     {
       "event_index": 232,
       "type": "image",
       "filename": "PropertyMaxShimmer.gif",
       "content_type": "image/gif",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-hb2DbCYOgjw4sKZc7cEisq_na1fn_UHJvcGVydHlNYXhTaGltbWVy.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1oYjJEYkNZT2dqdzRzS1pjN2NFaXNxX25hMWZuX1VISnZjR1Z5ZEhsTllYaFRhR2x0YldWeS5naWYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIHH7MeDMd5J2l6XhAtoSRvUP0bHEtJBnpY7FOtCjLCF-AiEAoVnRIZLmyPHdpRxP6NEoZCc4N1h-sspqrp~JZ5h~DcM_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-hb2DbCYOgjw4sKZc7cEisq_na1fn_UHJvcGVydHlNYXhTaGltbWVy.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1oYjJEYkNZT2dqdzRzS1pjN2NFaXNxX25hMWZuX1VISnZjR1Z5ZEhsTllYaFRhR2x0YldWeS5naWYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIHlvUXlHWynd8nLO-59lk9454ekwFmSsoiY3rqyY9Ud~AiEAutfb4qnEW93nvVSYAwnMW9zL-Bzi7GpmFQb7zaQVGl4_",
       "status": "archived",
       "bytes": 129988,
-      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/232-user_message-0_70075f4408749739_PropertyMaxShimmer.gif"
+      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/232-user_message-0_c720ec6444d5c979_PropertyMaxShimmer.gif"
     },
     {
       "event_index": 258,
       "type": "image",
       "filename": "PropertyMaxShimmer_5e119ab3.gif",
       "content_type": "image/gif",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-68891XkGaUCqLmsyuvEJrv_na1fn_UHJvcGVydHlNYXhTaGltbWVyXzVlMTE5YWIz.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC02ODg5MVhrR2FVQ3FMbXN5dXZFSnJ2X25hMWZuX1VISnZjR1Z5ZEhsTllYaFRhR2x0YldWeVh6VmxNVEU1WVdJei5naWYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIApB4GUcdJACvrcdxhIiNWT7MsVUdukFs4qtAcdQW3s5AiB5uBLCOLfTwvzXPTdI3d0i4FnkjqzbBuszSiv5JhQx-A__",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-68891XkGaUCqLmsyuvEJrv_na1fn_UHJvcGVydHlNYXhTaGltbWVyXzVlMTE5YWIz.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC02ODg5MVhrR2FVQ3FMbXN5dXZFSnJ2X25hMWZuX1VISnZjR1Z5ZEhsTllYaFRhR2x0YldWeVh6VmxNVEU1WVdJei5naWYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCSRono4Kp4eLKBcw3Ga8Uq62qzs2B~GjDU7TRi97jazQIhAKPsAJs3i5hNOLVO-f37ORhJs2o-fH7FSIxMa927GE4s",
       "status": "archived",
       "bytes": 126119,
-      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/258-user_message-0_0a551ecfe78ff51c_PropertyMaxShimmer_5e119ab3.gif"
+      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/258-user_message-0_449eba5043503f44_PropertyMaxShimmer_5e119ab3.gif"
     },
     {
       "event_index": 354,
       "type": "file",
       "filename": "pasted_file_9pXcWe_employee_application_packet_clean_fillable_final.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-Dt1DqVlRAFndPundsCQf4R_na1fn_cGFzdGVkX2ZpbGVfOXBYY1dlX2VtcGxveWVlX2FwcGxpY2F0aW9uX3BhY2tldF9jbGVhbl9maWxsYWJsZV9maW5hbA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1EdDFEcVZsUkFGbmRQdW5kc0NRZjRSX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZPWEJZWTFkbFgyVnRjR3h2ZVdWbFgyRndjR3hwWTJGMGFXOXVYM0JoWTJ0bGRGOWpiR1ZoYmw5bWFXeHNZV0pzWlY5bWFXNWhiQS5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIFtaSaeQK9i1cTF4RokAtScH0E2SWxGtM0MUv5cXwTrvAiB~qTnJwBfvjwrW~J4D8INBkiI2ob7tCPX9rI~gdMFgrA__",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-Dt1DqVlRAFndPundsCQf4R_na1fn_cGFzdGVkX2ZpbGVfOXBYY1dlX2VtcGxveWVlX2FwcGxpY2F0aW9uX3BhY2tldF9jbGVhbl9maWxsYWJsZV9maW5hbA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1EdDFEcVZsUkFGbmRQdW5kc0NRZjRSX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZPWEJZWTFkbFgyVnRjR3h2ZVdWbFgyRndjR3hwWTJGMGFXOXVYM0JoWTJ0bGRGOWpiR1ZoYmw5bWFXeHNZV0pzWlY5bWFXNWhiQS5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQChylIp2MIyTisbW5kLRkPInRoFY4fvFJXud9uC5db4pAIhAP7IQLApybp0Hta0WxpmL6pPs68PA9uZY1tyvtDsCff4",
       "status": "archived",
       "bytes": 1643669,
-      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/354-user_message-0_3ea35a6f272c0fea_pasted_file_9pXcWe_employee_application_packet_clean_fillable_final.pdf"
+      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/354-user_message-0_159096fb4735f7ae_pasted_file_9pXcWe_employee_application_packet_clean_fillable_final.pdf"
     },
     {
       "event_index": 407,
       "type": "file",
       "filename": "EmployeeApplicationPacket3-9-2026.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-Y4lfidGTwQnuCbQudVFaf7_na1fn_RW1wbG95ZWVBcHBsaWNhdGlvblBhY2tldDMtOS0yMDI2.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1ZNGxmaWRHVHdRbnVDYlF1ZFZGYWY3X25hMWZuX1JXMXdiRzk1WldWQmNIQnNhV05oZEdsdmJsQmhZMnRsZERNdE9TMHlNREkyLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCTabq8aJ6lsUXBzTHcQCm6jfvFbhEFSQxXYUBhLT-6oQIgeduGCsF7nM2PYBzti0fF6Pw5IXzPnnk3DgQHxeEt9Wg_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-Y4lfidGTwQnuCbQudVFaf7_na1fn_RW1wbG95ZWVBcHBsaWNhdGlvblBhY2tldDMtOS0yMDI2.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1ZNGxmaWRHVHdRbnVDYlF1ZFZGYWY3X25hMWZuX1JXMXdiRzk1WldWQmNIQnNhV05oZEdsdmJsQmhZMnRsZERNdE9TMHlNREkyLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIB5t0R91RSEkHeY8fPC9enUT2Q9XUIZVZOlDAcu7aKToAiEAi3mIjMRjmUzwh0U0i3htvN0buSXfHr-t9U94Cw6TVBI_",
       "status": "archived",
       "bytes": 5372124,
-      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/407-user_message-0_f970e463be7bceae_EmployeeApplicationPacket3-9-2026.pdf"
+      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/407-user_message-0_a2b70f2180332cf7_EmployeeApplicationPacket3-9-2026.pdf"
     },
     {
       "event_index": 407,
       "type": "file",
       "filename": "I-9Formexp.7-31-26.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-Db5UfqNxHO1MlUKt5LxtED_na1fn_SS05Rm9ybWV4cC43LTMxLTI2.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1EYjVVZnFOeEhPMU1sVUt0NUx4dEVEX25hMWZuX1NTMDVSbTl5YldWNGNDNDNMVE14TFRJMi5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQD48vAReGX83Z6Ovb77GwW09uVET3S6WxHoptBLefs69QIhAJv9RnWUhKBkePd9a2SZRJMTfHByOV~xg4asw37lyk4y",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-Db5UfqNxHO1MlUKt5LxtED_na1fn_SS05Rm9ybWV4cC43LTMxLTI2.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1EYjVVZnFOeEhPMU1sVUt0NUx4dEVEX25hMWZuX1NTMDVSbTl5YldWNGNDNDNMVE14TFRJMi5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCLue--dOK65qiMtesgb1VXJUWkbD-XU7QQKa1G7lS4sgIgdWOrwj94j0Z6cPSIVT8-m13U-5bAWiNGKshd8RCU5Vc_",
       "status": "archived",
       "bytes": 488957,
-      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/407-user_message-1_3b048402e0901541_I-9Formexp.7-31-26.pdf"
+      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/407-user_message-1_91764fc3e6a67b57_I-9Formexp.7-31-26.pdf"
     },
     {
       "event_index": 407,
       "type": "file",
       "filename": "W-42026.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-7cNuSkbYkwdM3smYgvAFA6_na1fn_Vy00MjAyNg.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC03Y051U2tiWWt3ZE0zc21ZZ3ZBRkE2X25hMWZuX1Z5MDBNakF5TmcucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDU94Ylg08-YTF5EjmUyTtNJC2dmlyWIpHy5bXUvgtecQIhAL2mLFV4VTtP6ReVXnxCngX3KtDhwtBbZEtzA~c1k~zy",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-7cNuSkbYkwdM3smYgvAFA6_na1fn_Vy00MjAyNg.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC03Y051U2tiWWt3ZE0zc21ZZ3ZBRkE2X25hMWZuX1Z5MDBNakF5TmcucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwODEyODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIEWb2wArrNOdVrZb61BHAtWFnqtMtXwa6Q7ZM4jFnKouAiEAz8nrteYvrdZINvWPdOPORu1m2S6QjK7LgXcmwfyk4yI_",
       "status": "archived",
       "bytes": 208845,
-      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/407-user_message-2_fc4e75909cb9486f_W-42026.pdf"
+      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/407-user_message-2_9d894af520a8c534_W-42026.pdf"
     },
     {
       "event_index": 510,
       "type": "image",
       "filename": "NewHireDocumentsAndLogins.png",
       "content_type": "image/png",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ohWEW926bOMwTDWZOK1b73_na1fn_TmV3SGlyZURvY3VtZW50c0FuZExvZ2lucw.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1vaFdFVzkyNmJPTXdURFdaT0sxYjczX25hMWZuX1RtVjNTR2x5WlVSdlkzVnRaVzUwYzBGdVpFeHZaMmx1Y3cucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDCeY5wkkJW6khXD10MSXqQykwNJUJU4Lo6GuThtT7CzwIgY6D8SJ1FdBRBYGliKggM5yEnJZQogKqVzPafna3P1OY_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ohWEW926bOMwTDWZOK1b73_na1fn_TmV3SGlyZURvY3VtZW50c0FuZExvZ2lucw.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1vaFdFVzkyNmJPTXdURFdaT0sxYjczX25hMWZuX1RtVjNTR2x5WlVSdlkzVnRaVzUwYzBGdVpFeHZaMmx1Y3cucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwODEyODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQC44AdcL~IDum8gEpshQNLzFLd-~Ogoda5h8m4z3nngHAIhAKNPDU-KrJXXxGQHTHAj0Hqf8bh1sM8cs0UxI9DrJHj9",
       "status": "archived",
       "bytes": 55164,
-      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/510-user_message-0_9f645d3221b59440_NewHireDocumentsAndLogins.png"
+      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/510-user_message-0_38d6213e5e45320d_NewHireDocumentsAndLogins.png"
     },
     {
       "event_index": 562,
       "type": "file",
       "filename": "propertymax_training_toc.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/UG8JQIW4CwhBM3JWSyOlfB_1779325756946_na1fn_L2hvbWUvdWJ1bnR1L3Byb3BlcnR5bWF4X3RyYWluaW5nX3RvYw.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L1VHOEpRSVc0Q3doQk0zSldTeU9sZkJfMTc3OTMyNTc1Njk0Nl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCeWIzQmxjblI1YldGNFgzUnlZV2x1YVc1blgzUnZZdy5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIF7S3P4p8RZLCstuG5K8XfgVlwdEhIgi-kqtZZ5QZXqoAiA~ZO8kI8pATo4bl2JTo53yoIXyoAoKEOfovJwFmmkByQ__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/UG8JQIW4CwhBM3JWSyOlfB_1779325756946_na1fn_L2hvbWUvdWJ1bnR1L3Byb3BlcnR5bWF4X3RyYWluaW5nX3RvYw.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L1VHOEpRSVc0Q3doQk0zSldTeU9sZkJfMTc3OTMyNTc1Njk0Nl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCeWIzQmxjblI1YldGNFgzUnlZV2x1YVc1blgzUnZZdy5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDkV6JED7FjZqg2eUVu661WE8FsmHXXUojkR06n8dHL7AiAciK7ijh2E50gmZbcNJnxyO2IGh8W5NOAI6pDQP~cpUA__",
       "status": "archived",
       "bytes": 69865,
-      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/562-assistant_message-0_a91462a92423cf04_propertymax_training_toc.pdf"
+      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/562-assistant_message-0_44d8deb1d68034cd_propertymax_training_toc.pdf"
     },
     {
       "event_index": 562,
       "type": "file",
       "filename": "PropertyMAX_Training_Folders.zip",
       "content_type": "application/zip",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/UG8JQIW4CwhBM3JWSyOlfB_1779325756946_na1fn_L2hvbWUvdWJ1bnR1L1Byb3BlcnR5TUFYX1RyYWluaW5nX0ZvbGRlcnM.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L1VHOEpRSVc0Q3doQk0zSldTeU9sZkJfMTc3OTMyNTc1Njk0Nl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDFCeWIzQmxjblI1VFVGWVgxUnlZV2x1YVc1blgwWnZiR1JsY25NLnppcCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCyjX8POHjzjZjpcKYKue6OeRDauSCCZhGuOTCjeOtkZAIhALEZyDVqKFvoNf-p~VepKgg-vsj35vKkqF65CD~rIyd~",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/UG8JQIW4CwhBM3JWSyOlfB_1779325756946_na1fn_L2hvbWUvdWJ1bnR1L1Byb3BlcnR5TUFYX1RyYWluaW5nX0ZvbGRlcnM.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L1VHOEpRSVc0Q3doQk0zSldTeU9sZkJfMTc3OTMyNTc1Njk0Nl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDFCeWIzQmxjblI1VFVGWVgxUnlZV2x1YVc1blgwWnZiR1JsY25NLnppcCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCsWvGu63FpqqwqGYYolMLzqFuaUR8niO2g6xVz8MFtRwIgfPsPf~jzlP2EdDdLLBSqhBA9p4NDeMgyLm~TB3er5rU_",
       "status": "archived",
       "bytes": 43800,
-      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/562-assistant_message-1_1bbd96fb4b58cfb9_PropertyMAX_Training_Folders.zip"
+      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/562-assistant_message-1_8019c240e5eaa7bb_PropertyMAX_Training_Folders.zip"
     },
     {
       "event_index": 665,
       "type": "file",
       "filename": "pasted_content.txt",
       "content_type": "text/plain",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-sDiUsidLDKcoEQs9thZjBs_na1fn_cGFzdGVkX2NvbnRlbnQ.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1zRGlVc2lkTERLY29FUXM5dGhaakJzX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCHcnhxGoyIo8ozWZt~OgNrS4C27uMseScSXR1VOsJF1QIgSxvWuIuTmfVJB0Od6cm-K0sYeU2YmIa60lfmE3MVakM_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-sDiUsidLDKcoEQs9thZjBs_na1fn_cGFzdGVkX2NvbnRlbnQ.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1zRGlVc2lkTERLY29FUXM5dGhaakJzX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwODEyODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIE3DATfWyX5G-dis7m68ryIvB91m1YvQ4i6E0vWLL-osAiEA3zhqP~pNgPauJnuFdcBffphN0VaQe-am7whVVo9EPqA_",
       "status": "archived",
       "bytes": 3498,
-      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/665-user_message-0_59f3502ecbf9898d_pasted_content.txt"
+      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/665-user_message-0_49f6e2419205c63f_pasted_content.txt"
     },
     {
       "event_index": 751,
       "type": "image",
       "filename": "onboarding-flow.png",
       "content_type": "image/png",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/KIJjeN4uT9SM2Kf2f6usMJ_1779421751175_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdw.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L0tJSmplTjR1VDlTTTJLZjJmNnVzTUpfMTc3OTQyMTc1MTE3NV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkdy5wbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIFu8H6dPb2s1hHsWkdWC5a1VUE~xKUER~1CLk5p~yw7KAiBA8dsAWaTmoOpoXCmEfb43ChCnhQ~LAdJ29U23R033WA__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/KIJjeN4uT9SM2Kf2f6usMJ_1779421751175_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdw.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L0tJSmplTjR1VDlTTTJLZjJmNnVzTUpfMTc3OTQyMTc1MTE3NV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkdy5wbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDf-MXJa55O91P0ooSregNwvE5lo-eQntUi5Q3bNpRpTAIgU4nImmUY~3GkEQEE0FtR4TtBv5B6fP25sxHKr-GDzQA_",
       "status": "archived",
       "bytes": 4154520,
-      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/751-assistant_message-0_9a5a710647595689_onboarding-flow.png"
+      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/751-assistant_message-0_b4963da470a12ed0_onboarding-flow.png"
     },
     {
       "event_index": 757,
       "type": "file",
       "filename": "Managers&AssistantsNotionSpreadsheet.zip",
       "content_type": "application/x-zip-compressed",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-pQ11nPH7TnzhkWTaGjrf3m_na1fn_TWFuYWdlcnMmQXNzaXN0YW50c05vdGlvblNwcmVhZHNoZWV0.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1wUTExblBIN1RuemhrV1RhR2pyZjNtX25hMWZuX1RXRnVZV2RsY25NbVFYTnphWE4wWVc1MGMwNXZkR2x2YmxOd2NtVmhaSE5vWldWMC56aXAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIHd2uA8GpdFie~HW9uZ9ijwYIycW586ceEFqMR~QDyZbAiA~puxFplWDDWwthefI6WhfIggbZLpganZNODDw5YtEIw__",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-pQ11nPH7TnzhkWTaGjrf3m_na1fn_TWFuYWdlcnMmQXNzaXN0YW50c05vdGlvblNwcmVhZHNoZWV0.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1wUTExblBIN1RuemhrV1RhR2pyZjNtX25hMWZuX1RXRnVZV2RsY25NbVFYTnphWE4wWVc1MGMwNXZkR2x2YmxOd2NtVmhaSE5vWldWMC56aXAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIDvoEeS8vqcFSX4-Doka-lY5iXQb~sEoo2ItQ0P~1-rbAiEA6zdws~yM~O~uCGi1Oxh7qZJjvFTTvLOD3Wqq-HDDj3s_",
       "status": "archived",
       "bytes": 8438,
-      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/757-user_message-0_797c345d9fe67cb3_Managers_AssistantsNotionSpreadsheet.zip"
+      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/757-user_message-0_ada0382cfa19bdbe_Managers_AssistantsNotionSpreadsheet.zip"
     },
     {
       "event_index": 762,
       "type": "file",
       "filename": "UpperManagementNotionSpreadsheet.zip",
       "content_type": "application/x-zip-compressed",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-TbNdSQSp3JDfcMoTQfu6os_na1fn_VXBwZXJNYW5hZ2VtZW50Tm90aW9uU3ByZWFkc2hlZXQ.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1UYk5kU1FTcDNKRGZjTW9UUWZ1Nm9zX25hMWZuX1ZYQndaWEpOWVc1aFoyVnRaVzUwVG05MGFXOXVVM0J5WldGa2MyaGxaWFEuemlwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIBLjuL1unSGsZGZ0RFwi3wErXEtunBzOalGz3QJkFsRaAiBr3471AgRlCvuWyp2BbHJzEfbQAWVCRn6SF1QVCrp3Lg__",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-TbNdSQSp3JDfcMoTQfu6os_na1fn_VXBwZXJNYW5hZ2VtZW50Tm90aW9uU3ByZWFkc2hlZXQ.zip?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1UYk5kU1FTcDNKRGZjTW9UUWZ1Nm9zX25hMWZuX1ZYQndaWEpOWVc1aFoyVnRaVzUwVG05MGFXOXVVM0J5WldGa2MyaGxaWFEuemlwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwODEyODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCID03DXcrdLGLuuSbz1kCwupizvcL6wZ8sTfv5IhQKaJIAiA-LPbynRL43uJYJnaEnTHTncO0x947dOvnX963P9F6wg__",
       "status": "archived",
       "bytes": 2786,
-      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/762-user_message-0_74723a7b5363f6ac_UpperManagementNotionSpreadsheet.zip"
+      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/762-user_message-0_14a0dd27451cb100_UpperManagementNotionSpreadsheet.zip"
     },
     {
       "event_index": 777,
       "type": "file",
       "filename": "employee_handbook_2019.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-mJZb5XIhRd8MzW90E9Tvnw_na1fn_ZW1wbG95ZWVfaGFuZGJvb2tfMjAxOQ.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1tSlpiNVhJaFJkOE16VzkwRTlUdm53X25hMWZuX1pXMXdiRzk1WldWZmFHRnVaR0p2YjJ0Zk1qQXhPUS5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIFWpRWei8BJ86EeIMDDuaBfsimhfkrn4DP-xHjAy0wjHAiEAkxEJhgmJeT5z-VTIjYAJBlHr84vgBjVNMXW0RqyLWc4_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-mJZb5XIhRd8MzW90E9Tvnw_na1fn_ZW1wbG95ZWVfaGFuZGJvb2tfMjAxOQ.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1tSlpiNVhJaFJkOE16VzkwRTlUdm53X25hMWZuX1pXMXdiRzk1WldWZmFHRnVaR0p2YjJ0Zk1qQXhPUS5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIFIxEebVS2yTaVH9H0o-2RAw6h4YBBLEmm8KuquGFmRpAiEAmIDcy-1HS1v2fgsRKE66PFH5nQwZK8WvaN9V4Rp9Crk_",
       "status": "archived",
       "bytes": 5812923,
-      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/777-user_message-0_3cbdab60592bcf58_employee_handbook_2019.pdf"
+      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/777-user_message-0_c15304797987e4db_employee_handbook_2019.pdf"
     },
     {
       "event_index": 832,
       "type": "image",
       "filename": "FlowDiagram.jpeg",
       "content_type": "image/jpeg",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-YI7mbY2zMmicaCxY0Kd6Bj_na1fn_Rmxvd0RpYWdyYW0.jpeg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1ZSTdtYlkyek1taWNhQ3hZMEtkNkJqX25hMWZuX1JteHZkMFJwWVdkeVlXMC5qcGVnIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQC46GjwawfUduiPJbAe5tNgtAxF~hhXmedakOjVmlhsWgIhAPCnd6q5GdFr0vm1FJ0LU5d2ogwn3ZBXByBVWXaeVGkM",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-YI7mbY2zMmicaCxY0Kd6Bj_na1fn_Rmxvd0RpYWdyYW0.jpeg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1ZSTdtYlkyek1taWNhQ3hZMEtkNkJqX25hMWZuX1JteHZkMFJwWVdkeVlXMC5qcGVnIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwODEyODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIAtN07vTUmHsA2EHqLJ7W7R6-oXYm9KiQTE6gcG3NFUSAiEA~~v4OIUFFFu51gLizvT0KfR8PT5iSP4~yECMzNWWXkQ_",
       "status": "archived",
       "bytes": 162796,
-      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/832-user_message-0_6494ec34502e8301_FlowDiagram.jpeg"
+      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/832-user_message-0_d9991fe5877977a2_FlowDiagram.jpeg"
     },
     {
       "event_index": 835,
       "type": "file",
       "filename": "onboarding-flow-diagram.html",
       "content_type": "text/html",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/JV7ozMOuSqroSthGOcOWLD_1779491020718_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L0pWN296TU91U3Fyb1N0aEdPY09XTERfMTc3OTQ5MTAyMDcxOF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDp7lq8jlNJzhqYbztFyDtP8h9-RLG8x~OBg4vu1D3RTwIgfyKwfiKvj7KeHN0idLkyqDFyTU8MlQwOOIi-EZI6oWc_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/JV7ozMOuSqroSthGOcOWLD_1779491020718_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L0pWN296TU91U3Fyb1N0aEdPY09XTERfMTc3OTQ5MTAyMDcxOF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCzBApPAbp62p4GkEWsqOcf4XJ07jsl2XFkdEpHiZPbkwIgEqt0Fnrb5fgkoqf8tKmpvXR8aRHbUnqjlkFnEXTWaJs_",
       "status": "archived",
       "bytes": 25687,
-      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/835-assistant_message-0_ee95ce0de8ef10fc_onboarding-flow-diagram.html"
+      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/835-assistant_message-0_b9c549fa9e3ce690_onboarding-flow-diagram.html"
     },
     {
       "event_index": 842,
       "type": "file",
       "filename": "onboarding-flow-diagram.html",
       "content_type": "text/html",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/uy94NH3BR1ARApM99KfJuP_1779491210045_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L3V5OTROSDNCUjFBUkFwTTk5S2ZKdVBfMTc3OTQ5MTIxMDA0NV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIEHcj16ljc0sbQjAQZEK2c7dNZPVxsfiM72PngxdtgYVAiAM9fMggQ9nq-CZ2YYky-LiZcjC1A2yqQ6eXW~k4QPPBQ__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/uy94NH3BR1ARApM99KfJuP_1779491210045_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L3V5OTROSDNCUjFBUkFwTTk5S2ZKdVBfMTc3OTQ5MTIxMDA0NV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIEk1dM9lk9Knbn~kv0J3805~lfJO1wRNYzL5pDZDOSO2AiBft3ZoENwC0ZDCfM2vSfk4~E-hRRaswnF2FsfI-ADiAA__",
       "status": "archived",
       "bytes": 23432,
-      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/842-assistant_message-0_30cdf3791ff9ee11_onboarding-flow-diagram.html"
+      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/842-assistant_message-0_230f8dab62d30701_onboarding-flow-diagram.html"
     },
     {
       "event_index": 849,
       "type": "file",
       "filename": "onboarding-flow-diagram.html",
       "content_type": "text/html",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/lLiSVmrrbbKQl7B6iyx6EJ_1779491336774_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L2xMaVNWbXJyYmJLUWw3QjZpeXg2RUpfMTc3OTQ5MTMzNjc3NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIHwNaGWgGPgjfwB4WpkwFllAw5vBl3AACeLIfifqWLVgAiAryxf3cMy19nfMbl~pF~oAV4ThR6273gbH2f0kOe0nlA__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/lLiSVmrrbbKQl7B6iyx6EJ_1779491336774_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L2xMaVNWbXJyYmJLUWw3QjZpeXg2RUpfMTc3OTQ5MTMzNjc3NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDRLhCNt8GlgQW4rU0gGpxxAPvSFB53cEYChjD6KrReGgIgPSHBX~6OxwO5MddhbQFt8S1wcEPuEn-5Yv7pcVwnu6I_",
       "status": "archived",
       "bytes": 23042,
-      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/849-assistant_message-0_75ac3f8114203990_onboarding-flow-diagram.html"
+      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/849-assistant_message-0_930e765f0463a5cd_onboarding-flow-diagram.html"
     },
     {
       "event_index": 854,
       "type": "file",
       "filename": "onboarding-flow-diagram.html",
       "content_type": "text/html",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/AQ7cVXq630ghovLuupN24L_1779491419472_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L0FRN2NWWHE2MzBnaG92THV1cE4yNExfMTc3OTQ5MTQxOTQ3Ml9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDlZk-ArXenniiXDl8QbQhIQIAu5GX0KLVmErarCPkvxQIhAJh4X1yXuPRwb3tY~RIQNE-j8LdkmUJAWOBjrfsp4eoj",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/AQ7cVXq630ghovLuupN24L_1779491419472_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L0FRN2NWWHE2MzBnaG92THV1cE4yNExfMTc3OTQ5MTQxOTQ3Ml9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCUsFj28BjaL8UGl9smHz2wsmdyKTvrLq6JTVqxI5CtVAIgG6zEvou6ydyE3WQtQ9d8jtIEUeBbyPrGlD84A4tlbBk_",
       "status": "archived",
       "bytes": 22721,
-      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/854-assistant_message-0_f96d57c5ec2a3047_onboarding-flow-diagram.html"
+      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/854-assistant_message-0_4f4de2870feff5b9_onboarding-flow-diagram.html"
     },
     {
       "event_index": 856,
       "type": "image",
       "filename": "diagramedit1.png",
       "content_type": "image/png",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-LQukDUi5jgRDbBle0qeXBu_na1fn_ZGlhZ3JhbWVkaXQx.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1MUXVrRFVpNWpnUkRiQmxlMHFlWEJ1X25hMWZuX1pHbGhaM0poYldWa2FYUXgucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCICl8WAMGvDvalVDclbIVGzuYhfOlTgvfmLvkDucdOM5oAiB8by5zcs2bnGfQVfi~93S6nTZiXhoGt2CGlQ~zH~nW6A__",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-LQukDUi5jgRDbBle0qeXBu_na1fn_ZGlhZ3JhbWVkaXQx.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1MUXVrRFVpNWpnUkRiQmxlMHFlWEJ1X25hMWZuX1pHbGhaM0poYldWa2FYUXgucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwODEyODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCImQMVkXWbBUgtNDxq~AEonQpw3p9iIFolts4eQjyaDQIhAMV~NKsQoiziUr1SCg2YNl-oQea~q4fYMLy3gUw2Nh2b",
       "status": "archived",
       "bytes": 99935,
-      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/856-user_message-0_f6bd6c46e6742baf_diagramedit1.png"
+      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/856-user_message-0_e71288876e4a9ea7_diagramedit1.png"
     },
     {
       "event_index": 943,
       "type": "file",
       "filename": "onboarding-flow-diagram.html",
       "content_type": "text/html",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/y8OD1G7o8YObQZ5UaXvrbI_1779494459697_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L3k4T0QxRzdvOFlPYlFaNVVhWHZyYklfMTc3OTQ5NDQ1OTY5N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDl6pTphQAPgahIWum5tlbaN9Qm-ObEVH9nrkq8dXT7aAiAHcwJdU16~WDs2Cvu00ylLq2paVypb-2trouSZqjqcDQ__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/y8OD1G7o8YObQZ5UaXvrbI_1779494459697_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L3k4T0QxRzdvOFlPYlFaNVVhWHZyYklfMTc3OTQ5NDQ1OTY5N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIEw2bDJoefGYoNDJv~R-4CwDexNb8fYeVMrW--DRBYoiAiAPbRkdiU5F3osqWZmEcIDMgSuG1EM1A-cL8sayieudFw__",
       "status": "archived",
       "bytes": 22721,
-      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/943-assistant_message-0_9b44a6d16f25698d_onboarding-flow-diagram.html"
+      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/943-assistant_message-0_66ac2757e1fb0127_onboarding-flow-diagram.html"
     },
     {
       "event_index": 954,
       "type": "file",
       "filename": "onboarding-flow-diagram.html",
       "content_type": "text/html",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/X7Du7Khysv30NYBf3yEeP0_1779495000162_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L1g3RHU3S2h5c3YzME5ZQmYzeUVlUDBfMTc3OTQ5NTAwMDE2Ml9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCQUC6nAQrAPGALiy1e3rUhKrcPQkgIgbE5u3QRbgHruAIhAL7D-2mQgbO56HgYnBuD9Upiuik8l5nxqCWM1MRBe4rw",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/X7Du7Khysv30NYBf3yEeP0_1779495000162_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L1g3RHU3S2h5c3YzME5ZQmYzeUVlUDBfMTc3OTQ5NTAwMDE2Ml9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCICm3Nnwt2wHn0Woev8PQ-vIuj2p-zRRxc5NULo2EalzgAiAuI3t4AhM0awR8SQ6y23H3T-nEP-jeap8Tw-np6brYcw__",
       "status": "archived",
       "bytes": 52674,
-      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/954-assistant_message-0_cf8c1a84c47363cc_onboarding-flow-diagram.html"
+      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/954-assistant_message-0_a17886f3cb29efa8_onboarding-flow-diagram.html"
     },
     {
       "event_index": 959,
       "type": "file",
       "filename": "onboarding-flow-diagram.html",
       "content_type": "text/html",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/t2NTz778hYgIVfF92e9BGR_1779495400707_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L3QyTlR6Nzc4aFlnSVZmRjkyZTlCR1JfMTc3OTQ5NTQwMDcwN19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDcZXiOq8XqTg06prztOsRE4TP~52~DQAB-x4lF5qm~vAIhALc1jrVIk2JbqbAvg8366tVk8vj0Rdo4PF4tR1bSp~uL",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/t2NTz778hYgIVfF92e9BGR_1779495400707_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L3QyTlR6Nzc4aFlnSVZmRjkyZTlCR1JfMTc3OTQ5NTQwMDcwN19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIEZSuPDqckZngsG-QrOWubTcO2fn5w7wBKGmMrb-3tDBAiBGMKin5~2PNzeV6OAZHcVd5OYEBZx4VYpE4XQAv8sjbg__",
       "status": "archived",
       "bytes": 52720,
-      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/959-assistant_message-0_996c0a6922c4b363_onboarding-flow-diagram.html"
+      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/959-assistant_message-0_d4a77fc3715b6bc5_onboarding-flow-diagram.html"
     },
     {
       "event_index": 964,
       "type": "file",
       "filename": "onboarding-flow-diagram.html",
       "content_type": "text/html",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/T7Dcu7OiVUnsEgqrKeNDEw_1779495478617_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L1Q3RGN1N09pVlVuc0VncXJLZU5ERXdfMTc3OTQ5NTQ3ODYxN19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIDcoT-UfIHOifue7gW2QQvx1S9ea7QtYb~jhrx0nOpk8AiEAz2lA28MrS2YglyQP2CCmSAEARmEF~faHla4Enx3hwwI_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/T7Dcu7OiVUnsEgqrKeNDEw_1779495478617_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L1Q3RGN1N09pVlVuc0VncXJLZU5ERXdfMTc3OTQ5NTQ3ODYxN19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQD4UdaOqDTWT5tmt4ue8zM-wU0Apfve1OZYVfbfLIZuOgIhALBU81tqnMrE8fTqphs2xLK3cMI3EY~vH0C2wddJFsQd",
       "status": "archived",
       "bytes": 52712,
-      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/964-assistant_message-0_8d120040eebd9454_onboarding-flow-diagram.html"
+      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/964-assistant_message-0_49606f71d51ae840_onboarding-flow-diagram.html"
     },
     {
       "event_index": 969,
       "type": "file",
       "filename": "onboarding-flow-diagram.html",
       "content_type": "text/html",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/UrNqsvV3uN0u181HIw4CFI_1779495515717_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L1VyTnFzdlYzdU4wdTE4MUhJdzRDRklfMTc3OTQ5NTUxNTcxN19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIHlR6A3bz0935A0tCPjkT~qJ4uhbYP~d23gx5jmlWmD4AiAtejDzdMoXMVuLvaUWZksqBP~lBXGJhaV-k2kd34XzVQ__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/UrNqsvV3uN0u181HIw4CFI_1779495515717_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L1VyTnFzdlYzdU4wdTE4MUhJdzRDRklfMTc3OTQ5NTUxNTcxN19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDUzC-9Iatv-8XgOO~l134ciOn8zaMqyFASKV9eY-7dDAIhAPbr4bsjuJo~xxiul0jfpPe17t4685FHje3hsYQI6q6h",
       "status": "archived",
       "bytes": 52964,
-      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/969-assistant_message-0_cdb47bbb92e0b457_onboarding-flow-diagram.html"
+      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/969-assistant_message-0_db0498cd38168d23_onboarding-flow-diagram.html"
     },
     {
       "event_index": 984,
       "type": "file",
       "filename": "onboarding-flow-diagram.html",
       "content_type": "text/html",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/hvJ7wHJcpbuzuPv9n15eMz_1779497572992_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L2h2Sjd3SEpjcGJ1enVQdjluMTVlTXpfMTc3OTQ5NzU3Mjk5Ml9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQC6Ya6Gd99IvSFFeYge3hzei7EaD9~YWwen2IA7j9hznQIgMZbLx1a7Q732JOUrVbnkcAIuZjrebsdZ9f2Dy4pWTIc_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/hvJ7wHJcpbuzuPv9n15eMz_1779497572992_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L2h2Sjd3SEpjcGJ1enVQdjluMTVlTXpfMTc3OTQ5NzU3Mjk5Ml9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCID5nTjGFJUNNvUTEsGR0SnvK0iXGu6CcWYTB24l6KCZBAiAVrwlz0~WggNGj37QpJZRhcwRxPhMg0pkmIEIa2BsBIA__",
       "status": "archived",
       "bytes": 67451,
-      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/984-assistant_message-0_db75d8361bad878e_onboarding-flow-diagram.html"
+      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/984-assistant_message-0_caffaa3e0878433d_onboarding-flow-diagram.html"
     },
     {
       "event_index": 989,
       "type": "file",
       "filename": "onboarding-flow-diagram.html",
       "content_type": "text/html",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/31Xr7r0RvgY7KElyyFqMle_1779497616841_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94LzMxWHI3cjBSdmdZN0tFbHl5RnFNbGVfMTc3OTQ5NzYxNjg0MV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIEf8KnVh3YbSAYSlr0WU4oHCrkTUfPATNeolF1KqmCRbAiAx41TDZ4igOPs3K0fWc48QxbZjNd1QOop8pc~JQkcyoQ__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/31Xr7r0RvgY7KElyyFqMle_1779497616841_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94LzMxWHI3cjBSdmdZN0tFbHl5RnFNbGVfMTc3OTQ5NzYxNjg0MV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDmORQTOoeebZlnGW26LE3ciJog569jeCmhFu6l7j152AIgLLusoO~NlrpR1ZVllM0AjN-xUdWf6NVQQaS9pIx-JQ4_",
       "status": "archived",
       "bytes": 67462,
-      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/989-assistant_message-0_52deb3978b545b64_onboarding-flow-diagram.html"
+      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/989-assistant_message-0_65721208b063f5a7_onboarding-flow-diagram.html"
     },
     {
       "event_index": 998,
       "type": "file",
       "filename": "onboarding-flow-diagram.html",
       "content_type": "text/html",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/TZTKpUuH11ihW4M8WoBwMD_1779497738180_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L1RaVEtwVXVIMTFpaFc0TThXb0J3TURfMTc3OTQ5NzczODE4MF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIGQxY1Nl5r-NfSS-izeKzrYlfWa8QDVwZA~rc6qbMBjcAiBURGPYvnsCefVWeEoipGYOhZuYYpT0WL1kl45f4K573Q__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/TZTKpUuH11ihW4M8WoBwMD_1779497738180_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L1RaVEtwVXVIMTFpaFc0TThXb0J3TURfMTc3OTQ5NzczODE4MF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQD8n615b3tXvnLIdj0bENTUsgBoBG27WLsLox9SfLGPYgIgGHX6EBtrgRod8l7vTZV8goqHqXna7F7PjO6QMkS2y7U_",
       "status": "archived",
       "bytes": 67462,
-      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/998-assistant_message-0_e387848895843e33_onboarding-flow-diagram.html"
+      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/998-assistant_message-0_df48996a34269f17_onboarding-flow-diagram.html"
     },
     {
       "event_index": 1003,
       "type": "file",
       "filename": "onboarding-process-guide.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/okqRGtMZkR5DXFCZ5yl0dq_1779498540536_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctcHJvY2Vzcy1ndWlkZQ.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L29rcVJHdE1aa1I1RFhGQ1o1eWwwZHFfMTc3OTQ5ODU0MDUzNl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdGNISnZZMlZ6Y3kxbmRXbGtaUS5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIBjvzq8xgafxFKe9rzHN6uVk3kp-343D16ajDBipEqo9AiEA0fjiHt-tMbZxumLFzBFbk-VC82xQLfI0QyRwzGjklUM_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/okqRGtMZkR5DXFCZ5yl0dq_1779498540536_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctcHJvY2Vzcy1ndWlkZQ.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L29rcVJHdE1aa1I1RFhGQ1o1eWwwZHFfMTc3OTQ5ODU0MDUzNl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdGNISnZZMlZ6Y3kxbmRXbGtaUS5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIB4meNgWlGnN6gtHQ9J~2uDyH~loeVEJTwh-Fms4K7~GAiEAw7g17LscNla-C8-IwtD6EgasKqKy0PP3KaxNXfYOt9M_",
       "status": "archived",
       "bytes": 139784,
-      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/1003-assistant_message-0_dad7b4e54fbc9eb9_onboarding-process-guide.pdf"
+      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/1003-assistant_message-0_9d99d5d600d4ffc0_onboarding-process-guide.pdf"
     },
     {
       "event_index": 1003,
       "type": "file",
       "filename": "onboarding-process-guide.md",
       "content_type": "text/markdown",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/okqRGtMZkR5DXFCZ5yl0dq_1779498540536_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctcHJvY2Vzcy1ndWlkZQ.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L29rcVJHdE1aa1I1RFhGQ1o1eWwwZHFfMTc3OTQ5ODU0MDUzNl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdGNISnZZMlZ6Y3kxbmRXbGtaUS5tZCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDdH3GR73UIrjAEjSo0JyBQ3Q~TaCqj5ZmjabrLci8k5AIgGb1XfgaizCWLVxZd68RmjKwgMMC~8BJYXOOJKFIYDF8_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/okqRGtMZkR5DXFCZ5yl0dq_1779498540536_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctcHJvY2Vzcy1ndWlkZQ.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L29rcVJHdE1aa1I1RFhGQ1o1eWwwZHFfMTc3OTQ5ODU0MDUzNl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdGNISnZZMlZ6Y3kxbmRXbGtaUS5tZCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIF-r31x1oB82tYMvjo1adp64HGA4uEeQBxM3sklgd25jAiBwkIqz92aiy9gSZJbki06CfI5d15Gn4WdOWCBINhNlAw__",
       "status": "archived",
       "bytes": 17988,
-      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/1003-assistant_message-1_ad0f1b0fe0b17b3e_onboarding-process-guide.md"
+      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/1003-assistant_message-1_689cc4cd56e2bc2f_onboarding-process-guide.md"
     },
     {
       "event_index": 1008,
       "type": "image",
       "filename": "onboarding-flowchart.png",
       "content_type": "image/png",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/fkzUd4dVqlnaWqPyBdtnCh_1779502503828_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvd2NoYXJ0.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L2ZrelVkNGRWcWxuYVdxUHlCZHRuQ2hfMTc3OTUwMjUwMzgyOF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkMk5vWVhKMC5wbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIAhbpL8K-1etHKT2Ig53N6fZfLmv5WKk0zsss5RIie76AiEAya3Y2coQDOalIoBJhYDL3IDYMTRa3EAAeR7B-5-82QI_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/fkzUd4dVqlnaWqPyBdtnCh_1779502503828_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvd2NoYXJ0.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L2ZrelVkNGRWcWxuYVdxUHlCZHRuQ2hfMTc3OTUwMjUwMzgyOF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkMk5vWVhKMC5wbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICdELpXky9V~oHyNEU1b8xDgxGmWPAa50cjrF7f1iDVCAiEA7F5geQfvikZYcYqW06XIwJMoTLWfOqp9GEKoQsXpaO4_",
       "status": "archived",
       "bytes": 701009,
-      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/1008-assistant_message-0_d85d254d90ea504e_onboarding-flowchart.png"
+      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/1008-assistant_message-0_585e70389cae5398_onboarding-flowchart.png"
     },
     {
       "event_index": 1013,
       "type": "file",
       "filename": "onboarding-visual-flowchart.html",
       "content_type": "text/html",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/TbRDjeaPlyuuni4tu4Gcgr_1779502769777_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctdmlzdWFsLWZsb3djaGFydA.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L1RiUkRqZWFQbHl1dW5pNHR1NEdjZ3JfMTc3OTUwMjc2OTc3N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdGRtbHpkV0ZzTFdac2IzZGphR0Z5ZEEuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDzJsUb~0YqT7VI9Hn45wqT6Ss3ipeGpTEg23mNtD6tiQIhAMo5zt1S80UV1Acjb5Os8AwrRsBoygsWCENLtQ9-dxW4",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/TbRDjeaPlyuuni4tu4Gcgr_1779502769777_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctdmlzdWFsLWZsb3djaGFydA.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L1RiUkRqZWFQbHl1dW5pNHR1NEdjZ3JfMTc3OTUwMjc2OTc3N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdGRtbHpkV0ZzTFdac2IzZGphR0Z5ZEEuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQC2w04TcljkGqfNrv1UR6Qsuk9LqT2QXGs-g~UZD8xOwAIhAOWCoxv06WhjaQ5O4XTxUvstqBCoChCmkLAjRV22WWp3",
       "status": "archived",
       "bytes": 43260,
-      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/1013-assistant_message-0_8502ba83e4239b2b_onboarding-visual-flowchart.html"
+      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/1013-assistant_message-0_e46560f4affe8b93_onboarding-visual-flowchart.html"
     },
     {
       "event_index": 1022,
       "type": "slides",
       "filename": "ApartmentCorp New Hire Onboarding Process",
       "content_type": "",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/i6i4mmm6e4swzpy9a1s93-382651c1-e2b-prod-us2_1779556866620_na1fn_c2xpZGVz.json?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L2k2aTRtbW02ZTRzd3pweTlhMXM5My0zODI2NTFjMS1lMmItcHJvZC11czJfMTc3OTU1Njg2NjYyMF9uYTFmbl9jMnhwWkdWei5qc29uIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCkOjjoubZWObxNaNg9G-Wp5H9Jm5us1sssvXJjMBxWFQIhANiZbMm4N9Stfh8CnAC1yMst6ETB9Lk4zoLIRf4rBzIq",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/i6i4mmm6e4swzpy9a1s93-382651c1-e2b-prod-us2_1779556866620_na1fn_c2xpZGVz.json?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L2k2aTRtbW02ZTRzd3pweTlhMXM5My0zODI2NTFjMS1lMmItcHJvZC11czJfMTc3OTU1Njg2NjYyMF9uYTFmbl9jMnhwWkdWei5qc29uIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwODEyODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIE2SPjDnvCVGZ3mXiED8KpSAb6KMmZpoXgnEPq4zonzyAiEAzDMccjXVUe6QjkdVHcS6of3piXNtpf6dVgt9Ckq~2Oo_",
       "status": "archived",
       "bytes": 174637,
-      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/1022-assistant_message-0_83901d1d51a28153_ApartmentCorp_New_Hire_Onboarding_Process"
+      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/1022-assistant_message-0_10f5dfcd0108404f_ApartmentCorp_New_Hire_Onboarding_Process"
     },
     {
       "event_index": 1055,
       "type": "image",
       "filename": "IMG_9917.webp",
       "content_type": "image/webp",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-WrgYhQ3yNS0kQGvbbgsruL_na1fn_SU1HXzk5MTc.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1XcmdZaFEzeU5TMGtRR3ZiYmdzcnVMX25hMWZuX1NVMUhYems1TVRjLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDakMkYojGrZr6ZHsEiqx1k8mr4F5g-Z-NngOKqz9U65gIgeuDi~x3MZTLTLxXWD29WLZlMRFfIaWufR9r3Q1SUCBM_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-WrgYhQ3yNS0kQGvbbgsruL_na1fn_SU1HXzk5MTc.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1XcmdZaFEzeU5TMGtRR3ZiYmdzcnVMX25hMWZuX1NVMUhYems1TVRjLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIHXU0ZEP8cmJ8GrsOK0nWQ~rWh33rP9K57rzK7BhO6aQAiEAg2naey4lgV-PcMp7iaWwC~vf6Ts0uJrJvIDkQh4OOic_",
       "status": "archived",
       "bytes": 34472,
-      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/1055-user_message-0_c76c3db435c0b3a4_IMG_9917.webp"
+      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/1055-user_message-0_5525bb5349012fdb_IMG_9917.webp"
     },
     {
       "event_index": 1105,
       "type": "file",
       "filename": "onboarding-flow-diagram.html",
       "content_type": "text/html",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/Vcc690uBRqwzNdJN9gPoPY_1780555262194_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L1ZjYzY5MHVCUnF3ek5kSk45Z1BvUFlfMTc4MDU1NTI2MjE5NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIAbpf606KCotEQuNn7zebU~suaYmB50uSXvYdS1Uw5Y-AiEA6JYj-BImagJgloSQ-IVtuBZ7LNoSw2L6iX~hJqo3i2Y_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/2cIsVe2TXiDViDXTnB0yCk/sandbox/Vcc690uBRqwzNdJN9gPoPY_1780555262194_na1fn_L2hvbWUvdWJ1bnR1L29uYm9hcmRpbmctZmxvdy1kaWFncmFt.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMmNJc1ZlMlRYaURWaURYVG5CMHlDay9zYW5kYm94L1ZjYzY5MHVCUnF3ek5kSk45Z1BvUFlfMTc4MDU1NTI2MjE5NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDI5dVltOWhjbVJwYm1jdFpteHZkeTFrYVdGbmNtRnQuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDFfxASoGDw1smt6L0N6uvscPQ4jQXyY9Lxuu0m5LKMOwIhALXLPyphWrsI7Rba~rkcOBlpkYE1GXqCygbmwFTGqhYN",
       "status": "archived",
       "bytes": 70800,
-      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/1105-assistant_message-0_629f046b5dd03a80_onboarding-flow-diagram.html"
+      "archive_path": "attachments/2cIsVe2TXiDViDXTnB0yCk/1105-assistant_message-0_39df68cc0f02c029_onboarding-flow-diagram.html"
     }
   ]
 }

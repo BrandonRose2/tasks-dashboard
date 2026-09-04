@@ -1,0 +1,36 @@
+The resource chrome-extension://cecngibhkljoiafhjfmcgbmikfogdiko/assets/B3o8tEdc.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+Context
+extensions://cecngibhkljoiafhjfmcgbmikfogdiko/src/popup.html
+Stack Trace
+extensions://cecngibhkljoiafhjfmcgbmikfogdiko/src/popup.html ((anonymous function)):0:1
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manus Chrome Operator</title>
+  <script type="module" crossorigin src="/assets/CTyM2EJ7.js"></script>
+  <link rel="modulepreload" crossorigin href="/assets/BhDjBbjQ.js">
+  <link rel="modulepreload" crossorigin href="/assets/B3o8tEdc.js">
+  <link rel="modulepreload" crossorigin href="/assets/Bt8tJzZk.js">
+  <link rel="modulepreload" crossorigin href="/assets/CY7u5Ihr.js">
+  <link rel="modulepreload" crossorigin href="/assets/BXj0ly0w.js">
+  <link rel="stylesheet" crossorigin href="/assets/CxjDvgA2.css">
+</head>
+<body>
+    <div id="root"></div>
+</body>
+</html>
+The resource chrome-extension://cecngibhkljoiafhjfmcgbmikfogdiko/assets/Bt8tJzZk.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource chrome-extension://cecngibhkljoiafhjfmcgbmikfogdiko/assets/CY7u5Ihr.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource chrome-extension://cecngibhkljoiafhjfmcgbmikfogdiko/assets/BhDjBbjQ.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource chrome-extension://cecngibhkljoiafhjfmcgbmikfogdiko/assets/BXj0ly0w.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+A preload for 'chrome-extension://cecngibhkljoiafhjfmcgbmikfogdiko/assets/BhDjBbjQ.js' is found, but is not used because it is a cross-world extension resource mismatch.
+A preload for 'chrome-extension://cecngibhkljoiafhjfmcgbmikfogdiko/assets/B3o8tEdc.js' is found, but is not used because it is a cross-world extension resource mismatch.
+A preload for 'chrome-extension://cecngibhkljoiafhjfmcgbmikfogdiko/assets/Bt8tJzZk.js' is found, but is not used because it is a cross-world extension resource mismatch.
+A preload for 'chrome-extension://cecngibhkljoiafhjfmcgbmikfogdiko/assets/CY7u5Ihr.js' is found, but is not used because it is a cross-world extension resource mismatch.
+A preload for 'chrome-extension://cecngibhkljoiafhjfmcgbmikfogdiko/assets/BXj0ly0w.js' is found, but is not used because it is a cross-world extension resource mismatch.
+WebSocket connection to 'wss://api.manus.im/socket.io/?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6IjMxMDUxOTY2MzQzMjIxMDkwNkBramtjcWZpZnc2dHJyc2NkZnM1d25tLm1hbnVzLmltIiwiZXhwIjoxNzk1NTUxNDc5LCJpYXQiOjE3ODc3NzU0NzksImp0aSI6IkRlemFWaFBzcTN1VzVQTDVVRmQ3YXgiLCJuYW1lIjoiQnJhbmRvbiBSb3NlIiwib3JpZ2luYWxfdXNlcl9pZCI6IjMxMDUxOTY2MzQzMjIxMDkwNiIsInRlYW1fdWlkIjoia2pLQ1FmaWZXNnRyUnNDRGZzNVduTSIsInR5cGUiOiJ0ZWFtIiwidXNlcl9pZCI6IjMxMDUxOTY2MzQ0OTM3NjAzNyJ9.d5Hy4ZJaVpczd7bOtYWeSY_kY-0uzGGaIQG6-689bZs&EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_NAME_NOT_RESOLVED
+WebSocket connection to 'wss://api.manus.im/socket.io/?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6IjMxMDUxOTY2MzQzMjIxMDkwNkBramtjcWZpZnc2dHJyc2NkZnM1d25tLm1hbnVzLmltIiwiZXhwIjoxNzk1NTUxNDc5LCJpYXQiOjE3ODc3NzU0NzksImp0aSI6IkRlemFWaFBzcTN1VzVQTDVVRmQ3YXgiLCJuYW1lIjoiQnJhbmRvbiBSb3NlIiwib3JpZ2luYWxfdXNlcl9pZCI6IjMxMDUxOTY2MzQzMjIxMDkwNiIsInRlYW1fdWlkIjoia2pLQ1FmaWZXNnRyUnNDRGZzNVduTSIsInR5cGUiOiJ0ZWFtIiwidXNlcl9pZCI6IjMxMDUxOTY2MzQ0OTM3NjAzNyJ9.d5Hy4ZJaVpczd7bOtYWeSY_kY-0uzGGaIQG6-689bZs&EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_INTERNET_DISCONNECTED
+[ManusOperator][SocketBridge][ERROR]Socket.IO connection error [object Object]
+Unrecognized manifest key 'custom_meta'.

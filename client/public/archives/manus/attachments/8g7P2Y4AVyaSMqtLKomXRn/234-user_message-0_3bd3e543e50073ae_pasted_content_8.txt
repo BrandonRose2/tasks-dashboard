@@ -1,0 +1,876 @@
+Last login: Tue Sep  1 10:23:14 on ttys004
+brandonrose@Brandon ~ % cd ~/actions-runner/_work/realpage-portal-runner/realpage-portal-runner
+npm run check:live-edge-session
+
+
+> check:live-edge-session
+> tsx src/checkLiveEdgeSession.ts
+
+Live Microsoft Edge Reports Hub is ready: Reports | RealPage (33 inputs detected).
+brandonrose@Brandon realpage-portal-runner % cd ~/actions-runner/_work/realpage-portal-runner/realpage-portal-runner
+npm run inspect:live-edge-current-report-statuses -- "All Units (Excel)" "08/28/2026"
+
+
+> inspect:live-edge-current-report-statuses
+> tsx src/inspectLiveEdgeCurrentReportStatuses.ts All Units (Excel) 08/28/2026
+
+{
+  "reportName": "All Units (Excel)",
+  "completedDatePrefix": "08/28/2026",
+  "readOnly": true,
+  "statusCounts": {
+    "Completed": 31,
+    "In Progress": 2
+  },
+  "rows": [
+    {
+      "page": 1,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyCoral Village",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 1,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyCrossroads of Lees Summit",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 1,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyCumberland Apartments",
+        "FormatExcel",
+        "StatusIn Progress",
+        "Completed Date",
+        "View Parameters"
+      ],
+      "actions": [
+        "View Parameters"
+      ]
+    },
+    {
+      "page": 1,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyFairfax Sr Apartments",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 1,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyGrace Townhomes",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 1,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyGranite Ridge Apartments",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 1,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyGrove Park Terrace",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 1,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyHistorical - Riverchase Homes",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 2,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyHoliday Apartments",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 2,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyHowell Place",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 2,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyJefferson Arms Apts",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 2,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyLexington Arms",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 2,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyMacedonia Gardens",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 2,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyMarrero 3 LP",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 2,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyMidtown Manor",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 2,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyNew Wilmington Arms",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 2,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyNorth Pointe",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 2,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyPacific Pointe Apartments",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 3,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyPelican Bay",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 3,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyPirates Bend",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 3,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertySilver Springs Terrace",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 3,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertySt. Charles",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 3,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyThomasville Church Homes",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 3,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyUrban Rehab",
+        "FormatExcel",
+        "StatusIn Progress",
+        "Completed Date",
+        "View Parameters"
+      ],
+      "actions": [
+        "View Parameters"
+      ]
+    },
+    {
+      "page": 3,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyWalnut Hill",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 3,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyWindsor Village",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 3,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyYorkshire Apartments",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 3,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "Property135th Street Apartments",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 4,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyAnaheim Gardens",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 4,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyArbor Crest",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 4,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyBayou Pointe",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 4,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyBoca Ciega Townhomes",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 4,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyBreckenridge Village",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    }
+  ]
+}
+brandonrose@Brandon realpage-portal-runner % cd ~/actions-runner/_work/realpage-portal-runner/realpage-portal-runner
+git fetch origin read-only-reconciliation-audit
+git switch --detach origin/read-only-reconciliation-audit
+source ~/.config/onesite-runner.env
+export PORTAL_BASE_URL="${PORTAL_BASE_URL:-https://onesiterepor-tsrr864t.manus.space}"
+npm run inspect:request-reconciliation -- 60001 > ~/Desktop/request-60001-portal-association.json
+
+remote: Enumerating objects: 81, done.
+remote: Counting objects: 100% (81/81), done.
+remote: Compressing objects: 100% (48/48), done.
+remote: Total 70 (delta 36), reused 55 (delta 21), pack-reused 0 (from 0)
+Unpacking objects: 100% (70/70), 28.12 KiB | 778.00 KiB/s, done.
+From https://github.com/BrandonRose2/realpage-portal-runner
+ * branch            read-only-reconciliation-audit -> FETCH_HEAD
+ * [new branch]      read-only-reconciliation-audit -> origin/read-only-reconciliation-audit
+D	package-lock.json
+D	pnpm-lock.yaml
+D	src/armAllLiveEdgeOneSiteNetworkProbes.ts
+D	src/downloadEdgeDebugAllUnits.ts
+D	src/downloadLiveEdgeActivePortfolioDelinquency.ts
+D	src/downloadLocalAllUnits.ts
+D	src/generateAptCorpWorkbooks.ts
+D	src/inspectLiveEdgeCompletedFileAction.ts
+D	src/realpageClient.ts
+D	src/runLiveEdgeYardiUnitDirectory.ts
+HEAD is now at 6cefd03 Add read-only request reconciliation inspector
+<anonymous_script>:1
+<!doctype html>
+^
+
+SyntaxError: Unexpected token '<', "<!doctype "... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at parseJSONFromBytes (node:internal/deps/undici/undici:4387:19)
+    at successSteps (node:internal/deps/undici/undici:7041:27)
+    at readAllBytes (node:internal/deps/undici/undici:5958:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+
+Node.js v24.18.0
+brandonrose@Brandon realpage-portal-runner % source ~/.config/onesite-runner.env
+export PORTAL_BASE_URL="https://onesiterepor-tsrr864t.manus.space"
+npm run inspect:request-reconciliation -- 60001 > ~/Desktop/request-60001-portal-association.json
+
+brandonrose@Brandon realpage-portal-runner % cd ~/actions-runner/_work/realpage-portal-runner/realpage-portal-runner
+git fetch origin read-only-reconciliation-audit
+git switch --detach origin/read-only-reconciliation-audit
+npm run inspect:live-edge-full-current-report-statuses -- "All Units (Excel)" "08/28/2026" 25 > ~/Desktop/request-60001-full-provider-inventory.json
+
+remote: Enumerating objects: 8, done.
+remote: Counting objects: 100% (8/8), done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 5 (delta 3), reused 5 (delta 3), pack-reused 0 (from 0)
+Unpacking objects: 100% (5/5), 1.53 KiB | 520.00 KiB/s, done.
+From https://github.com/BrandonRose2/realpage-portal-runner
+ * branch            read-only-reconciliation-audit -> FETCH_HEAD
+   6cefd03..eecb6ac  read-only-reconciliation-audit -> origin/read-only-reconciliation-audit
+D	package-lock.json
+D	pnpm-lock.yaml
+D	src/armAllLiveEdgeOneSiteNetworkProbes.ts
+D	src/downloadEdgeDebugAllUnits.ts
+D	src/downloadLiveEdgeActivePortfolioDelinquency.ts
+D	src/downloadLocalAllUnits.ts
+D	src/generateAptCorpWorkbooks.ts
+D	src/inspectLiveEdgeCompletedFileAction.ts
+D	src/realpageClient.ts
+D	src/runLiveEdgeYardiUnitDirectory.ts
+Previous HEAD position was 6cefd03 Add read-only request reconciliation inspector
+HEAD is now at eecb6ac Add expanded read-only My Reports inventory
+brandonrose@Brandon realpage-portal-runner % cd ~/actions-runner/_work/realpage-portal-runner/realpage-portal-runner
+npm run inspect:live-edge-my-reports-pagination > ~/Desktop/request-60001-pagination-state.json
+
+brandonrose@Brandon realpage-portal-runner % cd ~/actions-runner/_work/realpage-portal-runner/realpage-portal-runner
+git fetch origin read-only-reconciliation-audit
+git switch --detach origin/read-only-reconciliation-audit
+npm run inspect:live-edge-batch-exceptions -- "All Units (Excel)" 5 > ~/Desktop/request-60001-batch-exceptions.json
+
+remote: Enumerating objects: 8, done.
+remote: Counting objects: 100% (8/8), done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 5 (delta 3), reused 5 (delta 3), pack-reused 0 (from 0)
+Unpacking objects: 100% (5/5), 1.37 KiB | 349.00 KiB/s, done.
+From https://github.com/BrandonRose2/realpage-portal-runner
+ * branch            read-only-reconciliation-audit -> FETCH_HEAD
+   eecb6ac..2aee2c6  read-only-reconciliation-audit -> origin/read-only-reconciliation-audit
+D	package-lock.json
+D	pnpm-lock.yaml
+D	src/armAllLiveEdgeOneSiteNetworkProbes.ts
+D	src/downloadEdgeDebugAllUnits.ts
+D	src/downloadLiveEdgeActivePortfolioDelinquency.ts
+D	src/downloadLocalAllUnits.ts
+D	src/generateAptCorpWorkbooks.ts
+D	src/inspectLiveEdgeCompletedFileAction.ts
+D	src/realpageClient.ts
+D	src/runLiveEdgeYardiUnitDirectory.ts
+Previous HEAD position was eecb6ac Add expanded read-only My Reports inventory
+HEAD is now at 2aee2c6 Inspect read-only current batch exceptions
+/Users/brandonrose/actions-runner/_work/realpage-portal-runner/realpage-portal-runner/src/liveEdgeSession.ts:827
+    throw new Error(`My Reports did not reach its first page within ${maxSteps} read-only Previous Entries steps.`);
+          ^
+
+Error: My Reports did not reach its first page within 5 read-only Previous Entries steps.
+    at LiveMicrosoftEdgeSession.goToFirstMyReportsPage (/Users/brandonrose/actions-runner/_work/realpage-portal-runner/realpage-portal-runner/src/liveEdgeSession.ts:827:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async <anonymous> (/Users/brandonrose/actions-runner/_work/realpage-portal-runner/realpage-portal-runner/src/inspectLiveEdgeBatchExceptions.ts:9:1)
+
+Node.js v24.18.0
+brandonrose@Brandon realpage-portal-runner % cd ~/actions-runner/_work/realpage-portal-runner/realpage-portal-runner
+git fetch origin read-only-reconciliation-audit
+git switch --detach origin/read-only-reconciliation-audit
+npm run inspect:live-edge-batch-exceptions -- "All Units (Excel)" 5 25 > ~/Desktop/request-60001-batch-exceptions.json
+
+remote: Enumerating objects: 7, done.
+remote: Counting objects: 100% (7/7), done.
+remote: Compressing objects: 100% (1/1), done.
+remote: Total 4 (delta 3), reused 4 (delta 3), pack-reused 0 (from 0)
+Unpacking objects: 100% (4/4), 535 bytes | 178.00 KiB/s, done.
+From https://github.com/BrandonRose2/realpage-portal-runner
+ * branch            read-only-reconciliation-audit -> FETCH_HEAD
+   2aee2c6..0b3d36a  read-only-reconciliation-audit -> origin/read-only-reconciliation-audit
+D	package-lock.json
+D	pnpm-lock.yaml
+D	src/armAllLiveEdgeOneSiteNetworkProbes.ts
+D	src/downloadEdgeDebugAllUnits.ts
+D	src/downloadLiveEdgeActivePortfolioDelinquency.ts
+D	src/downloadLocalAllUnits.ts
+D	src/generateAptCorpWorkbooks.ts
+D	src/inspectLiveEdgeCompletedFileAction.ts
+D	src/realpageClient.ts
+D	src/runLiveEdgeYardiUnitDirectory.ts
+Previous HEAD position was 2aee2c6 Inspect read-only current batch exceptions
+HEAD is now at 0b3d36a Fix read-only exception pagination reset
+brandonrose@Brandon realpage-portal-runner % ls -lT ~/Desktop/request-60001-batch-exceptions.json
+head -n 25 ~/Desktop/request-60001-batch-exceptions.json
+
+-rw-r--r--@ 1 brandonrose  staff  21134 Sep  1 11:03:03 2026 /Users/brandonrose/Desktop/request-60001-batch-exceptions.json
+
+> inspect:live-edge-batch-exceptions
+> tsx src/inspectLiveEdgeBatchExceptions.ts All Units (Excel) 5 25
+
+{
+  "reportName": "All Units (Excel)",
+  "scanPages": 5,
+  "resetPages": 25,
+  "pagesScanned": 5,
+  "readOnly": true,
+  "statusCounts": {
+    "Completed": 32,
+    "In Progress": 1,
+    "Errored": 2
+  },
+  "rows": [
+    {
+      "page": 1,
+      "propertyName": "Coral Village",
+      "status": "Completed",
+      "completedDate": "08/28/2026 11:04 AM",
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+brandonrose@Brandon realpage-portal-runner % cp ~/Desktop/request-60001-batch-exceptions.json ~/Desktop/REQUEST-60001-CURRENT-EXCEPTIONS.json
+
+brandonrose@Brandon realpage-portal-runner % cd ~/actions-runner/_work/realpage-portal-runner/realpage-portal-runner
+git fetch origin read-only-reconciliation-audit
+git switch --detach origin/read-only-reconciliation-audit
+npm run inspect:live-edge-batch-exceptions -- "All Units (Excel)" 5 25 > ~/Desktop/REQUEST-60001-VISIBLE-EXCEPTIONS.json
+
+remote: Enumerating objects: 7, done.
+remote: Counting objects: 100% (7/7), done.
+remote: Compressing objects: 100% (1/1), done.
+remote: Total 4 (delta 3), reused 4 (delta 3), pack-reused 0 (from 0)
+Unpacking objects: 100% (4/4), 1.03 KiB | 350.00 KiB/s, done.
+From https://github.com/BrandonRose2/realpage-portal-runner
+ * branch            read-only-reconciliation-audit -> FETCH_HEAD
+   0b3d36a..5f2a699  read-only-reconciliation-audit -> origin/read-only-reconciliation-audit
+D	package-lock.json
+D	pnpm-lock.yaml
+D	src/armAllLiveEdgeOneSiteNetworkProbes.ts
+D	src/downloadEdgeDebugAllUnits.ts
+D	src/downloadLiveEdgeActivePortfolioDelinquency.ts
+D	src/downloadLocalAllUnits.ts
+D	src/generateAptCorpWorkbooks.ts
+D	src/inspectLiveEdgeCompletedFileAction.ts
+D	src/realpageClient.ts
+D	src/runLiveEdgeYardiUnitDirectory.ts
+Previous HEAD position was 0b3d36a Fix read-only exception pagination reset
+HEAD is now at 5f2a699 Read visible My Reports rows during exception audit
+brandonrose@Brandon realpage-portal-runner % cd ~/actions-runner/_work/realpage-portal-runner/realpage-portal-runner
+git fetch origin read-only-reconciliation-audit
+git switch --detach origin/read-only-reconciliation-audit
+npm run preflight:live-edge-delinquent-prepaid-all > ~/Desktop/delinquent-prepaid-preflight.json
+
+remote: Enumerating objects: 8, done.
+remote: Counting objects: 100% (8/8), done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 5 (delta 3), reused 5 (delta 3), pack-reused 0 (from 0)
+Unpacking objects: 100% (5/5), 1.24 KiB | 318.00 KiB/s, done.
+From https://github.com/BrandonRose2/realpage-portal-runner
+ * branch            read-only-reconciliation-audit -> FETCH_HEAD
+   5f2a699..166fa07  read-only-reconciliation-audit -> origin/read-only-reconciliation-audit
+D	package-lock.json
+D	pnpm-lock.yaml
+D	src/armAllLiveEdgeOneSiteNetworkProbes.ts
+D	src/downloadEdgeDebugAllUnits.ts
+D	src/downloadLiveEdgeActivePortfolioDelinquency.ts
+D	src/downloadLocalAllUnits.ts
+D	src/generateAptCorpWorkbooks.ts
+D	src/inspectLiveEdgeCompletedFileAction.ts
+D	src/realpageClient.ts
+D	src/runLiveEdgeYardiUnitDirectory.ts
+Previous HEAD position was 5f2a699 Read visible My Reports rows during exception audit
+HEAD is now at 166fa07 Add delinquent prepaid all-property preflight
+/Users/brandonrose/actions-runner/_work/realpage-portal-runner/realpage-portal-runner/src/liveEdgeSession.ts:926
+    throw new Error(`The live Microsoft Edge Reports Hub did not finish rendering the exact row named "${exactReportName}". Refresh the Reports Hub and try again.`);
+          ^
+
+Error: The live Microsoft Edge Reports Hub did not finish rendering the exact row named "Delinquent and Prepaid (Excel)". Refresh the Reports Hub and try again.
+    at LiveMicrosoftEdgeSession.inspectExactReportRow (/Users/brandonrose/actions-runner/_work/realpage-portal-runner/realpage-portal-runner/src/liveEdgeSession.ts:926:11)
+    at async LiveMicrosoftEdgeSession.startAllPropertiesGeneration (/Users/brandonrose/actions-runner/_work/realpage-portal-runner/realpage-portal-runner/src/liveEdgeSession.ts:327:5)
+    at async <anonymous> (/Users/brandonrose/actions-runner/_work/realpage-portal-runner/realpage-portal-runner/src/preflightLiveEdgeDelinquentPrepaidAll.ts:33:20)
+
+Node.js v24.18.0
+brandonrose@Brandon realpage-portal-runner % ls -lT ~/Desktop/delinquent-prepaid-preflight.json
+head -n 10 ~/Desktop/delinquent-prepaid-preflight.json
+
+-rw-r--r--@ 1 brandonrose  staff  98 Sep  1 11:22:21 2026 /Users/brandonrose/Desktop/delinquent-prepaid-preflight.json
+
+> preflight:live-edge-delinquent-prepaid-all
+> tsx src/preflightLiveEdgeDelinquentPrepaidAll.ts
+
+brandonrose@Brandon realpage-portal-runner % 

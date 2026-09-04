@@ -1,0 +1,131 @@
+
+> preflight:live-edge-delinquent-prepaid-all
+> tsx src/preflightLiveEdgeDelinquentPrepaidAll.ts
+
+{
+  "readOnly": true,
+  "reportName": "Delinquent and Prepaid (Excel)",
+  "requestedAsOf": "Current AR Period as of the run date",
+  "requestedParameters": {
+    "fiscalPeriod": "Current AR Period",
+    "subproperty": "- all subproperties-",
+    "subjournal": "ALL",
+    "applicant": false,
+    "approvedApplicant": false,
+    "formerApplicant": false,
+    "pendingResident": false,
+    "currentResident": true,
+    "formerResident": false,
+    "reportType": "Details",
+    "includeDelinquentRentOnly": true,
+    "includeDelinquentEqualNTV": true,
+    "includeOutstandingDeposits": false,
+    "includeTransactionsPayableInArrears": false,
+    "displayPrepaidAsAllocated": true,
+    "hideAllPIIData": false,
+    "minimumDelinquentBalance": "0.00",
+    "maximumDelinquentBalance": "99,999,999.00",
+    "agingColumns": "Fiscal",
+    "filterType": "ALL",
+    "sortBy": "Unit",
+    "historicalComments": "Current only"
+  },
+  "prepared": {
+    "propertyScope": "35 options selected",
+    "selectedPropertyCount": 35,
+    "requestedFormat": "excel"
+  },
+  "panel": {
+    "present": true,
+    "text": "Generate Report Created with Sketch. Advanced Search Created with Sketch. Advanced Property Search Licensed Product is prefiltered for this report. However, you can see other products that are licensed by the property. Close Apply Generate Report Delinquent and Prepaid (Excel) Accounts Receivable / Management DetailsColumnsSort OrderGenerate NowSchedule for LaterFormatExcelCancelFormatStandard XMLExcelSelect Property35 options selectedCancelSelect PropertyDoneSelect All135th Street ApartmentsAnaheim GardensArbor CrestBayou PointeBoca Ciega TownhomesBreckenridge VillageCoral VillageCrossroads of Lees SummitCumberland ApartmentsFairfax Sr ApartmentsAdvanced Search Send Email to External Recipient(s) upon Completion Send Notification to Internal User(s) upon CompletionSelect UsersCancelDoneSelect AllAbraham RoseAda VuAdrienne McCallArlene VinsonBeth CohenBlake WeddingtonBrandon RoseBrandy Amadorcarolina hernandezCierra PritchettSend File to Cloud Service upon CompletionSelect OptionCancelSend File to Cloud Service upon CompletionSelect Optionreport bucket | LockedParametersFiscal Period * Current AR PeriodCancelSelect OptionPrevious AR PeriodCurrent AR Period122012012013022013032013042013052013062013Subproperty * ALLCancelSelect OptionALL2836023 135th Street ApartmentsSubjournal * ALLCancelSelect OptionALLHUD REPARESIDENTSUBSIDYAccount Status * Select AllApplicantApproved applicantFormer applicantPending residentCurrent residentFormer residentReport Type * DetailsCancelSelect OptionDetailsSummaryInclude Delinquent Rent Only Include Delinquent Equal NTV Include Outstanding Deposits Include Transactions Payable in Arrears Display Prepaid as Allocated Hide all PII Data Include Delinquent Balances Greater Than * $Include Delinquent Balances Less Than * $Aging Columns * FiscalCancelSelect OptionCalendarFiscalFilter Type * ALLCancelSelect OptionALLDelinquent Subjournals OnlyNet Del and PPD Balances OnlyNet Delinquent Balances OnlyNet Prepaid Balances OnlySort by * UnitCancelSelect OptionNameUnitDisplay Historical Delinquent/Prepaid Comments for * Current onlyCancelSelect OptionAll accountsAll eviction accountsCurrent onlyCancelGenerate",
+    "propertyScope": "35 options selected",
+    "buttons": [
+      {
+        "text": "Details",
+        "disabled": false,
+        "ariaDisabled": null
+      },
+      {
+        "text": "Columns",
+        "disabled": true,
+        "ariaDisabled": null
+      },
+      {
+        "text": "Sort Order",
+        "disabled": true,
+        "ariaDisabled": null
+      },
+      {
+        "text": "Excel",
+        "disabled": false,
+        "ariaDisabled": null
+      },
+      {
+        "text": "35 options selected",
+        "disabled": false,
+        "ariaDisabled": null
+      },
+      {
+        "text": "Select Users",
+        "disabled": false,
+        "ariaDisabled": null
+      },
+      {
+        "text": "Select Option",
+        "disabled": false,
+        "ariaDisabled": null
+      },
+      {
+        "text": "Current AR Period",
+        "disabled": false,
+        "ariaDisabled": null
+      },
+      {
+        "text": "ALL",
+        "disabled": false,
+        "ariaDisabled": null
+      },
+      {
+        "text": "ALL",
+        "disabled": false,
+        "ariaDisabled": null
+      },
+      {
+        "text": "Details",
+        "disabled": false,
+        "ariaDisabled": null
+      },
+      {
+        "text": "Fiscal",
+        "disabled": false,
+        "ariaDisabled": null
+      },
+      {
+        "text": "ALL",
+        "disabled": false,
+        "ariaDisabled": null
+      },
+      {
+        "text": "Unit",
+        "disabled": false,
+        "ariaDisabled": null
+      },
+      {
+        "text": "Current only",
+        "disabled": false,
+        "ariaDisabled": null
+      },
+      {
+        "text": "Cancel",
+        "disabled": false,
+        "ariaDisabled": null
+      },
+      {
+        "text": "Generate",
+        "disabled": false,
+        "ariaDisabled": null
+      }
+    ]
+  },
+  "note": "This preflight opened the OneSite Generate & Schedule panel, validated the all-active Select All scope and report controls, and cancelled the panel without submitting Generate, downloading, filing, or modifying a report."
+}

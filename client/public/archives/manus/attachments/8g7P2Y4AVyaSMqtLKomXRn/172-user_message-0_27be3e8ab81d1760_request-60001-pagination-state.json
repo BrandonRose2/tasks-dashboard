@@ -1,0 +1,238 @@
+
+> inspect:live-edge-my-reports-pagination
+> tsx src/inspectLiveEdgeMyReportsPagination.ts
+
+{
+  "selects": [
+    {
+      "id": null,
+      "label": null,
+      "placeholder": "Select Products",
+      "text": "Select ProductsCancelDoneSelect AllOneSite"
+    },
+    {
+      "id": null,
+      "label": null,
+      "placeholder": "Select Report Areas",
+      "text": "Select Report AreasCancelDoneSelect AllAccounts ReceivableManagementMilitaryTasksAffordableHUDManagementPublic Housing (50058)Rural DevelopmentTax CreditTax Credit Program Compliance"
+    },
+    {
+      "id": null,
+      "label": null,
+      "placeholder": "Select Properties",
+      "text": "Select PropertiesCancelDoneSelect All135th Street ApartmentsAnaheim GardensArbor CrestBayou PointeBoca Ciega TownhomesBreckenridge VillageCoral VillageCrossroads of Lees SummitCumberland ApartmentsFairfax Sr Apartments"
+    }
+  ],
+  "controls": [
+    {
+      "tag": "DIV",
+      "text": "Help3 Product UpdatesView AllRecent Release August 25View the release notesUpcoming Release September 10View the release notesUpcoming Release September 11View the release notesOnline Help and GuidesView AllUnified Reporting OverviewReports PageReport Groups PageVideosView AllProduct Support Knowledge BaseView AllView More Help Center Content",
+      "ariaLabel": "menu item",
+      "disabled": false
+    },
+    {
+      "tag": "A",
+      "text": "Upcoming Release September 10View the release notes",
+      "ariaLabel": null,
+      "disabled": false
+    },
+    {
+      "tag": "A",
+      "text": "Reports Page",
+      "ariaLabel": null,
+      "disabled": false
+    },
+    {
+      "tag": "A",
+      "text": "Report Groups Page",
+      "ariaLabel": null,
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "text": "September 2026",
+      "ariaLabel": null,
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Previous Month",
+      "ariaLabel": null,
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Next Month",
+      "ariaLabel": null,
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "text": "30",
+      "ariaLabel": null,
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "text": "10",
+      "ariaLabel": null,
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "text": "20",
+      "ariaLabel": null,
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "text": "30",
+      "ariaLabel": null,
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "text": "2019",
+      "ariaLabel": null,
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "text": "2020",
+      "ariaLabel": null,
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "text": "2021",
+      "ariaLabel": null,
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "text": "2022",
+      "ariaLabel": null,
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "text": "2023",
+      "ariaLabel": null,
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "text": "2024",
+      "ariaLabel": null,
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "text": "2025",
+      "ariaLabel": null,
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "text": "2026",
+      "ariaLabel": null,
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "text": "2027",
+      "ariaLabel": null,
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "text": "2028",
+      "ariaLabel": null,
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "text": "2029",
+      "ariaLabel": null,
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "text": "2030",
+      "ariaLabel": null,
+      "disabled": false
+    },
+    {
+      "tag": "A",
+      "text": "08/18/2026 10:02 AM",
+      "ariaLabel": null,
+      "disabled": false
+    },
+    {
+      "tag": "A",
+      "text": "08/18/2026 10:02 AM",
+      "ariaLabel": null,
+      "disabled": false
+    },
+    {
+      "tag": "A",
+      "text": "08/18/2026 10:02 AM",
+      "ariaLabel": null,
+      "disabled": false
+    },
+    {
+      "tag": "A",
+      "text": "08/18/2026 10:02 AM",
+      "ariaLabel": null,
+      "disabled": false
+    },
+    {
+      "tag": "A",
+      "text": "08/18/2026 10:02 AM",
+      "ariaLabel": null,
+      "disabled": false
+    },
+    {
+      "tag": "A",
+      "text": "08/18/2026 10:02 AM",
+      "ariaLabel": null,
+      "disabled": false
+    },
+    {
+      "tag": "A",
+      "text": "08/18/2026 10:02 AM",
+      "ariaLabel": null,
+      "disabled": false
+    },
+    {
+      "tag": "A",
+      "text": "08/18/2026 10:02 AM",
+      "ariaLabel": null,
+      "disabled": false
+    },
+    {
+      "tag": "A",
+      "text": "08/18/2026 10:02 AM",
+      "ariaLabel": null,
+      "disabled": false
+    },
+    {
+      "tag": "A",
+      "text": "08/18/2026 10:02 AM",
+      "ariaLabel": null,
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Created with Sketch.",
+      "ariaLabel": "Previous Entries",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Created with Sketch.",
+      "ariaLabel": "Next Entries",
+      "disabled": false
+    }
+  ]
+}

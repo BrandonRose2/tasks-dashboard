@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-09-04T15:53:45.094454Z",
+  "task": {
+    "id": "5HDEYuJ2Ovd8o9rR8n1NRm",
+    "title": "What Is a Motion Alert from AirBolt?",
+    "status": "stopped",
+    "type": "agent_subtask",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 5,
+    "created_at": "1788222264",
+    "updated_at": "1788222303",
+    "task_url": "https://manus.im/app/5HDEYuJ2Ovd8o9rR8n1NRm",
+    "message_count": 0
+  },
+  "event_count": 5,
+  "events": [
+    {
+      "id": "olct1JOGrnpPve4ZmAaDNH",
+      "timestamp": "1788222264309",
+      "type": "user_message",
+      "user_message": {
+        "content": "what would a motion alert be from airbolt?",
+        "message_type": "text"
+      }
+    },
+    {
+      "id": "QIRUygTbU7gyNCVdSCplyg-1",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1788222265653",
+      "type": "status_update"
+    },
+    {
+      "id": "4wSxbEJK1QEZoxfFDmHNaC",
+      "timestamp": "1788222291591",
+      "type": "user_message",
+      "user_message": {
+        "content": "what does an airbolt look like ?",
+        "message_type": "text"
+      }
+    },
+    {
+      "assistant_message": {
+        "attachments": [
+          {
+            "content_type": "image/png",
+            "filename": "2QN0tUkBCg1p.png",
+            "type": "image",
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/5HDEYuJ2Ovd8o9rR8n1NRm/sandbox/12c02iMIaaVFVonVxTsjbf_1788222302902_na1fn_L2hvbWUvdWJ1bnR1L3VwbG9hZC9zZWFyY2hfaW1hZ2VzLzJRTjB0VWtCQ2cxcA.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvNUhERVl1SjJPdmQ4bzlyUjhuMU5SbS9zYW5kYm94LzEyYzAyaU1JYWFWRlZvblZ4VHNqYmZfMTc4ODIyMjMwMjkwMl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNWd2JHOWhaQzl6WldGeVkyaGZhVzFoWjJWekx6SlJUakIwVld0Q1EyY3hjQS5wbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDXaSMg7D9jJl6vpMjpWRLuCSs0cilRmXprMg7QC2GNzgIhANxKwqWBa2WE0kYb~l8HKXhgEnbkkmjJWa3cGJFL7eIX"
+          },
+          {
+            "content_type": "image/png",
+            "filename": "rUvFo0SQ3fyl.png",
+            "type": "image",
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/5HDEYuJ2Ovd8o9rR8n1NRm/sandbox/12c02iMIaaVFVonVxTsjbf_1788222302902_na1fn_L2hvbWUvdWJ1bnR1L3VwbG9hZC9zZWFyY2hfaW1hZ2VzL3JVdkZvMFNRM2Z5bA.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvNUhERVl1SjJPdmQ4bzlyUjhuMU5SbS9zYW5kYm94LzEyYzAyaU1JYWFWRlZvblZ4VHNqYmZfMTc4ODIyMjMwMjkwMl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNWd2JHOWhaQzl6WldGeVkyaGZhVzFoWjJWekwzSlZka1p2TUZOUk0yWjViQS5wbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQC-0dhqx3dZeL7gG3a6tUmbO2XOGJqtntuBciHHSOOt3gIgefqXA-V4XNIeeFry7FQtGnM40Yxk90K1ih1dNCTkd94_"
+          }
+        ],
+        "content": "An **AirBolt GPS tracker** is a small, dark gray or black, rounded triangular device—roughly palm-sized. It has the **AirBolt logo on the front**, a button/location control, a small buzzer, and a USB-C charging port on the side. It is commonly attached to luggage, vehicles, bicycles, or a pet collar. [Official product images](https://theairbolt.com/products/airbolt-gps-and-pet-collar-attachment-bundle)"
+      },
+      "id": "cfoqoBtoTVu59jYhSsWNk3",
+      "timestamp": "1788222303211",
+      "type": "assistant_message"
+    },
+    {
+      "id": "dHFnC7BCttZBjMnCrkntwc",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1788222303346",
+      "type": "status_update"
+    }
+  ],
+  "attachments": [
+    {
+      "event_index": 3,
+      "type": "image",
+      "filename": "2QN0tUkBCg1p.png",
+      "content_type": "image/png",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/5HDEYuJ2Ovd8o9rR8n1NRm/sandbox/12c02iMIaaVFVonVxTsjbf_1788222302902_na1fn_L2hvbWUvdWJ1bnR1L3VwbG9hZC9zZWFyY2hfaW1hZ2VzLzJRTjB0VWtCQ2cxcA.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvNUhERVl1SjJPdmQ4bzlyUjhuMU5SbS9zYW5kYm94LzEyYzAyaU1JYWFWRlZvblZ4VHNqYmZfMTc4ODIyMjMwMjkwMl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNWd2JHOWhaQzl6WldGeVkyaGZhVzFoWjJWekx6SlJUakIwVld0Q1EyY3hjQS5wbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDXaSMg7D9jJl6vpMjpWRLuCSs0cilRmXprMg7QC2GNzgIhANxKwqWBa2WE0kYb~l8HKXhgEnbkkmjJWa3cGJFL7eIX",
+      "status": "archived",
+      "bytes": 403446,
+      "archive_path": "attachments/5HDEYuJ2Ovd8o9rR8n1NRm/3-assistant_message-0_4a99857545e0a8be_2QN0tUkBCg1p.png"
+    },
+    {
+      "event_index": 3,
+      "type": "image",
+      "filename": "rUvFo0SQ3fyl.png",
+      "content_type": "image/png",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/5HDEYuJ2Ovd8o9rR8n1NRm/sandbox/12c02iMIaaVFVonVxTsjbf_1788222302902_na1fn_L2hvbWUvdWJ1bnR1L3VwbG9hZC9zZWFyY2hfaW1hZ2VzL3JVdkZvMFNRM2Z5bA.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvNUhERVl1SjJPdmQ4bzlyUjhuMU5SbS9zYW5kYm94LzEyYzAyaU1JYWFWRlZvblZ4VHNqYmZfMTc4ODIyMjMwMjkwMl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNWd2JHOWhaQzl6WldGeVkyaGZhVzFoWjJWekwzSlZka1p2TUZOUk0yWjViQS5wbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQC-0dhqx3dZeL7gG3a6tUmbO2XOGJqtntuBciHHSOOt3gIgefqXA-V4XNIeeFry7FQtGnM40Yxk90K1ih1dNCTkd94_",
+      "status": "archived",
+      "bytes": 404972,
+      "archive_path": "attachments/5HDEYuJ2Ovd8o9rR8n1NRm/3-assistant_message-1_ceb22093f3645dd3_rUvFo0SQ3fyl.png"
+    }
+  ]
+}

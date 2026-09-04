@@ -2,9 +2,9 @@
   "schema_version": 1,
   "source": "Manus API v2 task.listMessages",
   "archive_status": "complete",
-  "total_indexed_tasks": 888,
-  "complete_task_count": 918,
-  "partial_artifact_task_count": 7,
+  "total_indexed_tasks": 898,
+  "complete_task_count": 927,
+  "partial_artifact_task_count": 8,
   "failed_task_count": 0,
   "tasks": {
     "4s0Qu11aj1LJLZ0wbcfhjp": {
@@ -218,10 +218,10 @@
       "status": "complete"
     },
     "4N5vR2lTk29lLfLTJrr0IV": {
-      "task_updated_at": "1786749983",
-      "archived_at": "2026-08-28T21:48:27.990663Z",
+      "task_updated_at": "1788104502",
+      "archived_at": "2026-09-04T15:55:03.570653Z",
       "messages_path": "tasks/4N5vR2lTk29lLfLTJrr0IV.json",
-      "event_count": 103,
+      "event_count": 109,
       "attachment_count": 6,
       "archived_attachment_count": 6,
       "referenced_only_attachment_count": 0,
@@ -1448,12 +1448,12 @@
       "status": "complete"
     },
     "ddSLZDcAvjOsPTDjn5zXz3": {
-      "task_updated_at": "1787951404",
-      "archived_at": "2026-08-28T21:48:35.146121Z",
+      "task_updated_at": "1788219880",
+      "archived_at": "2026-09-04T15:55:15.769247Z",
       "messages_path": "tasks/ddSLZDcAvjOsPTDjn5zXz3.json",
-      "event_count": 561,
-      "attachment_count": 14,
-      "archived_attachment_count": 14,
+      "event_count": 675,
+      "attachment_count": 20,
+      "archived_attachment_count": 19,
       "referenced_only_attachment_count": 0,
       "status": "complete"
     },
@@ -1588,12 +1588,12 @@
       "status": "complete"
     },
     "gkPG1zk4auEHTrVhxz68oR": {
-      "task_updated_at": "1787778013",
-      "archived_at": "2026-08-28T21:49:28.965048Z",
+      "task_updated_at": "1788324733",
+      "archived_at": "2026-09-04T15:55:30.197368Z",
       "messages_path": "tasks/gkPG1zk4auEHTrVhxz68oR.json",
-      "event_count": 874,
-      "attachment_count": 30,
-      "archived_attachment_count": 30,
+      "event_count": 926,
+      "attachment_count": 31,
+      "archived_attachment_count": 31,
       "referenced_only_attachment_count": 0,
       "status": "complete"
     },
@@ -2828,10 +2828,10 @@
       "status": "complete"
     },
     "2cIsVe2TXiDViDXTnB0yCk": {
-      "task_updated_at": "1781887461",
-      "archived_at": "2026-08-11T15:16:38.196410Z",
+      "task_updated_at": "1788251335",
+      "archived_at": "2026-09-04T15:55:46.520512Z",
       "messages_path": "tasks/2cIsVe2TXiDViDXTnB0yCk.json",
-      "event_count": 1160,
+      "event_count": 1170,
       "attachment_count": 41,
       "archived_attachment_count": 41,
       "referenced_only_attachment_count": 0,
@@ -2978,12 +2978,12 @@
       "status": "complete"
     },
     "RsJWRZJEhfgfpDLXhmVZFp": {
-      "task_updated_at": "1787953632",
-      "archived_at": "2026-08-28T21:51:48.187552Z",
+      "task_updated_at": "1788462408",
+      "archived_at": "2026-09-04T15:56:23.297009Z",
       "messages_path": "tasks/RsJWRZJEhfgfpDLXhmVZFp.json",
-      "event_count": 1278,
-      "attachment_count": 125,
-      "archived_attachment_count": 125,
+      "event_count": 1391,
+      "attachment_count": 138,
+      "archived_attachment_count": 138,
       "referenced_only_attachment_count": 0,
       "status": "complete"
     },
@@ -7788,12 +7788,12 @@
       "status": "complete"
     },
     "ZyMNjMqrfWqxl0S7FX0tLV": {
-      "task_updated_at": "1786817827",
-      "archived_at": "2026-08-28T21:53:06.552766Z",
+      "task_updated_at": "1788204925",
+      "archived_at": "2026-09-04T15:56:39.038301Z",
       "messages_path": "tasks/ZyMNjMqrfWqxl0S7FX0tLV.json",
-      "event_count": 1324,
+      "event_count": 1339,
       "attachment_count": 21,
-      "archived_attachment_count": 20,
+      "archived_attachment_count": 21,
       "referenced_only_attachment_count": 0,
       "status": "complete"
     },
@@ -7808,10 +7808,10 @@
       "status": "complete"
     },
     "NbhgKtK59qVK0L9xsaC0pF": {
-      "task_updated_at": "1787875506",
-      "archived_at": "2026-08-28T21:48:08.857643Z",
+      "task_updated_at": "1788218647",
+      "archived_at": "2026-09-04T15:55:00.711449Z",
       "messages_path": "tasks/NbhgKtK59qVK0L9xsaC0pF.json",
-      "event_count": 696,
+      "event_count": 703,
       "attachment_count": 27,
       "archived_attachment_count": 27,
       "referenced_only_attachment_count": 0,
@@ -8538,10 +8538,10 @@
       "status": "complete"
     },
     "foK9oFR4R5v1PqAfYz2HEQ": {
-      "task_updated_at": "1786830652",
-      "archived_at": "2026-08-21T12:52:33.903186Z",
+      "task_updated_at": "1788104551",
+      "archived_at": "2026-09-04T15:54:46.832619Z",
       "messages_path": "tasks/foK9oFR4R5v1PqAfYz2HEQ.json",
-      "event_count": 235,
+      "event_count": 241,
       "attachment_count": 17,
       "archived_attachment_count": 17,
       "referenced_only_attachment_count": 0,
@@ -9238,29 +9238,129 @@
       "status": "complete"
     },
     "3tjXd2AbZdS2wKlOh0ZwKx": {
-      "task_updated_at": "1787869533",
-      "archived_at": "2026-08-28T21:47:31.260702Z",
+      "task_updated_at": "1788104395",
+      "archived_at": "2026-09-04T15:54:00.676527Z",
       "messages_path": "tasks/3tjXd2AbZdS2wKlOh0ZwKx.json",
-      "event_count": 78,
-      "attachment_count": 10,
-      "archived_attachment_count": 9,
+      "event_count": 94,
+      "attachment_count": 13,
+      "archived_attachment_count": 12,
       "referenced_only_attachment_count": 1,
       "status": "partial_artifacts"
     },
     "LyAQOTkn3HQF3vk3FynFw2": {
-      "task_updated_at": "1787953572",
-      "archived_at": "2026-08-28T21:47:54.549383Z",
+      "task_updated_at": "1788488056",
+      "archived_at": "2026-09-04T15:54:37.812550Z",
       "messages_path": "tasks/LyAQOTkn3HQF3vk3FynFw2.json",
-      "event_count": 947,
-      "attachment_count": 83,
-      "archived_attachment_count": 80,
+      "event_count": 1611,
+      "attachment_count": 102,
+      "archived_attachment_count": 99,
+      "referenced_only_attachment_count": 0,
+      "status": "complete"
+    },
+    "8wRdS838QJtYStKQ07HyFz": {
+      "task_updated_at": "1788488907",
+      "archived_at": "2026-09-04T15:53:38.289068Z",
+      "messages_path": "tasks/8wRdS838QJtYStKQ07HyFz.json",
+      "event_count": 102,
+      "attachment_count": 3,
+      "archived_attachment_count": 3,
+      "referenced_only_attachment_count": 0,
+      "status": "complete"
+    },
+    "qjbvSj9iiFOLfyL9b2gnWM": {
+      "task_updated_at": "1788467715",
+      "archived_at": "2026-09-04T15:53:39.043417Z",
+      "messages_path": "tasks/qjbvSj9iiFOLfyL9b2gnWM.json",
+      "event_count": 5,
+      "attachment_count": 3,
+      "archived_attachment_count": 2,
+      "referenced_only_attachment_count": 1,
+      "status": "partial_artifacts"
+    },
+    "ju7NUQTzM2dDyfCFdqEo4S": {
+      "task_updated_at": "1788283101",
+      "archived_at": "2026-09-04T15:53:39.295836Z",
+      "messages_path": "tasks/ju7NUQTzM2dDyfCFdqEo4S.json",
+      "event_count": 4,
+      "attachment_count": 0,
+      "archived_attachment_count": 0,
+      "referenced_only_attachment_count": 0,
+      "status": "complete"
+    },
+    "0zvIuvQlKynNYCigE31ygv": {
+      "task_updated_at": "1788287325",
+      "archived_at": "2026-09-04T15:53:40.067001Z",
+      "messages_path": "tasks/0zvIuvQlKynNYCigE31ygv.json",
+      "event_count": 15,
+      "attachment_count": 3,
+      "archived_attachment_count": 3,
+      "referenced_only_attachment_count": 0,
+      "status": "complete"
+    },
+    "DYGQy3cMfzk9oKqrIgcGpr": {
+      "task_updated_at": "1788288686",
+      "archived_at": "2026-09-04T15:53:44.355776Z",
+      "messages_path": "tasks/DYGQy3cMfzk9oKqrIgcGpr.json",
+      "event_count": 45,
+      "attachment_count": 21,
+      "archived_attachment_count": 21,
+      "referenced_only_attachment_count": 0,
+      "status": "complete"
+    },
+    "5HDEYuJ2Ovd8o9rR8n1NRm": {
+      "task_updated_at": "1788222303",
+      "archived_at": "2026-09-04T15:53:45.094454Z",
+      "messages_path": "tasks/5HDEYuJ2Ovd8o9rR8n1NRm.json",
+      "event_count": 5,
+      "attachment_count": 2,
+      "archived_attachment_count": 2,
+      "referenced_only_attachment_count": 0,
+      "status": "complete"
+    },
+    "NCXMkTJNyyiCsiQ9wmNqiY": {
+      "task_updated_at": "1788217390",
+      "archived_at": "2026-09-04T15:53:45.690397Z",
+      "messages_path": "tasks/NCXMkTJNyyiCsiQ9wmNqiY.json",
+      "event_count": 7,
+      "attachment_count": 2,
+      "archived_attachment_count": 2,
+      "referenced_only_attachment_count": 0,
+      "status": "complete"
+    },
+    "8g7P2Y4AVyaSMqtLKomXRn": {
+      "task_updated_at": "1788299141",
+      "archived_at": "2026-09-04T15:53:55.365365Z",
+      "messages_path": "tasks/8g7P2Y4AVyaSMqtLKomXRn.json",
+      "event_count": 326,
+      "attachment_count": 43,
+      "archived_attachment_count": 41,
+      "referenced_only_attachment_count": 0,
+      "status": "complete"
+    },
+    "QIF5skVXLbQSesLloX253C": {
+      "task_updated_at": "1788215000",
+      "archived_at": "2026-09-04T15:53:56.372134Z",
+      "messages_path": "tasks/QIF5skVXLbQSesLloX253C.json",
+      "event_count": 9,
+      "attachment_count": 4,
+      "archived_attachment_count": 4,
+      "referenced_only_attachment_count": 0,
+      "status": "complete"
+    },
+    "Lttg5KjmWxcCg14odRRfMB": {
+      "task_updated_at": "1788140166",
+      "archived_at": "2026-09-04T15:53:57.587729Z",
+      "messages_path": "tasks/Lttg5KjmWxcCg14odRRfMB.json",
+      "event_count": 4,
+      "attachment_count": 2,
+      "archived_attachment_count": 2,
       "referenced_only_attachment_count": 0,
       "status": "complete"
     }
   },
   "failures": [],
-  "last_attempt_at": "2026-08-28T21:47:27.386706Z",
-  "task_index_last_synced": "2026-08-28T21:47:27.277789+00:00",
-  "last_synced": "2026-08-28T21:53:06.690825Z",
+  "last_attempt_at": "2026-09-04T15:53:36.075325Z",
+  "task_index_last_synced": "2026-09-04T15:53:35.929265+00:00",
+  "last_synced": "2026-09-04T15:56:39.177811Z",
   "last_mode": "updated"
 }

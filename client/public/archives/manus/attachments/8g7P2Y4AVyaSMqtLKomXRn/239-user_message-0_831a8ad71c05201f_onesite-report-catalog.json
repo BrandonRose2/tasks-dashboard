@@ -1,0 +1,147 @@
+
+> inspect:live-edge-report-catalog
+> tsx src/inspectLiveEdgeReportCatalog.ts
+
+{
+  "rows": [
+    {
+      "name": "Name",
+      "reportArea": "Report Area",
+      "level": "Property",
+      "product": "FormatFormat"
+    },
+    {
+      "name": "NameDelinquent and Prepaid (Excel)",
+      "reportArea": "Report AreaAccounts Receivable / Management",
+      "level": "PropertyBoca Ciega Townhomes",
+      "product": "FormatExcel"
+    },
+    {
+      "name": "NameDelinquent and Prepaid (Excel)",
+      "reportArea": "Report AreaAccounts Receivable / Management",
+      "level": "PropertyBoca Ciega Townhomes",
+      "product": "FormatExcel"
+    },
+    {
+      "name": "NameDelinquent and Prepaid (Excel)",
+      "reportArea": "Report AreaAccounts Receivable / Management",
+      "level": "Property135th Street Apartments",
+      "product": "FormatExcel"
+    },
+    {
+      "name": "NameDelinquent and Prepaid (Excel)",
+      "reportArea": "Report AreaAccounts Receivable / Management",
+      "level": "PropertyAnaheim Gardens",
+      "product": "FormatExcel"
+    },
+    {
+      "name": "NameDelinquent and Prepaid (Excel)",
+      "reportArea": "Report AreaAccounts Receivable / Management",
+      "level": "PropertyArbor Crest",
+      "product": "FormatExcel"
+    },
+    {
+      "name": "NameDelinquent and Prepaid (Excel)",
+      "reportArea": "Report AreaAccounts Receivable / Management",
+      "level": "PropertyBayou Pointe",
+      "product": "FormatExcel"
+    },
+    {
+      "name": "NameDelinquent and Prepaid (Excel)",
+      "reportArea": "Report AreaAccounts Receivable / Management",
+      "level": "PropertyBoca Ciega Townhomes",
+      "product": "FormatExcel"
+    },
+    {
+      "name": "NameDelinquent and Prepaid (Excel)",
+      "reportArea": "Report AreaAccounts Receivable / Management",
+      "level": "PropertySt. Charles",
+      "product": "FormatExcel"
+    },
+    {
+      "name": "NameDelinquent and Prepaid (Excel)",
+      "reportArea": "Report AreaAccounts Receivable / Management",
+      "level": "PropertyThomasville Church Homes",
+      "product": "FormatExcel"
+    },
+    {
+      "name": "NameDelinquent and Prepaid (Excel)",
+      "reportArea": "Report AreaAccounts Receivable / Management",
+      "level": "PropertyUrban Rehab",
+      "product": "FormatExcel"
+    }
+  ],
+  "pagination": [
+    {
+      "tag": "div",
+      "text": "App Switcher lease Management Demand Marketing (fka G5)property Management Facilities Created with Sketch. OneSite RealConnect 2.0 Unified Amenitiesresident Services Created with Sketch. LOFT Living Loyalty Rewards Created with Sketch. Utility ManagementResources DataHub Integration Marketplace Trust Dashboard Vendor Marketplace Reports SettingsReturn to Unified Platform",
+      "ariaLabel": "menu item",
+      "disabled": false,
+      "value": null
+    },
+    {
+      "tag": "div",
+      "text": "Help3 Product UpdatesView AllRecent Release August 25View the release notesUpcoming Release September 10View the release notesUpcoming Release September 11View the release notesOnline Help and GuidesView AllUnified Reporting OverviewReports PageReport Groups PageVideosView AllProduct Support Knowledge BaseView AllView More Help Center Content",
+      "ariaLabel": "menu item",
+      "disabled": false,
+      "value": null
+    },
+    {
+      "tag": "button",
+      "text": "My Reports",
+      "ariaLabel": null,
+      "disabled": false,
+      "value": null
+    },
+    {
+      "tag": "button",
+      "text": "Reports",
+      "ariaLabel": null,
+      "disabled": false,
+      "value": null
+    },
+    {
+      "tag": "button",
+      "text": "Report Groups",
+      "ariaLabel": null,
+      "disabled": false,
+      "value": null
+    },
+    {
+      "tag": "button",
+      "text": "Select Report Areas",
+      "ariaLabel": null,
+      "disabled": false,
+      "value": null
+    },
+    {
+      "tag": "button",
+      "text": "Previous Month",
+      "ariaLabel": null,
+      "disabled": false,
+      "value": null
+    },
+    {
+      "tag": "button",
+      "text": "Next Month",
+      "ariaLabel": null,
+      "disabled": false,
+      "value": null
+    },
+    {
+      "tag": "button",
+      "text": "Created with Sketch.",
+      "ariaLabel": "Previous Entries",
+      "disabled": true,
+      "value": null
+    },
+    {
+      "tag": "button",
+      "text": "Created with Sketch.",
+      "ariaLabel": "Next Entries",
+      "disabled": false,
+      "value": null
+    }
+  ],
+  "text": "RealPage Unified Platform Apartment Rental Assistance II, Inc Ask Lumina... 480 3 Brandon Rose BR Home People Reports Roles & Rights Bulletin Board Settings My Reports Unified PlatformMy Reports Reports Refresh My Reports Reports SDE Extracts Report Groups Select Products Select Report Areas Select Properties Favorites Name Report Area Property Format Status Completed Date Delinquent and Prepaid (Excel) Accounts Receivable / Management Boca Ciega Townhomes Excel Completed 08/27/2026 01:04 PM Delinquent and Prepaid (Excel) Accounts Receivable / Management Boca Ciega Townhomes Excel Completed 08/27/2026 10:55 AM Delinquent and Prepaid (Excel) Accounts Receivable / Management 135th Street Apartments Excel Completed 08/20/2026 04:53 PM Delinquent and Prepaid (Excel) Accounts Receivable / Management Anaheim Gardens Excel Completed 08/20/2026 04:53 PM Delinquent and Prepaid (Excel) Accounts Receivable / Management Arbor Crest Excel Completed 08/20/2026 04:53 PM Delinquent and Prepaid (Excel) Accounts Receivable / Management Bayou Pointe Excel Completed 08/20/2026 04:53 PM Delinquent and Prepaid (Excel) Accounts Receivable / Management Boca Ciega Townhomes Excel Completed 08/20/2026 04:53 PM Delinquent and Prepaid (Excel) Accounts Receivable / Management St. Charles Excel Completed 08/20/2026 04:53 PM Delinquent and Prepaid (Excel) Accounts Receivable / Management Thomasville Church Homes Excel Completed 08/20/2026 04:53 PM Delinquent and Prepaid (Excel) Accounts Receivable / Management Urban Rehab Excel Completed 08/20/2026 04:53 PM Show 10 20 30 40 50 entries 1 - 10 of 1288 Pageof 129"
+}

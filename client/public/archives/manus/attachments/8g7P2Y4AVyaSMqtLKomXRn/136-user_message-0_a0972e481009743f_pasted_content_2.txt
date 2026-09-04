@@ -1,0 +1,647 @@
+Last login: Tue Sep  1 10:23:14 on ttys004
+brandonrose@Brandon ~ % cd ~/actions-runner/_work/realpage-portal-runner/realpage-portal-runner
+npm run check:live-edge-session
+
+
+> check:live-edge-session
+> tsx src/checkLiveEdgeSession.ts
+
+Live Microsoft Edge Reports Hub is ready: Reports | RealPage (33 inputs detected).
+brandonrose@Brandon realpage-portal-runner % cd ~/actions-runner/_work/realpage-portal-runner/realpage-portal-runner
+npm run inspect:live-edge-current-report-statuses -- "All Units (Excel)" "08/28/2026"
+
+
+> inspect:live-edge-current-report-statuses
+> tsx src/inspectLiveEdgeCurrentReportStatuses.ts All Units (Excel) 08/28/2026
+
+{
+  "reportName": "All Units (Excel)",
+  "completedDatePrefix": "08/28/2026",
+  "readOnly": true,
+  "statusCounts": {
+    "Completed": 31,
+    "In Progress": 2
+  },
+  "rows": [
+    {
+      "page": 1,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyCoral Village",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 1,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyCrossroads of Lees Summit",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 1,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyCumberland Apartments",
+        "FormatExcel",
+        "StatusIn Progress",
+        "Completed Date",
+        "View Parameters"
+      ],
+      "actions": [
+        "View Parameters"
+      ]
+    },
+    {
+      "page": 1,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyFairfax Sr Apartments",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 1,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyGrace Townhomes",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 1,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyGranite Ridge Apartments",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 1,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyGrove Park Terrace",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 1,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyHistorical - Riverchase Homes",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 2,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyHoliday Apartments",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 2,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyHowell Place",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 2,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyJefferson Arms Apts",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 2,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyLexington Arms",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 2,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyMacedonia Gardens",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 2,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyMarrero 3 LP",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 2,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyMidtown Manor",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 2,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyNew Wilmington Arms",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 2,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyNorth Pointe",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 2,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyPacific Pointe Apartments",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 3,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyPelican Bay",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 3,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyPirates Bend",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 3,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertySilver Springs Terrace",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 3,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertySt. Charles",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 3,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyThomasville Church Homes",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 3,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyUrban Rehab",
+        "FormatExcel",
+        "StatusIn Progress",
+        "Completed Date",
+        "View Parameters"
+      ],
+      "actions": [
+        "View Parameters"
+      ]
+    },
+    {
+      "page": 3,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyWalnut Hill",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 3,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyWindsor Village",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 3,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyYorkshire Apartments",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 3,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "Property135th Street Apartments",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 4,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyAnaheim Gardens",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 4,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyArbor Crest",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 4,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyBayou Pointe",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 4,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyBoca Ciega Townhomes",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    },
+    {
+      "page": 4,
+      "cells": [
+        "NameAll Units (Excel)",
+        "Report AreaProperty Information / Management",
+        "PropertyBreckenridge Village",
+        "FormatExcel",
+        "StatusCompleted",
+        "Completed Date 08/28/2026 11:04 AM",
+        "Download View Parameters History File Documents"
+      ],
+      "actions": [
+        "08/28/2026 11:04 AM",
+        "Download",
+        "View Parameters",
+        "History",
+        "File Documents"
+      ]
+    }
+  ]
+}
+brandonrose@Brandon realpage-portal-runner % 

@@ -1,0 +1,40 @@
+
+> generate:live-edge-delinquent-prepaid-all
+> tsx src/generateLiveEdgeDelinquentPrepaidAll.ts
+
+{
+  "submitted": true,
+  "reportName": "Delinquent and Prepaid (Excel)",
+  "requestedAsOf": "Current AR Period as of the run date",
+  "requestedParameters": {
+    "fiscalPeriod": "Current AR Period",
+    "subproperty": "- all subproperties-",
+    "subjournal": "ALL",
+    "applicant": false,
+    "approvedApplicant": false,
+    "formerApplicant": false,
+    "pendingResident": false,
+    "currentResident": true,
+    "formerResident": false,
+    "reportType": "Details",
+    "includeDelinquentRentOnly": true,
+    "includeDelinquentEqualNTV": true,
+    "includeOutstandingDeposits": false,
+    "includeTransactionsPayableInArrears": false,
+    "displayPrepaidAsAllocated": true,
+    "hideAllPIIData": false,
+    "minimumDelinquentBalance": "0.00",
+    "maximumDelinquentBalance": "99,999,999.00",
+    "agingColumns": "Fiscal",
+    "filterType": "ALL",
+    "sortBy": "Unit",
+    "historicalComments": "Current only"
+  },
+  "completionDeliveryDisabled": true,
+  "accepted": {
+    "propertyScope": "35 options selected",
+    "selectedPropertyCount": 35,
+    "requestedFormat": "excel"
+  },
+  "note": "One approved report submission was accepted. This command does not download, file, email, notify, cloud-send, alter Request #60001, or perform Yardi work."
+}

@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-09-04T15:53:39.295836Z",
+  "task": {
+    "id": "ju7NUQTzM2dDyfCFdqEo4S",
+    "title": "Connecting to Edge Browser",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6",
+    "credits_used": 6,
+    "created_at": "1788283095",
+    "updated_at": "1788283101",
+    "task_url": "https://manus.im/app/ju7NUQTzM2dDyfCFdqEo4S",
+    "message_count": 0
+  },
+  "event_count": 4,
+  "events": [
+    {
+      "id": "bNpetp1jbKUFR6leO52XCw",
+      "timestamp": "1788283095108",
+      "type": "user_message",
+      "user_message": {
+        "content": "you are connected to my edge browser here",
+        "message_type": "text"
+      }
+    },
+    {
+      "id": "SxoMOE3MDSP4T8JaYQHU3q-1",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1788283096741",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Understood. I can use your connected browser session when your task requires it."
+      },
+      "id": "O3cYl3XO9Aq8Rx89nO0Xww",
+      "timestamp": "1788283100841",
+      "type": "assistant_message"
+    },
+    {
+      "id": "ja2eA4ZuhDdLDoLePaPK3u",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1788283101249",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
-  "archived_at": "2026-08-28T21:48:27.990663Z",
+  "archived_at": "2026-09-04T15:55:03.570653Z",
   "task": {
     "id": "4N5vR2lTk29lLfLTJrr0IV",
     "title": "Invoice Studio",
-    "status": "waiting",
+    "status": "stopped",
     "type": "standard",
     "agent_profile": "manus-1.6",
-    "credits_used": 467,
+    "credits_used": 536,
     "created_at": "1785365099",
-    "updated_at": "1786749983",
+    "updated_at": "1788104502",
     "task_url": "https://manus.im/app/4N5vR2lTk29lLfLTJrr0IV",
     "message_count": 0
   },
-  "event_count": 103,
+  "event_count": 109,
   "events": [
     {
       "id": "SspTxbn3nJbpofSwI1Xf7M",
@@ -25,7 +25,7 @@
             "content_type": "application/pdf",
             "filename": "magizineinvoice.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-VF9b28yuwhTG5PPen4kYY6_na1fn_bWFnaXppbmVpbnZvaWNl.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1WRjliMjh5dXdoVEc1UFBlbjRrWVk2X25hMWZuX2JXRm5hWHBwYm1WcGJuWnZhV05sLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIBe2Gs16RdSan2da8gKhiZ3nGhSWXXubzTicko9pwaceAiEA1SN07vB1UBf8oJa6hq9v65F9c74r-rLiDpJZW0adnZA_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-VF9b28yuwhTG5PPen4kYY6_na1fn_bWFnaXppbmVpbnZvaWNl.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1WRjliMjh5dXdoVEc1UFBlbjRrWVk2X25hMWZuX2JXRm5hWHBwYm1WcGJuWnZhV05sLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDHrwdHq3ZvKwX7Wv76dvjRo0gDCVF0d0beBIQTL-ysFAiBTjS8MNpGe6uO0M6b2FGoImMF~TwfES6BF~yCkr~6Y8w__"
           }
         ],
         "content": "i am in the works of forming my own magazine company.  I almost have the projections done and i am going to create mock invoice subscribtions for the data ... just to show how detail oriented that I am ... I want you to recreate an invoice just like the design , make it fillable or give me setting access where I can change the data. I want this to be able to product a pdf. jpeg, png, and word doc files.  I want to be able to insert logo designs and everything ",
@@ -147,7 +147,7 @@
             "content_type": "image/png",
             "filename": "pasted_file_aYAsnV_image.png",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-i8BKTTJwx2YkFffquNDJ9b_na1fn_cGFzdGVkX2ZpbGVfYVlBc25WX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1pOEJLVFRKd3gyWWtGZmZxdU5ESjliX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZZVmxCYzI1V1gybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIE5cl6sXUXUExqBu8pOvDisj5gexXMMPNG2Kg6j7Gbw7AiBrgxgU-U8XsiUIv1~eMxvHASWwgfy4~kTxYwnj6h5FGA__"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-i8BKTTJwx2YkFffquNDJ9b_na1fn_cGFzdGVkX2ZpbGVfYVlBc25WX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1pOEJLVFRKd3gyWWtGZmZxdU5ESjliX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZZVmxCYzI1V1gybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDCN6AD65M7GH9xx2Z8CTrJLIIvqcse2ZUeGLpTZjWmJQIhAPkgfYZo8HqHC6pPjFv-hAJ96bh--Hmg0ZWtUrFGQjm9"
           }
         ],
         "content": "i also wanted to be able to edit this information ",
@@ -214,7 +214,7 @@
             "content_type": "application/octet-stream",
             "filename": "magazine-invoice-studio.skill",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/4N5vR2lTk29lLfLTJrr0IV/sandbox/bPAdSV9CUA8M5ytS6obnj3_1785366007341_na1fn_L3RtcC9tYWdhemluZS1pbnZvaWNlLXN0dWRpbw.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvNE41dlIybFRrMjlsTGZMVEpycjBJVi9zYW5kYm94L2JQQWRTVjlDVUE4TTV5dFM2b2JuajNfMTc4NTM2NjAwNzM0MV9uYTFmbl9MM1J0Y0M5dFlXZGhlbWx1WlMxcGJuWnZhV05sTFhOMGRXUnBidy5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCVKojq~j~mDrr4A-REiYyj~dehraD3SpKmfZ9wJsULugIhAP~u~hyZ2H6nsUCm2G77REYyyG59dYxUquPp5tNywMjy"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/4N5vR2lTk29lLfLTJrr0IV/sandbox/bPAdSV9CUA8M5ytS6obnj3_1785366007341_na1fn_L3RtcC9tYWdhemluZS1pbnZvaWNlLXN0dWRpbw.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvNE41dlIybFRrMjlsTGZMVEpycjBJVi9zYW5kYm94L2JQQWRTVjlDVUE4TTV5dFM2b2JuajNfMTc4NTM2NjAwNzM0MV9uYTFmbl9MM1J0Y0M5dFlXZGhlbWx1WlMxcGJuWnZhV05sTFhOMGRXUnBidy5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCHAJqVrSNVbBRXe5lfKVOqfsXxQigN705~2XQeXzsIlgIhAMoh212E~NdQj1ACR7PRxSqXhlHQD6yTAXgPCdfQwpvK"
           }
         ],
         "content": "The reusable **Magazine Invoice Studio** skill is complete and validated. It captures the reference-led invoice recreation process, clearly mapped editable controls, logo handling, investor-facing watermark defaults, and PDF/PNG/JPEG/Word export guidance. Add the attached skill to your skills library to reuse the workflow on future magazine or subscription invoice projects."
@@ -341,7 +341,7 @@
             "content_type": "text/csv",
             "filename": "BulkInvoiceTest.csv",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ExDiqGExuxlBwapiLSokFO_na1fn_QnVsa0ludm9pY2VUZXN0.csv?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1FeERpcUdFeHV4bEJ3YXBpTFNva0ZPX25hMWZuX1FuVnNhMGx1ZG05cFkyVlVaWE4wLmNzdiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIEcA5uwItpBewiYLh3Uu4fX8zNwJrhuZ0pPRuajuegEXAiEA~Wl0dr7T~sUh~tplq3fLoYKmb0j2sTZcraUgqppgTEI_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ExDiqGExuxlBwapiLSokFO_na1fn_QnVsa0ludm9pY2VUZXN0.csv?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1FeERpcUdFeHV4bEJ3YXBpTFNva0ZPX25hMWZuX1FuVnNhMGx1ZG05cFkyVlVaWE4wLmNzdiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIFHrZPbo2JHh~axBqxezu47NpIabv980lhO5N1JE4xEWAiB3yKmdnMZaw-GU5udBYUv1mzywFofBxXJ21tjx060MAw__"
           }
         ],
         "content": "here is an example csv to go off of so you know how to build out properly, certain columns may be ignored",
@@ -509,7 +509,7 @@
             "content_type": "application/octet-stream",
             "filename": "magazine-invoice-studio.skill",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/4N5vR2lTk29lLfLTJrr0IV/sandbox/T38RfUcAMnT5b4fHrh1Grw_1786735192676_na1fn_L3RtcC9tYWdhemluZS1pbnZvaWNlLXN0dWRpbw.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvNE41dlIybFRrMjlsTGZMVEpycjBJVi9zYW5kYm94L1QzOFJmVWNBTW5UNWI0ZkhyaDFHcndfMTc4NjczNTE5MjY3Nl9uYTFmbl9MM1J0Y0M5dFlXZGhlbWx1WlMxcGJuWnZhV05sTFhOMGRXUnBidy5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIBMN9V1udKHaGiiGahu65amy~LaKbcH2ucpBwHEqwKPFAiA4Ldq1slgyN8txwZ54xBoRDtsK6lOSLixKG9yCuIB2Jg__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/4N5vR2lTk29lLfLTJrr0IV/sandbox/T38RfUcAMnT5b4fHrh1Grw_1786735192676_na1fn_L3RtcC9tYWdhemluZS1pbnZvaWNlLXN0dWRpbw.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvNE41dlIybFRrMjlsTGZMVEpycjBJVi9zYW5kYm94L1QzOFJmVWNBTW5UNWI0ZkhyaDFHcndfMTc4NjczNTE5MjY3Nl9uYTFmbl9MM1J0Y0M5dFlXZGhlbWx1WlMxcGJuWnZhV05sTFhOMGRXUnBidy5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDJ6kh5lLddNL9EJuE1oybEz7ejI9QFzeD471ejWiAfgQIgFON2K6oPVBxUNJNFjsF7a-8MUhJiv6MTya-s7b1FWlQ_"
           }
         ],
         "content": "The restored reusable **Magazine Invoice Studio** skill has been revalidated and is attached here as an installable package."
@@ -882,7 +882,7 @@
             "content_type": "image/webp",
             "filename": "pasted_file_dMfcF7_80843869646__F691379C-9406-4B87-A4C5-0AC6FB791A89.webp",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-4hWa5ZWim0Pdxaw8rPOFvb_na1fn_cGFzdGVkX2ZpbGVfZE1mY0Y3XzgwODQzODY5NjQ2X19GNjkxMzc5Qy05NDA2LTRCODctQTRDNS0wQUM2RkI3OTFBODk.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC00aFdhNVpXaW0wUGR4YXc4clBPRnZiX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZaRTFtWTBZM1h6Z3dPRFF6T0RZNU5qUTJYMTlHTmpreE16YzVReTA1TkRBMkxUUkNPRGN0UVRSRE5TMHdRVU0yUmtJM09URkJPRGsud2VicCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDPUUEdHeJZBIYmqKl7a-BLGFwmIzFRBdP1uLMLQlE39AIhAKQQfNkyfOGo4CPlss9guDF7CcxM01z-ZVmTvl70disD"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-4hWa5ZWim0Pdxaw8rPOFvb_na1fn_cGFzdGVkX2ZpbGVfZE1mY0Y3XzgwODQzODY5NjQ2X19GNjkxMzc5Qy05NDA2LTRCODctQTRDNS0wQUM2RkI3OTFBODk.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC00aFdhNVpXaW0wUGR4YXc4clBPRnZiX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZaRTFtWTBZM1h6Z3dPRFF6T0RZNU5qUTJYMTlHTmpreE16YzVReTA1TkRBMkxUUkNPRGN0UVRSRE5TMHdRVU0yUmtJM09URkJPRGsud2VicCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICfEed35pCjhXIOC3muHBl5U0BsZwpuWzD9KjAtRhi0~AiEA06q23j3Kjrbd8264dAN-ZJ8i~g4mdapNpzm1~ruLuJU_"
           }
         ],
         "content": "because he is getting this ",
@@ -981,6 +981,63 @@
       },
       "timestamp": "1786749983630",
       "type": "status_update"
+    },
+    {
+      "id": "s74G4skiBOxoZLnFH2ndlt",
+      "timestamp": "1788104490923",
+      "type": "user_message",
+      "user_message": {
+        "content": "you can pause ",
+        "message_type": "text"
+      }
+    },
+    {
+      "id": "uLyKQORil3L997LmeIHNh8",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1788104491047",
+      "type": "status_update"
+    },
+    {
+      "id": "GqGJChwMM6lMew0VNjdtrE",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is resetting the computer",
+        "description": "Manus is resetting the computer, please wait for a while."
+      },
+      "timestamp": "1788104492839",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Paused. I have not started the edit-history, restore-point, or live-presence implementation. When you are ready, tell me whether you want the presence indicator to update every few seconds or near-instantly, and I’ll continue from there."
+      },
+      "id": "AlEcKNKe4ogL47OtUF4Qoj",
+      "timestamp": "1788104501780",
+      "type": "assistant_message"
+    },
+    {
+      "id": "jPtAZWXWFqs1pA7eoaSnRT",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1788104502204",
+      "type": "status_update"
+    },
+    {
+      "id": "VlAA6ZcIfFO3nNhLXarsu5",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus has reset the computer successfully",
+        "description": "Manus has successfully reset the computer. You may now continue with the previous task."
+      },
+      "timestamp": "1788104507708",
+      "type": "status_update"
     }
   ],
   "attachments": [
@@ -989,60 +1046,60 @@
       "type": "file",
       "filename": "magizineinvoice.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-VF9b28yuwhTG5PPen4kYY6_na1fn_bWFnaXppbmVpbnZvaWNl.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1WRjliMjh5dXdoVEc1UFBlbjRrWVk2X25hMWZuX2JXRm5hWHBwYm1WcGJuWnZhV05sLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIBe2Gs16RdSan2da8gKhiZ3nGhSWXXubzTicko9pwaceAiEA1SN07vB1UBf8oJa6hq9v65F9c74r-rLiDpJZW0adnZA_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-VF9b28yuwhTG5PPen4kYY6_na1fn_bWFnaXppbmVpbnZvaWNl.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1WRjliMjh5dXdoVEc1UFBlbjRrWVk2X25hMWZuX2JXRm5hWHBwYm1WcGJuWnZhV05sLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDHrwdHq3ZvKwX7Wv76dvjRo0gDCVF0d0beBIQTL-ysFAiBTjS8MNpGe6uO0M6b2FGoImMF~TwfES6BF~yCkr~6Y8w__",
       "status": "archived",
       "bytes": 68003,
-      "archive_path": "attachments/4N5vR2lTk29lLfLTJrr0IV/0-user_message-0_55dd5726783ed08a_magizineinvoice.pdf"
+      "archive_path": "attachments/4N5vR2lTk29lLfLTJrr0IV/0-user_message-0_934c7408ed5947e8_magizineinvoice.pdf"
     },
     {
       "event_index": 13,
       "type": "image",
       "filename": "pasted_file_aYAsnV_image.png",
       "content_type": "image/png",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-i8BKTTJwx2YkFffquNDJ9b_na1fn_cGFzdGVkX2ZpbGVfYVlBc25WX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1pOEJLVFRKd3gyWWtGZmZxdU5ESjliX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZZVmxCYzI1V1gybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIE5cl6sXUXUExqBu8pOvDisj5gexXMMPNG2Kg6j7Gbw7AiBrgxgU-U8XsiUIv1~eMxvHASWwgfy4~kTxYwnj6h5FGA__",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-i8BKTTJwx2YkFffquNDJ9b_na1fn_cGFzdGVkX2ZpbGVfYVlBc25WX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1pOEJLVFRKd3gyWWtGZmZxdU5ESjliX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZZVmxCYzI1V1gybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDCN6AD65M7GH9xx2Z8CTrJLIIvqcse2ZUeGLpTZjWmJQIhAPkgfYZo8HqHC6pPjFv-hAJ96bh--Hmg0ZWtUrFGQjm9",
       "status": "archived",
       "bytes": 45107,
-      "archive_path": "attachments/4N5vR2lTk29lLfLTJrr0IV/13-user_message-0_c0acaa211bd2b3f0_pasted_file_aYAsnV_image.png"
+      "archive_path": "attachments/4N5vR2lTk29lLfLTJrr0IV/13-user_message-0_17be02c781976d81_pasted_file_aYAsnV_image.png"
     },
     {
       "event_index": 20,
       "type": "file",
       "filename": "magazine-invoice-studio.skill",
       "content_type": "application/octet-stream",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/4N5vR2lTk29lLfLTJrr0IV/sandbox/bPAdSV9CUA8M5ytS6obnj3_1785366007341_na1fn_L3RtcC9tYWdhemluZS1pbnZvaWNlLXN0dWRpbw.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvNE41dlIybFRrMjlsTGZMVEpycjBJVi9zYW5kYm94L2JQQWRTVjlDVUE4TTV5dFM2b2JuajNfMTc4NTM2NjAwNzM0MV9uYTFmbl9MM1J0Y0M5dFlXZGhlbWx1WlMxcGJuWnZhV05sTFhOMGRXUnBidy5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCVKojq~j~mDrr4A-REiYyj~dehraD3SpKmfZ9wJsULugIhAP~u~hyZ2H6nsUCm2G77REYyyG59dYxUquPp5tNywMjy",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/4N5vR2lTk29lLfLTJrr0IV/sandbox/bPAdSV9CUA8M5ytS6obnj3_1785366007341_na1fn_L3RtcC9tYWdhemluZS1pbnZvaWNlLXN0dWRpbw.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvNE41dlIybFRrMjlsTGZMVEpycjBJVi9zYW5kYm94L2JQQWRTVjlDVUE4TTV5dFM2b2JuajNfMTc4NTM2NjAwNzM0MV9uYTFmbl9MM1J0Y0M5dFlXZGhlbWx1WlMxcGJuWnZhV05sTFhOMGRXUnBidy5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCHAJqVrSNVbBRXe5lfKVOqfsXxQigN705~2XQeXzsIlgIhAMoh212E~NdQj1ACR7PRxSqXhlHQD6yTAXgPCdfQwpvK",
       "status": "archived",
       "bytes": 3221,
-      "archive_path": "attachments/4N5vR2lTk29lLfLTJrr0IV/20-assistant_message-0_349c0a445c69fc67_magazine-invoice-studio.skill"
+      "archive_path": "attachments/4N5vR2lTk29lLfLTJrr0IV/20-assistant_message-0_36d561b414d0b49a_magazine-invoice-studio.skill"
     },
     {
       "event_index": 33,
       "type": "file",
       "filename": "BulkInvoiceTest.csv",
       "content_type": "text/csv",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ExDiqGExuxlBwapiLSokFO_na1fn_QnVsa0ludm9pY2VUZXN0.csv?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1FeERpcUdFeHV4bEJ3YXBpTFNva0ZPX25hMWZuX1FuVnNhMGx1ZG05cFkyVlVaWE4wLmNzdiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIEcA5uwItpBewiYLh3Uu4fX8zNwJrhuZ0pPRuajuegEXAiEA~Wl0dr7T~sUh~tplq3fLoYKmb0j2sTZcraUgqppgTEI_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ExDiqGExuxlBwapiLSokFO_na1fn_QnVsa0ludm9pY2VUZXN0.csv?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1FeERpcUdFeHV4bEJ3YXBpTFNva0ZPX25hMWZuX1FuVnNhMGx1ZG05cFkyVlVaWE4wLmNzdiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIFHrZPbo2JHh~axBqxezu47NpIabv980lhO5N1JE4xEWAiB3yKmdnMZaw-GU5udBYUv1mzywFofBxXJ21tjx060MAw__",
       "status": "archived",
       "bytes": 9661,
-      "archive_path": "attachments/4N5vR2lTk29lLfLTJrr0IV/33-user_message-0_4de28e65ab9b2a97_BulkInvoiceTest.csv"
+      "archive_path": "attachments/4N5vR2lTk29lLfLTJrr0IV/33-user_message-0_bf30295623b7e257_BulkInvoiceTest.csv"
     },
     {
       "event_index": 51,
       "type": "file",
       "filename": "magazine-invoice-studio.skill",
       "content_type": "application/octet-stream",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/4N5vR2lTk29lLfLTJrr0IV/sandbox/T38RfUcAMnT5b4fHrh1Grw_1786735192676_na1fn_L3RtcC9tYWdhemluZS1pbnZvaWNlLXN0dWRpbw.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvNE41dlIybFRrMjlsTGZMVEpycjBJVi9zYW5kYm94L1QzOFJmVWNBTW5UNWI0ZkhyaDFHcndfMTc4NjczNTE5MjY3Nl9uYTFmbl9MM1J0Y0M5dFlXZGhlbWx1WlMxcGJuWnZhV05sTFhOMGRXUnBidy5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIBMN9V1udKHaGiiGahu65amy~LaKbcH2ucpBwHEqwKPFAiA4Ldq1slgyN8txwZ54xBoRDtsK6lOSLixKG9yCuIB2Jg__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/4N5vR2lTk29lLfLTJrr0IV/sandbox/T38RfUcAMnT5b4fHrh1Grw_1786735192676_na1fn_L3RtcC9tYWdhemluZS1pbnZvaWNlLXN0dWRpbw.skill?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvNE41dlIybFRrMjlsTGZMVEpycjBJVi9zYW5kYm94L1QzOFJmVWNBTW5UNWI0ZkhyaDFHcndfMTc4NjczNTE5MjY3Nl9uYTFmbl9MM1J0Y0M5dFlXZGhlbWx1WlMxcGJuWnZhV05sTFhOMGRXUnBidy5za2lsbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDJ6kh5lLddNL9EJuE1oybEz7ejI9QFzeD471ejWiAfgQIgFON2K6oPVBxUNJNFjsF7a-8MUhJiv6MTya-s7b1FWlQ_",
       "status": "archived",
       "bytes": 3221,
-      "archive_path": "attachments/4N5vR2lTk29lLfLTJrr0IV/51-assistant_message-0_9a97ec6a2c03e705_magazine-invoice-studio.skill"
+      "archive_path": "attachments/4N5vR2lTk29lLfLTJrr0IV/51-assistant_message-0_41cb98c8fa90204a_magazine-invoice-studio.skill"
     },
     {
       "event_index": 92,
       "type": "image",
       "filename": "pasted_file_dMfcF7_80843869646__F691379C-9406-4B87-A4C5-0AC6FB791A89.webp",
       "content_type": "image/webp",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-4hWa5ZWim0Pdxaw8rPOFvb_na1fn_cGFzdGVkX2ZpbGVfZE1mY0Y3XzgwODQzODY5NjQ2X19GNjkxMzc5Qy05NDA2LTRCODctQTRDNS0wQUM2RkI3OTFBODk.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC00aFdhNVpXaW0wUGR4YXc4clBPRnZiX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZaRTFtWTBZM1h6Z3dPRFF6T0RZNU5qUTJYMTlHTmpreE16YzVReTA1TkRBMkxUUkNPRGN0UVRSRE5TMHdRVU0yUmtJM09URkJPRGsud2VicCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDPUUEdHeJZBIYmqKl7a-BLGFwmIzFRBdP1uLMLQlE39AIhAKQQfNkyfOGo4CPlss9guDF7CcxM01z-ZVmTvl70disD",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-4hWa5ZWim0Pdxaw8rPOFvb_na1fn_cGFzdGVkX2ZpbGVfZE1mY0Y3XzgwODQzODY5NjQ2X19GNjkxMzc5Qy05NDA2LTRCODctQTRDNS0wQUM2RkI3OTFBODk.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC00aFdhNVpXaW0wUGR4YXc4clBPRnZiX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZaRTFtWTBZM1h6Z3dPRFF6T0RZNU5qUTJYMTlHTmpreE16YzVReTA1TkRBMkxUUkNPRGN0UVRSRE5TMHdRVU0yUmtJM09URkJPRGsud2VicCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICfEed35pCjhXIOC3muHBl5U0BsZwpuWzD9KjAtRhi0~AiEA06q23j3Kjrbd8264dAN-ZJ8i~g4mdapNpzm1~ruLuJU_",
       "status": "archived",
       "bytes": 730240,
-      "archive_path": "attachments/4N5vR2lTk29lLfLTJrr0IV/92-user_message-0_16e2162cfd0c56ac_pasted_file_dMfcF7_80843869646__F691379C-9406-4B87-A4C5-0AC6FB791A89.webp"
+      "archive_path": "attachments/4N5vR2lTk29lLfLTJrr0IV/92-user_message-0_bfb871661e44cb6f_pasted_file_dMfcF7_80843869646__F691379C-9406-4B87-A4C5-0AC6FB791A89.webp"
     }
   ]
 }

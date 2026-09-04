@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
-  "archived_at": "2026-08-28T21:53:06.552766Z",
+  "archived_at": "2026-09-04T15:56:39.038301Z",
   "task": {
     "id": "ZyMNjMqrfWqxl0S7FX0tLV",
     "title": "Vacancy Report App",
     "status": "stopped",
     "type": "project",
     "agent_profile": "manus-1.6",
-    "credits_used": 43804,
+    "credits_used": 44475,
     "created_at": "1773783593",
-    "updated_at": "1786817827",
+    "updated_at": "1788204925",
     "task_url": "https://manus.im/app/ZyMNjMqrfWqxl0S7FX0tLV",
     "message_count": 0
   },
-  "event_count": 1324,
+  "event_count": 1339,
   "events": [
     {
       "id": "Naea4gYOQhst9jTQuiEe6N",
@@ -1320,7 +1320,7 @@
             "content_type": "image/png",
             "filename": "ApartmentCorpLOGO.png",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/mxS6TqexVMaCSKDYa8CMwg_na1fn_QXBhcnRtZW50Q29ycExPR08.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvbXhTNlRxZXhWTWFDU0tEWWE4Q013Z19uYTFmbl9RWEJoY25SdFpXNTBRMjl5Y0V4UFIwOC5wbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODk0MzA0MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQC4tBo0I4M-2Ht0xYoNH6BPkjN1QVFNkFJya8Lz8kDNOQIgRs7bXE2kv5UA7b4NXaOGkaOp1OqxtpIAPqa9w6IJjM0_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/mxS6TqexVMaCSKDYa8CMwg_na1fn_QXBhcnRtZW50Q29ycExPR08.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvbXhTNlRxZXhWTWFDU0tEWWE4Q013Z19uYTFmbl9RWEJoY25SdFpXNTBRMjl5Y0V4UFIwOC5wbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQD7spQ3fD1BDuULNQdmfCpr25VKVmeJMn5LNJwPGFeU6wIgeRWnhMOriXm1QQXYfH5TWf5go7NYTVM3fHTeTFeZ5vQ_"
           }
         ],
         "content": "add this logo in metallic gold at the top of the webpage as well as the email reports - make it shimmer ",
@@ -1970,7 +1970,7 @@
             "content_type": "video/quicktime",
             "filename": "VacancyReportAppVideo.mov",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/OAFr8m4uGJTQO25hKS6q6t_na1fn_VmFjYW5jeVJlcG9ydEFwcFZpZGVv.mov?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvT0FGcjhtNHVHSlRRTzI1aEtTNnE2dF9uYTFmbl9WbUZqWVc1amVWSmxjRzl5ZEVGd2NGWnBaR1Z2Lm1vdiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIAoROjNonJfmojxzALIVp60bxDfJPvibf-thLv3XI9zyAiAPSny1uBdprenk17FlPmHQis7H1vtwopqsOOGZYXj55w__"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/OAFr8m4uGJTQO25hKS6q6t_na1fn_VmFjYW5jeVJlcG9ydEFwcFZpZGVv.mov?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvT0FGcjhtNHVHSlRRTzI1aEtTNnE2dF9uYTFmbl9WbUZqWVc1amVWSmxjRzl5ZEVGd2NGWnBaR1Z2Lm1vdiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDUyYjx229z~0w76T4wrgQUvkCJIbzstoGiy8LzT98XaQIgOjefji2beCxXjoUr-WZ58dVg01t~pdOJQ0UJQyD2okA_"
           }
         ],
         "content": "put a button next to \"Admin\" with this video linked to it on how the dashboard works. Cakll it \"How To Video\". ",
@@ -5846,7 +5846,7 @@
             "content_type": "text/markdown",
             "filename": "clickup-embed-guide.md",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/ZyMNjMqrfWqxl0S7FX0tLV/sandbox/btSJyjoMniKZnSTJoH7eIB_1776380742975_na1fn_L2hvbWUvdWJ1bnR1L2NsaWNrdXAtZW1iZWQtZ3VpZGU.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvWnlNTmpNcXJmV3F4bDBTN0ZYMHRMVi9zYW5kYm94L2J0U0p5am9NbmlLWm5TVEpvSDdlSUJfMTc3NjM4MDc0Mjk3NV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOc2FXTnJkWEF0WlcxaVpXUXRaM1ZwWkdVLm1kIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQC0i7VkTMVq-GVLpwARrOo0XcRDieG2rri8xrCXfzProQIhALBUlKR5zzMuTeP3fDVXpRdWWKbIVd~Sp4bymJ2lNKh9"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/ZyMNjMqrfWqxl0S7FX0tLV/sandbox/btSJyjoMniKZnSTJoH7eIB_1776380742975_na1fn_L2hvbWUvdWJ1bnR1L2NsaWNrdXAtZW1iZWQtZ3VpZGU.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvWnlNTmpNcXJmV3F4bDBTN0ZYMHRMVi9zYW5kYm94L2J0U0p5am9NbmlLWm5TVEpvSDdlSUJfMTc3NjM4MDc0Mjk3NV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOc2FXTnJkWEF0WlcxaVpXUXRaM1ZwWkdVLm1kIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwODEyODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIE42Rdf-tzKBwbwIpCGaGZmioaMrgYu26FQQ7aqsOGl7AiEAikOJskqXy25xlJHe~iTOGx0d-jMu-CuBtfl-FivF4fI_"
           }
         ],
         "content": "**Great news — no code changes needed.** The dashboard is already public and has no iframe restrictions, so it's embeddable in ClickUp right now.\n\nHere's the short version of the steps:\n\n1. In ClickUp, open the Space or List where you want it\n2. Click **+ Add View** in the view bar at the top\n3. Select **Embed** from the view type picker\n4. Paste `https://apartmentcorpvacancyreport.manus.space`\n5. Name the tab (e.g., \"Vacancy Report\") — done\n\nThe full guide is attached above, including troubleshooting tips and a recommended structure for adding future dashboards to the same ClickUp Space. The key rule for any future app you build: as long as the URL is publicly accessible (no login wall), the exact same 5 steps apply every time.\n\n**Suggested next steps:**\n\n1. **Try the embed now** — paste the URL into a ClickUp Embed view and let me know if it renders correctly or if ClickUp's iframe sandbox blocks anything specific.\n2. **Build a KPI Tracker app** — since you mentioned needing multiple embeds, a property manager KPI dashboard would be a natural next addition to your ClickUp ApartmentCorp space.\n3. **Add a \"View in ClickUp\" deep-link button** to the dashboard header — a button that opens the ClickUp space directly, making it easy for team members to navigate between the two tools."
@@ -6098,7 +6098,7 @@
             "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
             "filename": "pasted_file_WT2x9o_PropertyMax.aiKPIs.xlsx",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ajarLjYJu941AAnQ6qRFkZ_na1fn_cGFzdGVkX2ZpbGVfV1QyeDlvX1Byb3BlcnR5TWF4LmFpS1BJcw.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1hamFyTGpZSnU5NDFBQW5RNnFSRmtaX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZWMVF5ZURsdlgxQnliM0JsY25SNVRXRjRMbUZwUzFCSmN3Lnhsc3giLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODk0MzA0MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIBn4xmAc2SC2rOxRddhqW2wf5eAeLDE302UhASBBv8Y3AiAjDBXL-RRmUbYUfIyhLryPdYCucX1XD6fli-mUXeLYxA__"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ajarLjYJu941AAnQ6qRFkZ_na1fn_cGFzdGVkX2ZpbGVfV1QyeDlvX1Byb3BlcnR5TWF4LmFpS1BJcw.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1hamFyTGpZSnU5NDFBQW5RNnFSRmtaX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZWMVF5ZURsdlgxQnliM0JsY25SNVRXRjRMbUZwUzFCSmN3Lnhsc3giLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQClqOx7n6STYVMoRkDOnyx9SJ5U4q7VJD7bNlp8QNNp4QIhAJCgh8MMipNvYURxl55YR7gIBLrkd7c6qilrU3eEt9Cy"
           }
         ],
         "message_type": "text"
@@ -7992,7 +7992,7 @@
             "content_type": "application/pdf",
             "filename": "propertymax_rest_api_requirements.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/ZyMNjMqrfWqxl0S7FX0tLV/sandbox/zTtQ89sD86sP4sNJj8q28w_1781824114332_na1fn_L2hvbWUvdWJ1bnR1L3Byb3BlcnR5bWF4X3Jlc3RfYXBpX3JlcXVpcmVtZW50cw.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvWnlNTmpNcXJmV3F4bDBTN0ZYMHRMVi9zYW5kYm94L3pUdFE4OXNEODZzUDRzTkpqOHEyOHdfMTc4MTgyNDExNDMzMl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCeWIzQmxjblI1YldGNFgzSmxjM1JmWVhCcFgzSmxjWFZwY21WdFpXNTBjdy5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODk0MzA0MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIEa3Bs0eywfpCiFYgiSd6PYN1kwmuji9~wDpfxNkw8NiAiBuwLCtQ6TSwM86KfJti2ZUs8KbstHN2aKkaNchttEVmg__"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/ZyMNjMqrfWqxl0S7FX0tLV/sandbox/zTtQ89sD86sP4sNJj8q28w_1781824114332_na1fn_L2hvbWUvdWJ1bnR1L3Byb3BlcnR5bWF4X3Jlc3RfYXBpX3JlcXVpcmVtZW50cw.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvWnlNTmpNcXJmV3F4bDBTN0ZYMHRMVi9zYW5kYm94L3pUdFE4OXNEODZzUDRzTkpqOHEyOHdfMTc4MTgyNDExNDMzMl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCeWIzQmxjblI1YldGNFgzSmxjM1JmWVhCcFgzSmxjWFZwY21WdFpXNTBjdy5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDilWk1rztcCKUdM11h5DWy12KQOmhsLCLWMfLjjILB9AIgXlWrRuuXrSnzNCG39JbkLgWPSF6ZfTFq7bwGEaoxojU_"
           }
         ],
         "content": "Here's the PDF — ready to send to the PropertyMax.ai developers. It covers all 6 required endpoints with example JSON responses, query parameters, current source methods, and a summary table with priorities."
@@ -8667,7 +8667,7 @@
             "content_type": "application/pdf",
             "filename": "missing_ask_rent_report.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/ZyMNjMqrfWqxl0S7FX0tLV/sandbox/88ZJ3sPY5jV1IJpMaa3LXb_1781827271974_na1fn_L2hvbWUvdWJ1bnR1L21pc3NpbmdfYXNrX3JlbnRfcmVwb3J0.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvWnlNTmpNcXJmV3F4bDBTN0ZYMHRMVi9zYW5kYm94Lzg4Wkozc1BZNWpWMUlKcE1hYTNMWGJfMTc4MTgyNzI3MTk3NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDIxcGMzTnBibWRmWVhOclgzSmxiblJmY21Wd2IzSjAucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIApI5P4dr2IFiojHKj5CDRXnUsPmJEyDESx~L5Dz~WOhAiEAwmzik46MfmblMRX79PKBIXwVCjpNEhl8-r-62wMDct8_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/ZyMNjMqrfWqxl0S7FX0tLV/sandbox/88ZJ3sPY5jV1IJpMaa3LXb_1781827271974_na1fn_L2hvbWUvdWJ1bnR1L21pc3NpbmdfYXNrX3JlbnRfcmVwb3J0.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvWnlNTmpNcXJmV3F4bDBTN0ZYMHRMVi9zYW5kYm94Lzg4Wkozc1BZNWpWMUlKcE1hYTNMWGJfMTc4MTgyNzI3MTk3NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDIxcGMzTnBibWRmWVhOclgzSmxiblJmY21Wd2IzSjAucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwODEyODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDIWiS3Dag2pQF7jjoiT-ZzK7zRNH-IsHYvNUATn9xRXQIgbsx1ZISS0DGdUwlntc3KQVB8gv1DAH~5I68MwWbTWdU_"
           }
         ],
         "content": "Here is the PDF. It covers all 24 units across 6 properties, grouped by building with days vacant and bed count, plus a summary table at the end. Thibodaux is flagged as highest priority with two units vacant over 100 days."
@@ -9322,7 +9322,7 @@
             "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
             "filename": "Updated_Company_Contacts.xlsx",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663431917383/uploads/temp-FcuX6KAv3do5mXhyLb2Ql7_na1fn_VXBkYXRlZF9Db21wYW55X0NvbnRhY3Rz.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDMxOTE3MzgzL3VwbG9hZHMvdGVtcC1GY3VYNktBdjNkbzVtWGh5TGIyUWw3X25hMWZuX1ZYQmtZWFJsWkY5RGIyMXdZVzU1WDBOdmJuUmhZM1J6Lnhsc3giLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODk0MzA0MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIGze7bfr0gdsAeDMo~t2QXvz6~xH9Q1W9vou5nb94VE4AiBzduPfp6kz3xUM3m462dmHNOtYWNTigAJt-bu8ONGETw__"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663431917383/uploads/temp-FcuX6KAv3do5mXhyLb2Ql7_na1fn_VXBkYXRlZF9Db21wYW55X0NvbnRhY3Rz.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDMxOTE3MzgzL3VwbG9hZHMvdGVtcC1GY3VYNktBdjNkbzVtWGh5TGIyUWw3X25hMWZuX1ZYQmtZWFJsWkY5RGIyMXdZVzU1WDBOdmJuUmhZM1J6Lnhsc3giLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICDFTrT~ypH9idffVMDc0jaxSNn8vjOimrdwCrjLnMzOAiEAnDM76uX55rZfR6tSIEoh180hZnOiNKYyuSxprlawXhw_"
           }
         ],
         "message_type": "text"
@@ -9807,7 +9807,7 @@
             "content_type": "text/markdown",
             "filename": "eviction_email_drafts.md",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/ZyMNjMqrfWqxl0S7FX0tLV/sandbox/IOgbstwQat9yRTsx6zyoDR_1782783129733_na1fn_L2hvbWUvdWJ1bnR1L2V2aWN0aW9uX2VtYWlsX2RyYWZ0cw.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvWnlNTmpNcXJmV3F4bDBTN0ZYMHRMVi9zYW5kYm94L0lPZ2JzdHdRYXQ5eVJUc3g2enlvRFJfMTc4Mjc4MzEyOTczM19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJWMmFXTjBhVzl1WDJWdFlXbHNYMlJ5WVdaMGN3Lm1kIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIEu8n~gejkbrBHbNA6n9D0abiFb1ZHxxm9jx0YBCcMviAiEA~76KrRBgvXEBjOIvKaXj3m9jY-JpyjBvbRHh67EHzoU_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/ZyMNjMqrfWqxl0S7FX0tLV/sandbox/IOgbstwQat9yRTsx6zyoDR_1782783129733_na1fn_L2hvbWUvdWJ1bnR1L2V2aWN0aW9uX2VtYWlsX2RyYWZ0cw.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvWnlNTmpNcXJmV3F4bDBTN0ZYMHRMVi9zYW5kYm94L0lPZ2JzdHdRYXQ5eVJUc3g2enlvRFJfMTc4Mjc4MzEyOTczM19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJWMmFXTjBhVzl1WDJWdFlXbHNYMlJ5WVdaMGN3Lm1kIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwODEyODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIE~88iM1W5RXFhdpgn2ppGgM-wnHzDbrcmAnOuFUnxTiAiEAr8JnsoK1UFjPAuCQeHwVQr7QdLhu-7AAnJXqr18OZYg_"
           }
         ],
         "content": "Here are all **6 email drafts** for your review — nothing has been sent yet. Here's a summary of who each goes to:\n\n| # | Property | To (Manager) | CC (Regional) |\n|---|---|---|---|\n| 1 | Marrero 3 | Ketorah Parks | Ginger Positerry |\n| 2 | Yorkshire/Windsor | Kimberly Powell | Ginger Positerry |\n| 3 | Pelican Bay | Dequanta Sutherland | Ginger Positerry |\n| 4 | Thibodaux | Susie Rogers | Ginger Positerry |\n| 5 | Granite Ridge | James Abeyta | Blake Weddington |\n| 6 | New Wilmington Arms | Alberto Spence | Blake Weddington |\n\nAll emails CC Brandon@ApartmentCorp.com and mam@22.bz, and open with *\"Marc wanted me to reach out and ask that you please input the following information...\"*\n\nLet me know if you'd like any changes to the wording, and just say **\"send\"** when you're ready and I'll fire them all off."
@@ -11078,7 +11078,7 @@
             "content_type": "image/png",
             "filename": "pasted_file_wTetZJ_image.png",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-vtiD9OYCwvugKI4ymxCgUz_na1fn_cGFzdGVkX2ZpbGVfd1RldFpKX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC12dGlEOU9ZQ3d2dWdLSTR5bXhDZ1V6X25hMWZuX2NHRnpkR1ZrWDJacGJHVmZkMVJsZEZwS1gybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIHCgE2M0PAWLfYfbbN3kNNoibtadXAHcXN0QFqfmBdvRAiEAkjdLFaaRIZdWE1xyUiirwfUEqqhfs1sFEqw36I9eeZk_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-vtiD9OYCwvugKI4ymxCgUz_na1fn_cGFzdGVkX2ZpbGVfd1RldFpKX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC12dGlEOU9ZQ3d2dWdLSTR5bXhDZ1V6X25hMWZuX2NHRnpkR1ZrWDJacGJHVmZkMVJsZEZwS1gybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQC5vVpN6DxkZHSUEg3pkGQO-Hd-fSLz5RkSd1w5-3ibcAIgPllbR6Sr~88E3TvVGjXBelRiKsEReGS-PcGPQse32Yk_"
           }
         ],
         "content": "THIS STILL ISN'T WORKING ",
@@ -11158,7 +11158,7 @@
             "content_type": "image/png",
             "filename": "pasted_file_wTetZJ_image.png",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-vtiD9OYCwvugKI4ymxCgUz_na1fn_cGFzdGVkX2ZpbGVfd1RldFpKX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC12dGlEOU9ZQ3d2dWdLSTR5bXhDZ1V6X25hMWZuX2NHRnpkR1ZrWDJacGJHVmZkMVJsZEZwS1gybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIHCgE2M0PAWLfYfbbN3kNNoibtadXAHcXN0QFqfmBdvRAiEAkjdLFaaRIZdWE1xyUiirwfUEqqhfs1sFEqw36I9eeZk_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-vtiD9OYCwvugKI4ymxCgUz_na1fn_cGFzdGVkX2ZpbGVfd1RldFpKX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC12dGlEOU9ZQ3d2dWdLSTR5bXhDZ1V6X25hMWZuX2NHRnpkR1ZrWDJacGJHVmZkMVJsZEZwS1gybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIES2fHc5emhcvfrN4cLo3BwQZ~qTSfFXBB3kvG0sUWYtAiEA9yRz3DYOQW4iNsVFSKkZDro2VA-BF8uAw-vBNkcHv7A_"
           }
         ],
         "content": "THIS STILL ISN'T WORKING ",
@@ -11313,7 +11313,7 @@
             "content_type": "image/png",
             "filename": "pasted_file_44gSfE_image.png",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-KEgL0ERoq3wAzLVWFIJcVV_na1fn_cGFzdGVkX2ZpbGVfNDRnU2ZFX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1LRWdMMEVSb3Ezd0F6TFZXRklKY1ZWX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZORFJuVTJaRlgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIBz-PE6ytojQLm9FtYoifVkT3JOv-ltn3jGrYAorNfWtAiAT-hmg77snL1bzmte0wIHELVuCbRzdzNYZqm-2yxK6mg__"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-KEgL0ERoq3wAzLVWFIJcVV_na1fn_cGFzdGVkX2ZpbGVfNDRnU2ZFX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1LRWdMMEVSb3Ezd0F6TFZXRklKY1ZWX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZORFJuVTJaRlgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIBqGnwwV3NSvlAG8iCNdKCEDjOOdzpTSEv6zPIGl1uEjAiBZFfChPYi~BqbmghMQ9u0B9zpEPxp1dEen94NwjXNeYg__"
           }
         ],
         "content": "the \"programmers\" just supplied me with this... i want something WAY better designed for my boss ",
@@ -11369,7 +11369,7 @@
             "content_type": "image/png",
             "filename": "pasted_file_HFGLL6_image.png",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-dhsuLAa4sLobjrkbbkLFPD_na1fn_cGFzdGVkX2ZpbGVfSEZHTEw2X2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1kaHN1TEFhNHNMb2JqcmtiYmtMRlBEX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZTRVpIVEV3MlgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDeFewtZ6EZVty4TFzpCjkr3T6elPD55Pi~RGwwN4pNCwIhAJoT~VPYC9MGNPwwz0~s67VsP1DfeccHc3~4VTWmgCRA"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-dhsuLAa4sLobjrkbbkLFPD_na1fn_cGFzdGVkX2ZpbGVfSEZHTEw2X2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1kaHN1TEFhNHNMb2JqcmtiYmtMRlBEX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZTRVpIVEV3MlgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCjX8XHog6S8l2a34UkFiqa8lEf3OhREuNfUpu38SesWQIhANiULTHbY1ZdFvMhCmCEg9DgCPxdgnw8gvMv3jyWAEaY"
           }
         ],
         "content": "you can find the amount billed in the \"FLOW\" tab of a managers profile ",
@@ -11741,7 +11741,7 @@
             "content_type": "image/png",
             "filename": "pasted_file_1DXMAH_image.png",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-pZp1OQSur1JTBD3oyHqTnX_na1fn_cGFzdGVkX2ZpbGVfMURYTUFIX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1wWnAxT1FTdXIxSlRCRDNveUhxVG5YX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZNVVJZVFVGSVgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIBnpuIsUff4Uurgi9d5vimmntAEZFoTsEb3jrmUOX4unAiEA0twHGlOhwxI2atpPDumjTBQ3GvHWJJau0sCciDWa2g0_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-pZp1OQSur1JTBD3oyHqTnX_na1fn_cGFzdGVkX2ZpbGVfMURYTUFIX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1wWnAxT1FTdXIxSlRCRDNveUhxVG5YX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZNVVJZVFVGSVgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIFm--eBXXwXIUJQkKuUL361ZnCiiLeoOA3EL0-mAFXEmAiBOUdAsMpaPMGwmR1j3omnBBRhDnemp1T~Tgb3SICmzVg__"
           }
         ],
         "content": "this is happening in the email reports - the duplications ",
@@ -11839,7 +11839,7 @@
             "content_type": "image/png",
             "filename": "screenshot_3A54FFE1-8B4C-4ADD-B337-695EC177CE03.png",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/w3D3NZvVJJMkmbz4mCcQR6_na1fn_c2NyZWVuc2hvdF8zQTU0RkZFMS04QjRDLTRBREQtQjMzNy02OTVFQzE3N0NFMDM.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdzNEM05adlZKSk1rbWJ6NG1DY1FSNl9uYTFmbl9jMk55WldWdWMyaHZkRjh6UVRVMFJrWkZNUzA0UWpSRExUUkJSRVF0UWpNek55MDJPVFZGUXpFM04wTkZNRE0ucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIASL-SEEdWQv65ZT74O8itny72VQ2N5UkjBr4U15MdyeAiEAvShaqXS~6uar5NjBD0msQDIjN2N4BIFdoRTdRxFA~5o_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/w3D3NZvVJJMkmbz4mCcQR6_na1fn_c2NyZWVuc2hvdF8zQTU0RkZFMS04QjRDLTRBREQtQjMzNy02OTVFQzE3N0NFMDM.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdzNEM05adlZKSk1rbWJ6NG1DY1FSNl9uYTFmbl9jMk55WldWdWMyaHZkRjh6UVRVMFJrWkZNUzA0UWpSRExUUkJSRVF0UWpNek55MDJPVFZGUXpFM04wTkZNRE0ucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwODEyODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCICUaVMl8QSkbEz~GcFhDQVwtUGPpuWMEYT~HGowBoTJvAiAkKfwTA5x-NL4iRtV2TI9YhXoO~EKjT4JM9nSVfNHL-w__"
           }
         ],
         "message_type": "text"
@@ -12050,7 +12050,7 @@
             "content_type": "text/html; charset=utf-8",
             "filename": "fresh_flow_collections_email_preview.html",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/ZyMNjMqrfWqxl0S7FX0tLV/sandbox/AtqLvA3Gjsj6VxiOZTfHAW_1786743682563_na1fn_L2hvbWUvdWJ1bnR1L2ZyZXNoX2Zsb3dfY29sbGVjdGlvbnNfZW1haWxfcHJldmlldw.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvWnlNTmpNcXJmV3F4bDBTN0ZYMHRMVi9zYW5kYm94L0F0cUx2QTNHanNqNlZ4aU9aVGZIQVdfMTc4Njc0MzY4MjU2M19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJaeVpYTm9YMlpzYjNkZlkyOXNiR1ZqZEdsdmJuTmZaVzFoYVd4ZmNISmxkbWxsZHcuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQD4cY8Blz-gSB1KrX6~MFjBAAHqdcWotx6uFGk1JFqauAIgefIJMNj91lDSf8fXamywHEab85M5A7~owLK1KrHrpZE_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/ZyMNjMqrfWqxl0S7FX0tLV/sandbox/AtqLvA3Gjsj6VxiOZTfHAW_1786743682563_na1fn_L2hvbWUvdWJ1bnR1L2ZyZXNoX2Zsb3dfY29sbGVjdGlvbnNfZW1haWxfcHJldmlldw.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvWnlNTmpNcXJmV3F4bDBTN0ZYMHRMVi9zYW5kYm94L0F0cUx2QTNHanNqNlZ4aU9aVGZIQVdfMTc4Njc0MzY4MjU2M19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJaeVpYTm9YMlpzYjNkZlkyOXNiR1ZqZEdsdmJuTmZaVzFoYVd4ZmNISmxkbWxsZHcuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQC7hHYlod9lj24e0HJfx0koJJT-NzsI5-P~WaBp9Qrz8QIgFTQRuPqLAkgdhwBVVhH66XW6oGPje7FJDqRlvUnuLL4_"
           }
         ],
         "content": "I rebuilt the Daily Collections Report so it **refreshes PropertyMax.ai FLOW data immediately before every scheduled send** and shows **Billed, Collected, Gap/Over Collected, Collection Rate, and true prior-day change**. The new draft has 41 unique property rows and no duplicate entries.\n\nThe current FLOW source reports **$5,449,290.95 billed** and **$5,943,826.13 collected**. One source value is notable: **St. Charles** currently shows **$1,125,725.00 collected** against **$134,290.00 billed**; I verified that amount exists directly in the live PropertyMax FLOW response, so it is being shown rather than altered.\n\nNo email has been sent. Please review the attached exact draft and confirm whether you want me to send this test to **only you**."
@@ -12184,7 +12184,7 @@
             "content_type": "image/webp",
             "filename": "pasted_file_NdpyNH_image.webp",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-76cL5POTktrAaKvb66VCGV_na1fn_cGFzdGVkX2ZpbGVfTmRweU5IX2ltYWdl.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC03NmNMNVBPVGt0ckFhS3ZiNjZWQ0dWX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZUbVJ3ZVU1SVgybHRZV2RsLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCGDzN3-9XJ5-fwjSEqpD~L7HtHv--8vUlELoOesA-20wIhAKB8dpnOC4t73IQBWNqAw6BDT4jt49nJ0dgEv4NAiw67"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-76cL5POTktrAaKvb66VCGV_na1fn_cGFzdGVkX2ZpbGVfTmRweU5IX2ltYWdl.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC03NmNMNVBPVGt0ckFhS3ZiNjZWQ0dWX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZUbVJ3ZVU1SVgybHRZV2RsLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIFai66QOmrl43zWwpsg59Onha8l5kmvokN4bwDZjVtaZAiEApt864tZ8DUwC36CZfb2C~OsWff82h7GD1MM8TY0uv2s_"
           }
         ],
         "content": "yes and i dont' see where you got that last number for st charles ",
@@ -12219,7 +12219,7 @@
             "content_type": "image/webp",
             "filename": "pasted_file_gZgBMe_image.webp",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-v3xZBz4ucZ0xFeK5dUYS8S_na1fn_cGFzdGVkX2ZpbGVfZ1pnQk1lX2ltYWdl.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC12M3haQno0dWNaMHhGZUs1ZFVZUzhTX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZaMXBuUWsxbFgybHRZV2RsLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIEJigM04llUDLPf2khrXqZ5p~1YGEK9bl18IKCt030PGAiEAno7ZrpYzMSsd3T-cjST0XFbDyxjpLVqi1-FTuNzE4-I_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-v3xZBz4ucZ0xFeK5dUYS8S_na1fn_cGFzdGVkX2ZpbGVfZ1pnQk1lX2ltYWdl.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC12M3haQno0dWNaMHhGZUs1ZFVZUzhTX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZaMXBuUWsxbFgybHRZV2RsLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICmDg99NKzCiVt4wOKIYXMHNeW~-ugysblhYLsHefe-ZAiEAjlnJXieXfbadOJRn3HUr08gnEp8ftM5ltqwnbFDFn~o_"
           }
         ],
         "message_type": "text"
@@ -12261,7 +12261,7 @@
             "content_type": "text/plain",
             "filename": "pasted_content.txt",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-peeeewMfrKWhi2Ho5KdfEG_na1fn_cGFzdGVkX2NvbnRlbnQ.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1wZWVlZXdNZnJLV2hpMkhvNUtkZkVHX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQC~NC0zmAI1W0DzrnAvHnLnffExG74SkI44bom5Rr2hzAIhANmU9TgnYpKskNZYotz9DE6t-jWVvoiJubAVv0M7r2oy"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-peeeewMfrKWhi2Ho5KdfEG_na1fn_cGFzdGVkX2NvbnRlbnQ.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1wZWVlZXdNZnJLV2hpMkhvNUtkZkVHX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwODEyODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICzjnJ~gfhSYqoG25jXaf3~XfTE112usyg7uk8UJfCrVAiEA1bgHoDRXbCUx8eSHsGcXJ6yz-22n05dNHKsDK8UlAi8_"
           }
         ],
         "content": "Make the process we used here into a re-usable skill with /skill-creator\nCan you double-check that the formatting of this test email still displays correctly on iPhone and Google Fold?\nBefore we send the final version, please add a column showing the variance between collected and expected rent. - We should also set up a tolerance for the gap. If the value is +/- &7,500, similar to this email report but I want it in the webapp too ",
@@ -12293,7 +12293,7 @@
             "content_type": "text/html; charset=utf-8",
             "filename": "fresh_flow_collections_email_preview.html",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/ZyMNjMqrfWqxl0S7FX0tLV/sandbox/lRFUwJgdobrmNQ3VJdIoOS_1786815653877_na1fn_L2hvbWUvdWJ1bnR1L2ZyZXNoX2Zsb3dfY29sbGVjdGlvbnNfZW1haWxfcHJldmlldw.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvWnlNTmpNcXJmV3F4bDBTN0ZYMHRMVi9zYW5kYm94L2xSRlV3Smdkb2JybU5RM1ZKZElvT1NfMTc4NjgxNTY1Mzg3N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJaeVpYTm9YMlpzYjNkZlkyOXNiR1ZqZEdsdmJuTmZaVzFoYVd4ZmNISmxkbWxsZHcuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIFmaZ1O2R10SNMXg9M9doZ-lCv~OWfYLN3PTg1t~VmaFAiEAtIa1gyYWPJKTg8sA9cfvO3zkaRX5iZvwyX20PQU8dBI_"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/ZyMNjMqrfWqxl0S7FX0tLV/sandbox/lRFUwJgdobrmNQ3VJdIoOS_1786815653877_na1fn_L2hvbWUvdWJ1bnR1L2ZyZXNoX2Zsb3dfY29sbGVjdGlvbnNfZW1haWxfcHJldmlldw.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvWnlNTmpNcXJmV3F4bDBTN0ZYMHRMVi9zYW5kYm94L2xSRlV3Smdkb2JybU5RM1ZKZElvT1NfMTc4NjgxNTY1Mzg3N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJaeVpYTm9YMlpzYjNkZlkyOXNiR1ZqZEdsdmJuTmZaVzFoYVd4ZmNISmxkbWxsZHcuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDVfOn0~Hg6osCE3TSQwEKBM5hQu~z0QyxjkUdVRx-KBAIhANFRAypu2~L7IsCsKHFqwPKLEGtYK3mlCHVmOHznQkBl"
           }
         ],
         "content": "Completed and verified. I created the reusable **PropertyMax FLOW Collections Report** skill, added **Expected Rent / Variance** with an inclusive **±$7,500 tolerance** to the web app and Daily Collections email, and confirmed the updated email has no horizontal overflow at iPhone and unfolded Google Fold widths. All **118 tests pass**.\n\nNo final email has been sent. Please review the attached final **Test3** draft and confirm whether you want it sent to **only you**."
@@ -12377,7 +12377,7 @@
             "content_type": "image/webp",
             "filename": "pasted_file_8Mu6Cn_image.webp",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-nF6p6YMHZAOsf7CQWl59uo_na1fn_cGFzdGVkX2ZpbGVfOE11NkNuX2ltYWdl.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1uRjZwNllNSFpBT3NmN0NRV2w1OXVvX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZPRTExTmtOdVgybHRZV2RsLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCID6~pQjBL2zLQo6KjJKfiVJ~1MtloImJ4jHNMkw0HmjjAiEAr7Eaw4MGbGloAXtuDfgN6V4zrThhKEYVytvmXONAp0A_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-nF6p6YMHZAOsf7CQWl59uo_na1fn_cGFzdGVkX2ZpbGVfOE11NkNuX2ltYWdl.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1uRjZwNllNSFpBT3NmN0NRV2w1OXVvX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZPRTExTmtOdVgybHRZV2RsLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCAgTFyXcV0aOPeVktJsul-rQ0ePgP8lwTib3ivUiNZbAIhAN2tRTktxpCZXqq72k3wobIde4eo9AcAXb3un8Ysuhuc"
           }
         ],
         "content": "i actually would like the star emoji instead .... i want them in these exact location on the Cards section ",
@@ -12430,7 +12430,7 @@
             "content_type": "video/quicktime",
             "filename": "pasted_file_t2UTs9_ScreenRecording2026-08-15at11.09.50AM.mov",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-GKA6OiWss7wTxkkFalIMbW_na1fn_cGFzdGVkX2ZpbGVfdDJVVHM5X1NjcmVlblJlY29yZGluZzIwMjYtMDgtMTVhdDExLjA5LjUwQU0.mov?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1HS0E2T2lXc3M3d1R4a2tGYWxJTWJXX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZkREpWVkhNNVgxTmpjbVZsYmxKbFkyOXlaR2x1WnpJd01qWXRNRGd0TVRWaGRERXhMakE1TGpVd1FVMC5tb3YiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIHDtFpi9gFb1eKlbAGKZ0wc9YlU8z8tTDUJuBnHtsbmFAiEAlOOyqhutVfpD9ZSndvq~smp9mgLC6qzQbZAGxSXC-Tc_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-GKA6OiWss7wTxkkFalIMbW_na1fn_cGFzdGVkX2ZpbGVfdDJVVHM5X1NjcmVlblJlY29yZGluZzIwMjYtMDgtMTVhdDExLjA5LjUwQU0.mov?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1HS0E2T2lXc3M3d1R4a2tGYWxJTWJXX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZkREpWVkhNNVgxTmpjbVZsYmxKbFkyOXlaR2x1WnpJd01qWXRNRGd0TVRWaGRERXhMakE1TGpVd1FVMC5tb3YiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICTWCPZ9KlSd9YAgspeCcOANM0hVonAxQ4ifZItx9NiWAiEA2lx-iEAaTStgtNhZV7U0kC5yGB2chaRfOqr5Q8vgs5Y_"
           }
         ],
         "content": "ummm .... ",
@@ -12509,6 +12509,142 @@
       },
       "timestamp": "1787875000680",
       "type": "status_update"
+    },
+    {
+      "id": "r2qywb9ZZNAXBixo4uWHAY",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus is resetting the computer",
+        "description": "Manus is resetting the computer, please wait for a while."
+      },
+      "timestamp": "1788202412002",
+      "type": "status_update"
+    },
+    {
+      "id": "uoXhmoJvXESNZ1WDczRnoz",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus has reset the computer successfully",
+        "description": "Manus has successfully reset the computer. You may now continue with the previous task."
+      },
+      "timestamp": "1788202427195",
+      "type": "status_update"
+    },
+    {
+      "id": "xA75MqfLU866owA54cvcKJ",
+      "timestamp": "1788202428496",
+      "type": "user_message",
+      "user_message": {
+        "content": "it appears that the collections data is not correct currently - can you double check your dad? ",
+        "message_type": "text"
+      }
+    },
+    {
+      "id": "FP5WsqiCR2L6oEoEpKyZjn",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1788202428658",
+      "type": "status_update"
+    },
+    {
+      "id": "XkHK8Ptws6t0wFExb5G98u",
+      "timestamp": "1788202430013",
+      "type": "user_message",
+      "user_message": {
+        "content": "data ",
+        "message_type": "text"
+      }
+    },
+    {
+      "assistant_message": {
+        "content": "I’ll re-check the live PropertyMax FLOW data against the Collections dashboard now. I won’t rely on the saved snapshot until I reconcile the current values property by property."
+      },
+      "id": "bWUa6pzdpr5nbrHYlduDAX",
+      "timestamp": "1788202439228",
+      "type": "assistant_message"
+    },
+    {
+      "id": "V89jZxBWt2C4LFhlnL1LDF",
+      "timestamp": "1788202502656",
+      "type": "user_message",
+      "user_message": {
+        "content": "also... i want to be able to sort the collections data in my app by regions so its easier to compare FLOW with ",
+        "message_type": "text"
+      }
+    },
+    {
+      "assistant_message": {
+        "content": "Absolutely. I’ll add a Region-first sorting option to Collections so you can group properties by Region 1–4 and compare the app directly against PropertyMax FLOW."
+      },
+      "id": "van1IZRcc3t2AAcC1mJiOY",
+      "timestamp": "1788202512350",
+      "type": "assistant_message"
+    },
+    {
+      "assistant_message": {
+        "content": "I found the discrepancy: the app was holding a same-day snapshot too long. During the audit, **Pelican Bay** changed by **$2,782** in the live FLOW report, while the dashboard still showed the earlier saved value.\n\nThe Collections tab now refreshes live FLOW data whenever the snapshot is more than **one minute old** and whenever you return to the app. I also added the **Region 1–4** sort option for direct comparison against FLOW. The fresh August 31 snapshot has **41 buildings** and **123 tests pass**.\n\nClick **Publish** to make this version live."
+      },
+      "id": "Gy9kFdwGSVCnxhfm9Z7f5s",
+      "timestamp": "1788203753233",
+      "type": "assistant_message"
+    },
+    {
+      "id": "a8yhfZg9T6K4CpbC1pZpr4",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1788203753759",
+      "type": "status_update"
+    },
+    {
+      "id": "lD9kkIVosWPOoSpjfh5QKK",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1788204686550",
+      "type": "status_update"
+    },
+    {
+      "id": "m71xUizSR1ks6ax5Fdsbea",
+      "timestamp": "1788204718354",
+      "type": "user_message",
+      "user_message": {
+        "content": "Send only me a test report email now ",
+        "message_type": "text"
+      }
+    },
+    {
+      "assistant_message": {
+        "content": "I’ll generate a fresh FLOW-based **Test3** Daily Collections Report, validate the current totals and recipient list, then send it to **only you**."
+      },
+      "id": "3vGeEA094k8dI4qYYTyg8t",
+      "timestamp": "1788204727527",
+      "type": "assistant_message"
+    },
+    {
+      "assistant_message": {
+        "content": "Sent successfully to **Brandon@ApartmentCorp.com only**.\n\nThe **[Test3]** Daily Collections Report was refreshed directly from PropertyMax FLOW immediately before sending. It contains **41 unique buildings**, no duplicate rows, and the current August 31 totals: **$5,450,439.27 expected rent**, **$5,347,041.89 collected**, and a **$103,397.38 variance**."
+      },
+      "id": "S9usS1llz0ef198t9IzGPp",
+      "timestamp": "1788204924763",
+      "type": "assistant_message"
+    },
+    {
+      "id": "HprFaFT09tg2Obha3HG8qQ",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1788204925250",
+      "type": "status_update"
     }
   ],
   "attachments": [
@@ -12517,208 +12653,210 @@
       "type": "image",
       "filename": "ApartmentCorpLOGO.png",
       "content_type": "image/png",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/mxS6TqexVMaCSKDYa8CMwg_na1fn_QXBhcnRtZW50Q29ycExPR08.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvbXhTNlRxZXhWTWFDU0tEWWE4Q013Z19uYTFmbl9RWEJoY25SdFpXNTBRMjl5Y0V4UFIwOC5wbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODk0MzA0MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQC4tBo0I4M-2Ht0xYoNH6BPkjN1QVFNkFJya8Lz8kDNOQIgRs7bXE2kv5UA7b4NXaOGkaOp1OqxtpIAPqa9w6IJjM0_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/mxS6TqexVMaCSKDYa8CMwg_na1fn_QXBhcnRtZW50Q29ycExPR08.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvbXhTNlRxZXhWTWFDU0tEWWE4Q013Z19uYTFmbl9RWEJoY25SdFpXNTBRMjl5Y0V4UFIwOC5wbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQD7spQ3fD1BDuULNQdmfCpr25VKVmeJMn5LNJwPGFeU6wIgeRWnhMOriXm1QQXYfH5TWf5go7NYTVM3fHTeTFeZ5vQ_",
       "status": "archived",
       "bytes": 1979,
-      "archive_path": "attachments/ZyMNjMqrfWqxl0S7FX0tLV/127-user_message-0_24ead33c247d530d_ApartmentCorpLOGO.png"
+      "archive_path": "attachments/ZyMNjMqrfWqxl0S7FX0tLV/127-user_message-0_64d0e1c0b211bf73_ApartmentCorpLOGO.png"
     },
     {
       "event_index": 195,
       "type": "file",
       "filename": "VacancyReportAppVideo.mov",
       "content_type": "video/quicktime",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/OAFr8m4uGJTQO25hKS6q6t_na1fn_VmFjYW5jeVJlcG9ydEFwcFZpZGVv.mov?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvT0FGcjhtNHVHSlRRTzI1aEtTNnE2dF9uYTFmbl9WbUZqWVc1amVWSmxjRzl5ZEVGd2NGWnBaR1Z2Lm1vdiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIAoROjNonJfmojxzALIVp60bxDfJPvibf-thLv3XI9zyAiAPSny1uBdprenk17FlPmHQis7H1vtwopqsOOGZYXj55w__",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/OAFr8m4uGJTQO25hKS6q6t_na1fn_VmFjYW5jeVJlcG9ydEFwcFZpZGVv.mov?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvT0FGcjhtNHVHSlRRTzI1aEtTNnE2dF9uYTFmbl9WbUZqWVc1amVWSmxjRzl5ZEVGd2NGWnBaR1Z2Lm1vdiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDUyYjx229z~0w76T4wrgQUvkCJIbzstoGiy8LzT98XaQIgOjefji2beCxXjoUr-WZ58dVg01t~pdOJQ0UJQyD2okA_",
       "status": "archived",
       "bytes": 12195955,
-      "archive_path": "attachments/ZyMNjMqrfWqxl0S7FX0tLV/195-user_message-0_3a59982529c17e04_VacancyReportAppVideo.mov"
+      "archive_path": "attachments/ZyMNjMqrfWqxl0S7FX0tLV/195-user_message-0_e8dd896dd38c368c_VacancyReportAppVideo.mov"
     },
     {
       "event_index": 616,
       "type": "file",
       "filename": "clickup-embed-guide.md",
       "content_type": "text/markdown",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/ZyMNjMqrfWqxl0S7FX0tLV/sandbox/btSJyjoMniKZnSTJoH7eIB_1776380742975_na1fn_L2hvbWUvdWJ1bnR1L2NsaWNrdXAtZW1iZWQtZ3VpZGU.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvWnlNTmpNcXJmV3F4bDBTN0ZYMHRMVi9zYW5kYm94L2J0U0p5am9NbmlLWm5TVEpvSDdlSUJfMTc3NjM4MDc0Mjk3NV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOc2FXTnJkWEF0WlcxaVpXUXRaM1ZwWkdVLm1kIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQC0i7VkTMVq-GVLpwARrOo0XcRDieG2rri8xrCXfzProQIhALBUlKR5zzMuTeP3fDVXpRdWWKbIVd~Sp4bymJ2lNKh9",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/ZyMNjMqrfWqxl0S7FX0tLV/sandbox/btSJyjoMniKZnSTJoH7eIB_1776380742975_na1fn_L2hvbWUvdWJ1bnR1L2NsaWNrdXAtZW1iZWQtZ3VpZGU.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvWnlNTmpNcXJmV3F4bDBTN0ZYMHRMVi9zYW5kYm94L2J0U0p5am9NbmlLWm5TVEpvSDdlSUJfMTc3NjM4MDc0Mjk3NV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOc2FXTnJkWEF0WlcxaVpXUXRaM1ZwWkdVLm1kIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwODEyODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIE42Rdf-tzKBwbwIpCGaGZmioaMrgYu26FQQ7aqsOGl7AiEAikOJskqXy25xlJHe~iTOGx0d-jMu-CuBtfl-FivF4fI_",
       "status": "archived",
       "bytes": 4236,
-      "archive_path": "attachments/ZyMNjMqrfWqxl0S7FX0tLV/616-assistant_message-0_1a5c022616a5bcc4_clickup-embed-guide.md"
+      "archive_path": "attachments/ZyMNjMqrfWqxl0S7FX0tLV/616-assistant_message-0_458fb6932262de42_clickup-embed-guide.md"
     },
     {
       "event_index": 642,
       "type": "file",
       "filename": "pasted_file_WT2x9o_PropertyMax.aiKPIs.xlsx",
       "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ajarLjYJu941AAnQ6qRFkZ_na1fn_cGFzdGVkX2ZpbGVfV1QyeDlvX1Byb3BlcnR5TWF4LmFpS1BJcw.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1hamFyTGpZSnU5NDFBQW5RNnFSRmtaX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZWMVF5ZURsdlgxQnliM0JsY25SNVRXRjRMbUZwUzFCSmN3Lnhsc3giLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODk0MzA0MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIBn4xmAc2SC2rOxRddhqW2wf5eAeLDE302UhASBBv8Y3AiAjDBXL-RRmUbYUfIyhLryPdYCucX1XD6fli-mUXeLYxA__",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ajarLjYJu941AAnQ6qRFkZ_na1fn_cGFzdGVkX2ZpbGVfV1QyeDlvX1Byb3BlcnR5TWF4LmFpS1BJcw.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1hamFyTGpZSnU5NDFBQW5RNnFSRmtaX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZWMVF5ZURsdlgxQnliM0JsY25SNVRXRjRMbUZwUzFCSmN3Lnhsc3giLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQClqOx7n6STYVMoRkDOnyx9SJ5U4q7VJD7bNlp8QNNp4QIhAJCgh8MMipNvYURxl55YR7gIBLrkd7c6qilrU3eEt9Cy",
       "status": "archived",
       "bytes": 90885,
-      "archive_path": "attachments/ZyMNjMqrfWqxl0S7FX0tLV/642-user_message-0_3310921c3fe524e3_pasted_file_WT2x9o_PropertyMax.aiKPIs.xlsx"
+      "archive_path": "attachments/ZyMNjMqrfWqxl0S7FX0tLV/642-user_message-0_96844072a4df3f60_pasted_file_WT2x9o_PropertyMax.aiKPIs.xlsx"
     },
     {
       "event_index": 851,
       "type": "file",
       "filename": "propertymax_rest_api_requirements.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/ZyMNjMqrfWqxl0S7FX0tLV/sandbox/zTtQ89sD86sP4sNJj8q28w_1781824114332_na1fn_L2hvbWUvdWJ1bnR1L3Byb3BlcnR5bWF4X3Jlc3RfYXBpX3JlcXVpcmVtZW50cw.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvWnlNTmpNcXJmV3F4bDBTN0ZYMHRMVi9zYW5kYm94L3pUdFE4OXNEODZzUDRzTkpqOHEyOHdfMTc4MTgyNDExNDMzMl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCeWIzQmxjblI1YldGNFgzSmxjM1JmWVhCcFgzSmxjWFZwY21WdFpXNTBjdy5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODk0MzA0MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIEa3Bs0eywfpCiFYgiSd6PYN1kwmuji9~wDpfxNkw8NiAiBuwLCtQ6TSwM86KfJti2ZUs8KbstHN2aKkaNchttEVmg__",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/ZyMNjMqrfWqxl0S7FX0tLV/sandbox/zTtQ89sD86sP4sNJj8q28w_1781824114332_na1fn_L2hvbWUvdWJ1bnR1L3Byb3BlcnR5bWF4X3Jlc3RfYXBpX3JlcXVpcmVtZW50cw.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvWnlNTmpNcXJmV3F4bDBTN0ZYMHRMVi9zYW5kYm94L3pUdFE4OXNEODZzUDRzTkpqOHEyOHdfMTc4MTgyNDExNDMzMl9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDNCeWIzQmxjblI1YldGNFgzSmxjM1JmWVhCcFgzSmxjWFZwY21WdFpXNTBjdy5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDilWk1rztcCKUdM11h5DWy12KQOmhsLCLWMfLjjILB9AIgXlWrRuuXrSnzNCG39JbkLgWPSF6ZfTFq7bwGEaoxojU_",
       "status": "archived",
       "bytes": 325995,
-      "archive_path": "attachments/ZyMNjMqrfWqxl0S7FX0tLV/851-assistant_message-0_d5ad1cdd3d1b7a95_propertymax_rest_api_requirements.pdf"
+      "archive_path": "attachments/ZyMNjMqrfWqxl0S7FX0tLV/851-assistant_message-0_8c922a4585b79625_propertymax_rest_api_requirements.pdf"
     },
     {
       "event_index": 926,
       "type": "file",
       "filename": "missing_ask_rent_report.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/ZyMNjMqrfWqxl0S7FX0tLV/sandbox/88ZJ3sPY5jV1IJpMaa3LXb_1781827271974_na1fn_L2hvbWUvdWJ1bnR1L21pc3NpbmdfYXNrX3JlbnRfcmVwb3J0.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvWnlNTmpNcXJmV3F4bDBTN0ZYMHRMVi9zYW5kYm94Lzg4Wkozc1BZNWpWMUlKcE1hYTNMWGJfMTc4MTgyNzI3MTk3NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDIxcGMzTnBibWRmWVhOclgzSmxiblJmY21Wd2IzSjAucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIApI5P4dr2IFiojHKj5CDRXnUsPmJEyDESx~L5Dz~WOhAiEAwmzik46MfmblMRX79PKBIXwVCjpNEhl8-r-62wMDct8_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/ZyMNjMqrfWqxl0S7FX0tLV/sandbox/88ZJ3sPY5jV1IJpMaa3LXb_1781827271974_na1fn_L2hvbWUvdWJ1bnR1L21pc3NpbmdfYXNrX3JlbnRfcmVwb3J0.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvWnlNTmpNcXJmV3F4bDBTN0ZYMHRMVi9zYW5kYm94Lzg4Wkozc1BZNWpWMUlKcE1hYTNMWGJfMTc4MTgyNzI3MTk3NF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDIxcGMzTnBibWRmWVhOclgzSmxiblJmY21Wd2IzSjAucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwODEyODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDIWiS3Dag2pQF7jjoiT-ZzK7zRNH-IsHYvNUATn9xRXQIgbsx1ZISS0DGdUwlntc3KQVB8gv1DAH~5I68MwWbTWdU_",
       "status": "archived",
       "bytes": 276961,
-      "archive_path": "attachments/ZyMNjMqrfWqxl0S7FX0tLV/926-assistant_message-0_7d19bb18e349fc99_missing_ask_rent_report.pdf"
+      "archive_path": "attachments/ZyMNjMqrfWqxl0S7FX0tLV/926-assistant_message-0_38d886a0396a98c7_missing_ask_rent_report.pdf"
     },
     {
       "event_index": 993,
       "type": "file",
       "filename": "Updated_Company_Contacts.xlsx",
       "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663431917383/uploads/temp-FcuX6KAv3do5mXhyLb2Ql7_na1fn_VXBkYXRlZF9Db21wYW55X0NvbnRhY3Rz.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDMxOTE3MzgzL3VwbG9hZHMvdGVtcC1GY3VYNktBdjNkbzVtWGh5TGIyUWw3X25hMWZuX1ZYQmtZWFJsWkY5RGIyMXdZVzU1WDBOdmJuUmhZM1J6Lnhsc3giLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODk0MzA0MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIGze7bfr0gdsAeDMo~t2QXvz6~xH9Q1W9vou5nb94VE4AiBzduPfp6kz3xUM3m462dmHNOtYWNTigAJt-bu8ONGETw__",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663431917383/uploads/temp-FcuX6KAv3do5mXhyLb2Ql7_na1fn_VXBkYXRlZF9Db21wYW55X0NvbnRhY3Rz.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDMxOTE3MzgzL3VwbG9hZHMvdGVtcC1GY3VYNktBdjNkbzVtWGh5TGIyUWw3X25hMWZuX1ZYQmtZWFJsWkY5RGIyMXdZVzU1WDBOdmJuUmhZM1J6Lnhsc3giLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICDFTrT~ypH9idffVMDc0jaxSNn8vjOimrdwCrjLnMzOAiEAnDM76uX55rZfR6tSIEoh180hZnOiNKYyuSxprlawXhw_",
       "status": "archived",
       "bytes": 14487,
-      "archive_path": "attachments/ZyMNjMqrfWqxl0S7FX0tLV/993-user_message-0_4bfec0e5686b069f_Updated_Company_Contacts.xlsx"
+      "archive_path": "attachments/ZyMNjMqrfWqxl0S7FX0tLV/993-user_message-0_5994eef0bce4d99b_Updated_Company_Contacts.xlsx"
     },
     {
       "event_index": 1043,
       "type": "file",
       "filename": "eviction_email_drafts.md",
       "content_type": "text/markdown",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/ZyMNjMqrfWqxl0S7FX0tLV/sandbox/IOgbstwQat9yRTsx6zyoDR_1782783129733_na1fn_L2hvbWUvdWJ1bnR1L2V2aWN0aW9uX2VtYWlsX2RyYWZ0cw.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvWnlNTmpNcXJmV3F4bDBTN0ZYMHRMVi9zYW5kYm94L0lPZ2JzdHdRYXQ5eVJUc3g2enlvRFJfMTc4Mjc4MzEyOTczM19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJWMmFXTjBhVzl1WDJWdFlXbHNYMlJ5WVdaMGN3Lm1kIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NDMwNDAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIEu8n~gejkbrBHbNA6n9D0abiFb1ZHxxm9jx0YBCcMviAiEA~76KrRBgvXEBjOIvKaXj3m9jY-JpyjBvbRHh67EHzoU_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/ZyMNjMqrfWqxl0S7FX0tLV/sandbox/IOgbstwQat9yRTsx6zyoDR_1782783129733_na1fn_L2hvbWUvdWJ1bnR1L2V2aWN0aW9uX2VtYWlsX2RyYWZ0cw.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvWnlNTmpNcXJmV3F4bDBTN0ZYMHRMVi9zYW5kYm94L0lPZ2JzdHdRYXQ5eVJUc3g2enlvRFJfMTc4Mjc4MzEyOTczM19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJWMmFXTjBhVzl1WDJWdFlXbHNYMlJ5WVdaMGN3Lm1kIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwODEyODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIE~88iM1W5RXFhdpgn2ppGgM-wnHzDbrcmAnOuFUnxTiAiEAr8JnsoK1UFjPAuCQeHwVQr7QdLhu-7AAnJXqr18OZYg_",
       "status": "archived",
       "bytes": 6359,
-      "archive_path": "attachments/ZyMNjMqrfWqxl0S7FX0tLV/1043-assistant_message-0_81bcee88c11ded5d_eviction_email_drafts.md"
+      "archive_path": "attachments/ZyMNjMqrfWqxl0S7FX0tLV/1043-assistant_message-0_8fc65cf5fc2fd30a_eviction_email_drafts.md"
     },
     {
       "event_index": 1175,
       "type": "image",
       "filename": "pasted_file_wTetZJ_image.png",
       "content_type": "image/png",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-vtiD9OYCwvugKI4ymxCgUz_na1fn_cGFzdGVkX2ZpbGVfd1RldFpKX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC12dGlEOU9ZQ3d2dWdLSTR5bXhDZ1V6X25hMWZuX2NHRnpkR1ZrWDJacGJHVmZkMVJsZEZwS1gybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIHCgE2M0PAWLfYfbbN3kNNoibtadXAHcXN0QFqfmBdvRAiEAkjdLFaaRIZdWE1xyUiirwfUEqqhfs1sFEqw36I9eeZk_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-vtiD9OYCwvugKI4ymxCgUz_na1fn_cGFzdGVkX2ZpbGVfd1RldFpKX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC12dGlEOU9ZQ3d2dWdLSTR5bXhDZ1V6X25hMWZuX2NHRnpkR1ZrWDJacGJHVmZkMVJsZEZwS1gybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQC5vVpN6DxkZHSUEg3pkGQO-Hd-fSLz5RkSd1w5-3ibcAIgPllbR6Sr~88E3TvVGjXBelRiKsEReGS-PcGPQse32Yk_",
       "status": "archived",
       "bytes": 555844,
-      "archive_path": "attachments/ZyMNjMqrfWqxl0S7FX0tLV/1175-user_message-0_924cb42c3a3185d0_pasted_file_wTetZJ_image.png"
+      "archive_path": "attachments/ZyMNjMqrfWqxl0S7FX0tLV/1175-user_message-0_f7266e529f91ab45_pasted_file_wTetZJ_image.png"
     },
     {
       "event_index": 1183,
       "type": "image",
       "filename": "pasted_file_wTetZJ_image.png",
       "content_type": "image/png",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-vtiD9OYCwvugKI4ymxCgUz_na1fn_cGFzdGVkX2ZpbGVfd1RldFpKX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC12dGlEOU9ZQ3d2dWdLSTR5bXhDZ1V6X25hMWZuX2NHRnpkR1ZrWDJacGJHVmZkMVJsZEZwS1gybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIHCgE2M0PAWLfYfbbN3kNNoibtadXAHcXN0QFqfmBdvRAiEAkjdLFaaRIZdWE1xyUiirwfUEqqhfs1sFEqw36I9eeZk_",
-      "status": "duplicate_reference"
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-vtiD9OYCwvugKI4ymxCgUz_na1fn_cGFzdGVkX2ZpbGVfd1RldFpKX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC12dGlEOU9ZQ3d2dWdLSTR5bXhDZ1V6X25hMWZuX2NHRnpkR1ZrWDJacGJHVmZkMVJsZEZwS1gybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIES2fHc5emhcvfrN4cLo3BwQZ~qTSfFXBB3kvG0sUWYtAiEA9yRz3DYOQW4iNsVFSKkZDro2VA-BF8uAw-vBNkcHv7A_",
+      "status": "archived",
+      "bytes": 555844,
+      "archive_path": "attachments/ZyMNjMqrfWqxl0S7FX0tLV/1183-user_message-0_78a7cb592294b243_pasted_file_wTetZJ_image.png"
     },
     {
       "event_index": 1201,
       "type": "image",
       "filename": "pasted_file_44gSfE_image.png",
       "content_type": "image/png",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-KEgL0ERoq3wAzLVWFIJcVV_na1fn_cGFzdGVkX2ZpbGVfNDRnU2ZFX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1LRWdMMEVSb3Ezd0F6TFZXRklKY1ZWX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZORFJuVTJaRlgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIBz-PE6ytojQLm9FtYoifVkT3JOv-ltn3jGrYAorNfWtAiAT-hmg77snL1bzmte0wIHELVuCbRzdzNYZqm-2yxK6mg__",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-KEgL0ERoq3wAzLVWFIJcVV_na1fn_cGFzdGVkX2ZpbGVfNDRnU2ZFX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1LRWdMMEVSb3Ezd0F6TFZXRklKY1ZWX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZORFJuVTJaRlgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIBqGnwwV3NSvlAG8iCNdKCEDjOOdzpTSEv6zPIGl1uEjAiBZFfChPYi~BqbmghMQ9u0B9zpEPxp1dEen94NwjXNeYg__",
       "status": "archived",
       "bytes": 496189,
-      "archive_path": "attachments/ZyMNjMqrfWqxl0S7FX0tLV/1201-user_message-0_3c114b4694a0d191_pasted_file_44gSfE_image.png"
+      "archive_path": "attachments/ZyMNjMqrfWqxl0S7FX0tLV/1201-user_message-0_20fc58332533f82a_pasted_file_44gSfE_image.png"
     },
     {
       "event_index": 1206,
       "type": "image",
       "filename": "pasted_file_HFGLL6_image.png",
       "content_type": "image/png",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-dhsuLAa4sLobjrkbbkLFPD_na1fn_cGFzdGVkX2ZpbGVfSEZHTEw2X2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1kaHN1TEFhNHNMb2JqcmtiYmtMRlBEX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZTRVpIVEV3MlgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDeFewtZ6EZVty4TFzpCjkr3T6elPD55Pi~RGwwN4pNCwIhAJoT~VPYC9MGNPwwz0~s67VsP1DfeccHc3~4VTWmgCRA",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-dhsuLAa4sLobjrkbbkLFPD_na1fn_cGFzdGVkX2ZpbGVfSEZHTEw2X2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1kaHN1TEFhNHNMb2JqcmtiYmtMRlBEX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZTRVpIVEV3MlgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCjX8XHog6S8l2a34UkFiqa8lEf3OhREuNfUpu38SesWQIhANiULTHbY1ZdFvMhCmCEg9DgCPxdgnw8gvMv3jyWAEaY",
       "status": "archived",
       "bytes": 339254,
-      "archive_path": "attachments/ZyMNjMqrfWqxl0S7FX0tLV/1206-user_message-0_1b6211c7e9289239_pasted_file_HFGLL6_image.png"
+      "archive_path": "attachments/ZyMNjMqrfWqxl0S7FX0tLV/1206-user_message-0_779b99e52956f6c5_pasted_file_HFGLL6_image.png"
     },
     {
       "event_index": 1248,
       "type": "image",
       "filename": "pasted_file_1DXMAH_image.png",
       "content_type": "image/png",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-pZp1OQSur1JTBD3oyHqTnX_na1fn_cGFzdGVkX2ZpbGVfMURYTUFIX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1wWnAxT1FTdXIxSlRCRDNveUhxVG5YX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZNVVJZVFVGSVgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIBnpuIsUff4Uurgi9d5vimmntAEZFoTsEb3jrmUOX4unAiEA0twHGlOhwxI2atpPDumjTBQ3GvHWJJau0sCciDWa2g0_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-pZp1OQSur1JTBD3oyHqTnX_na1fn_cGFzdGVkX2ZpbGVfMURYTUFIX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1wWnAxT1FTdXIxSlRCRDNveUhxVG5YX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZNVVJZVFVGSVgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIFm--eBXXwXIUJQkKuUL361ZnCiiLeoOA3EL0-mAFXEmAiBOUdAsMpaPMGwmR1j3omnBBRhDnemp1T~Tgb3SICmzVg__",
       "status": "archived",
       "bytes": 190970,
-      "archive_path": "attachments/ZyMNjMqrfWqxl0S7FX0tLV/1248-user_message-0_e268c25d49b51a8e_pasted_file_1DXMAH_image.png"
+      "archive_path": "attachments/ZyMNjMqrfWqxl0S7FX0tLV/1248-user_message-0_21ecd208114b6d5a_pasted_file_1DXMAH_image.png"
     },
     {
       "event_index": 1258,
       "type": "image",
       "filename": "screenshot_3A54FFE1-8B4C-4ADD-B337-695EC177CE03.png",
       "content_type": "image/png",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/w3D3NZvVJJMkmbz4mCcQR6_na1fn_c2NyZWVuc2hvdF8zQTU0RkZFMS04QjRDLTRBREQtQjMzNy02OTVFQzE3N0NFMDM.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdzNEM05adlZKSk1rbWJ6NG1DY1FSNl9uYTFmbl9jMk55WldWdWMyaHZkRjh6UVRVMFJrWkZNUzA0UWpSRExUUkJSRVF0UWpNek55MDJPVFZGUXpFM04wTkZNRE0ucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIASL-SEEdWQv65ZT74O8itny72VQ2N5UkjBr4U15MdyeAiEAvShaqXS~6uar5NjBD0msQDIjN2N4BIFdoRTdRxFA~5o_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/w3D3NZvVJJMkmbz4mCcQR6_na1fn_c2NyZWVuc2hvdF8zQTU0RkZFMS04QjRDLTRBREQtQjMzNy02OTVFQzE3N0NFMDM.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdzNEM05adlZKSk1rbWJ6NG1DY1FSNl9uYTFmbl9jMk55WldWdWMyaHZkRjh6UVRVMFJrWkZNUzA0UWpSRExUUkJSRVF0UWpNek55MDJPVFZGUXpFM04wTkZNRE0ucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwODEyODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCICUaVMl8QSkbEz~GcFhDQVwtUGPpuWMEYT~HGowBoTJvAiAkKfwTA5x-NL4iRtV2TI9YhXoO~EKjT4JM9nSVfNHL-w__",
       "status": "archived",
       "bytes": 449754,
-      "archive_path": "attachments/ZyMNjMqrfWqxl0S7FX0tLV/1258-user_message-0_79c40ef1ff211707_screenshot_3A54FFE1-8B4C-4ADD-B337-695EC177CE03.png"
+      "archive_path": "attachments/ZyMNjMqrfWqxl0S7FX0tLV/1258-user_message-0_733f16257d1dd932_screenshot_3A54FFE1-8B4C-4ADD-B337-695EC177CE03.png"
     },
     {
       "event_index": 1281,
       "type": "file",
       "filename": "fresh_flow_collections_email_preview.html",
       "content_type": "text/html; charset=utf-8",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/ZyMNjMqrfWqxl0S7FX0tLV/sandbox/AtqLvA3Gjsj6VxiOZTfHAW_1786743682563_na1fn_L2hvbWUvdWJ1bnR1L2ZyZXNoX2Zsb3dfY29sbGVjdGlvbnNfZW1haWxfcHJldmlldw.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvWnlNTmpNcXJmV3F4bDBTN0ZYMHRMVi9zYW5kYm94L0F0cUx2QTNHanNqNlZ4aU9aVGZIQVdfMTc4Njc0MzY4MjU2M19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJaeVpYTm9YMlpzYjNkZlkyOXNiR1ZqZEdsdmJuTmZaVzFoYVd4ZmNISmxkbWxsZHcuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQD4cY8Blz-gSB1KrX6~MFjBAAHqdcWotx6uFGk1JFqauAIgefIJMNj91lDSf8fXamywHEab85M5A7~owLK1KrHrpZE_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/ZyMNjMqrfWqxl0S7FX0tLV/sandbox/AtqLvA3Gjsj6VxiOZTfHAW_1786743682563_na1fn_L2hvbWUvdWJ1bnR1L2ZyZXNoX2Zsb3dfY29sbGVjdGlvbnNfZW1haWxfcHJldmlldw.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvWnlNTmpNcXJmV3F4bDBTN0ZYMHRMVi9zYW5kYm94L0F0cUx2QTNHanNqNlZ4aU9aVGZIQVdfMTc4Njc0MzY4MjU2M19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJaeVpYTm9YMlpzYjNkZlkyOXNiR1ZqZEdsdmJuTmZaVzFoYVd4ZmNISmxkbWxsZHcuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQC7hHYlod9lj24e0HJfx0koJJT-NzsI5-P~WaBp9Qrz8QIgFTQRuPqLAkgdhwBVVhH66XW6oGPje7FJDqRlvUnuLL4_",
       "status": "archived",
       "bytes": 45866,
-      "archive_path": "attachments/ZyMNjMqrfWqxl0S7FX0tLV/1281-assistant_message-0_01d58a8e1ecce9b7_fresh_flow_collections_email_preview.html"
+      "archive_path": "attachments/ZyMNjMqrfWqxl0S7FX0tLV/1281-assistant_message-0_dc535962ace758b8_fresh_flow_collections_email_preview.html"
     },
     {
       "event_index": 1293,
       "type": "image",
       "filename": "pasted_file_NdpyNH_image.webp",
       "content_type": "image/webp",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-76cL5POTktrAaKvb66VCGV_na1fn_cGFzdGVkX2ZpbGVfTmRweU5IX2ltYWdl.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC03NmNMNVBPVGt0ckFhS3ZiNjZWQ0dWX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZUbVJ3ZVU1SVgybHRZV2RsLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCGDzN3-9XJ5-fwjSEqpD~L7HtHv--8vUlELoOesA-20wIhAKB8dpnOC4t73IQBWNqAw6BDT4jt49nJ0dgEv4NAiw67",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-76cL5POTktrAaKvb66VCGV_na1fn_cGFzdGVkX2ZpbGVfTmRweU5IX2ltYWdl.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC03NmNMNVBPVGt0ckFhS3ZiNjZWQ0dWX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZUbVJ3ZVU1SVgybHRZV2RsLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIFai66QOmrl43zWwpsg59Onha8l5kmvokN4bwDZjVtaZAiEApt864tZ8DUwC36CZfb2C~OsWff82h7GD1MM8TY0uv2s_",
       "status": "archived",
       "bytes": 87132,
-      "archive_path": "attachments/ZyMNjMqrfWqxl0S7FX0tLV/1293-user_message-0_a8e6b329cade4924_pasted_file_NdpyNH_image.webp"
+      "archive_path": "attachments/ZyMNjMqrfWqxl0S7FX0tLV/1293-user_message-0_d0afb11e43abbfcd_pasted_file_NdpyNH_image.webp"
     },
     {
       "event_index": 1296,
       "type": "image",
       "filename": "pasted_file_gZgBMe_image.webp",
       "content_type": "image/webp",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-v3xZBz4ucZ0xFeK5dUYS8S_na1fn_cGFzdGVkX2ZpbGVfZ1pnQk1lX2ltYWdl.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC12M3haQno0dWNaMHhGZUs1ZFVZUzhTX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZaMXBuUWsxbFgybHRZV2RsLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIEJigM04llUDLPf2khrXqZ5p~1YGEK9bl18IKCt030PGAiEAno7ZrpYzMSsd3T-cjST0XFbDyxjpLVqi1-FTuNzE4-I_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-v3xZBz4ucZ0xFeK5dUYS8S_na1fn_cGFzdGVkX2ZpbGVfZ1pnQk1lX2ltYWdl.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC12M3haQno0dWNaMHhGZUs1ZFVZUzhTX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZaMXBuUWsxbFgybHRZV2RsLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICmDg99NKzCiVt4wOKIYXMHNeW~-ugysblhYLsHefe-ZAiEAjlnJXieXfbadOJRn3HUr08gnEp8ftM5ltqwnbFDFn~o_",
       "status": "archived",
       "bytes": 85248,
-      "archive_path": "attachments/ZyMNjMqrfWqxl0S7FX0tLV/1296-user_message-0_c45a5d9c0ce9a81c_pasted_file_gZgBMe_image.webp"
+      "archive_path": "attachments/ZyMNjMqrfWqxl0S7FX0tLV/1296-user_message-0_98a8d356ee2387b9_pasted_file_gZgBMe_image.webp"
     },
     {
       "event_index": 1300,
       "type": "file",
       "filename": "pasted_content.txt",
       "content_type": "text/plain",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-peeeewMfrKWhi2Ho5KdfEG_na1fn_cGFzdGVkX2NvbnRlbnQ.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1wZWVlZXdNZnJLV2hpMkhvNUtkZkVHX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjIwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQC~NC0zmAI1W0DzrnAvHnLnffExG74SkI44bom5Rr2hzAIhANmU9TgnYpKskNZYotz9DE6t-jWVvoiJubAVv0M7r2oy",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-peeeewMfrKWhi2Ho5KdfEG_na1fn_cGFzdGVkX2NvbnRlbnQ.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1wZWVlZXdNZnJLV2hpMkhvNUtkZkVHX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwODEyODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICzjnJ~gfhSYqoG25jXaf3~XfTE112usyg7uk8UJfCrVAiEA1bgHoDRXbCUx8eSHsGcXJ6yz-22n05dNHKsDK8UlAi8_",
       "status": "archived",
       "bytes": 3970,
-      "archive_path": "attachments/ZyMNjMqrfWqxl0S7FX0tLV/1300-user_message-0_b614104257bebe89_pasted_content.txt"
+      "archive_path": "attachments/ZyMNjMqrfWqxl0S7FX0tLV/1300-user_message-0_d953cb7745c8c4c3_pasted_content.txt"
     },
     {
       "event_index": 1303,
       "type": "file",
       "filename": "fresh_flow_collections_email_preview.html",
       "content_type": "text/html; charset=utf-8",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/ZyMNjMqrfWqxl0S7FX0tLV/sandbox/lRFUwJgdobrmNQ3VJdIoOS_1786815653877_na1fn_L2hvbWUvdWJ1bnR1L2ZyZXNoX2Zsb3dfY29sbGVjdGlvbnNfZW1haWxfcHJldmlldw.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvWnlNTmpNcXJmV3F4bDBTN0ZYMHRMVi9zYW5kYm94L2xSRlV3Smdkb2JybU5RM1ZKZElvT1NfMTc4NjgxNTY1Mzg3N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJaeVpYTm9YMlpzYjNkZlkyOXNiR1ZqZEdsdmJuTmZaVzFoYVd4ZmNISmxkbWxsZHcuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODIyMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIFmaZ1O2R10SNMXg9M9doZ-lCv~OWfYLN3PTg1t~VmaFAiEAtIa1gyYWPJKTg8sA9cfvO3zkaRX5iZvwyX20PQU8dBI_",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/ZyMNjMqrfWqxl0S7FX0tLV/sandbox/lRFUwJgdobrmNQ3VJdIoOS_1786815653877_na1fn_L2hvbWUvdWJ1bnR1L2ZyZXNoX2Zsb3dfY29sbGVjdGlvbnNfZW1haWxfcHJldmlldw.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvWnlNTmpNcXJmV3F4bDBTN0ZYMHRMVi9zYW5kYm94L2xSRlV3Smdkb2JybU5RM1ZKZElvT1NfMTc4NjgxNTY1Mzg3N19uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJaeVpYTm9YMlpzYjNkZlkyOXNiR1ZqZEdsdmJuTmZaVzFoYVd4ZmNISmxkbWxsZHcuaHRtbCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDVfOn0~Hg6osCE3TSQwEKBM5hQu~z0QyxjkUdVRx-KBAIhANFRAypu2~L7IsCsKHFqwPKLEGtYK3mlCHVmOHznQkBl",
       "status": "archived",
       "bytes": 59793,
-      "archive_path": "attachments/ZyMNjMqrfWqxl0S7FX0tLV/1303-assistant_message-0_329651f3ecd6fec9_fresh_flow_collections_email_preview.html"
+      "archive_path": "attachments/ZyMNjMqrfWqxl0S7FX0tLV/1303-assistant_message-0_83bbbea63106a175_fresh_flow_collections_email_preview.html"
     },
     {
       "event_index": 1310,
       "type": "image",
       "filename": "pasted_file_8Mu6Cn_image.webp",
       "content_type": "image/webp",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-nF6p6YMHZAOsf7CQWl59uo_na1fn_cGFzdGVkX2ZpbGVfOE11NkNuX2ltYWdl.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1uRjZwNllNSFpBT3NmN0NRV2w1OXVvX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZPRTExTmtOdVgybHRZV2RsLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCID6~pQjBL2zLQo6KjJKfiVJ~1MtloImJ4jHNMkw0HmjjAiEAr7Eaw4MGbGloAXtuDfgN6V4zrThhKEYVytvmXONAp0A_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-nF6p6YMHZAOsf7CQWl59uo_na1fn_cGFzdGVkX2ZpbGVfOE11NkNuX2ltYWdl.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1uRjZwNllNSFpBT3NmN0NRV2w1OXVvX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZPRTExTmtOdVgybHRZV2RsLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCAgTFyXcV0aOPeVktJsul-rQ0ePgP8lwTib3ivUiNZbAIhAN2tRTktxpCZXqq72k3wobIde4eo9AcAXb3un8Ysuhuc",
       "status": "archived",
       "bytes": 69506,
-      "archive_path": "attachments/ZyMNjMqrfWqxl0S7FX0tLV/1310-user_message-0_f9ecf431d46f8d92_pasted_file_8Mu6Cn_image.webp"
+      "archive_path": "attachments/ZyMNjMqrfWqxl0S7FX0tLV/1310-user_message-0_7c12240743c358c1_pasted_file_8Mu6Cn_image.webp"
     },
     {
       "event_index": 1315,
       "type": "file",
       "filename": "pasted_file_t2UTs9_ScreenRecording2026-08-15at11.09.50AM.mov",
       "content_type": "video/quicktime",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-GKA6OiWss7wTxkkFalIMbW_na1fn_cGFzdGVkX2ZpbGVfdDJVVHM5X1NjcmVlblJlY29yZGluZzIwMjYtMDgtMTVhdDExLjA5LjUwQU0.mov?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1HS0E2T2lXc3M3d1R4a2tGYWxJTWJXX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZkREpWVkhNNVgxTmpjbVZsYmxKbFkyOXlaR2x1WnpJd01qWXRNRGd0TVRWaGRERXhMakE1TGpVd1FVMC5tb3YiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIHDtFpi9gFb1eKlbAGKZ0wc9YlU8z8tTDUJuBnHtsbmFAiEAlOOyqhutVfpD9ZSndvq~smp9mgLC6qzQbZAGxSXC-Tc_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-GKA6OiWss7wTxkkFalIMbW_na1fn_cGFzdGVkX2ZpbGVfdDJVVHM5X1NjcmVlblJlY29yZGluZzIwMjYtMDgtMTVhdDExLjA5LjUwQU0.mov?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1HS0E2T2lXc3M3d1R4a2tGYWxJTWJXX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZkREpWVkhNNVgxTmpjbVZsYmxKbFkyOXlaR2x1WnpJd01qWXRNRGd0TVRWaGRERXhMakE1TGpVd1FVMC5tb3YiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICTWCPZ9KlSd9YAgspeCcOANM0hVonAxQ4ifZItx9NiWAiEA2lx-iEAaTStgtNhZV7U0kC5yGB2chaRfOqr5Q8vgs5Y_",
       "status": "archived",
       "bytes": 2256126,
-      "archive_path": "attachments/ZyMNjMqrfWqxl0S7FX0tLV/1315-user_message-0_ae23f642296768d3_pasted_file_t2UTs9_ScreenRecording2026-08-15at11.09.50AM.mov"
+      "archive_path": "attachments/ZyMNjMqrfWqxl0S7FX0tLV/1315-user_message-0_87472df1f13a5a65_pasted_file_t2UTs9_ScreenRecording2026-08-15at11.09.50AM.mov"
     }
   ]
 }
