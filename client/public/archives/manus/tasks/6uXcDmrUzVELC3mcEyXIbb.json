@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-09-11T16:00:26.883334Z",
+  "task": {
+    "id": "6uXcDmrUzVELC3mcEyXIbb",
+    "title": "Reinstalled Browser Extension Troubleshooting",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 0,
+    "created_at": "1788886505",
+    "updated_at": "1788886511",
+    "task_url": "https://manus.im/app/6uXcDmrUzVELC3mcEyXIbb",
+    "message_count": 0
+  },
+  "event_count": 4,
+  "events": [
+    {
+      "id": "817EDpMCidNxShfUsxt0ku",
+      "timestamp": "1788886505573",
+      "type": "user_message",
+      "user_message": {
+        "content": "i reinstalled the extension ",
+        "message_type": "text"
+      }
+    },
+    {
+      "id": "WMfA6seieRmG4IY0bEM4vc-1",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1788886505834",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Thanks. Please try the extension again now and tell me what happens—whether it connects successfully or what error/message you see."
+      },
+      "id": "x4BP1kCrfYMRxrKGWjOBQJ",
+      "timestamp": "1788886509410",
+      "type": "assistant_message"
+    },
+    {
+      "id": "KQj3GNeT9EmKd2rvrJuQ0M",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1788886509612",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

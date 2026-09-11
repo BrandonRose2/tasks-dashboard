@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-09-11T16:00:27.762090Z",
+  "task": {
+    "id": "XNQlN2E0FXoSLG74JpyvGk",
+    "title": "Testing Connection to Edge Browser",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 5,
+    "created_at": "1788885115",
+    "updated_at": "1788885141",
+    "task_url": "https://manus.im/app/XNQlN2E0FXoSLG74JpyvGk",
+    "message_count": 0
+  },
+  "event_count": 5,
+  "events": [
+    {
+      "id": "OcFgwOpFP1UaTW2HbjZy3b",
+      "timestamp": "1788885115147",
+      "type": "user_message",
+      "user_message": {
+        "content": "testing connectioin to edge browser",
+        "message_type": "text"
+      }
+    },
+    {
+      "id": "TuuJoCqLFafSL0oquJCB3m-1",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1788885115586",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "I’ll verify whether the connected Edge/My Browser session is available and responsive."
+      },
+      "id": "ZWwaJ05VC24qfdmIxZob0y",
+      "timestamp": "1788885121206",
+      "type": "assistant_message"
+    },
+    {
+      "assistant_message": {
+        "content": "Connection successful. The connected Edge browser is responsive and navigated to `https://example.com` successfully."
+      },
+      "id": "fUJioiRF6chOOP8q1lfCHT",
+      "timestamp": "1788885141366",
+      "type": "assistant_message"
+    },
+    {
+      "id": "4d1yFjBBXb8vtvDSVpsRE9",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1788885141577",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

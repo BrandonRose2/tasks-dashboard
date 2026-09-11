@@ -2,8 +2,8 @@
   "schema_version": 1,
   "source": "Manus API v2 task.listMessages",
   "archive_status": "complete",
-  "total_indexed_tasks": 898,
-  "complete_task_count": 927,
+  "total_indexed_tasks": 902,
+  "complete_task_count": 931,
   "partial_artifact_task_count": 8,
   "failed_task_count": 0,
   "tasks": {
@@ -138,12 +138,12 @@
       "status": "complete"
     },
     "872IgKOR9sHygIUYCY0oJO": {
-      "task_updated_at": "1786240512",
-      "archived_at": "2026-08-28T21:48:25.248855Z",
+      "task_updated_at": "1788975358",
+      "archived_at": "2026-09-11T16:02:38.282162Z",
       "messages_path": "tasks/872IgKOR9sHygIUYCY0oJO.json",
-      "event_count": 351,
+      "event_count": 360,
       "attachment_count": 61,
-      "archived_attachment_count": 52,
+      "archived_attachment_count": 61,
       "referenced_only_attachment_count": 0,
       "status": "complete"
     },
@@ -1458,12 +1458,12 @@
       "status": "complete"
     },
     "JBpFhJDwONTjE2A2XRTOkh": {
-      "task_updated_at": "1786814325",
-      "archived_at": "2026-08-28T21:49:14.916171Z",
+      "task_updated_at": "1788809737",
+      "archived_at": "2026-09-11T16:03:53.094622Z",
       "messages_path": "tasks/JBpFhJDwONTjE2A2XRTOkh.json",
-      "event_count": 2658,
-      "attachment_count": 137,
-      "archived_attachment_count": 134,
+      "event_count": 2704,
+      "attachment_count": 142,
+      "archived_attachment_count": 139,
       "referenced_only_attachment_count": 3,
       "status": "partial_artifacts"
     },
@@ -1588,10 +1588,10 @@
       "status": "complete"
     },
     "gkPG1zk4auEHTrVhxz68oR": {
-      "task_updated_at": "1788324733",
-      "archived_at": "2026-09-04T15:55:30.197368Z",
+      "task_updated_at": "1789002149",
+      "archived_at": "2026-09-11T16:04:21.177430Z",
       "messages_path": "tasks/gkPG1zk4auEHTrVhxz68oR.json",
-      "event_count": 926,
+      "event_count": 932,
       "attachment_count": 31,
       "archived_attachment_count": 31,
       "referenced_only_attachment_count": 0,
@@ -2778,12 +2778,12 @@
       "status": "complete"
     },
     "rjed0XSuVokJYeS69jnsJz": {
-      "task_updated_at": "1779915082",
-      "archived_at": "2026-08-11T15:15:49.973766Z",
+      "task_updated_at": "1788910545",
+      "archived_at": "2026-09-11T16:04:26.675339Z",
       "messages_path": "tasks/rjed0XSuVokJYeS69jnsJz.json",
-      "event_count": 76,
-      "attachment_count": 6,
-      "archived_attachment_count": 6,
+      "event_count": 130,
+      "attachment_count": 7,
+      "archived_attachment_count": 7,
       "referenced_only_attachment_count": 0,
       "status": "complete"
     },
@@ -7038,12 +7038,12 @@
       "status": "complete"
     },
     "9Ap8dG4ztrNsH94FP2Q6UC": {
-      "task_updated_at": "1786814178",
-      "archived_at": "2026-08-28T21:52:49.909576Z",
+      "task_updated_at": "1788556202",
+      "archived_at": "2026-09-11T16:06:34.026399Z",
       "messages_path": "tasks/9Ap8dG4ztrNsH94FP2Q6UC.json",
-      "event_count": 3650,
-      "attachment_count": 176,
-      "archived_attachment_count": 176,
+      "event_count": 3666,
+      "attachment_count": 178,
+      "archived_attachment_count": 178,
       "referenced_only_attachment_count": 0,
       "status": "complete"
     },
@@ -9248,20 +9248,20 @@
       "status": "partial_artifacts"
     },
     "LyAQOTkn3HQF3vk3FynFw2": {
-      "task_updated_at": "1788488056",
-      "archived_at": "2026-09-04T15:54:37.812550Z",
+      "task_updated_at": "1788914915",
+      "archived_at": "2026-09-11T16:01:55.638570Z",
       "messages_path": "tasks/LyAQOTkn3HQF3vk3FynFw2.json",
-      "event_count": 1611,
-      "attachment_count": 102,
-      "archived_attachment_count": 99,
+      "event_count": 2161,
+      "attachment_count": 118,
+      "archived_attachment_count": 112,
       "referenced_only_attachment_count": 0,
       "status": "complete"
     },
     "8wRdS838QJtYStKQ07HyFz": {
-      "task_updated_at": "1788488907",
-      "archived_at": "2026-09-04T15:53:38.289068Z",
+      "task_updated_at": "1788553902",
+      "archived_at": "2026-09-11T16:00:30.760741Z",
       "messages_path": "tasks/8wRdS838QJtYStKQ07HyFz.json",
-      "event_count": 102,
+      "event_count": 116,
       "attachment_count": 3,
       "archived_attachment_count": 3,
       "referenced_only_attachment_count": 0,
@@ -9356,11 +9356,51 @@
       "archived_attachment_count": 2,
       "referenced_only_attachment_count": 0,
       "status": "complete"
+    },
+    "dsG7oEEc69nrAsfHx2UYvh": {
+      "task_updated_at": "1788887016",
+      "archived_at": "2026-09-11T16:00:26.441864Z",
+      "messages_path": "tasks/dsG7oEEc69nrAsfHx2UYvh.json",
+      "event_count": 6,
+      "attachment_count": 0,
+      "archived_attachment_count": 0,
+      "referenced_only_attachment_count": 0,
+      "status": "complete"
+    },
+    "6uXcDmrUzVELC3mcEyXIbb": {
+      "task_updated_at": "1788886511",
+      "archived_at": "2026-09-11T16:00:26.883334Z",
+      "messages_path": "tasks/6uXcDmrUzVELC3mcEyXIbb.json",
+      "event_count": 4,
+      "attachment_count": 0,
+      "archived_attachment_count": 0,
+      "referenced_only_attachment_count": 0,
+      "status": "complete"
+    },
+    "Ud2HbKK8aWD6h3Y3Wgjrfw": {
+      "task_updated_at": "1788886481",
+      "archived_at": "2026-09-11T16:00:27.327021Z",
+      "messages_path": "tasks/Ud2HbKK8aWD6h3Y3Wgjrfw.json",
+      "event_count": 6,
+      "attachment_count": 0,
+      "archived_attachment_count": 0,
+      "referenced_only_attachment_count": 0,
+      "status": "complete"
+    },
+    "XNQlN2E0FXoSLG74JpyvGk": {
+      "task_updated_at": "1788885141",
+      "archived_at": "2026-09-11T16:00:27.762090Z",
+      "messages_path": "tasks/XNQlN2E0FXoSLG74JpyvGk.json",
+      "event_count": 5,
+      "attachment_count": 0,
+      "archived_attachment_count": 0,
+      "referenced_only_attachment_count": 0,
+      "status": "complete"
     }
   },
   "failures": [],
-  "last_attempt_at": "2026-09-04T15:53:36.075325Z",
-  "task_index_last_synced": "2026-09-04T15:53:35.929265+00:00",
-  "last_synced": "2026-09-04T15:56:39.177811Z",
+  "last_attempt_at": "2026-09-11T16:00:26.183529Z",
+  "task_index_last_synced": "2026-09-11T16:00:25.742793+00:00",
+  "last_synced": "2026-09-11T16:06:34.190645Z",
   "last_mode": "updated"
 }

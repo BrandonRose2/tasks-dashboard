@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-09-11T16:00:26.441864Z",
+  "task": {
+    "id": "dsG7oEEc69nrAsfHx2UYvh",
+    "title": "What Are the Top 3 Videos to Watch on This YouTube Channel?",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6-lite",
+    "credits_used": 7,
+    "created_at": "1788886614",
+    "updated_at": "1788887016",
+    "task_url": "https://manus.im/app/dsG7oEEc69nrAsfHx2UYvh",
+    "message_count": 0
+  },
+  "event_count": 6,
+  "events": [
+    {
+      "id": "ddt15rBoZBYZvIdcNiDB6u",
+      "timestamp": "1788886614835",
+      "type": "user_message",
+      "user_message": {
+        "content": "Use My Browser to visit https://www.youtube.com/channel/UCYfdidRxbB8Qhf0Nx7ioOYw, then explore thoroughly. Tell me what's going on and suggest top 3 videos to watch.",
+        "message_type": "text"
+      }
+    },
+    {
+      "id": "Dw8mdfv931K4ZLbEPyY7as-1",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1788886615258",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "I’ll inspect the channel directly in your connected browser, review its recent and notable content, then summarize the channel and recommend three videos."
+      },
+      "id": "1fF4nBocGeu9yK6Z3GnZxA",
+      "timestamp": "1788886618958",
+      "type": "assistant_message"
+    },
+    {
+      "assistant_message": {
+        "content": "The connected browser is available in configuration, but its active window is currently unavailable; I’m checking the browser session state and will retry without changing anything."
+      },
+      "id": "FQGNrwoWiHi9ODssHdKNtc",
+      "timestamp": "1788886819045",
+      "type": "assistant_message"
+    },
+    {
+      "assistant_message": {
+        "content": "I couldn’t access the active My Browser window: the connector is enabled, but it reports **“No current window.”** Please open or reconnect the Chrome window containing your browser session, then tell me to retry."
+      },
+      "id": "wMCabFsojg3GnuUZE2prFX",
+      "timestamp": "1788887016379",
+      "type": "assistant_message"
+    },
+    {
+      "id": "y0kdoi1209NSKecEorOniM",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1788887016562",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

@@ -1,14 +1,62 @@
 {
   "tasks": [
     {
+      "id": "dsG7oEEc69nrAsfHx2UYvh",
+      "title": "What Are the Top 3 Videos to Watch on This YouTube Channel?",
+      "status": "stopped",
+      "type": "standard",
+      "agent_profile": "manus-1.6-lite",
+      "credits_used": 7,
+      "created_at": "1788886614",
+      "updated_at": "1788887016",
+      "task_url": "https://manus.im/app/dsG7oEEc69nrAsfHx2UYvh",
+      "message_count": 0
+    },
+    {
+      "id": "6uXcDmrUzVELC3mcEyXIbb",
+      "title": "Reinstalled Browser Extension Troubleshooting",
+      "status": "stopped",
+      "type": "standard",
+      "agent_profile": "manus-1.6-lite",
+      "credits_used": 0,
+      "created_at": "1788886505",
+      "updated_at": "1788886511",
+      "task_url": "https://manus.im/app/6uXcDmrUzVELC3mcEyXIbb",
+      "message_count": 0
+    },
+    {
+      "id": "Ud2HbKK8aWD6h3Y3Wgjrfw",
+      "title": "Debugging Start Steps",
+      "status": "stopped",
+      "type": "standard",
+      "agent_profile": "manus-1.6-lite",
+      "credits_used": 12,
+      "created_at": "1788886410",
+      "updated_at": "1788886481",
+      "task_url": "https://manus.im/app/Ud2HbKK8aWD6h3Y3Wgjrfw",
+      "message_count": 0
+    },
+    {
+      "id": "XNQlN2E0FXoSLG74JpyvGk",
+      "title": "Testing Connection to Edge Browser",
+      "status": "stopped",
+      "type": "standard",
+      "agent_profile": "manus-1.6-lite",
+      "credits_used": 5,
+      "created_at": "1788885115",
+      "updated_at": "1788885141",
+      "task_url": "https://manus.im/app/XNQlN2E0FXoSLG74JpyvGk",
+      "message_count": 0
+    },
+    {
       "id": "8wRdS838QJtYStKQ07HyFz",
       "title": "Replace Pick'em App Prototype with New Codebase",
       "status": "waiting",
       "type": "standard",
       "agent_profile": "manus-1.6",
-      "credits_used": 4686,
+      "credits_used": 5479,
       "created_at": "1788479808",
-      "updated_at": "1788488907",
+      "updated_at": "1788553902",
       "task_url": "https://manus.im/app/8wRdS838QJtYStKQ07HyFz",
       "message_count": 0
     },
@@ -147,12 +195,12 @@
     {
       "id": "LyAQOTkn3HQF3vk3FynFw2",
       "title": "Reports - Onesite & Yardi",
-      "status": "waiting",
+      "status": "stopped",
       "type": "project",
       "agent_profile": "manus-1.6",
-      "credits_used": 20769,
+      "credits_used": 34218,
       "created_at": "1787761017",
-      "updated_at": "1788488056",
+      "updated_at": "1788914915",
       "task_url": "https://manus.im/app/LyAQOTkn3HQF3vk3FynFw2",
       "message_count": 0
     },
@@ -1827,12 +1875,12 @@
     {
       "id": "872IgKOR9sHygIUYCY0oJO",
       "title": "B.Rose Creations Portfolio",
-      "status": "stopped",
+      "status": "waiting",
       "type": "standard",
       "agent_profile": "manus-1.6",
-      "credits_used": 8758,
+      "credits_used": 8912,
       "created_at": "1785810804",
-      "updated_at": "1786240512",
+      "updated_at": "1788975358",
       "task_url": "https://manus.im/app/872IgKOR9sHygIUYCY0oJO",
       "message_count": 0
     },
@@ -3210,9 +3258,9 @@
       "status": "stopped",
       "type": "project",
       "agent_profile": "manus-1.6",
-      "credits_used": 52316,
+      "credits_used": 53036,
       "created_at": "1781905242",
-      "updated_at": "1786814325",
+      "updated_at": "1788809737",
       "task_url": "https://manus.im/app/JBpFhJDwONTjE2A2XRTOkh",
       "message_count": 0
     },
@@ -3354,9 +3402,9 @@
       "status": "waiting",
       "type": "project",
       "agent_profile": "manus-1.6",
-      "credits_used": 20640,
+      "credits_used": 20790,
       "created_at": "1781724193",
-      "updated_at": "1788324733",
+      "updated_at": "1789002149",
       "task_url": "https://manus.im/app/gkPG1zk4auEHTrVhxz68oR",
       "message_count": 0
     },
@@ -4766,13 +4814,13 @@
     },
     {
       "id": "rjed0XSuVokJYeS69jnsJz",
-      "title": "Adding New Acquired Property",
+      "title": "Org Chart",
       "status": "stopped",
       "type": "standard",
       "agent_profile": "manus-1.6",
-      "credits_used": 1187,
+      "credits_used": 3048,
       "created_at": "1778726609",
-      "updated_at": "1779915082",
+      "updated_at": "1788910545",
       "task_url": "https://manus.im/app/rjed0XSuVokJYeS69jnsJz",
       "message_count": 0
     },
@@ -9882,9 +9930,9 @@
       "status": "stopped",
       "type": "project",
       "agent_profile": "manus-1.6",
-      "credits_used": 75515,
+      "credits_used": 76191,
       "created_at": "1776212897",
-      "updated_at": "1786814178",
+      "updated_at": "1788556202",
       "task_url": "https://manus.im/app/9Ap8dG4ztrNsH94FP2Q6UC",
       "message_count": 0
     },
@@ -10778,8 +10826,8 @@
     }
   ],
   "meta": {
-    "total": 898,
-    "last_synced": "2026-09-04T15:53:35.929265+00:00",
+    "total": 902,
+    "last_synced": "2026-09-11T16:00:25.742793+00:00",
     "source": "manus_api_sync"
   }
 }
