@@ -1,6 +1,18 @@
 {
   "tasks": [
     {
+      "id": "OMWelbbpy4zOxDIKaTxCb7",
+      "title": "Property Portfolio Analyzer - Offering Memorandum Intake Portal",
+      "status": "stopped",
+      "type": "standard",
+      "agent_profile": "manus-1.6",
+      "credits_used": 4261,
+      "created_at": "1792032717",
+      "updated_at": "1792086092",
+      "task_url": "https://manus.im/app/OMWelbbpy4zOxDIKaTxCb7",
+      "message_count": 0
+    },
+    {
       "id": "dsG7oEEc69nrAsfHx2UYvh",
       "title": "What Are the Top 3 Videos to Watch on This YouTube Channel?",
       "status": "stopped",
@@ -1875,12 +1887,12 @@
     {
       "id": "872IgKOR9sHygIUYCY0oJO",
       "title": "B.Rose Creations Portfolio",
-      "status": "waiting",
+      "status": "stopped",
       "type": "standard",
       "agent_profile": "manus-1.6",
-      "credits_used": 8912,
+      "credits_used": 9138,
       "created_at": "1785810804",
-      "updated_at": "1788975358",
+      "updated_at": "1792083503",
       "task_url": "https://manus.im/app/872IgKOR9sHygIUYCY0oJO",
       "message_count": 0
     },
@@ -10826,8 +10838,8 @@
     }
   ],
   "meta": {
-    "total": 902,
-    "last_synced": "2026-10-09T18:03:39.316044+00:00",
+    "total": 903,
+    "last_synced": "2026-10-16T16:13:38.932364+00:00",
     "source": "manus_api_sync"
   }
 }
