@@ -1,6 +1,18 @@
 {
   "tasks": [
     {
+      "id": "KHrMeDTkhHMB5TXUjmztCQ",
+      "title": "Explain the product\u2019s uses and benefits",
+      "status": "stopped",
+      "type": "standard",
+      "agent_profile": "manus-1.6",
+      "credits_used": 26,
+      "created_at": "1792451059",
+      "updated_at": "1792451120",
+      "task_url": "https://manus.im/app/KHrMeDTkhHMB5TXUjmztCQ",
+      "message_count": 0
+    },
+    {
       "id": "OMWelbbpy4zOxDIKaTxCb7",
       "title": "Property Portfolio Analyzer - Offering Memorandum Intake Portal",
       "status": "stopped",
@@ -3255,12 +3267,12 @@
     {
       "id": "ddSLZDcAvjOsPTDjn5zXz3",
       "title": "MyLoneWorkers : Monthly Inspections",
-      "status": "waiting",
+      "status": "stopped",
       "type": "project",
       "agent_profile": "manus-1.6",
-      "credits_used": 19203,
+      "credits_used": 19433,
       "created_at": "1782149420",
-      "updated_at": "1788219880",
+      "updated_at": "1792446888",
       "task_url": "https://manus.im/app/ddSLZDcAvjOsPTDjn5zXz3",
       "message_count": 0
     },
@@ -10830,16 +10842,16 @@
       "status": "stopped",
       "type": "project",
       "agent_profile": "manus-1.6",
-      "credits_used": 44475,
+      "credits_used": 48338,
       "created_at": "1773783593",
-      "updated_at": "1788204925",
+      "updated_at": "1792451509",
       "task_url": "https://manus.im/app/ZyMNjMqrfWqxl0S7FX0tLV",
       "message_count": 0
     }
   ],
   "meta": {
-    "total": 903,
-    "last_synced": "2026-10-16T16:13:38.932364+00:00",
+    "total": 904,
+    "last_synced": "2026-10-30T17:47:45.685088+00:00",
     "source": "manus_api_sync"
   }
 }

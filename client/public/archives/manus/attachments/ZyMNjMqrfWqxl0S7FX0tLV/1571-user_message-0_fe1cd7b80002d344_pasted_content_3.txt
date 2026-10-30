@@ -1,0 +1,321 @@
+APARTMENT CORP
+VACANCY REPORT
+Friday, September 4, 2026
+
+DAILY REPORT · PREVIEW
+Design review only — no email will be sent from this preview.
+It uses the last verified full-detail report from September 4, 2026 because PropertyMax is currently withholding live unit-detail rows. The visual layout, light-mode styling, and Collections link are what will be used once live detail coverage returns.
+View Live Dashboard →
+⚡ Vacancy Changes Today
+Buildings with vacancy changes since yesterday
+
+Building	Yesterday	Today	Change	Vac %	Units	Unlsd	Prelsd	Notice	Evictions
+Jefferson	0	2	👎 ▲ +2	2.7%	75	—	2	2	2
+Arbor Crest	4	5	👎 ▲ +1	4.2%	120	—	5	—	7
+Marrero	6	5	👍 ▼ -1	2.9%	173	5	—	—	—
+Wilmington	0	1	👎 ▲ +1	1.7%	60	1	—	—	5
+Current Vacancy Overview
+
+Total Vacant
+106
+Unleased
+57
+Preleased
+49
+On Notice
+31
+Evictions
+38
+⚠ At-Risk Properties (Vacancy > 4%)
+
+Building	Vacancy %	Vacant	Total Units
+Howell Place	10.4%	5	48
+Pirates Bend	10.4%	5	48
+Thibodaux	10.3%	11	107
+Grace Townhomes	8%	9	112
+Pelican Bay	5.9%	9	152
+Gates	5.1%	14	276
+Arbor Crest	4.2%	5	120
+Ruby	4.1%	3	73
+Vacancy by Building
+
+Building	Vac %	Total	Unlsd	Prelsd	Notice	Evictions
+Howell Place	10.4%	5	2	3	1	1
+Pirates Bend	10.4%	5	3	2	1	—
+Thibodaux	10.3%	11	10	1	2	4
+Grace Townhomes	8%	9	8	1	6	—
+Pelican Bay	5.9%	9	4	5	2	1
+Gates	5.1%	14	6	8	—	—
+Arbor Crest	4.2%	5	—	5	—	7
+Ruby	4.1%	3	1	2	—	—
+Crossroads	3.8%	6	2	4	—	3
+North Pointe	3.7%	1	1	—	—	2
+Walnut Hill	3.6%	6	3	3	1	—
+Windsor/Yorkshire	3%	4	3	1	—	5
+Marrero	2.9%	5	5	—	—	—
+Jefferson	2.7%	2	—	2	2	2
+Granite Ridge	2.5%	2	—	2	1	1
+Pacific	2.5%	2	—	2	1	1
+River Garden	2.4%	3	2	1	—	—
+Star	2.1%	1	1	—	—	—
+Grove Park	1.7%	1	1	—	—	—
+Wilmington	1.7%	1	1	—	—	5
+Lexington	1.6%	1	—	1	—	—
+Breckenridge	1.5%	1	1	—	—	—
+Coral Village	1.4%	1	—	1	—	1
+River Pointe	1.3%	2	—	2	4	—
+Thomasville	1%	1	1	—	—	—
+Boca Ciega	.9%	1	1	—	2	—
+St. Charles	.8%	1	1	—	—	—
+Bayou Pointe	0%	3	—	3	—	2
+Opa Locka	0%	0	—	—	8	—
+Holiday	0%	0	—	—	—	2
+Urban	0%	0	—	—	—	1
+Vacant / Unleased Units (57)
+
+The email presentation shows the first 50 units, followed by an overflow count, as in the verified full report.
+
+Building	Unit	Move Out	Days	Ask Rent	% Ready
+Boca Ciega	62	8/31/2026	4	$2,012.00	10%
+Thomasville	1000-D	8/31/2026	4	—	80%
+Breckenridge	2006 Lafayette	8/4/2026	31	$1,602.00	100%
+Crossroads	206	5/13/2026	114	$1,448.00	100%
+Crossroads	1002	9/3/2026	1	$1,900.00	20%
+Grace Townhomes	2214	8/31/2026	4	$1,375.00	—
+Grace Townhomes	2113	8/31/2026	4	$1,375.00	—
+Grace Townhomes	912	8/31/2026	4	$1,375.00	—
+Grace Townhomes	1713	5/4/2026	123	$1,375.00	100%
+Grace Townhomes	1812	5/22/2026	105	$1,206.00	100%
+Grace Townhomes	2311	9/3/2026	1	$1,375.00	—
+Grace Townhomes	2013	8/31/2026	4	$1,206.00	—
+Grace Townhomes	1311	8/20/2026	15	$1,550.00	30%
+Grove Park	3-32	9/2/2026	2	$1,684.00	90%
+Walnut Hill	303-k	8/14/2026	21	$1,346.00	90%
+Walnut Hill	301-B	8/14/2026	21	$1,518.00	80%
+Walnut Hill	501-L	7/31/2026	35	$1,518.00	60%
+Gates	1032DT	6/30/2026	66	$1,300.00	60%
+Gates	1025CI	8/1/2026	34	$1,100.00	—
+Gates	1021CI	8/1/2026	34	$1,100.00	40%
+Gates	1004DT	7/1/2026	65	$1,200.00	30%
+Gates	1144DT	6/30/2026	66	$1,300.00	20%
+Gates	1021AT	8/31/2026	4	$1,100.00	60%
+Howell Place	421	8/31/2026	4	$1,039.00	—
+Howell Place	521	7/16/2026	50	$1,039.00	20%
+Marrero	1217 Smith Square	8/3/2026	32	—	90%
+Marrero	6928 Gentry	8/23/2026	12	—	—
+Marrero	564 ames	8/5/2026	30	$1,112.00	40%
+Marrero	1215 SMITH SQUARE	7/3/2026	63	$1,032.00	80%
+Marrero	547 SILVERLILY	7/6/2026	60	$1,500.00	—
+North Pointe	1618	8/7/2026	28	$928.00	—
+Pelican Bay	1104	7/30/2026	36	$1,194.00	50%
+Pelican Bay	1108	8/5/2026	30	$1,194.00	100%
+Pelican Bay	1106	5/19/2026	108	$1,194.00	10%
+Pelican Bay	1208	7/10/2026	56	$1,194.00	—
+Pirates Bend	224	7/15/2026	51	$1,321.00	10%
+Pirates Bend	426	7/30/2026	36	—	—
+Pirates Bend	326	8/21/2026	14	$1,039.00	—
+Ruby	1754 Squire	8/7/2026	28	—	40%
+St. Charles	113	5/31/2026	96	$1,154.00	70%
+Star	2020 Esher	8/3/2026	32	$1,675.00	30%
+Thibodaux	404	6/1/2026	95	$900.00	100%
+Thibodaux	503	7/31/2026	35	$900.00	20%
+Thibodaux	208	7/31/2026	35	$1,000.00	50%
+Thibodaux	601	5/31/2026	96	$1,000.00	60%
+Thibodaux	702	8/11/2026	24	$1,000.00	50%
+Thibodaux	508	4/30/2026	127	$900.00	80%
+Thibodaux	107	3/31/2026	157	$1,000.00	100%
+Thibodaux	207	3/9/2026	179	$1,000.00	60%
+Thibodaux	812	12/31/2025	247	$1,000.00	100%
+… and 7 more units
+
+Vacant / Preleased Units (49)
+
+Building	Unit	Move Out	Move In	Days	Ask Rent
+Arbor Crest	3204	8/18/2026	9/8/2026	17	$1,110.00
+Arbor Crest	3304	8/18/2026	9/11/2026	17	$1,110.00
+Arbor Crest	2210	8/1/2026	9/18/2026	34	$1,272.00
+Arbor Crest	1104	9/1/2026	9/18/2026	3	$1,272.00
+Arbor Crest	1309	9/4/2026	9/18/2026	—	$1,110.00
+Coral Village	305	6/30/2026	10/1/2026	66	$1,897.00
+Jefferson	j6	9/4/2026	9/9/2026	—	—
+Jefferson	F3	9/4/2026	9/10/2026	—	—
+River Pointe	4524	8/3/2026	9/15/2026	32	$1,307.00
+River Pointe	4533	9/1/2026	10/1/2026	3	$1,448.00
+Crossroads	2104	5/13/2026	—	114	$1,448.00
+Crossroads	1402	8/17/2026	—	18	$1,665.00
+Crossroads	1405	8/17/2026	—	18	$1,665.00
+Crossroads	1705	9/3/2026	—	1	$1,900.00
+Grace Townhomes	2514	8/19/2026	9/1/2026	16	$1,375.00
+Lexington	1521Vermont	8/31/2026	9/18/2026	4	$1,602.00
+Walnut Hill	304-B	6/15/2026	9/10/2026	81	$1,518.00
+Walnut Hill	302-J	6/22/2026	9/11/2026	74	$2,100.00
+Walnut Hill	103-H	8/31/2026	8/13/2026	4	$1,346.00
+Bayou Pointe	754	8/21/2026	9/18/2026	14	$1,300.00
+Bayou Pointe	8042	7/13/2026	9/1/2026	53	$1,152.00
+Bayou Pointe	722	8/17/2026	9/18/2026	18	$1,300.00
+Gates	1132CT	7/31/2026	9/15/2026	35	$1,200.00
+Gates	1136CT	7/31/2026	9/11/2026	35	$1,200.00
+Gates	1013CT	8/1/2026	9/25/2026	34	$1,300.00
+Gates	1136BT	8/27/2026	9/30/2026	8	$1,200.00
+Gates	1016BT	8/1/2026	9/30/2026	34	$1,300.00
+Gates	1616DA	11/30/2026	12/4/2026	-86	$1,300.00
+Gates	1617BA	9/30/2026	10/15/2026	-25	$1,000.00
+Gates	1105DT	9/1/2026	9/21/2026	3	$1,200.00
+Howell Place	311	6/1/2026	6/15/2026	95	$1,194.00
+Howell Place	324	7/1/2026	—	65	$1,321.00
+Howell Place	512	8/6/2026	—	29	$874.00
+Pelican Bay	703	7/16/2026	—	50	$1,194.00
+Pelican Bay	106	8/4/2026	—	31	$1,039.00
+Pelican Bay	316	8/24/2026	9/4/2026	11	$1,574.00
+Pelican Bay	110	8/27/2026	—	8	$950.00
+Pelican Bay	112	8/31/2026	—	4	$1,039.00
+Pirates Bend	212	6/1/2026	—	95	$1,547.00
+Pirates Bend	414	8/13/2026	—	22	$874.00
+Ruby	1821 Squire	5/31/2026	—	96	$1,500.00
+Ruby	1825 squire	5/31/2026	7/30/2026	96	$1,600.00
+Thibodaux	112	1/23/2026	9/16/2026	224	$1,000.00
+Windsor/Yorkshire	701 Wind	7/31/2026	—	35	$1,054.00
+Granite Ridge	60	8/31/2026	—	4	$1,289.00
+Granite Ridge	78	8/4/2026	—	31	$1,087.00
+Pacific	B1	7/23/2026	9/4/2026	43	$1,438.00
+Pacific	A8	8/18/2026	9/1/2026	17	$1,750.00
+River Garden	9	6/23/2026	9/21/2026	73	$3,982.00
+Units On Notice (34)
+
+Building	Unit	Leased
+Boca Ciega	78	✗ Not Leased
+Boca Ciega	59	✗ Not Leased
+Jefferson	J7	✓ Leased
+Jefferson	E4	✗ Not Leased
+Opa Locka	123	✗ Not Leased
+Opa Locka	132	✗ Not Leased
+Opa Locka	101	✗ Not Leased
+Opa Locka	108	✗ Not Leased
+Opa Locka	114	✗ Not Leased
+Opa Locka	121	✗ Not Leased
+Opa Locka	129	✗ Not Leased
+Opa Locka	202	✗ Not Leased
+River Pointe	731	✓ Leased
+River Pointe	771	✓ Leased
+River Pointe	4510	✓ Leased
+River Pointe	760	✓ Leased
+Grace Townhomes	414	✗ Not Leased
+Grace Townhomes	2313	✗ Not Leased
+Grace Townhomes	1611	✗ Not Leased
+Grace Townhomes	814	✗ Not Leased
+Grace Townhomes	414	✗ Not Leased
+Grace Townhomes	814	✗ Not Leased
+Walnut Hill	301-K	✗ Not Leased
+Windsor/Yorkshire	604 York	✗ Not Leased
+Windsor/Yorkshire	704 York	✗ Not Leased
+Windsor/Yorkshire	401 wind	✗ Not Leased
+Howell Place	522	✗ Not Leased
+Pelican Bay	709	✗ Not Leased
+Pelican Bay	1007	✗ Not Leased
+Pirates Bend	513	✗ Not Leased
+Thibodaux	303	✓ Leased
+Thibodaux	904	✓ Leased
+Granite Ridge	27	✗ Not Leased
+Pacific	f5	✓ Leased
+Evictions (38)
+
+Building	Unit	Dates	Amount Owed
+Arbor Crest	1207	Served 8/23/2026 · Court · Possession	$3,012.00
+Arbor Crest	1315	Served · Court · Possession	$2,212.00
+Arbor Crest	1219	Served · Court · Possession	$1,972.00
+Arbor Crest	2202	Served · Court · Possession	$2,309.00
+Arbor Crest	1316	Served · Court · Possession	$2,595.00
+Arbor Crest	1301	Served · Court · Possession	$2,949.00
+Arbor Crest	1301	Served · Court · Possession	$2,949.00
+Coral Village	Test2	Served 7/14/2026 · Court 7/15/2026 · Possession 7/16/2026	—
+Jefferson	G-1	Served · Court · Possession	—
+Jefferson	G1	Served 7/2/2026 · Court · Possession	—
+Crossroads	706	Served · Court 9/1/2026 · Possession	$4,047.00
+Crossroads	8010	Served · Court 9/1/2026 · Possession	$3,015.00
+Crossroads	2004	Served · Court 9/1/2026 · Possession	$7,150.00
+Holiday	11C	Served · Court 8/31/2026 · Possession	$1,797.00
+Holiday	21A	Served · Court 8/31/2026 · Possession	$1,011.00
+Bayou Pointe	762	Served · Court 9/1/2026 · Possession	$1,140.00
+Bayou Pointe	8127	Served · Court 9/1/2026 · Possession	$2,500.00
+Howell Place	111	Served 8/26/2026 · Court 9/4/2026 · Possession	—
+North Pointe	2616	Served · Court 9/1/2026 · Possession	$1,240.00
+North Pointe	1611	Served · Court 9/1/2026 · Possession	$974.00
+Pelican Bay	1101	Served 8/23/2026 · Court 8/27/2026 · Possession	$1,726.00
+Thibodaux	908	Served 8/24/2026 · Court 9/10/2026 · Possession	$1,203.00
+Thibodaux	306	Served 8/24/2026 · Court 9/10/2026 · Possession	$1,328.00
+Thibodaux	902	Served 7/21/2026 · Court 8/13/2026 · Possession	$1,500.00
+Thibodaux	306	Served 8/24/2026 · Court 9/10/2026 · Possession	$568.00
+Windsor/Yorkshire	1602 york	Served · Court 9/3/2026 · Possession	—
+Windsor/Yorkshire	1401 york	Served · Court 9/3/2026 · Possession	$1,185.00
+Windsor/Yorkshire	1303 wind	Served · Court 9/3/2026 · Possession	$1,431.97
+Windsor/Yorkshire	903 wind	Served · Court 9/3/2026 · Possession	$1,431.00
+Windsor/Yorkshire	702 wind	Served · Court 9/3/2026 · Possession	—
+Granite Ridge	64	Served 12/20/2025 · Court · Possession	—
+Pacific	C6	Served 7/10/2026 · Court · Possession	$4,500.00
+Urban	9310c	Served · Court · Possession	—
+Wilmington	G220	Served 6/8/2026 · Court · Possession	—
+Wilmington	E214	Served 6/8/2026 · Court · Possession	—
+Wilmington	H223	Served 12/4/2025 · Court · Possession	$6,165.00
+Wilmington	L102	Served 12/4/2025 · Court · Possession	$2,097.00
+Wilmington	H105	Served 7/7/2025 · Court 1/6/2026 · Possession	—
+Payments — Net Rent Collected
+
+Historical payment comparison from the verified full report. These values are for design review only.
+
+Total Rent
+$3,241,628.15
+▲ +54.7% vs. prior day
+Region 1
+Rent: $926,490.50
+Building	Net Rent Collected	% Chg / Prior Day
+Boca Ciega	$192,916.00	🚨 ▲ +8.7%
+Jefferson	$87,696.00	0.0%
+Macedonia	$142,427.50	▲ +3.7%
+Opa Locka	$115,426.00	▲ +1.8%
+Arbor Crest	$57,781.00	🚨 ▲ +20.3%
+River Pointe	$164,623.00	0.0%
+Silver Springs	$66,456.00	🚨 ▲ +1044.2%
+Thomasville	$99,165.00	▲ +2.8%
+Coral Village	$0.00	—
+Region 2
+Rent: $807,673.10
+Building	Net Rent Collected	% Chg / Prior Day
+Grace Townhomes	$111,134.00	🚨 ▲ +64.5%
+Breckenridge	$34,096.00	🚨 ▲ +69.8%
+Lexington	$67,276.00	🚨 ▲ +106.9%
+Holiday	$113,037.00	▲ +1.4%
+Cumberland	-$3,250.00	0.0%
+Grove Park	$82,657.00	0.0%
+Walnut Hill	$112,484.10	🚨 ▲ +29.0%
+La Promesa	$233,634.00	0.0%
+Crossroads	$56,605.00	0.0%
+Region 3
+Rent: $500,429.60
+Building	Net Rent Collected	% Chg / Prior Day
+Gates	$66,918.00	🚨 ▲ +58.1%
+Thibodaux	$44,776.00	🚨 ▲ +24.8%
+Ruby	$78,399.00	🚨 ▲ +230685.3%
+Star	$67,175.00	🚨 ▲ +559691.7%
+Marrero	$0.00	—
+St. Charles	$10,911.65	🚨 ▲ +160.5%
+Windsor/Yorkshire	$74,122.00	0.0%
+North Pointe	$13,807.00	🚨 ▲ +29.7%
+Bayou Pointe	$25,792.95	🚨 ▲ +38.6%
+Pelican Bay	$91,034.00	🚨 ▲ +17.7%
+Pirates Bend	$14,064.00	0.0%
+Howell Place	$13,430.00	0.0%
+Region 4
+Rent: $1,007,034.95
+Building	Net Rent Collected	% Chg / Prior Day
+Wilmington	$189,026.00	—
+Midtown	$46,496.00	—
+Urban	$97,325.00	—
+Anaheim Gardens	$256,720.00	—
+Fairfax	$132,094.00	—
+Oak Hills	$30,855.00	0.0%
+Forest View	$34,052.57	0.0%
+Columbia	$40,241.00	0.0%
+Pacific	$8,605.33	0.0%
+Granite Ridge	$68,491.00	0.0%
+River Garden	$103,129.05	0.0%
+View Live Dashboard →

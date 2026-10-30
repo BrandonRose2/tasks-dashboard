@@ -2,8 +2,8 @@
   "schema_version": 1,
   "source": "Manus API v2 task.listMessages",
   "archive_status": "complete",
-  "total_indexed_tasks": 903,
-  "complete_task_count": 931,
+  "total_indexed_tasks": 904,
+  "complete_task_count": 932,
   "partial_artifact_task_count": 9,
   "failed_task_count": 0,
   "tasks": {
@@ -1448,12 +1448,12 @@
       "status": "complete"
     },
     "ddSLZDcAvjOsPTDjn5zXz3": {
-      "task_updated_at": "1788219880",
-      "archived_at": "2026-09-04T15:55:15.769247Z",
+      "task_updated_at": "1792446888",
+      "archived_at": "2026-10-30T17:48:02.745959Z",
       "messages_path": "tasks/ddSLZDcAvjOsPTDjn5zXz3.json",
-      "event_count": 675,
-      "attachment_count": 20,
-      "archived_attachment_count": 19,
+      "event_count": 697,
+      "attachment_count": 22,
+      "archived_attachment_count": 15,
       "referenced_only_attachment_count": 0,
       "status": "complete"
     },
@@ -7788,12 +7788,12 @@
       "status": "complete"
     },
     "ZyMNjMqrfWqxl0S7FX0tLV": {
-      "task_updated_at": "1788204925",
-      "archived_at": "2026-09-04T15:56:39.038301Z",
+      "task_updated_at": "1792451509",
+      "archived_at": "2026-10-30T17:48:31.101726Z",
       "messages_path": "tasks/ZyMNjMqrfWqxl0S7FX0tLV.json",
-      "event_count": 1339,
-      "attachment_count": 21,
-      "archived_attachment_count": 21,
+      "event_count": 1654,
+      "attachment_count": 34,
+      "archived_attachment_count": 33,
       "referenced_only_attachment_count": 0,
       "status": "complete"
     },
@@ -9406,11 +9406,21 @@
       "archived_attachment_count": 7,
       "referenced_only_attachment_count": 1,
       "status": "partial_artifacts"
+    },
+    "KHrMeDTkhHMB5TXUjmztCQ": {
+      "task_updated_at": "1792451120",
+      "archived_at": "2026-10-30T17:47:46.234518Z",
+      "messages_path": "tasks/KHrMeDTkhHMB5TXUjmztCQ.json",
+      "event_count": 7,
+      "attachment_count": 0,
+      "archived_attachment_count": 0,
+      "referenced_only_attachment_count": 0,
+      "status": "complete"
     }
   },
   "failures": [],
-  "last_attempt_at": "2026-10-16T16:13:39.088369Z",
-  "task_index_last_synced": "2026-10-16T16:13:38.932364+00:00",
-  "last_synced": "2026-10-16T16:14:28.707437Z",
+  "last_attempt_at": "2026-10-30T17:47:46.034411Z",
+  "task_index_last_synced": "2026-10-30T17:47:45.685088+00:00",
+  "last_synced": "2026-10-30T17:48:31.229561Z",
   "last_mode": "updated"
 }

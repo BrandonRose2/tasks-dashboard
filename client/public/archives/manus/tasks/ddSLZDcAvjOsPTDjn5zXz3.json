@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
-  "archived_at": "2026-09-04T15:55:15.769247Z",
+  "archived_at": "2026-10-30T17:48:02.745959Z",
   "task": {
     "id": "ddSLZDcAvjOsPTDjn5zXz3",
     "title": "MyLoneWorkers : Monthly Inspections",
-    "status": "waiting",
+    "status": "stopped",
     "type": "project",
     "agent_profile": "manus-1.6",
-    "credits_used": 19203,
+    "credits_used": 19433,
     "created_at": "1782149420",
-    "updated_at": "1788219880",
+    "updated_at": "1792446888",
     "task_url": "https://manus.im/app/ddSLZDcAvjOsPTDjn5zXz3",
     "message_count": 0
   },
-  "event_count": 675,
+  "event_count": 697,
   "events": [
     {
       "id": "jSCtOFv23NkiiGjP35KRYV",
@@ -24,12 +24,18 @@
           {
             "content_type": "application/pdf",
             "filename": "portfolio_checklist.pdf",
+            "path": "/home/ubuntu/upload/portfolio_checklist.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ltfkUBTFqypPCOxS2TjOSE_na1fn_cG9ydGZvbGlvX2NoZWNrbGlzdA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1sdGZrVUJURnF5cFBDT3hTMlRqT1NFX25hMWZuX2NHOXlkR1p2YkdsdlgyTm9aV05yYkdsemRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIEsbi7tm7pl2MzQfPhjQSNMrjwKlYEOFHyBo9DmY5PpZAiEAvUwx~SsHJkyYtXxr4Ms1xE7KUUt2~TVWloTBhaIjZhM_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ltfkUBTFqypPCOxS2TjOSE_na1fn_cG9ydGZvbGlvX2NoZWNrbGlzdA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1sdGZrVUJURnF5cFBDT3hTMlRqT1NFX25hMWZuX2NHOXlkR1p2YkdsdlgyTm9aV05yYkdsemRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NDcwMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDjPkKAMttTmmRsiCOR0V70PlfkQDsRaDFoPc-4tgrpuAiBr974XzOmF5QBJHr6G92R9tXwF9agxuVd~mxRu5DldEg__"
           }
         ],
         "content": "I am going to be checking if all of our managers are doing their inspections every month on the 21st.  I need you to make a checklist of all of our properties where I can go off and check them in a box similar to this one attached. but I want it as a webpage app and all of the properties on one page - Title it Monthly Inspections Subtitle Due : 21st of Every Month",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -64,7 +70,12 @@
       "type": "user_message",
       "user_message": {
         "content": "I want a check box and another box that I can X ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -81,7 +92,12 @@
       "type": "user_message",
       "user_message": {
         "content": "by each property ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -98,7 +114,12 @@
       "type": "user_message",
       "user_message": {
         "content": "i will provide you with the company contact list of all the managers. I want to be able to draft an email to all managers properties that have an X next to them ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -133,11 +154,17 @@
           {
             "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
             "filename": "CompanyContacts6.12.26.xlsx",
+            "path": "/home/ubuntu/upload/CompanyContacts6.12.26.xlsx",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-PBkW6OTc6uvvvUxq6smLYD_na1fn_Q29tcGFueUNvbnRhY3RzNi4xMi4yNg.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1QQmtXNk9UYzZ1dnZ2VXhxNnNtTFlEX25hMWZuX1EyOXRjR0Z1ZVVOdmJuUmhZM1J6Tmk0eE1pNHlOZy54bHN4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwODEyODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQC-fuRJisDLNGVxYBhEaG9M8tctKygmUx7Y2NQW9yVBqQIhANw9Z4L6VzUBacMXdD9geN5dX1RrNw8~9eXW-ht1ZATt"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-PBkW6OTc6uvvvUxq6smLYD_na1fn_Q29tcGFueUNvbnRhY3RzNi4xMi4yNg.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1QQmtXNk9UYzZ1dnZ2VXhxNnNtTFlEX25hMWZuX1EyOXRjR0Z1ZVVOdmJuUmhZM1J6Tmk0eE1pNHlOZy54bHN4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk0NzAwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQC1DrPhEZxw77HUlyYVggA8EiWhkQDS8v5SBmCg-GPAWAIgRMpoi8DroNdsHP2~hR330nA3OHtoJxRSX3derBboR8o_"
           }
         ],
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -172,7 +199,12 @@
       "type": "user_message",
       "user_message": {
         "content": "next to the property name - I want a drag and drop box where I can drop their inspections report pdf for that month",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -189,7 +221,12 @@
       "type": "user_message",
       "user_message": {
         "content": "still working?",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -224,7 +261,12 @@
       "type": "user_message",
       "user_message": {
         "content": "Create a month and year selector at the top so I can track and save separate inspection records for each month.",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -251,7 +293,12 @@
       "type": "user_message",
       "user_message": {
         "content": "almost done?",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -268,7 +315,12 @@
       "type": "user_message",
       "user_message": {
         "content": "almost done?",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -285,7 +337,12 @@
       "type": "user_message",
       "user_message": {
         "content": "at the top ... I want a Summary button that gives a list of all the properties with an X",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -302,7 +359,12 @@
       "type": "user_message",
       "user_message": {
         "content": "whats taking so long?",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -319,7 +381,12 @@
       "type": "user_message",
       "user_message": {
         "content": "you have really been lagging lately",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -354,7 +421,12 @@
       "type": "user_message",
       "user_message": {
         "content": "Whenever it prints... I want it to print all on one page, not three",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -381,7 +453,12 @@
       "type": "user_message",
       "user_message": {
         "content": "also I want every month to save in the memory where I can click back to each month and review. ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -416,7 +493,12 @@
       "type": "user_message",
       "user_message": {
         "content": "the summary should also be printable and fit on one page ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -443,7 +525,12 @@
       "type": "user_message",
       "user_message": {
         "content": "and give the ext of the manager next to their name ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -460,7 +547,12 @@
       "type": "user_message",
       "user_message": {
         "content": "also the summary cuts off at the bottom in the window - fix that",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -495,7 +587,12 @@
       "type": "user_message",
       "user_message": {
         "content": "Implement the feature to save every month's data in memory so I can easily click back and review past months.",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -522,7 +619,12 @@
       "type": "user_message",
       "user_message": {
         "content": "i don't want to lose the data i have in it right now if i publish it for june ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -549,7 +651,12 @@
       "type": "user_message",
       "user_message": {
         "content": "i want the ability to add notes to the homepage of the month as well as it show in the summary ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -594,7 +701,12 @@
       "type": "user_message",
       "user_message": {
         "content": "the summary doesn't show fully - its too small",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -639,7 +751,12 @@
       "type": "user_message",
       "user_message": {
         "content": "i want to compare the previous month to the current",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -684,7 +801,12 @@
       "type": "user_message",
       "user_message": {
         "content": "i came home and watnted to continue editing on my laptop at home and the data that i had in this portal is gone",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -726,7 +848,12 @@
       "type": "user_message",
       "user_message": {
         "content": "yes i do i think ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -771,7 +898,12 @@
       "type": "user_message",
       "user_message": {
         "content": "Put Susan Lopen as Manager of Breckenridge ; susan@apartmentcorp.com ; add her extension from the file i sent ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -798,7 +930,12 @@
       "type": "user_message",
       "user_message": {
         "content": "Susan Lopez",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -841,7 +978,12 @@
       "type": "user_message",
       "user_message": {
         "content": "do all three",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -892,7 +1034,12 @@
       "type": "user_message",
       "user_message": {
         "content": "Region 2's regional manager is Leslie Rolon",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -909,7 +1056,12 @@
       "type": "user_message",
       "user_message": {
         "content": "put susan lopez down for lexington as well",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -944,7 +1096,12 @@
       "type": "user_message",
       "user_message": {
         "content": "Connect the frontend to the cloud database so my data is saved and accessible from any device.",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -971,7 +1128,12 @@
       "type": "user_message",
       "user_message": {
         "content": "push all my updates to my github",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -1003,7 +1165,12 @@
       "type": "user_message",
       "user_message": {
         "content": "https://github.com/BrandonRose2/monthly-inspections.git",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -1053,7 +1220,12 @@
       "type": "user_message",
       "user_message": {
         "content": "ghp*****fQ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -1098,7 +1270,12 @@
       "type": "user_message",
       "user_message": {
         "content": "i want to be able to print the compare page on one sheet",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -1143,7 +1320,12 @@
       "type": "user_message",
       "user_message": {
         "content": "reports should always fit to print on one page ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -1188,7 +1370,12 @@
       "type": "user_message",
       "user_message": {
         "content": "Finish connecting the frontend to the cloud database so that all my inspection records are saved and accessible across devices.",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -1249,7 +1436,12 @@
       "type": "user_message",
       "user_message": {
         "content": "Fix this error:\n**Context:**\nPage: /?from_webdev=1\n**Error Message:**\nError 1: [API Mutation Error] Failed query: insert into `inspection_records` (`id`, `monthKey`, `region`, `property`, `checked`, `xed`, `note`, `pdfName`, `pdfKey`, `pdfSize`, `pdfUploadedAt`, `updatedAt`) values (default, ?, ?, ?, ?, ?, default, ?, ?, ?, ?, default)\nparams: 2026-05,Region 1,Arbor Crest,true,false,Events report_01_05_2026_31_05_2026 (9).pdf,[base64 data removed],78710,6/22/2026, 12:45:06 PM\nTime: 2026-06-23T02:13:21.837Z (America/Los_Angeles)\nTRPCClientError: Failed query: insert into `inspection_records` (`id`, `monthKey`, `region`, `property`, `checked`, `xed`, `note`, `pdfName`, `pdfKey`, `pdfSize`, `pdfUploadedAt`, `updatedAt`) values (default, ?, ?, ?, ?, ?, default, ?, ?, ?, ?, default)\nparams: 2026-05,Region 1,Arbor Crest,true,false,Events report_01_05_2026_31_05_2026 (9).pdf,[base64 data removed],78710,6/22/2026, 12:45:06 PM\n    at TRPCClientError2.from (https://3000-icuacz3plsnas1lqua4r4-1d0d24ac.us2.manus.computer/@fs/home/ubuntu/monthly-inspections/node_modules/.vite/deps/chunk-ROZ3IAQN.js?v=8abfb9c9:2055:44)\n    at https://3000-icuacz3plsnas1lqua4r4-1d0d24ac.us2.manus.computer/@fs/home/ubuntu/monthly-inspections/node_modules/.vite/deps/chunk-ROZ3IAQN.js?v=8abfb9c9:2452:44\n          ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -1279,12 +1471,18 @@
           {
             "content_type": "application/json",
             "filename": "monthly-inspections-backup-2026-06-22.json",
+            "path": "/home/ubuntu/upload/monthly-inspections-backup-2026-06-22.json",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-aWfj17GNsM08L8EwrL7Z9e_na1fn_bW9udGhseS1pbnNwZWN0aW9ucy1iYWNrdXAtMjAyNi0wNi0yMg.json?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1hV2ZqMTdHTnNNMDhMOEV3ckw3WjllX25hMWZuX2JXOXVkR2hzZVMxcGJuTndaV04wYVc5dWN5MWlZV05yZFhBdE1qQXlOaTB3TmkweU1nLmpzb24iLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDxmI4K~efXykwWWiqpoKgDG~~nYQpu1Ak7Ufv3uJHUYwIhAJpLpSul2by7uqtC4uHqrRjxrjKjZ188iwi9WNySEVgg"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-aWfj17GNsM08L8EwrL7Z9e_na1fn_bW9udGhseS1pbnNwZWN0aW9ucy1iYWNrdXAtMjAyNi0wNi0yMg.json?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1hV2ZqMTdHTnNNMDhMOEV3ckw3WjllX25hMWZuX2JXOXVkR2hzZVMxcGJuTndaV04wYVc5dWN5MWlZV05yZFhBdE1qQXlOaTB3TmkweU1nLmpzb24iLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTQ3MDA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCeUetYueXOimLBFHM508h~KFh0kXpbI6VXkmlbd1XPSQIgY06LGWRATVXGQgLsyVc1N0yDsDBJBiNTRhrJ1F5cstg_"
           }
         ],
         "content": "i tried importing this backup",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -1320,16 +1518,22 @@
           {
             "content_type": "application/pdf",
             "filename": "portfolio_checklist.pdf",
+            "path": "/home/ubuntu/upload/portfolio_checklist.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ltfkUBTFqypPCOxS2TjOSE_na1fn_cG9ydGZvbGlvX2NoZWNrbGlzdA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1sdGZrVUJURnF5cFBDT3hTMlRqT1NFX25hMWZuX2NHOXlkR1p2YkdsdlgyTm9aV05yYkdsemRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQC-h9lO~x58zfoHMZSBWyZLxe~uKEdekduruLj8rb7PCAIhAOVohu8OdM47OrgnsA8smHCbDidbQLWpC-7rBmUmb-dw"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ltfkUBTFqypPCOxS2TjOSE_na1fn_cG9ydGZvbGlvX2NoZWNrbGlzdA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1sdGZrVUJURnF5cFBDT3hTMlRqT1NFX25hMWZuX2NHOXlkR1p2YkdsdlgyTm9aV05yYkdsemRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NDcwMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDjPkKAMttTmmRsiCOR0V70PlfkQDsRaDFoPc-4tgrpuAiBr974XzOmF5QBJHr6G92R9tXwF9agxuVd~mxRu5DldEg__"
           }
         ],
         "content": "I am going to be checking if all of our managers are doing their inspections every month on the 21st.  I need you to make a checklist of all of our properties where I can go off and check them in a box similar to this one attached. but I want it as a webpage app and all of the properties on one page - Title it Monthly Inspections Subtitle Due : 21st of Every Month",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
-      "id": "FEgsCppO63Qm6Bqn1v7PJpvowkOvqVsv4vmt9pFHAyTu-1-2",
+      "id": "vowkOvqVsv4vmt9pFHAyTu",
       "status_update": {
         "agent_status": "running",
         "brief": "Manus is running",
@@ -1365,12 +1569,18 @@
           {
             "content_type": "application/json",
             "filename": "monthly-inspections-backup-2026-06-22.json",
+            "path": "/home/ubuntu/upload/monthly-inspections-backup-2026-06-22.json",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-aWfj17GNsM08L8EwrL7Z9e_na1fn_bW9udGhseS1pbnNwZWN0aW9ucy1iYWNrdXAtMjAyNi0wNi0yMg.json?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1hV2ZqMTdHTnNNMDhMOEV3ckw3WjllX25hMWZuX2JXOXVkR2hzZVMxcGJuTndaV04wYVc5dWN5MWlZV05yZFhBdE1qQXlOaTB3TmkweU1nLmpzb24iLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDy3P-GFu80KzeyZMywV6cS64pjgw0ZjKTPtZah9O9RBwIhANOu0OWBTvaR~6BiTALxoAmOwZMkkghxDukuszEeJsl7"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-aWfj17GNsM08L8EwrL7Z9e_na1fn_bW9udGhseS1pbnNwZWN0aW9ucy1iYWNrdXAtMjAyNi0wNi0yMg.json?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1hV2ZqMTdHTnNNMDhMOEV3ckw3WjllX25hMWZuX2JXOXVkR2hzZVMxcGJuTndaV04wYVc5dWN5MWlZV05yZFhBdE1qQXlOaTB3TmkweU1nLmpzb24iLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTQ3MDA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCeUetYueXOimLBFHM508h~KFh0kXpbI6VXkmlbd1XPSQIgY06LGWRATVXGQgLsyVc1N0yDsDBJBiNTRhrJ1F5cstg_"
           }
         ],
         "content": "i tried importing this backup",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -1413,7 +1623,12 @@
       "type": "user_message",
       "user_message": {
         "content": "the import of my file worked fine but when i click on a pdf it said \"accessDeciedAcess denied\" ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -1474,7 +1689,12 @@
       "type": "user_message",
       "user_message": {
         "content": "Please add a History overview panel that displays a grid of all saved months along with their pass/fail counts for quick trend spotting.",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -1519,7 +1739,12 @@
       "type": "user_message",
       "user_message": {
         "content": "do the repeat offender ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -1564,7 +1789,12 @@
       "type": "user_message",
       "user_message": {
         "content": "i want you to run it again for april",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -1606,7 +1836,12 @@
       "type": "user_message",
       "user_message": {
         "content": "i want you to run the entire inspections reports via my browser",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -1651,12 +1886,18 @@
           {
             "content_type": "text/plain",
             "filename": "pasted_content.txt",
+            "path": "/home/ubuntu/upload/pasted_content.txt",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-zt6Fibx6kG1d058AcJYH1T_na1fn_cGFzdGVkX2NvbnRlbnQ.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC16dDZGaWJ4NmtHMWQwNThBY0pZSDFUX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwODEyODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDi9n4nM2tCqnMPceF8CfkXnFyp4J1OZsj51TSo9h4e0AiBSr-un8RIn6srOPx5ctLxPYrHsyDKR9fijCfevOg8vtA__"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-zt6Fibx6kG1d058AcJYH1T_na1fn_cGFzdGVkX2NvbnRlbnQ.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC16dDZGaWJ4NmtHMWQwNThBY0pZSDFUX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk0NzAwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCWWCsIasGFHXyggapfEFO3tDBjkwdtQimiUMOFeVQHBQIgHtmX31izBfNIxETKb-mEEosNdveX8YmQhQZ2X8oJzno_"
           }
         ],
         "content": "i had claude automate it like this ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -1706,7 +1947,12 @@
       "type": "user_message",
       "user_message": {
         "content": "do option 1 ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -1805,7 +2051,12 @@
       "type": "user_message",
       "user_message": {
         "content": "i want all of the reports to have the same structure as this one https://aptrents-my.sharepoint.com/:x:/g/personal/brandon_apartmentcorp_com/IQAED8Y7MzOvSYT0RMoNeJGIAVUFXZhhKUvW0IpA6aqQjmo?e=qZgHVv",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -1848,11 +2099,17 @@
           {
             "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
             "filename": "Granite_Ridge_CostSeg_FINAL.xlsx",
+            "path": "/home/ubuntu/upload/Granite_Ridge_CostSeg_FINAL.xlsx",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-HRbLWfrw9htH2fVM3gz67Z_na1fn_R3Jhbml0ZV9SaWRnZV9Db3N0U2VnX0ZJTkFM.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1IUmJMV2ZydzlodEgyZlZNM2d6NjdaX25hMWZuX1IzSmhibWwwWlY5U2FXUm5aVjlEYjNOMFUyVm5YMFpKVGtGTS54bHN4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwODEyODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDfHd7qEBm1ejJwSjz-zh8bDqjulKo1waTkxSbdTxV~1gIhAIs812aCsQBvNFEZyB9rbHSczvhvUvqIvAYyKKeoqBCz"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-HRbLWfrw9htH2fVM3gz67Z_na1fn_R3Jhbml0ZV9SaWRnZV9Db3N0U2VnX0ZJTkFM.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1IUmJMV2ZydzlodEgyZlZNM2d6NjdaX25hMWZuX1IzSmhibWwwWlY5U2FXUm5aVjlEYjNOMFUyVm5YMFpKVGtGTS54bHN4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk0NzAwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDbGJKkYzM-0Ctnpo1BBUnmgih4N7WOtlNR92OnjTth5gIgOFdLUreqe58cd2bsO~cyIxkH~HG-~xj8BIQXWFIxCGk_"
           }
         ],
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555268&Signature=MEUCIESlGicoeeBauRIiHVYpfCW5vmBesy-azFJbyVEW66GrAiEA3aKW8JjIJyM0JHd9bJkn34arcwbMXVe6hRUzCeE-0DA_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -1905,12 +2162,18 @@
           {
             "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
             "filename": "Coral_Village_CostSeg_FINAL_abc09c89(2).xlsx",
+            "path": "/home/ubuntu/upload/Coral_Village_CostSeg_FINAL_abc09c89(2).xlsx",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-FGLTtNE9HIKxBQE6ZbgQ9T_na1fn_Q29yYWxfVmlsbGFnZV9Db3N0U2VnX0ZJTkFMX2FiYzA5Yzg5KDIp.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1GR0xUdE5FOUhJS3hCUUU2WmJnUTlUX25hMWZuX1EyOXlZV3hmVm1sc2JHRm5aVjlEYjNOMFUyVm5YMFpKVGtGTVgyRmlZekE1WXpnNUtESXAueGxzeCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIA6UU95dzwYotBs1QPVREgQOqKDQswaRjGlZ2tu3R8cfAiAAgCEz9hduRHqudYfYVEs7a9FN49aYQc8Fpn3luLoPAQ__"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-FGLTtNE9HIKxBQE6ZbgQ9T_na1fn_Q29yYWxfVmlsbGFnZV9Db3N0U2VnX0ZJTkFMX2FiYzA5Yzg5KDIp.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1GR0xUdE5FOUhJS3hCUUU2WmJnUTlUX25hMWZuX1EyOXlZV3hmVm1sc2JHRm5aVjlEYjNOMFUyVm5YMFpKVGtGTVgyRmlZekE1WXpnNUtESXAueGxzeCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NDcwMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCPLjiHwzUz6rsAWP7jKto6Ej0BbbR-7PcZQNJZwrR3tAIgXzQHXpOpBu9IgTYqIB-bp0ncBTrgETwX9FE1BA6NQZE_"
           }
         ],
         "content": "here is another example for coral village",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555271&Signature=MEUCIQDQFaEpT8eeMub3zEcnpN5rQqcs0LyLibBozNuncmQT0QIgPcemdOW8PQbHizbYWAe4UItL3s8H1sLPJr7X8uex-HM_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -1960,7 +2223,12 @@
       "type": "user_message",
       "user_message": {
         "content": "shit shit - i was putting these prompts in the wrong task",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555271&Signature=MEUCIQDQFaEpT8eeMub3zEcnpN5rQqcs0LyLibBozNuncmQT0QIgPcemdOW8PQbHizbYWAe4UItL3s8H1sLPJr7X8uex-HM_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -1979,7 +2247,12 @@
       "type": "user_message",
       "user_message": {
         "content": "disregard all of those for the properties ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555271&Signature=MEUCIQDQFaEpT8eeMub3zEcnpN5rQqcs0LyLibBozNuncmQT0QIgPcemdOW8PQbHizbYWAe4UItL3s8H1sLPJr7X8uex-HM_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -2011,7 +2284,12 @@
       "type": "user_message",
       "user_message": {
         "content": "yes I want to run every month for this year so far",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555271&Signature=MEUCIQDQFaEpT8eeMub3zEcnpN5rQqcs0LyLibBozNuncmQT0QIgPcemdOW8PQbHizbYWAe4UItL3s8H1sLPJr7X8uex-HM_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -2385,16 +2663,22 @@
           {
             "content_type": "application/pdf",
             "filename": "portfolio_checklist.pdf",
+            "path": "/home/ubuntu/upload/portfolio_checklist.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ltfkUBTFqypPCOxS2TjOSE_na1fn_cG9ydGZvbGlvX2NoZWNrbGlzdA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1sdGZrVUJURnF5cFBDT3hTMlRqT1NFX25hMWZuX2NHOXlkR1p2YkdsdlgyTm9aV05yYkdsemRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDkAQPcUWHrgTwt7CLjvbCTI5GmobITyUhRy02YdG~QOwIgFl02VyQLe0Q4dfi-DYrjo4OJo1YkDfyc-vgzd01~LXc_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ltfkUBTFqypPCOxS2TjOSE_na1fn_cG9ydGZvbGlvX2NoZWNrbGlzdA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1sdGZrVUJURnF5cFBDT3hTMlRqT1NFX25hMWZuX2NHOXlkR1p2YkdsdlgyTm9aV05yYkdsemRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NDcwMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDjPkKAMttTmmRsiCOR0V70PlfkQDsRaDFoPc-4tgrpuAiBr974XzOmF5QBJHr6G92R9tXwF9agxuVd~mxRu5DldEg__"
           }
         ],
         "content": "I am going to be checking if all of our managers are doing their inspections every month on the 21st.  I need you to make a checklist of all of our properties where I can go off and check them in a box similar to this one attached. but I want it as a webpage app and all of the properties on one page - Title it Monthly Inspections Subtitle Due : 21st of Every Month",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555271&Signature=MEUCIQDQFaEpT8eeMub3zEcnpN5rQqcs0LyLibBozNuncmQT0QIgPcemdOW8PQbHizbYWAe4UItL3s8H1sLPJr7X8uex-HM_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
-      "id": "FEgsCppO63Qm6Bqn1v7PJpLgn7VOzc4hNQk9GbIaqBqr-1-2",
+      "id": "Lgn7VOzc4hNQk9GbIaqBqr",
       "status_update": {
         "agent_status": "running",
         "brief": "Manus is running",
@@ -2417,7 +2701,12 @@
       "type": "user_message",
       "user_message": {
         "content": "yes I want to run every month for this year so far",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555271&Signature=MEUCIQDQFaEpT8eeMub3zEcnpN5rQqcs0LyLibBozNuncmQT0QIgPcemdOW8PQbHizbYWAe4UItL3s8H1sLPJr7X8uex-HM_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -2934,7 +3223,12 @@
       "type": "user_message",
       "user_message": {
         "content": "Investigate the correct PDF export endpoint and fix the PDF download feature to automatically attach inspection reports.",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555271&Signature=MEUCIQDQFaEpT8eeMub3zEcnpN5rQqcs0LyLibBozNuncmQT0QIgPcemdOW8PQbHizbYWAe4UItL3s8H1sLPJr7X8uex-HM_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -3001,7 +3295,12 @@
       "type": "user_message",
       "user_message": {
         "content": "The process should be that you click on a guard, set the date range, hit refresh. If inspectionss populate in the events log, click \"Export to\" dropdown and select \"Export to pdf\", download the file then store it in the webportal accordingly ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555271&Signature=MEUCIQDQFaEpT8eeMub3zEcnpN5rQqcs0LyLibBozNuncmQT0QIgPcemdOW8PQbHizbYWAe4UItL3s8H1sLPJr7X8uex-HM_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -3082,7 +3381,12 @@
       "type": "user_message",
       "user_message": {
         "content": "no i didn't say anything about clicking View Details, I said you click refresh ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555271&Signature=MEUCIQDQFaEpT8eeMub3zEcnpN5rQqcs0LyLibBozNuncmQT0QIgPcemdOW8PQbHizbYWAe4UItL3s8H1sLPJr7X8uex-HM_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -3246,7 +3550,12 @@
       "type": "user_message",
       "user_message": {
         "content": "I want this report ran on a schedule at 8am every month on the 21st and emailed to me at Brandon@apartmentcorp.com in HTML format with clickable links that preview the pdfs attached ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555271&Signature=MEUCIQDQFaEpT8eeMub3zEcnpN5rQqcs0LyLibBozNuncmQT0QIgPcemdOW8PQbHizbYWAe4UItL3s8H1sLPJr7X8uex-HM_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -3264,7 +3573,12 @@
       "type": "user_message",
       "user_message": {
         "content": "continue",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555271&Signature=MEUCIQDQFaEpT8eeMub3zEcnpN5rQqcs0LyLibBozNuncmQT0QIgPcemdOW8PQbHizbYWAe4UItL3s8H1sLPJr7X8uex-HM_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -3315,7 +3629,12 @@
       "type": "user_message",
       "user_message": {
         "content": "i received the test email ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555271&Signature=MEUCIQDQFaEpT8eeMub3zEcnpN5rQqcs0LyLibBozNuncmQT0QIgPcemdOW8PQbHizbYWAe4UItL3s8H1sLPJr7X8uex-HM_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -3367,16 +3686,22 @@
           {
             "content_type": "application/pdf",
             "filename": "portfolio_checklist.pdf",
+            "path": "/home/ubuntu/upload/portfolio_checklist.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ltfkUBTFqypPCOxS2TjOSE_na1fn_cG9ydGZvbGlvX2NoZWNrbGlzdA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1sdGZrVUJURnF5cFBDT3hTMlRqT1NFX25hMWZuX2NHOXlkR1p2YkdsdlgyTm9aV05yYkdsemRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIG4cuC6HbocdDSPGq4gP4S6A151fysZq7FdII0Gk1WMiAiEA2EluwBe4-hM-jbsoTeo6sMtj0smyLX86na60yXfhWE0_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ltfkUBTFqypPCOxS2TjOSE_na1fn_cG9ydGZvbGlvX2NoZWNrbGlzdA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1sdGZrVUJURnF5cFBDT3hTMlRqT1NFX25hMWZuX2NHOXlkR1p2YkdsdlgyTm9aV05yYkdsemRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NDcwMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDjPkKAMttTmmRsiCOR0V70PlfkQDsRaDFoPc-4tgrpuAiBr974XzOmF5QBJHr6G92R9tXwF9agxuVd~mxRu5DldEg__"
           }
         ],
         "content": "I am going to be checking if all of our managers are doing their inspections every month on the 21st.  I need you to make a checklist of all of our properties where I can go off and check them in a box similar to this one attached. but I want it as a webpage app and all of the properties on one page - Title it Monthly Inspections Subtitle Due : 21st of Every Month",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555271&Signature=MEUCIQDQFaEpT8eeMub3zEcnpN5rQqcs0LyLibBozNuncmQT0QIgPcemdOW8PQbHizbYWAe4UItL3s8H1sLPJr7X8uex-HM_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
-      "id": "FEgsCppO63Qm6Bqn1v7PJpPYn0PiQfKZJd119NfnTmvB-1-2",
+      "id": "PYn0PiQfKZJd119NfnTmvB",
       "status_update": {
         "agent_status": "running",
         "brief": "Manus is running",
@@ -3409,7 +3734,12 @@
       "type": "user_message",
       "user_message": {
         "content": "i received the test email ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555271&Signature=MEUCIQDQFaEpT8eeMub3zEcnpN5rQqcs0LyLibBozNuncmQT0QIgPcemdOW8PQbHizbYWAe4UItL3s8H1sLPJr7X8uex-HM_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -3457,7 +3787,12 @@
       "type": "user_message",
       "user_message": {
         "content": " i published it , please send me the test email report now of everything in a report",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555271&Signature=MEUCIQDQFaEpT8eeMub3zEcnpN5rQqcs0LyLibBozNuncmQT0QIgPcemdOW8PQbHizbYWAe4UItL3s8H1sLPJr7X8uex-HM_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -3492,7 +3827,12 @@
       "type": "user_message",
       "user_message": {
         "content": "make sure that all reports print on one printable page ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555271&Signature=MEUCIQDQFaEpT8eeMub3zEcnpN5rQqcs0LyLibBozNuncmQT0QIgPcemdOW8PQbHizbYWAe4UItL3s8H1sLPJr7X8uex-HM_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -3538,12 +3878,18 @@
           {
             "content_type": "text/html",
             "filename": "signature_cdn.html",
+            "path": "/home/ubuntu/upload/signature_cdn.html",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-93gG1VM6Hh7SWoD06iZMjn_na1fn_c2lnbmF0dXJlX2Nkbg.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC05M2dHMVZNNkhoN1NXb0QwNmlaTWpuX25hMWZuX2MybG5ibUYwZFhKbFgyTmtiZy5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwODEyODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIBm0TXHDtKQ3RQj7LZJ~Hwr6CmYvtlY6HC9Rid-alCtJAiEAoPNdRw39wHFpU0Ry8-LfGDjbi7ck5ZOKqB2PEgTPvSE_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-93gG1VM6Hh7SWoD06iZMjn_na1fn_c2lnbmF0dXJlX2Nkbg.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC05M2dHMVZNNkhoN1NXb0QwNmlaTWpuX25hMWZuX2MybG5ibUYwZFhKbFgyTmtiZy5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk0NzAwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIGugwTbKu29IU4U8gWd8QfxEJZIX5GwkAK82yJeSK6~JAiAq9AhNSZDeqp~insP0QDoJvwgjBqlsDLdViQIavLol3A__"
           }
         ],
         "content": "In the Draft Emails, put this as my email signature \n\t\n\n\n\n\n\t \n",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555271&Signature=MEUCIQDQFaEpT8eeMub3zEcnpN5rQqcs0LyLibBozNuncmQT0QIgPcemdOW8PQbHizbYWAe4UItL3s8H1sLPJr7X8uex-HM_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -3573,12 +3919,18 @@
           {
             "content_type": "image/png",
             "filename": "pasted_file_ont1e9_image.png",
+            "path": "/home/ubuntu/upload/pasted_file_ont1e9_image.png",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-dgrNceAbGZ56F8V9WBLMjC_na1fn_cGFzdGVkX2ZpbGVfb250MWU5X2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1kZ3JOY2VBYkdaNTZGOFY5V0JMTWpDX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZiMjUwTVdVNVgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEMCH2fAY~ukf44xsMy7mbQWa7TICSCREYerKibnwobX2oYCIHEmdrdLIb2OXYqUopMtXU7-Qjl5y-4A1zZGxzVIea9c"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-dgrNceAbGZ56F8V9WBLMjC_na1fn_cGFzdGVkX2ZpbGVfb250MWU5X2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1kZ3JOY2VBYkdaNTZGOFY5V0JMTWpDX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZiMjUwTVdVNVgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NDcwMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDQkmKlZC9HcH0Ko5nHNw3UukG~Tbn~9aWgdiCGjriqBQIgZR63aVKd-TkNpWg0DkdptdIoiT1kylelowDFZCEbUVg_"
           }
         ],
         "content": "this should fit the entire print screen ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555271&Signature=MEUCIQDQFaEpT8eeMub3zEcnpN5rQqcs0LyLibBozNuncmQT0QIgPcemdOW8PQbHizbYWAe4UItL3s8H1sLPJr7X8uex-HM_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -3613,7 +3965,12 @@
       "type": "user_message",
       "user_message": {
         "content": "please send the current June's report to my email ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555273&Signature=MEQCIH21poOs~WLIr5r6eDp3dnBVW~NbeK4KUKTSXklSEyMFAiBiEe3KDcrgGmfDsHdqjOVhsrQEIt5a0h5IM6MK5oGYZw__&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -3690,7 +4047,12 @@
       "type": "user_message",
       "user_message": {
         "content": "i want the summaries to fit on one page also for printing purposes",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555273&Signature=MEQCIH21poOs~WLIr5r6eDp3dnBVW~NbeK4KUKTSXklSEyMFAiBiEe3KDcrgGmfDsHdqjOVhsrQEIt5a0h5IM6MK5oGYZw__&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -3743,7 +4105,12 @@
       "type": "user_message",
       "user_message": {
         "content": "Add a prominent 'Print Report' button to the top right corner of both the Summary and Compare modals.",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555273&Signature=MEQCIH21poOs~WLIr5r6eDp3dnBVW~NbeK4KUKTSXklSEyMFAiBiEe3KDcrgGmfDsHdqjOVhsrQEIt5a0h5IM6MK5oGYZw__&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -3788,7 +4155,12 @@
       "type": "user_message",
       "user_message": {
         "content": "ADD DOWNLOAD PDF BUTTON AND ADJUST THE PRINT STYLESHEET ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555273&Signature=MEQCIH21poOs~WLIr5r6eDp3dnBVW~NbeK4KUKTSXklSEyMFAiBiEe3KDcrgGmfDsHdqjOVhsrQEIt5a0h5IM6MK5oGYZw__&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -3841,7 +4213,12 @@
       "type": "user_message",
       "user_message": {
         "content": "Update the PDF generation logic to include the email signature image at the bottom of the report.",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555273&Signature=MEQCIH21poOs~WLIr5r6eDp3dnBVW~NbeK4KUKTSXklSEyMFAiBiEe3KDcrgGmfDsHdqjOVhsrQEIt5a0h5IM6MK5oGYZw__&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -3942,7 +4319,12 @@
       "type": "user_message",
       "user_message": {
         "content": "I want it to be more clear on selected the months to scrape. Also, whenever you hit reset... you shouldn't have to also refresh the page for it to take effect.  I want to be able to set scraper to run from a date to a date (i.e. January 2026-June 2026) etc ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555273&Signature=MEQCIH21poOs~WLIr5r6eDp3dnBVW~NbeK4KUKTSXklSEyMFAiBiEe3KDcrgGmfDsHdqjOVhsrQEIt5a0h5IM6MK5oGYZw__&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -3995,7 +4377,12 @@
       "type": "user_message",
       "user_message": {
         "content": "Add quick-select buttons for common date ranges like 'Year to Date' or 'Last 6 Months' in the scraper modal.",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555273&Signature=MEQCIH21poOs~WLIr5r6eDp3dnBVW~NbeK4KUKTSXklSEyMFAiBiEe3KDcrgGmfDsHdqjOVhsrQEIt5a0h5IM6MK5oGYZw__&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -4040,7 +4427,12 @@
       "type": "user_message",
       "user_message": {
         "content": "Display a text summary below the dropdowns that explicitly states the total number of months selected in the current range.",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555273&Signature=MEQCIH21poOs~WLIr5r6eDp3dnBVW~NbeK4KUKTSXklSEyMFAiBiEe3KDcrgGmfDsHdqjOVhsrQEIt5a0h5IM6MK5oGYZw__&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -4085,7 +4477,12 @@
       "type": "user_message",
       "user_message": {
         "content": "Update the generated PDF report header to display the selected date range and the total months count.",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555273&Signature=MEQCIH21poOs~WLIr5r6eDp3dnBVW~NbeK4KUKTSXklSEyMFAiBiEe3KDcrgGmfDsHdqjOVhsrQEIt5a0h5IM6MK5oGYZw__&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -4154,7 +4551,12 @@
       "type": "user_message",
       "user_message": {
         "content": "Update the PDF download logic to automatically name the file using the selected date range, such as 'Report_Jan2026-Jun2026.pdf'.",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555273&Signature=MEQCIH21poOs~WLIr5r6eDp3dnBVW~NbeK4KUKTSXklSEyMFAiBiEe3KDcrgGmfDsHdqjOVhsrQEIt5a0h5IM6MK5oGYZw__&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -4181,7 +4583,12 @@
       "type": "user_message",
       "user_message": {
         "content": "only use the month that it corresponds to -  not the date range ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555273&Signature=MEQCIH21poOs~WLIr5r6eDp3dnBVW~NbeK4KUKTSXklSEyMFAiBiEe3KDcrgGmfDsHdqjOVhsrQEIt5a0h5IM6MK5oGYZw__&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -4239,12 +4646,18 @@
           {
             "content_type": "text/plain",
             "filename": "pasted_content.txt",
+            "path": "/home/ubuntu/upload/pasted_content.txt",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-pmnMOSYCwY2cPl9TfrSKo2_na1fn_cGFzdGVkX2NvbnRlbnQ.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1wbW5NT1NZQ3dZMmNQbDlUZnJTS28yX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwODEyODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDaMGHIjKF8HcoaYSWVTLqajY1X3OPkN-aE9Vlyi6BYJgIhAOG2ZJgbYuolBXjDx8qySNDkeiq1rTf88L414lrlGl97"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-pmnMOSYCwY2cPl9TfrSKo2_na1fn_cGFzdGVkX2NvbnRlbnQ.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1wbW5NT1NZQ3dZMmNQbDlUZnJTS28yX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk0NzAwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIHOQTNB4S2eKiAvkgQDxQgHO3rcDdodKSEzmz3DH5oTeAiAJ8O4tx8KVvXLAZ1rrbQICCEPpYyk8YkGEauGnfaUrhQ__"
           }
         ],
         "content": "we had to change the password to login to myloneworkers.com ; I think that is the error that the scraper is running into",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555273&Signature=MEQCIH21poOs~WLIr5r6eDp3dnBVW~NbeK4KUKTSXklSEyMFAiBiEe3KDcrgGmfDsHdqjOVhsrQEIt5a0h5IM6MK5oGYZw__&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -4294,7 +4707,12 @@
       "type": "user_message",
       "user_message": {
         "content": "the new password is Aptcorp9876!",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555273&Signature=MEQCIH21poOs~WLIr5r6eDp3dnBVW~NbeK4KUKTSXklSEyMFAiBiEe3KDcrgGmfDsHdqjOVhsrQEIt5a0h5IM6MK5oGYZw__&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -4424,7 +4842,12 @@
       "type": "user_message",
       "user_message": {
         "content": "I forgot a digit... the password is Aptcorp09876!",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555273&Signature=MEQCIH21poOs~WLIr5r6eDp3dnBVW~NbeK4KUKTSXklSEyMFAiBiEe3KDcrgGmfDsHdqjOVhsrQEIt5a0h5IM6MK5oGYZw__&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -4541,7 +4964,12 @@
       "type": "user_message",
       "user_message": {
         "content": "Publish the current checkpoint to push the updated password to the live site.. Make it possible to save runs and edit the naming conventions after",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555273&Signature=MEQCIH21poOs~WLIr5r6eDp3dnBVW~NbeK4KUKTSXklSEyMFAiBiEe3KDcrgGmfDsHdqjOVhsrQEIt5a0h5IM6MK5oGYZw__&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -4583,7 +5011,12 @@
       "type": "user_message",
       "user_message": {
         "content": "both ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555273&Signature=MEQCIH21poOs~WLIr5r6eDp3dnBVW~NbeK4KUKTSXklSEyMFAiBiEe3KDcrgGmfDsHdqjOVhsrQEIt5a0h5IM6MK5oGYZw__&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -4633,7 +5066,12 @@
       "type": "user_message",
       "user_message": {
         "content": "what was the question?",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555273&Signature=MEQCIH21poOs~WLIr5r6eDp3dnBVW~NbeK4KUKTSXklSEyMFAiBiEe3KDcrgGmfDsHdqjOVhsrQEIt5a0h5IM6MK5oGYZw__&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -4670,7 +5108,12 @@
       "type": "user_message",
       "user_message": {
         "content": "Wilmington needs to be renamed to New Wilmington Arms \n\nMidtown needs to be renamed to Midtown Manor\n\nBoca Ciera needs to be renamed to Boca Ciera Townhomes Apts\n\nJefferson needs to be renamed to Jefferson Arms Acts\n\nMacedonia needs to be renamed to Macedonia Garden Apts\n\nOpa Locka needs to be renamed Opa Lock 135th St Apts\n\nCentral Apts - Check and see which this one is, I think Urban Rehab\n\nCumberland = Cumberland Apts\n\nHoliday = Holiday Apts\n\nDo you want me to remove Holiday Apts?\n\nPacific = Pacific Pointe Apts\n\nGranite Ridge Apartments is _________ .\n\nColumbia = Columbia Village Apts\n\nSilver Spring = Silver Springs Terrace Apts\n\nGates of Manhattan needs to be changed to The Gates on Manhattan\n\nMarrero needs to be changed to Marrero 3 \n\nStar = Star Homes\n\nThibodaux needs to be Thibodaux Colonial Estates\n\nAnaheim Gardens needs to be Anaheim Apts\n\nBreckenridge needs to be Breckenridge Village\n\nGrove Park to be Grove Park Terrace",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555273&Signature=MEQCIH21poOs~WLIr5r6eDp3dnBVW~NbeK4KUKTSXklSEyMFAiBiEe3KDcrgGmfDsHdqjOVhsrQEIt5a0h5IM6MK5oGYZw__&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -4740,7 +5183,12 @@
       "type": "user_message",
       "user_message": {
         "content": "Central Apts is Urban Rehab ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555273&Signature=MEQCIH21poOs~WLIr5r6eDp3dnBVW~NbeK4KUKTSXklSEyMFAiBiEe3KDcrgGmfDsHdqjOVhsrQEIt5a0h5IM6MK5oGYZw__&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -4790,7 +5238,12 @@
       "type": "user_message",
       "user_message": {
         "content": "Leave Granite Ridge  as Granite Ridge - yes I intended to put Apts for Jefferson Arms Apts",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555273&Signature=MEQCIH21poOs~WLIr5r6eDp3dnBVW~NbeK4KUKTSXklSEyMFAiBiEe3KDcrgGmfDsHdqjOVhsrQEIt5a0h5IM6MK5oGYZw__&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -4840,7 +5293,12 @@
       "type": "user_message",
       "user_message": {
         "content": "it was supposed to be Boca Ciega Townhomes Apts. .. just change it back to Boca Ciega ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555273&Signature=MEQCIH21poOs~WLIr5r6eDp3dnBVW~NbeK4KUKTSXklSEyMFAiBiEe3KDcrgGmfDsHdqjOVhsrQEIt5a0h5IM6MK5oGYZw__&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -4890,7 +5348,12 @@
       "type": "user_message",
       "user_message": {
         "content": "change it back to just Silver Springs",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555273&Signature=MEQCIH21poOs~WLIr5r6eDp3dnBVW~NbeK4KUKTSXklSEyMFAiBiEe3KDcrgGmfDsHdqjOVhsrQEIt5a0h5IM6MK5oGYZw__&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -4940,7 +5403,12 @@
       "type": "user_message",
       "user_message": {
         "content": "it says it has been published",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555273&Signature=MEQCIH21poOs~WLIr5r6eDp3dnBVW~NbeK4KUKTSXklSEyMFAiBiEe3KDcrgGmfDsHdqjOVhsrQEIt5a0h5IM6MK5oGYZw__&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -4985,7 +5453,12 @@
       "type": "user_message",
       "user_message": {
         "content": "Give me a \"How to\" Guide on how to run reports using this web portal in pdf format \nBuild a property-alias audit screen in the admin dashboard to easily review and approve future name changes.\nAdd a visual indicator on the main dashboard to highlight any properties that are currently missing their MyLoneWorkers mapping.",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555273&Signature=MEQCIH21poOs~WLIr5r6eDp3dnBVW~NbeK4KUKTSXklSEyMFAiBiEe3KDcrgGmfDsHdqjOVhsrQEIt5a0h5IM6MK5oGYZw__&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -5011,9 +5484,12 @@
         "attachments": [
           {
             "content_type": "application/pdf",
+            "file_uid": "367def85-eb61-4fe0-99d8-a2a45495a3b2",
             "filename": "main.pdf",
+            "path": "/home/ubuntu/monthly-inspections-report-guide/main.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/ddSLZDcAvjOsPTDjn5zXz3/sandbox/0PL55LR9MWgwACtjfXUXk3_1787938977591_na1fn_L2hvbWUvdWJ1bnR1L21vbnRobHktaW5zcGVjdGlvbnMtcmVwb3J0LWd1aWRlL21haW4.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvZGRTTFpEY0F2ak9zUFREam41elh6My9zYW5kYm94LzBQTDU1TFI5TVdnd0FDdGpmWFVYazNfMTc4NzkzODk3NzU5MV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDIxdmJuUm9iSGt0YVc1emNHVmpkR2x2Ym5NdGNtVndiM0owTFdkMWFXUmxMMjFoYVc0LnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCrtdq6QDQVOGqizL77fKhRjdQfcbqBOifU6477Lc~bagIhAOyWtv2mvjhshK0UXn61reRlaGYDVxlI-Zm-WRTDIC4~"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/ddSLZDcAvjOsPTDjn5zXz3/sandbox/0PL55LR9MWgwACtjfXUXk3_1787938977591_na1fn_L2hvbWUvdWJ1bnR1L21vbnRobHktaW5zcGVjdGlvbnMtcmVwb3J0LWd1aWRlL21haW4.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvZGRTTFpEY0F2ak9zUFREam41elh6My9zYW5kYm94LzBQTDU1TFI5TVdnd0FDdGpmWFVYazNfMTc4NzkzODk3NzU5MV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDIxdmJuUm9iSGt0YVc1emNHVmpkR2x2Ym5NdGNtVndiM0owTFdkMWFXUmxMMjFoYVc0LnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NDcwMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDZJACkFdBY~JTFHcTObc7DfhzpwU8acAjXgzBxLrL4yAiAZaaEweVTqBMIsMPf4BJn1uFlT6J-pS7iyhfa4K5DWxg__",
+            "version_uid": "36741189-cc03-456a-97b8-73a6b9d05a2b"
           }
         ],
         "content": "Completed the requested enhancements. The dashboard now flags **4 unmapped properties** in a prominent yellow alert and with row-level badges. The new **administrator-only Alias Audit** supports submitting, editing, approving, rejecting, and documenting property-name proposals. I also created the requested six-page PDF guide covering scraper ranges, Summary/Compare PDFs, email drafts, Saved Runs, naming rules, and mapping health.\n\nValidation passed: production build, TypeScript, PDF verification, and **10 automated tests**. Please click **Publish** for checkpoint `842e6b0f` to make the portal changes live.\n\nNext steps to consider:\n1. Add MyLoneWorkers worker IDs for the four manual properties.\n2. Add email notifications for newly submitted alias proposals.\n3. Add filters to export alias-audit history as CSV."
@@ -5038,7 +5514,12 @@
       "type": "user_message",
       "user_message": {
         "content": "New Wilmington Arms is NWA in the system so you should be able to map that one and River Gardens is called River Gardens Manager so fix those two ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555273&Signature=MEQCIH21poOs~WLIr5r6eDp3dnBVW~NbeK4KUKTSXklSEyMFAiBiEe3KDcrgGmfDsHdqjOVhsrQEIt5a0h5IM6MK5oGYZw__&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -5083,7 +5564,12 @@
       "type": "user_message",
       "user_message": {
         "content": "Map Fairfax to Fairfax Manager and Central Apts to Urban Rehab Manager so we have zero missing mappings.\nAdd a quick-action button on the dashboard to manually trigger a test scrape for any newly mapped properties.",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555273&Signature=MEQCIH21poOs~WLIr5r6eDp3dnBVW~NbeK4KUKTSXklSEyMFAiBiEe3KDcrgGmfDsHdqjOVhsrQEIt5a0h5IM6MK5oGYZw__&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -5133,7 +5619,12 @@
       "type": "user_message",
       "user_message": {
         "content": "go ahead and do the targeted test-scrape ... i will figure out whats going on with Fairfax and Urban Rehab ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555273&Signature=MEQCIH21poOs~WLIr5r6eDp3dnBVW~NbeK4KUKTSXklSEyMFAiBiEe3KDcrgGmfDsHdqjOVhsrQEIt5a0h5IM6MK5oGYZw__&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -5202,12 +5693,18 @@
           {
             "content_type": "image/png",
             "filename": "pasted_file_hYBvBT_image.png",
+            "path": "/home/ubuntu/upload/pasted_file_hYBvBT_image.png",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-OTknYiVqp9iEuiW8Q7ANQX_na1fn_cGFzdGVkX2ZpbGVfaFlCdkJUX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1PVGtuWWlWcXA5aUV1aVc4UTdBTlFYX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZhRmxDZGtKVVgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCrM6ha9zcShvc51GEhgMxpC8Fdk2xzHWFkTcfyEokoOAIhAKeWGTrzjkM-WD~GoHmImkDG~QtWejMi3Js28bGSdguv"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-OTknYiVqp9iEuiW8Q7ANQX_na1fn_cGFzdGVkX2ZpbGVfaFlCdkJUX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1PVGtuWWlWcXA5aUV1aVc4UTdBTlFYX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZhRmxDZGtKVVgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NDcwMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCseNHO191rHP4sIzwcBXZlL-Pr7oV64OTmjwHQ7knOqgIgHudp2emVMBy~a-ZZdRIuh7pSQnsigWhNTebkHM4ZNuk_"
           }
         ],
         "content": "make sure that this summary report formatting is correct - the words don't sit properly ... do this throughout ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555273&Signature=MEQCIH21poOs~WLIr5r6eDp3dnBVW~NbeK4KUKTSXklSEyMFAiBiEe3KDcrgGmfDsHdqjOVhsrQEIt5a0h5IM6MK5oGYZw__&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -5254,7 +5751,12 @@
       "type": "user_message",
       "user_message": {
         "content": "did you get this reformatted?",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555273&Signature=MEQCIH21poOs~WLIr5r6eDp3dnBVW~NbeK4KUKTSXklSEyMFAiBiEe3KDcrgGmfDsHdqjOVhsrQEIt5a0h5IM6MK5oGYZw__&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -5302,7 +5804,12 @@
       "type": "user_message",
       "user_message": {
         "content": "i just checking in myloneworkers.com regarding the inspections for NWA (New Wilmington Arms) for 08-01-2026 to 08-21-2026, hit refresh and i found that they infact did do their inspections where you show they did not",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555273&Signature=MEQCIH21poOs~WLIr5r6eDp3dnBVW~NbeK4KUKTSXklSEyMFAiBiEe3KDcrgGmfDsHdqjOVhsrQEIt5a0h5IM6MK5oGYZw__&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -5329,7 +5836,12 @@
       "type": "user_message",
       "user_message": {
         "content": "we will probably need to re-run the YTD scrape but I will look for more discrepancies first ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555273&Signature=MEQCIH21poOs~WLIr5r6eDp3dnBVW~NbeK4KUKTSXklSEyMFAiBiEe3KDcrgGmfDsHdqjOVhsrQEIt5a0h5IM6MK5oGYZw__&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -5346,7 +5858,12 @@
       "type": "user_message",
       "user_message": {
         "content": "did you figure out what you did wrong with this?",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555273&Signature=MEQCIH21poOs~WLIr5r6eDp3dnBVW~NbeK4KUKTSXklSEyMFAiBiEe3KDcrgGmfDsHdqjOVhsrQEIt5a0h5IM6MK5oGYZw__&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -5373,7 +5890,12 @@
       "type": "user_message",
       "user_message": {
         "content": "ok i have checked all of the other properties - you can go ahead and re-run the YTD to see if New Wilmington Arms indeed did their inspections every month or not ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555273&Signature=MEQCIH21poOs~WLIr5r6eDp3dnBVW~NbeK4KUKTSXklSEyMFAiBiEe3KDcrgGmfDsHdqjOVhsrQEIt5a0h5IM6MK5oGYZw__&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -5400,7 +5922,12 @@
       "type": "user_message",
       "user_message": {
         "content": "i don't see it running ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555273&Signature=MEQCIH21poOs~WLIr5r6eDp3dnBVW~NbeK4KUKTSXklSEyMFAiBiEe3KDcrgGmfDsHdqjOVhsrQEIt5a0h5IM6MK5oGYZw__&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -5448,7 +5975,12 @@
       "type": "user_message",
       "user_message": {
         "content": "do both ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555273&Signature=MEQCIH21poOs~WLIr5r6eDp3dnBVW~NbeK4KUKTSXklSEyMFAiBiEe3KDcrgGmfDsHdqjOVhsrQEIt5a0h5IM6MK5oGYZw__&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -5498,7 +6030,12 @@
       "type": "user_message",
       "user_message": {
         "content": "when i am viewing the History or Summary or anything that includes a report - I want it to be able to download pdf or print that it fit to page landscape ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555273&Signature=MEQCIH21poOs~WLIr5r6eDp3dnBVW~NbeK4KUKTSXklSEyMFAiBiEe3KDcrgGmfDsHdqjOVhsrQEIt5a0h5IM6MK5oGYZw__&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -5525,7 +6062,12 @@
       "type": "user_message",
       "user_message": {
         "content": "Since the managers inspections are due every month on the 21st,  I want you to sent me an email that has the report of every manager that hasn't completed their inspections on the 17th.  That way I can send their regional manager an email giving them a heads up that their manager's inspections are coming up ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555273&Signature=MEQCIH21poOs~WLIr5r6eDp3dnBVW~NbeK4KUKTSXklSEyMFAiBiEe3KDcrgGmfDsHdqjOVhsrQEIt5a0h5IM6MK5oGYZw__&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -5565,7 +6107,12 @@
       "type": "user_message",
       "user_message": {
         "content": "I prefer the Dashboard reminder report",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555273&Signature=MEQCIH21poOs~WLIr5r6eDp3dnBVW~NbeK4KUKTSXklSEyMFAiBiEe3KDcrgGmfDsHdqjOVhsrQEIt5a0h5IM6MK5oGYZw__&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -5615,7 +6162,12 @@
       "type": "user_message",
       "user_message": {
         "content": "Looks great, I want you to CC Leslie Rolon in Region 1, she takes care of more of that region for her husband JR",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555278&Signature=MEUCIGr8JnDtwai~osu-p1k-ppoE0U9HRlMUl7Hn-CG-dZQxAiEAqAC~kI-yGf~AWci1dIdv~9uthMFUvl3avd-wzIq6Fpw_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -5642,7 +6194,12 @@
       "type": "user_message",
       "user_message": {
         "content": "I want you to email ME a reminder on the 17th of each month at 8:30am PST so I know to go into the portal to look at this",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555278&Signature=MEUCIGr8JnDtwai~osu-p1k-ppoE0U9HRlMUl7Hn-CG-dZQxAiEAqAC~kI-yGf~AWci1dIdv~9uthMFUvl3avd-wzIq6Fpw_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -5682,7 +6239,12 @@
       "type": "user_message",
       "user_message": {
         "content": "automatic email reminder ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555278&Signature=MEUCIGr8JnDtwai~osu-p1k-ppoE0U9HRlMUl7Hn-CG-dZQxAiEAqAC~kI-yGf~AWci1dIdv~9uthMFUvl3avd-wzIq6Fpw_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -5732,7 +6294,12 @@
       "type": "user_message",
       "user_message": {
         "content": "Can you draft me emails to the regional managers now stating something to the effect of \"Hey ______ (regional manager),  I just wanted to send an email over letting you know that I am transitioning into the inspections management sector as Robert transitions out and into his new role.  I will be sending out an email to you on the 17th of each month that will have a list of the properties in your region that show as not having completed their inspections.  This will allow you to contact your property manager 4 days ahead of the due date (21st of the month) to get the ball rolling.  Todd has been watching the inspections more closely and I just want everyone (including myself) to stay out of hot water and have everything running smoothly.  I am including here now the properties that I show that have not completed their inspections for August.  Please let me know if I need to double check the QR system or if something doesn't look right with you, I'll be happy to look into it further.  I'm hoping to make process as painless as possible and welcome all feedback and suggestions.\"   I want this email to have the body and then a list of the properties that show in their region that have not completed their inspections. ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555278&Signature=MEUCIGr8JnDtwai~osu-p1k-ppoE0U9HRlMUl7Hn-CG-dZQxAiEAqAC~kI-yGf~AWci1dIdv~9uthMFUvl3avd-wzIq6Fpw_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -5759,7 +6326,12 @@
       "type": "user_message",
       "user_message": {
         "content": "If you can make my message sound very professional and flow better, that would be great too ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555278&Signature=MEUCIGr8JnDtwai~osu-p1k-ppoE0U9HRlMUl7Hn-CG-dZQxAiEAqAC~kI-yGf~AWci1dIdv~9uthMFUvl3avd-wzIq6Fpw_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -5776,7 +6348,12 @@
       "type": "user_message",
       "user_message": {
         "content": "I want Robert@apartmentcorp.com CC'd to the each email too so make that so in the drafts ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555278&Signature=MEUCIGr8JnDtwai~osu-p1k-ppoE0U9HRlMUl7Hn-CG-dZQxAiEAqAC~kI-yGf~AWci1dIdv~9uthMFUvl3avd-wzIq6Fpw_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -5793,7 +6370,12 @@
       "type": "user_message",
       "user_message": {
         "content": "so if you need to re-run August and have the parameters up until today's date, please do so for these emails ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555278&Signature=MEUCIGr8JnDtwai~osu-p1k-ppoE0U9HRlMUl7Hn-CG-dZQxAiEAqAC~kI-yGf~AWci1dIdv~9uthMFUvl3avd-wzIq6Fpw_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -5809,9 +6391,12 @@
         "attachments": [
           {
             "content_type": "text/markdown; charset=utf-8",
+            "file_uid": "0bf62ad8-203d-4607-b47d-faedb0837ab9",
             "filename": "august-2026-regional-manager-transition-drafts.md",
+            "path": "/home/ubuntu/monthly-inspections/references/august-2026-regional-manager-transition-drafts.md",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/sessionFile/ddSLZDcAvjOsPTDjn5zXz3/sandbox/MCP55eQWbwddcgHNF2Z1nP_1788216205205_na1fn_L2hvbWUvdWJ1bnR1L21vbnRobHktaW5zcGVjdGlvbnMvcmVmZXJlbmNlcy9hdWd1c3QtMjAyNi1yZWdpb25hbC1tYW5hZ2VyLXRyYW5zaXRpb24tZHJhZnRz.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvZGRTTFpEY0F2ak9zUFREam41elh6My9zYW5kYm94L01DUDU1ZVFXYndkZGNnSE5GMloxblBfMTc4ODIxNjIwNTIwNV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDIxdmJuUm9iSGt0YVc1emNHVmpkR2x2Ym5NdmNtVm1aWEpsYm1ObGN5OWhkV2QxYzNRdE1qQXlOaTF5WldkcGIyNWhiQzF0WVc1aFoyVnlMWFJ5WVc1emFYUnBiMjR0WkhKaFpuUnoubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCnewCJcjT1BXTc5SZcmGK39BPw~Cxtw6n3~KuGnJJPfAIhAPVcdi6vd30Z6ILHbVMjOQVW15tqulT5i1jsEkMMNbYK"
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/ddSLZDcAvjOsPTDjn5zXz3/sandbox/MCP55eQWbwddcgHNF2Z1nP_1788216205205_na1fn_L2hvbWUvdWJ1bnR1L21vbnRobHktaW5zcGVjdGlvbnMvcmVmZXJlbmNlcy9hdWd1c3QtMjAyNi1yZWdpb25hbC1tYW5hZ2VyLXRyYW5zaXRpb24tZHJhZnRz.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvZGRTTFpEY0F2ak9zUFREam41elh6My9zYW5kYm94L01DUDU1ZVFXYndkZGNnSE5GMloxblBfMTc4ODIxNjIwNTIwNV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDIxdmJuUm9iSGt0YVc1emNHVmpkR2x2Ym5NdmNtVm1aWEpsYm1ObGN5OWhkV2QxYzNRdE1qQXlOaTF5WldkcGIyNWhiQzF0WVc1aFoyVnlMWFJ5WVc1emFYUnBiMjR0WkhKaFpuUnoubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTQ3MDA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIHGcbVB3bjF5h7LBAOPWXciR7Ai-B2tuAcSLAGHX7lywAiBLDNlXD2ad01jruJVrNXKznW1xkZFC82BJw8ATPeC-Ag__",
+            "version_uid": "817feb24-1fd0-4b82-bdee-4ca1c703b622"
           }
         ],
         "content": "The August refresh is complete through August 31. The portal now shows **17 completed**, **22 issues**, and **2 manually tracked / not reviewed** properties. I created polished, editable **Transition Drafts (24)** in the dashboard and a review packet with the four regional-manager emails. Each draft contains its current incomplete-property list; **Robert is copied on all drafts**, and **Leslie is also copied on Region 1**.\n\nPlease review the attached draft packet or open **Transition Drafts** in the portal before sending anything."
@@ -5849,7 +6434,12 @@
       "type": "user_message",
       "user_message": {
         "content": "can you send all 4 emails to ONLY me right now as a test? I want to ensure they are in the html format that I am desiriing.  I would also like the Inspection History for Each region to be an attached html. file and explain the attachment in the body of the email as well ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555278&Signature=MEUCIGr8JnDtwai~osu-p1k-ppoE0U9HRlMUl7Hn-CG-dZQxAiEAqAC~kI-yGf~AWci1dIdv~9uthMFUvl3avd-wzIq6Fpw_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -5876,7 +6466,12 @@
       "type": "user_message",
       "user_message": {
         "content": "at the bottom of each email I want to make it very apparent the verbiage \"Please confirm receipt of this email\" ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555278&Signature=MEUCIGr8JnDtwai~osu-p1k-ppoE0U9HRlMUl7Hn-CG-dZQxAiEAqAC~kI-yGf~AWci1dIdv~9uthMFUvl3avd-wzIq6Fpw_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -5893,7 +6488,12 @@
       "type": "user_message",
       "user_message": {
         "content": "it's too place looking and some of the fronts are too light that are colored.  make it look more like this format and resend tests to only me now ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555278&Signature=MEUCIGr8JnDtwai~osu-p1k-ppoE0U9HRlMUl7Hn-CG-dZQxAiEAqAC~kI-yGf~AWci1dIdv~9uthMFUvl3avd-wzIq6Fpw_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -5905,11 +6505,17 @@
           {
             "content_type": "image/png",
             "filename": "pasted_file_DWcQbt_image.png",
+            "path": "/home/ubuntu/upload/pasted_file_DWcQbt_image.png",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-A8ML45vewgqXBO2aAfuiZB_na1fn_cGFzdGVkX2ZpbGVfRFdjUWJ0X2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1BOE1MNDV2ZXdncVhCTzJhQWZ1aVpCX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZSRmRqVVdKMFgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCkPKvkp3eYcMJL5MfyfOglBzoJDthPFGiekrG~4boVmwIhANcG67wGANSN6SLzzMW~nbuItvkErnc7crp2FbampQPf"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-A8ML45vewgqXBO2aAfuiZB_na1fn_cGFzdGVkX2ZpbGVfRFdjUWJ0X2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1BOE1MNDV2ZXdncVhCTzJhQWZ1aVpCX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZSRmRqVVdKMFgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NDcwMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCbA0YqfgyyIRiop7lelghW3agAj48mTdgR-VxuG1SSzwIgPPb--M0dozZCeFRTXa2k8pdn4DQditxa489z305Xgjk_"
           }
         ],
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555278&Signature=MEUCIGr8JnDtwai~osu-p1k-ppoE0U9HRlMUl7Hn-CG-dZQxAiEAqAC~kI-yGf~AWci1dIdv~9uthMFUvl3avd-wzIq6Fpw_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -5926,7 +6532,12 @@
       "type": "user_message",
       "user_message": {
         "content": "since you are stating \"Available in Portal\" as the pdf report ... you should probably attach the link to the pdf there instead with the actual inspection pdf ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555278&Signature=MEUCIGr8JnDtwai~osu-p1k-ppoE0U9HRlMUl7Hn-CG-dZQxAiEAqAC~kI-yGf~AWci1dIdv~9uthMFUvl3avd-wzIq6Fpw_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -5943,7 +6554,12 @@
       "type": "user_message",
       "user_message": {
         "content": "or you could just regenerate an html report from the Summary part of the Monthly Inspections portal and attach the pdf there - so the managers names and exts are present too  ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555278&Signature=MEUCIGr8JnDtwai~osu-p1k-ppoE0U9HRlMUl7Hn-CG-dZQxAiEAqAC~kI-yGf~AWci1dIdv~9uthMFUvl3avd-wzIq6Fpw_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -5963,12 +6579,18 @@
           {
             "content_type": "image/png",
             "filename": "pasted_file_OYwkUP_image.png",
+            "path": "/home/ubuntu/upload/pasted_file_OYwkUP_image.png",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-rZ2yJvWy8EeFf7B7ZYA3Hn_na1fn_cGFzdGVkX2ZpbGVfT1l3a1VQX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1yWjJ5SnZXeThFZUZmN0I3WllBM0huX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZUMWwzYTFWUVgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIEkUjQxKz58gyr4y3TYWAeggyogwSimmsqCBREYctyyFAiByZ2X~gKgWcnH5y05Adbga4be1vfv9coJlPFmvlJUKTw__"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-rZ2yJvWy8EeFf7B7ZYA3Hn_na1fn_cGFzdGVkX2ZpbGVfT1l3a1VQX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1yWjJ5SnZXeThFZUZmN0I3WllBM0huX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZUMWwzYTFWUVgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NDcwMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIHKMhYAFkl95wNgsQs88awPw-zP-oFYNyJ-7yjthHXuDAiA5XgnUGXIuNxeMRVX-pkt-V0I3jvUOw8zt0-gVPRpyfQ__"
           }
         ],
         "content": "it is still very bland looking ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555278&Signature=MEUCIGr8JnDtwai~osu-p1k-ppoE0U9HRlMUl7Hn-CG-dZQxAiEAqAC~kI-yGf~AWci1dIdv~9uthMFUvl3avd-wzIq6Fpw_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -5988,16 +6610,22 @@
           {
             "content_type": "application/pdf",
             "filename": "portfolio_checklist.pdf",
+            "path": "/home/ubuntu/upload/portfolio_checklist.pdf",
             "type": "file",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ltfkUBTFqypPCOxS2TjOSE_na1fn_cG9ydGZvbGlvX2NoZWNrbGlzdA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1sdGZrVUJURnF5cFBDT3hTMlRqT1NFX25hMWZuX2NHOXlkR1p2YkdsdlgyTm9aV05yYkdsemRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDe8lwdw30IfqCWCe6j1E0So~5mGCEkjiHSOuQ8L~UOdgIgYZYp1jSdv2REv6JXIA~DSh~EzDvp8T7ai-4myWEFppc_"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ltfkUBTFqypPCOxS2TjOSE_na1fn_cG9ydGZvbGlvX2NoZWNrbGlzdA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1sdGZrVUJURnF5cFBDT3hTMlRqT1NFX25hMWZuX2NHOXlkR1p2YkdsdlgyTm9aV05yYkdsemRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NDcwMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDjPkKAMttTmmRsiCOR0V70PlfkQDsRaDFoPc-4tgrpuAiBr974XzOmF5QBJHr6G92R9tXwF9agxuVd~mxRu5DldEg__"
           }
         ],
         "content": "I am going to be checking if all of our managers are doing their inspections every month on the 21st.  I need you to make a checklist of all of our properties where I can go off and check them in a box similar to this one attached. but I want it as a webpage app and all of the properties on one page - Title it Monthly Inspections Subtitle Due : 21st of Every Month",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555278&Signature=MEUCIGr8JnDtwai~osu-p1k-ppoE0U9HRlMUl7Hn-CG-dZQxAiEAqAC~kI-yGf~AWci1dIdv~9uthMFUvl3avd-wzIq6Fpw_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
-      "id": "FEgsCppO63Qm6Bqn1v7PJpDuCUyI20m6GziuEi9xVKzG-1-2",
+      "id": "DuCUyI20m6GziuEi9xVKzG",
       "status_update": {
         "agent_status": "running",
         "brief": "Manus is running",
@@ -6043,12 +6671,18 @@
           {
             "content_type": "image/png",
             "filename": "pasted_file_OYwkUP_image.png",
+            "path": "/home/ubuntu/upload/pasted_file_OYwkUP_image.png",
             "type": "image",
-            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-rZ2yJvWy8EeFf7B7ZYA3Hn_na1fn_cGFzdGVkX2ZpbGVfT1l3a1VQX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1yWjJ5SnZXeThFZUZmN0I3WllBM0huX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZUMWwzYTFWUVgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIEkUjQxKz58gyr4y3TYWAeggyogwSimmsqCBREYctyyFAiByZ2X~gKgWcnH5y05Adbga4be1vfv9coJlPFmvlJUKTw__"
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-rZ2yJvWy8EeFf7B7ZYA3Hn_na1fn_cGFzdGVkX2ZpbGVfT1l3a1VQX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1yWjJ5SnZXeThFZUZmN0I3WllBM0huX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZUMWwzYTFWUVgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NDcwMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIHKMhYAFkl95wNgsQs88awPw-zP-oFYNyJ-7yjthHXuDAiA5XgnUGXIuNxeMRVX-pkt-V0I3jvUOw8zt0-gVPRpyfQ__"
           }
         ],
         "content": "it is still very bland looking ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555278&Signature=MEUCIGr8JnDtwai~osu-p1k-ppoE0U9HRlMUl7Hn-CG-dZQxAiEAqAC~kI-yGf~AWci1dIdv~9uthMFUvl3avd-wzIq6Fpw_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -6083,7 +6717,12 @@
       "type": "user_message",
       "user_message": {
         "content": "i like it a lot now can you take off the manus logo at the top and put ApartmentCorp Logo",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555278&Signature=MEUCIGr8JnDtwai~osu-p1k-ppoE0U9HRlMUl7Hn-CG-dZQxAiEAqAC~kI-yGf~AWci1dIdv~9uthMFUvl3avd-wzIq6Fpw_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -6110,7 +6749,12 @@
       "type": "user_message",
       "user_message": {
         "content": "only put the regionals first name in the body of the email... not their last too",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555278&Signature=MEUCIGr8JnDtwai~osu-p1k-ppoE0U9HRlMUl7Hn-CG-dZQxAiEAqAC~kI-yGf~AWci1dIdv~9uthMFUvl3avd-wzIq6Fpw_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -6127,7 +6771,12 @@
       "type": "user_message",
       "user_message": {
         "content": "send the draft to me only when you are done",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555278&Signature=MEUCIGr8JnDtwai~osu-p1k-ppoE0U9HRlMUl7Hn-CG-dZQxAiEAqAC~kI-yGf~AWci1dIdv~9uthMFUvl3avd-wzIq6Fpw_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -6162,7 +6811,12 @@
       "type": "user_message",
       "user_message": {
         "content": "Make sure for Region 1 that you putting Dear JR & Leslie",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555278&Signature=MEUCIGr8JnDtwai~osu-p1k-ppoE0U9HRlMUl7Hn-CG-dZQxAiEAqAC~kI-yGf~AWci1dIdv~9uthMFUvl3avd-wzIq6Fpw_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -6189,7 +6843,12 @@
       "type": "user_message",
       "user_message": {
         "content": "you can go ahead and set up all to send to the regional managers and CC Marc (mam@22.bz), Robert (Robert@ApartmentCorp.com) ; Todd (Todd@menowitz.com) and Ethan (Ethan@apartmentcorp.com)",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555278&Signature=MEUCIGr8JnDtwai~osu-p1k-ppoE0U9HRlMUl7Hn-CG-dZQxAiEAqAC~kI-yGf~AWci1dIdv~9uthMFUvl3avd-wzIq6Fpw_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -6229,7 +6888,12 @@
       "type": "user_message",
       "user_message": {
         "content": "i want you to go ahead and send them ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555278&Signature=MEUCIGr8JnDtwai~osu-p1k-ppoE0U9HRlMUl7Hn-CG-dZQxAiEAqAC~kI-yGf~AWci1dIdv~9uthMFUvl3avd-wzIq6Fpw_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -6321,7 +6985,12 @@
       "type": "user_message",
       "user_message": {
         "content": "make sure these emails do not reference \"Test\" anywhere ",
-        "message_type": "text"
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555278&Signature=MEUCIGr8JnDtwai~osu-p1k-ppoE0U9HRlMUl7Hn-CG-dZQxAiEAqAC~kI-yGf~AWci1dIdv~9uthMFUvl3avd-wzIq6Fpw_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
       }
     },
     {
@@ -6406,6 +7075,249 @@
       },
       "timestamp": "1788219880540",
       "type": "status_update"
+    },
+    {
+      "id": "UV9RNegjvh2dKuzQSWulX9",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1792446574903",
+      "type": "status_update"
+    },
+    {
+      "id": "K6oMArtiv3ip99vnDFVOOP",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is resetting the computer",
+        "description": "Manus is resetting the computer, please wait for a while."
+      },
+      "timestamp": "1792446576176",
+      "type": "status_update"
+    },
+    {
+      "id": "zH4bTNQN3sIFuBgZ1EIZDG",
+      "timestamp": "1792446582563",
+      "type": "user_message",
+      "user_message": {
+        "content": "don't send any emails",
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555278&Signature=MEUCIGr8JnDtwai~osu-p1k-ppoE0U9HRlMUl7Hn-CG-dZQxAiEAqAC~kI-yGf~AWci1dIdv~9uthMFUvl3avd-wzIq6Fpw_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
+      }
+    },
+    {
+      "assistant_message": {
+        "content": "Understood. I have stopped the external-email workflow. **No emails have been sent** to any regional manager or CC recipient."
+      },
+      "id": "EzaqsIB25w1ppOSAr3VwTr",
+      "timestamp": "1792446588112",
+      "type": "assistant_message"
+    },
+    {
+      "id": "Vlg9RxzXPWl8Eo32MlHQUV",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus has reset the computer successfully",
+        "description": "Manus has successfully reset the computer. You may now continue with the previous task."
+      },
+      "timestamp": "1792446589508",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "External delivery is canceled. **No regional-manager or CC emails were sent**, and the configured drafts remain available in the portal for review only."
+      },
+      "id": "TznkunwXfvQ9zTGuZF15CZ",
+      "timestamp": "1792446654222",
+      "type": "assistant_message"
+    },
+    {
+      "id": "XbD5FedEL7nyHqmZfdhBUi",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1792446654687",
+      "type": "status_update"
+    },
+    {
+      "id": "zYEZEXErdlISCnxtPoO4VJ",
+      "timestamp": "1792446730053",
+      "type": "user_message",
+      "user_message": {
+        "content": "Show me the current drafts for review",
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555278&Signature=MEUCIGr8JnDtwai~osu-p1k-ppoE0U9HRlMUl7Hn-CG-dZQxAiEAqAC~kI-yGf~AWci1dIdv~9uthMFUvl3avd-wzIq6Fpw_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
+      }
+    },
+    {
+      "id": "eOaFdus5VHVKUK3R8jLqqP",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1792446730212",
+      "type": "status_update"
+    },
+    {
+      "id": "jSCtOFv23NkiiGjP35KRYVpQXs4MD96CKZJoc2Gky2b7",
+      "timestamp": "1782149419835",
+      "type": "user_message",
+      "user_message": {
+        "attachments": [
+          {
+            "content_type": "application/pdf",
+            "filename": "portfolio_checklist.pdf",
+            "path": "/home/ubuntu/upload/portfolio_checklist.pdf",
+            "type": "file",
+            "url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ltfkUBTFqypPCOxS2TjOSE_na1fn_cG9ydGZvbGlvX2NoZWNrbGlzdA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1sdGZrVUJURnF5cFBDT3hTMlRqT1NFX25hMWZuX2NHOXlkR1p2YkdsdlgyTm9aV05yYkdsemRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NDcwMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDjPkKAMttTmmRsiCOR0V70PlfkQDsRaDFoPc-4tgrpuAiBr974XzOmF5QBJHr6G92R9tXwF9agxuVd~mxRu5DldEg__"
+          }
+        ],
+        "content": "I am going to be checking if all of our managers are doing their inspections every month on the 21st.  I need you to make a checklist of all of our properties where I can go off and check them in a box similar to this one attached. but I want it as a webpage app and all of the properties on one page - Title it Monthly Inspections Subtitle Due : 21st of Every Month",
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555278&Signature=MEUCIGr8JnDtwai~osu-p1k-ppoE0U9HRlMUl7Hn-CG-dZQxAiEAqAC~kI-yGf~AWci1dIdv~9uthMFUvl3avd-wzIq6Fpw_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
+      }
+    },
+    {
+      "id": "pQXs4MD96CKZJoc2Gky2b7",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1782149420655",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "The portal is now configured with the four regional-manager primary recipients and common CC recipients. **No external emails have been sent.**\n\n| Regional draft | To | CC |\n|---|---|---|\n| Region 1 | JR Rolon | Leslie Rolon; Marc; Robert; Todd; Ethan |\n| Region 2 | Leslie Rolon | Marc; Robert; Todd; Ethan |\n| Region 3 | Ginger Positerry | Marc; Robert; Todd; Ethan |\n| Region 4 | Blake Weddington | Marc; Robert; Todd; Ethan |\n\nRegion 1 begins **“Dear JR & Leslie,”**; the other drafts use each regional manager’s first name. The configured email-client action can populate these messages for review and sending. Please confirm whether you want me to prepare the four messages for **immediate external delivery now**, or leave them configured for your review in the portal."
+      },
+      "id": "uWb5Ng2T1DfCAwlvOSVEpypQXs4MD96CKZJoc2Gky2b7-104",
+      "timestamp": "1788219705567",
+      "type": "assistant_message"
+    },
+    {
+      "id": "Vlg9RxzXPWl8Eo32MlHQUVpQXs4MD96CKZJoc2Gky2b7-107",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus has reset the computer successfully",
+        "description": "Manus has successfully reset the computer. You may now continue with the previous task."
+      },
+      "timestamp": "1792446589508",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "External delivery is canceled. **No regional-manager or CC emails were sent**, and the configured drafts remain available in the portal for review only."
+      },
+      "id": "TznkunwXfvQ9zTGuZF15CZpQXs4MD96CKZJoc2Gky2b7-111",
+      "timestamp": "1792446654222",
+      "type": "assistant_message"
+    },
+    {
+      "id": "zYEZEXErdlISCnxtPoO4VJpQXs4MD96CKZJoc2Gky2b7-112",
+      "timestamp": "1792446730053",
+      "type": "user_message",
+      "user_message": {
+        "content": "Show me the current drafts for review",
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1793555278&Signature=MEUCIGr8JnDtwai~osu-p1k-ppoE0U9HRlMUl7Hn-CG-dZQxAiEAqAC~kI-yGf~AWci1dIdv~9uthMFUvl3avd-wzIq6Fpw_&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
+      }
+    },
+    {
+      "id": "eOaFdus5VHVKUK3R8jLqqPpQXs4MD96CKZJoc2Gky2b7-114",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1792446730212",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "I’ll retrieve the currently configured regional drafts and present them for review without sending or modifying anything.",
+        "delivery_kind": "progress"
+      },
+      "id": "VbMbOBPFM5v2viiPeQU24c",
+      "timestamp": "1792446754138",
+      "type": "assistant_message"
+    },
+    {
+      "assistant_message": {
+        "content": "I’ve confirmed the saved drafts are configured as review-only and external delivery remains canceled; I’ll now load the portal’s live draft view to capture the current incomplete-property lists.",
+        "delivery_kind": "progress"
+      },
+      "id": "1SuQ4jgiUeq6SZaNHkL5bR",
+      "timestamp": "1792446760097",
+      "type": "assistant_message"
+    },
+    {
+      "assistant_message": {
+        "content": "The portal’s live view is currently set to **October 2026**. It has four unsent transition drafts; I’m capturing each one exactly as rendered, including recipient and property details.",
+        "delivery_kind": "progress"
+      },
+      "id": "JwFdYMEQPMcUa7sft1iIvg",
+      "timestamp": "1792446816214",
+      "type": "assistant_message"
+    },
+    {
+      "assistant_message": {
+        "content": "The live portal’s **October 2026** selection has **0 of 41 properties reviewed**, so its generated drafts currently list every property as “not yet showing as complete.” I’ll prepare a read-only review packet that preserves this exact current state and clearly flags it as unsuitable for sending until the data is refreshed.",
+        "delivery_kind": "progress"
+      },
+      "id": "WO5WaZpvaa4mV9m10do52l",
+      "timestamp": "1792446857234",
+      "type": "assistant_message"
+    },
+    {
+      "assistant_message": {
+        "attachments": [
+          {
+            "content_type": "text/markdown; charset=utf-8",
+            "file_uid": "86343320-a48e-48dc-98ba-bfc9afbca81f",
+            "filename": "current-drafts-review-october-2026.md",
+            "path": "/home/ubuntu/current-drafts-review-october-2026.md",
+            "type": "file",
+            "url": "https://private-us-east-1.manuscdn.com/sessionFile/ddSLZDcAvjOsPTDjn5zXz3/sandbox/OyyGy1xbRYfOoYCcjWbM8K_1792446887559_na1fn_L2hvbWUvdWJ1bnR1L2N1cnJlbnQtZHJhZnRzLXJldmlldy1vY3RvYmVyLTIwMjY.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvZGRTTFpEY0F2ak9zUFREam41elh6My9zYW5kYm94L095eUd5MXhiUllmT29ZQ2NqV2JNOEtfMTc5MjQ0Njg4NzU1OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOMWNuSmxiblF0WkhKaFpuUnpMWEpsZG1sbGR5MXZZM1J2WW1WeUxUSXdNalkubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTQ3MDA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIHrYlGROc4Q5H18xCqj9s16c8wh-GgUQaKLDpz1iBoiMAiB0NcB4XKyODy1t1VlZaXkYvgCnlD6XQTC47Lu0cfuczQ__",
+            "version_uid": "d4e62387-9911-4581-b40f-8b32d4dafbe9"
+          }
+        ],
+        "content": "## Current drafts for review\n\nI created a complete, read-only packet containing the **four Transition** and **four Pre‑Due** regional drafts, including every recipient, CC, subject line, full email body, and property/manager list:\n\n[Open the current draft review packet](/home/ubuntu/current-drafts-review-october-2026.md)\n\n### Important live-state note\n\nThe portal is currently set to **October 2026**, and it shows **0 of 41 properties reviewed**. As a result, the currently generated drafts list **all 41 properties** as “not yet showing as complete.” They should **not** be used for delivery until October data is refreshed and verified.\n\nThe configured recipient policy is preserved:\n\n- **Region 1:** To JR Rolon; CC Leslie Rolon, Marc, Robert, Todd, and Ethan; greeting: **“Dear JR & Leslie,”**\n- **Region 2:** To Leslie Rolon; CC Marc, Robert, Todd, and Ethan\n- **Region 3:** To Ginger Positerry; CC Marc, Robert, Todd, and Ethan\n- **Region 4:** To Blake Weddington; CC Marc, Robert, Todd, and Ethan\n\nEach draft retains the prominent **“PLEASE CONFIRM RECEIPT OF THIS EMAIL.”** line and Brandon’s ApartmentCorp signature.\n\nNo emails were sent, opened, queued, or otherwise delivered.",
+        "delivery_kind": "result"
+      },
+      "id": "KbLT60u44usiRK8gWbQMDh",
+      "timestamp": "1792446887747",
+      "type": "assistant_message"
+    },
+    {
+      "id": "byuB5RJWnGcSSY6OO8zbJ7",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1792446888156",
+      "type": "status_update"
     }
   ],
   "attachments": [
@@ -6414,198 +7326,206 @@
       "type": "file",
       "filename": "portfolio_checklist.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ltfkUBTFqypPCOxS2TjOSE_na1fn_cG9ydGZvbGlvX2NoZWNrbGlzdA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1sdGZrVUJURnF5cFBDT3hTMlRqT1NFX25hMWZuX2NHOXlkR1p2YkdsdlgyTm9aV05yYkdsemRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIEsbi7tm7pl2MzQfPhjQSNMrjwKlYEOFHyBo9DmY5PpZAiEAvUwx~SsHJkyYtXxr4Ms1xE7KUUt2~TVWloTBhaIjZhM_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ltfkUBTFqypPCOxS2TjOSE_na1fn_cG9ydGZvbGlvX2NoZWNrbGlzdA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1sdGZrVUJURnF5cFBDT3hTMlRqT1NFX25hMWZuX2NHOXlkR1p2YkdsdlgyTm9aV05yYkdsemRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NDcwMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDjPkKAMttTmmRsiCOR0V70PlfkQDsRaDFoPc-4tgrpuAiBr974XzOmF5QBJHr6G92R9tXwF9agxuVd~mxRu5DldEg__",
       "status": "archived",
       "bytes": 214040,
-      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/0-user_message-0_2ab0ec4f286c83ed_portfolio_checklist.pdf"
+      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/0-user_message-0_fbdb42edc344ac7f_portfolio_checklist.pdf"
     },
     {
       "event_index": 11,
       "type": "file",
       "filename": "CompanyContacts6.12.26.xlsx",
       "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-PBkW6OTc6uvvvUxq6smLYD_na1fn_Q29tcGFueUNvbnRhY3RzNi4xMi4yNg.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1QQmtXNk9UYzZ1dnZ2VXhxNnNtTFlEX25hMWZuX1EyOXRjR0Z1ZVVOdmJuUmhZM1J6Tmk0eE1pNHlOZy54bHN4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwODEyODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQC-fuRJisDLNGVxYBhEaG9M8tctKygmUx7Y2NQW9yVBqQIhANw9Z4L6VzUBacMXdD9geN5dX1RrNw8~9eXW-ht1ZATt",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-PBkW6OTc6uvvvUxq6smLYD_na1fn_Q29tcGFueUNvbnRhY3RzNi4xMi4yNg.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1QQmtXNk9UYzZ1dnZ2VXhxNnNtTFlEX25hMWZuX1EyOXRjR0Z1ZVVOdmJuUmhZM1J6Tmk0eE1pNHlOZy54bHN4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk0NzAwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQC1DrPhEZxw77HUlyYVggA8EiWhkQDS8v5SBmCg-GPAWAIgRMpoi8DroNdsHP2~hR330nA3OHtoJxRSX3derBboR8o_",
       "status": "archived",
       "bytes": 30758,
-      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/11-user_message-0_7466a0ebeacf4d0d_CompanyContacts6.12.26.xlsx"
+      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/11-user_message-0_44870b3f464cda58_CompanyContacts6.12.26.xlsx"
     },
     {
       "event_index": 138,
       "type": "file",
       "filename": "monthly-inspections-backup-2026-06-22.json",
       "content_type": "application/json",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-aWfj17GNsM08L8EwrL7Z9e_na1fn_bW9udGhseS1pbnNwZWN0aW9ucy1iYWNrdXAtMjAyNi0wNi0yMg.json?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1hV2ZqMTdHTnNNMDhMOEV3ckw3WjllX25hMWZuX2JXOXVkR2hzZVMxcGJuTndaV04wYVc5dWN5MWlZV05yZFhBdE1qQXlOaTB3TmkweU1nLmpzb24iLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDxmI4K~efXykwWWiqpoKgDG~~nYQpu1Ak7Ufv3uJHUYwIhAJpLpSul2by7uqtC4uHqrRjxrjKjZ188iwi9WNySEVgg",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-aWfj17GNsM08L8EwrL7Z9e_na1fn_bW9udGhseS1pbnNwZWN0aW9ucy1iYWNrdXAtMjAyNi0wNi0yMg.json?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1hV2ZqMTdHTnNNMDhMOEV3ckw3WjllX25hMWZuX2JXOXVkR2hzZVMxcGJuTndaV04wYVc5dWN5MWlZV05yZFhBdE1qQXlOaTB3TmkweU1nLmpzb24iLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTQ3MDA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCeUetYueXOimLBFHM508h~KFh0kXpbI6VXkmlbd1XPSQIgY06LGWRATVXGQgLsyVc1N0yDsDBJBiNTRhrJ1F5cstg_",
       "status": "archived",
       "bytes": 6799392,
-      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/138-user_message-0_843385edb495a19f_monthly-inspections-backup-2026-06-22.json"
+      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/138-user_message-0_7fc402c25abeb074_monthly-inspections-backup-2026-06-22.json"
     },
     {
       "event_index": 142,
       "type": "file",
       "filename": "portfolio_checklist.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ltfkUBTFqypPCOxS2TjOSE_na1fn_cG9ydGZvbGlvX2NoZWNrbGlzdA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1sdGZrVUJURnF5cFBDT3hTMlRqT1NFX25hMWZuX2NHOXlkR1p2YkdsdlgyTm9aV05yYkdsemRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQC-h9lO~x58zfoHMZSBWyZLxe~uKEdekduruLj8rb7PCAIhAOVohu8OdM47OrgnsA8smHCbDidbQLWpC-7rBmUmb-dw",
-      "status": "archived",
-      "bytes": 214040,
-      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/142-user_message-0_81e087949be04a5e_portfolio_checklist.pdf"
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ltfkUBTFqypPCOxS2TjOSE_na1fn_cG9ydGZvbGlvX2NoZWNrbGlzdA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1sdGZrVUJURnF5cFBDT3hTMlRqT1NFX25hMWZuX2NHOXlkR1p2YkdsdlgyTm9aV05yYkdsemRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NDcwMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDjPkKAMttTmmRsiCOR0V70PlfkQDsRaDFoPc-4tgrpuAiBr974XzOmF5QBJHr6G92R9tXwF9agxuVd~mxRu5DldEg__",
+      "status": "duplicate_reference"
     },
     {
       "event_index": 146,
       "type": "file",
       "filename": "monthly-inspections-backup-2026-06-22.json",
       "content_type": "application/json",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-aWfj17GNsM08L8EwrL7Z9e_na1fn_bW9udGhseS1pbnNwZWN0aW9ucy1iYWNrdXAtMjAyNi0wNi0yMg.json?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1hV2ZqMTdHTnNNMDhMOEV3ckw3WjllX25hMWZuX2JXOXVkR2hzZVMxcGJuTndaV04wYVc5dWN5MWlZV05yZFhBdE1qQXlOaTB3TmkweU1nLmpzb24iLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDy3P-GFu80KzeyZMywV6cS64pjgw0ZjKTPtZah9O9RBwIhANOu0OWBTvaR~6BiTALxoAmOwZMkkghxDukuszEeJsl7",
-      "status": "archived",
-      "bytes": 6799392,
-      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/146-user_message-0_a8300e7fe6231fe8_monthly-inspections-backup-2026-06-22.json"
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-aWfj17GNsM08L8EwrL7Z9e_na1fn_bW9udGhseS1pbnNwZWN0aW9ucy1iYWNrdXAtMjAyNi0wNi0yMg.json?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1hV2ZqMTdHTnNNMDhMOEV3ckw3WjllX25hMWZuX2JXOXVkR2hzZVMxcGJuTndaV04wYVc5dWN5MWlZV05yZFhBdE1qQXlOaTB3TmkweU1nLmpzb24iLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTQ3MDA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCeUetYueXOimLBFHM508h~KFh0kXpbI6VXkmlbd1XPSQIgY06LGWRATVXGQgLsyVc1N0yDsDBJBiNTRhrJ1F5cstg_",
+      "status": "duplicate_reference"
     },
     {
       "event_index": 176,
       "type": "file",
       "filename": "pasted_content.txt",
       "content_type": "text/plain",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-zt6Fibx6kG1d058AcJYH1T_na1fn_cGFzdGVkX2NvbnRlbnQ.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC16dDZGaWJ4NmtHMWQwNThBY0pZSDFUX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwODEyODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDi9n4nM2tCqnMPceF8CfkXnFyp4J1OZsj51TSo9h4e0AiBSr-un8RIn6srOPx5ctLxPYrHsyDKR9fijCfevOg8vtA__",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-zt6Fibx6kG1d058AcJYH1T_na1fn_cGFzdGVkX2NvbnRlbnQ.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC16dDZGaWJ4NmtHMWQwNThBY0pZSDFUX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk0NzAwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCWWCsIasGFHXyggapfEFO3tDBjkwdtQimiUMOFeVQHBQIgHtmX31izBfNIxETKb-mEEosNdveX8YmQhQZ2X8oJzno_",
       "status": "archived",
       "bytes": 105986,
-      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/176-user_message-0_3d4a40f469248be2_pasted_content.txt"
+      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/176-user_message-0_ffbce420ba445083_pasted_content.txt"
     },
     {
       "event_index": 197,
       "type": "file",
       "filename": "Granite_Ridge_CostSeg_FINAL.xlsx",
       "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-HRbLWfrw9htH2fVM3gz67Z_na1fn_R3Jhbml0ZV9SaWRnZV9Db3N0U2VnX0ZJTkFM.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1IUmJMV2ZydzlodEgyZlZNM2d6NjdaX25hMWZuX1IzSmhibWwwWlY5U2FXUm5aVjlEYjNOMFUyVm5YMFpKVGtGTS54bHN4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwODEyODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDfHd7qEBm1ejJwSjz-zh8bDqjulKo1waTkxSbdTxV~1gIhAIs812aCsQBvNFEZyB9rbHSczvhvUvqIvAYyKKeoqBCz",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-HRbLWfrw9htH2fVM3gz67Z_na1fn_R3Jhbml0ZV9SaWRnZV9Db3N0U2VnX0ZJTkFM.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1IUmJMV2ZydzlodEgyZlZNM2d6NjdaX25hMWZuX1IzSmhibWwwWlY5U2FXUm5aVjlEYjNOMFUyVm5YMFpKVGtGTS54bHN4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk0NzAwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDbGJKkYzM-0Ctnpo1BBUnmgih4N7WOtlNR92OnjTth5gIgOFdLUreqe58cd2bsO~cyIxkH~HG-~xj8BIQXWFIxCGk_",
       "status": "archived",
       "bytes": 32222,
-      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/197-user_message-0_fb613527974e45ad_Granite_Ridge_CostSeg_FINAL.xlsx"
+      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/197-user_message-0_8f86af005c735951_Granite_Ridge_CostSeg_FINAL.xlsx"
     },
     {
       "event_index": 202,
       "type": "file",
       "filename": "Coral_Village_CostSeg_FINAL_abc09c89(2).xlsx",
       "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-FGLTtNE9HIKxBQE6ZbgQ9T_na1fn_Q29yYWxfVmlsbGFnZV9Db3N0U2VnX0ZJTkFMX2FiYzA5Yzg5KDIp.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1GR0xUdE5FOUhJS3hCUUU2WmJnUTlUX25hMWZuX1EyOXlZV3hmVm1sc2JHRm5aVjlEYjNOMFUyVm5YMFpKVGtGTVgyRmlZekE1WXpnNUtESXAueGxzeCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIA6UU95dzwYotBs1QPVREgQOqKDQswaRjGlZ2tu3R8cfAiAAgCEz9hduRHqudYfYVEs7a9FN49aYQc8Fpn3luLoPAQ__",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-FGLTtNE9HIKxBQE6ZbgQ9T_na1fn_Q29yYWxfVmlsbGFnZV9Db3N0U2VnX0ZJTkFMX2FiYzA5Yzg5KDIp.xlsx?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1GR0xUdE5FOUhJS3hCUUU2WmJnUTlUX25hMWZuX1EyOXlZV3hmVm1sc2JHRm5aVjlEYjNOMFUyVm5YMFpKVGtGTVgyRmlZekE1WXpnNUtESXAueGxzeCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NDcwMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCPLjiHwzUz6rsAWP7jKto6Ej0BbbR-7PcZQNJZwrR3tAIgXzQHXpOpBu9IgTYqIB-bp0ncBTrgETwX9FE1BA6NQZE_",
       "status": "archived",
       "bytes": 39224,
-      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/202-user_message-0_e4fdc6978c64565f_Coral_Village_CostSeg_FINAL_abc09c89_2_.xlsx"
+      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/202-user_message-0_37a85fdaff6582db_Coral_Village_CostSeg_FINAL_abc09c89_2_.xlsx"
     },
     {
       "event_index": 258,
       "type": "file",
       "filename": "portfolio_checklist.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ltfkUBTFqypPCOxS2TjOSE_na1fn_cG9ydGZvbGlvX2NoZWNrbGlzdA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1sdGZrVUJURnF5cFBDT3hTMlRqT1NFX25hMWZuX2NHOXlkR1p2YkdsdlgyTm9aV05yYkdsemRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDkAQPcUWHrgTwt7CLjvbCTI5GmobITyUhRy02YdG~QOwIgFl02VyQLe0Q4dfi-DYrjo4OJo1YkDfyc-vgzd01~LXc_",
-      "status": "archived",
-      "bytes": 214040,
-      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/258-user_message-0_16fa62851f4f89a6_portfolio_checklist.pdf"
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ltfkUBTFqypPCOxS2TjOSE_na1fn_cG9ydGZvbGlvX2NoZWNrbGlzdA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1sdGZrVUJURnF5cFBDT3hTMlRqT1NFX25hMWZuX2NHOXlkR1p2YkdsdlgyTm9aV05yYkdsemRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NDcwMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDjPkKAMttTmmRsiCOR0V70PlfkQDsRaDFoPc-4tgrpuAiBr974XzOmF5QBJHr6G92R9tXwF9agxuVd~mxRu5DldEg__",
+      "status": "duplicate_reference"
     },
     {
       "event_index": 377,
       "type": "file",
       "filename": "portfolio_checklist.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ltfkUBTFqypPCOxS2TjOSE_na1fn_cG9ydGZvbGlvX2NoZWNrbGlzdA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1sdGZrVUJURnF5cFBDT3hTMlRqT1NFX25hMWZuX2NHOXlkR1p2YkdsdlgyTm9aV05yYkdsemRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIG4cuC6HbocdDSPGq4gP4S6A151fysZq7FdII0Gk1WMiAiEA2EluwBe4-hM-jbsoTeo6sMtj0smyLX86na60yXfhWE0_",
-      "status": "archived",
-      "bytes": 214040,
-      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/377-user_message-0_13174d9a62f9aafa_portfolio_checklist.pdf"
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ltfkUBTFqypPCOxS2TjOSE_na1fn_cG9ydGZvbGlvX2NoZWNrbGlzdA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1sdGZrVUJURnF5cFBDT3hTMlRqT1NFX25hMWZuX2NHOXlkR1p2YkdsdlgyTm9aV05yYkdsemRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NDcwMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDjPkKAMttTmmRsiCOR0V70PlfkQDsRaDFoPc-4tgrpuAiBr974XzOmF5QBJHr6G92R9tXwF9agxuVd~mxRu5DldEg__",
+      "status": "duplicate_reference"
     },
     {
       "event_index": 395,
       "type": "file",
       "filename": "signature_cdn.html",
       "content_type": "text/html",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-93gG1VM6Hh7SWoD06iZMjn_na1fn_c2lnbmF0dXJlX2Nkbg.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC05M2dHMVZNNkhoN1NXb0QwNmlaTWpuX25hMWZuX2MybG5ibUYwZFhKbFgyTmtiZy5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwODEyODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIBm0TXHDtKQ3RQj7LZJ~Hwr6CmYvtlY6HC9Rid-alCtJAiEAoPNdRw39wHFpU0Ry8-LfGDjbi7ck5ZOKqB2PEgTPvSE_",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-93gG1VM6Hh7SWoD06iZMjn_na1fn_c2lnbmF0dXJlX2Nkbg.html?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC05M2dHMVZNNkhoN1NXb0QwNmlaTWpuX25hMWZuX2MybG5ibUYwZFhKbFgyTmtiZy5odG1sIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk0NzAwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIGugwTbKu29IU4U8gWd8QfxEJZIX5GwkAK82yJeSK6~JAiAq9AhNSZDeqp~insP0QDoJvwgjBqlsDLdViQIavLol3A__",
       "status": "archived",
       "bytes": 3021,
-      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/395-user_message-0_7dc2cd48fe605e8a_signature_cdn.html"
+      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/395-user_message-0_79c807e33f6bedf0_signature_cdn.html"
     },
     {
       "event_index": 398,
       "type": "image",
       "filename": "pasted_file_ont1e9_image.png",
       "content_type": "image/png",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-dgrNceAbGZ56F8V9WBLMjC_na1fn_cGFzdGVkX2ZpbGVfb250MWU5X2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1kZ3JOY2VBYkdaNTZGOFY5V0JMTWpDX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZiMjUwTVdVNVgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEMCH2fAY~ukf44xsMy7mbQWa7TICSCREYerKibnwobX2oYCIHEmdrdLIb2OXYqUopMtXU7-Qjl5y-4A1zZGxzVIea9c",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-dgrNceAbGZ56F8V9WBLMjC_na1fn_cGFzdGVkX2ZpbGVfb250MWU5X2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1kZ3JOY2VBYkdaNTZGOFY5V0JMTWpDX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZiMjUwTVdVNVgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NDcwMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDQkmKlZC9HcH0Ko5nHNw3UukG~Tbn~9aWgdiCGjriqBQIgZR63aVKd-TkNpWg0DkdptdIoiT1kylelowDFZCEbUVg_",
       "status": "archived",
       "bytes": 80230,
-      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/398-user_message-0_1f84d8891cf15d87_pasted_file_ont1e9_image.png"
+      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/398-user_message-0_385ba4f2c2c1dcd3_pasted_file_ont1e9_image.png"
     },
     {
       "event_index": 472,
       "type": "file",
       "filename": "pasted_content.txt",
       "content_type": "text/plain",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-pmnMOSYCwY2cPl9TfrSKo2_na1fn_cGFzdGVkX2NvbnRlbnQ.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1wbW5NT1NZQ3dZMmNQbDlUZnJTS28yX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwODEyODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQDaMGHIjKF8HcoaYSWVTLqajY1X3OPkN-aE9Vlyi6BYJgIhAOG2ZJgbYuolBXjDx8qySNDkeiq1rTf88L414lrlGl97",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-pmnMOSYCwY2cPl9TfrSKo2_na1fn_cGFzdGVkX2NvbnRlbnQ.txt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1wbW5NT1NZQ3dZMmNQbDlUZnJTS28yX25hMWZuX2NHRnpkR1ZrWDJOdmJuUmxiblEudHh0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk0NzAwODAwfX19XX0_&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIHOQTNB4S2eKiAvkgQDxQgHO3rcDdodKSEzmz3DH5oTeAiAJ8O4tx8KVvXLAZ1rrbQICCEPpYyk8YkGEauGnfaUrhQ__",
       "status": "archived",
       "bytes": 3692,
-      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/472-user_message-0_8f3371541711698c_pasted_content.txt"
+      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/472-user_message-0_a54e6d3ef21824af_pasted_content.txt"
     },
     {
       "event_index": 542,
       "type": "file",
       "filename": "main.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/ddSLZDcAvjOsPTDjn5zXz3/sandbox/0PL55LR9MWgwACtjfXUXk3_1787938977591_na1fn_L2hvbWUvdWJ1bnR1L21vbnRobHktaW5zcGVjdGlvbnMtcmVwb3J0LWd1aWRlL21haW4.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvZGRTTFpEY0F2ak9zUFREam41elh6My9zYW5kYm94LzBQTDU1TFI5TVdnd0FDdGpmWFVYazNfMTc4NzkzODk3NzU5MV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDIxdmJuUm9iSGt0YVc1emNHVmpkR2x2Ym5NdGNtVndiM0owTFdkMWFXUmxMMjFoYVc0LnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTQzMDQwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCrtdq6QDQVOGqizL77fKhRjdQfcbqBOifU6477Lc~bagIhAOyWtv2mvjhshK0UXn61reRlaGYDVxlI-Zm-WRTDIC4~",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/ddSLZDcAvjOsPTDjn5zXz3/sandbox/0PL55LR9MWgwACtjfXUXk3_1787938977591_na1fn_L2hvbWUvdWJ1bnR1L21vbnRobHktaW5zcGVjdGlvbnMtcmVwb3J0LWd1aWRlL21haW4.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvZGRTTFpEY0F2ak9zUFREam41elh6My9zYW5kYm94LzBQTDU1TFI5TVdnd0FDdGpmWFVYazNfMTc4NzkzODk3NzU5MV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDIxdmJuUm9iSGt0YVc1emNHVmpkR2x2Ym5NdGNtVndiM0owTFdkMWFXUmxMMjFoYVc0LnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NDcwMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDZJACkFdBY~JTFHcTObc7DfhzpwU8acAjXgzBxLrL4yAiAZaaEweVTqBMIsMPf4BJn1uFlT6J-pS7iyhfa4K5DWxg__",
       "status": "archived",
       "bytes": 107828,
-      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/542-assistant_message-0_e97623e12a304254_main.pdf"
+      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/542-assistant_message-0_2fb27da1d36b8f81_main.pdf"
     },
     {
       "event_index": 561,
       "type": "image",
       "filename": "pasted_file_hYBvBT_image.png",
       "content_type": "image/png",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-OTknYiVqp9iEuiW8Q7ANQX_na1fn_cGFzdGVkX2ZpbGVfaFlCdkJUX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1PVGtuWWlWcXA5aUV1aVc4UTdBTlFYX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZhRmxDZGtKVVgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCrM6ha9zcShvc51GEhgMxpC8Fdk2xzHWFkTcfyEokoOAIhAKeWGTrzjkM-WD~GoHmImkDG~QtWejMi3Js28bGSdguv",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-OTknYiVqp9iEuiW8Q7ANQX_na1fn_cGFzdGVkX2ZpbGVfaFlCdkJUX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1PVGtuWWlWcXA5aUV1aVc4UTdBTlFYX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZhRmxDZGtKVVgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NDcwMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCseNHO191rHP4sIzwcBXZlL-Pr7oV64OTmjwHQ7knOqgIgHudp2emVMBy~a-ZZdRIuh7pSQnsigWhNTebkHM4ZNuk_",
       "status": "archived",
       "bytes": 360155,
-      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/561-user_message-0_ff9fd8642822402f_pasted_file_hYBvBT_image.png"
+      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/561-user_message-0_2e5f6fb010a19168_pasted_file_hYBvBT_image.png"
     },
     {
       "event_index": 625,
       "type": "file",
       "filename": "august-2026-regional-manager-transition-drafts.md",
       "content_type": "text/markdown; charset=utf-8",
-      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/ddSLZDcAvjOsPTDjn5zXz3/sandbox/MCP55eQWbwddcgHNF2Z1nP_1788216205205_na1fn_L2hvbWUvdWJ1bnR1L21vbnRobHktaW5zcGVjdGlvbnMvcmVmZXJlbmNlcy9hdWd1c3QtMjAyNi1yZWdpb25hbC1tYW5hZ2VyLXRyYW5zaXRpb24tZHJhZnRz.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvZGRTTFpEY0F2ak9zUFREam41elh6My9zYW5kYm94L01DUDU1ZVFXYndkZGNnSE5GMloxblBfMTc4ODIxNjIwNTIwNV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDIxdmJuUm9iSGt0YVc1emNHVmpkR2x2Ym5NdmNtVm1aWEpsYm1ObGN5OWhkV2QxYzNRdE1qQXlOaTF5WldkcGIyNWhiQzF0WVc1aFoyVnlMWFJ5WVc1emFYUnBiMjR0WkhKaFpuUnoubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MTI4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCnewCJcjT1BXTc5SZcmGK39BPw~Cxtw6n3~KuGnJJPfAIhAPVcdi6vd30Z6ILHbVMjOQVW15tqulT5i1jsEkMMNbYK",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/ddSLZDcAvjOsPTDjn5zXz3/sandbox/MCP55eQWbwddcgHNF2Z1nP_1788216205205_na1fn_L2hvbWUvdWJ1bnR1L21vbnRobHktaW5zcGVjdGlvbnMvcmVmZXJlbmNlcy9hdWd1c3QtMjAyNi1yZWdpb25hbC1tYW5hZ2VyLXRyYW5zaXRpb24tZHJhZnRz.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvZGRTTFpEY0F2ak9zUFREam41elh6My9zYW5kYm94L01DUDU1ZVFXYndkZGNnSE5GMloxblBfMTc4ODIxNjIwNTIwNV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDIxdmJuUm9iSGt0YVc1emNHVmpkR2x2Ym5NdmNtVm1aWEpsYm1ObGN5OWhkV2QxYzNRdE1qQXlOaTF5WldkcGIyNWhiQzF0WVc1aFoyVnlMWFJ5WVc1emFYUnBiMjR0WkhKaFpuUnoubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTQ3MDA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIHGcbVB3bjF5h7LBAOPWXciR7Ai-B2tuAcSLAGHX7lywAiBLDNlXD2ad01jruJVrNXKznW1xkZFC82BJw8ATPeC-Ag__",
       "status": "archived",
       "bytes": 7310,
-      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/625-assistant_message-0_db9eef208733d383_august-2026-regional-manager-transition-drafts.md"
+      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/625-assistant_message-0_6aced2fb58b85671_august-2026-regional-manager-transition-drafts.md"
     },
     {
       "event_index": 634,
       "type": "image",
       "filename": "pasted_file_DWcQbt_image.png",
       "content_type": "image/png",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-A8ML45vewgqXBO2aAfuiZB_na1fn_cGFzdGVkX2ZpbGVfRFdjUWJ0X2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1BOE1MNDV2ZXdncVhCTzJhQWZ1aVpCX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZSRmRqVVdKMFgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEYCIQCkPKvkp3eYcMJL5MfyfOglBzoJDthPFGiekrG~4boVmwIhANcG67wGANSN6SLzzMW~nbuItvkErnc7crp2FbampQPf",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-A8ML45vewgqXBO2aAfuiZB_na1fn_cGFzdGVkX2ZpbGVfRFdjUWJ0X2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1BOE1MNDV2ZXdncVhCTzJhQWZ1aVpCX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZSRmRqVVdKMFgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NDcwMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCbA0YqfgyyIRiop7lelghW3agAj48mTdgR-VxuG1SSzwIgPPb--M0dozZCeFRTXa2k8pdn4DQditxa489z305Xgjk_",
       "status": "archived",
       "bytes": 51591,
-      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/634-user_message-0_9cff2998da06cb00_pasted_file_DWcQbt_image.png"
+      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/634-user_message-0_545fbeb7c4420185_pasted_file_DWcQbt_image.png"
     },
     {
       "event_index": 640,
       "type": "image",
       "filename": "pasted_file_OYwkUP_image.png",
       "content_type": "image/png",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-rZ2yJvWy8EeFf7B7ZYA3Hn_na1fn_cGFzdGVkX2ZpbGVfT1l3a1VQX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1yWjJ5SnZXeThFZUZmN0I3WllBM0huX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZUMWwzYTFWUVgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIEkUjQxKz58gyr4y3TYWAeggyogwSimmsqCBREYctyyFAiByZ2X~gKgWcnH5y05Adbga4be1vfv9coJlPFmvlJUKTw__",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-rZ2yJvWy8EeFf7B7ZYA3Hn_na1fn_cGFzdGVkX2ZpbGVfT1l3a1VQX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1yWjJ5SnZXeThFZUZmN0I3WllBM0huX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZUMWwzYTFWUVgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NDcwMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIHKMhYAFkl95wNgsQs88awPw-zP-oFYNyJ-7yjthHXuDAiA5XgnUGXIuNxeMRVX-pkt-V0I3jvUOw8zt0-gVPRpyfQ__",
       "status": "archived",
       "bytes": 33135,
-      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/640-user_message-0_75bf0673c8952fde_pasted_file_OYwkUP_image.png"
+      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/640-user_message-0_c72acad1cd2de742_pasted_file_OYwkUP_image.png"
     },
     {
       "event_index": 642,
       "type": "file",
       "filename": "portfolio_checklist.pdf",
       "content_type": "application/pdf",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ltfkUBTFqypPCOxS2TjOSE_na1fn_cG9ydGZvbGlvX2NoZWNrbGlzdA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1sdGZrVUJURnF5cFBDT3hTMlRqT1NFX25hMWZuX2NHOXlkR1p2YkdsdlgyTm9aV05yYkdsemRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDe8lwdw30IfqCWCe6j1E0So~5mGCEkjiHSOuQ8L~UOdgIgYZYp1jSdv2REv6JXIA~DSh~EzDvp8T7ai-4myWEFppc_",
-      "status": "archived",
-      "bytes": 214040,
-      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/642-user_message-0_04fd017770943480_portfolio_checklist.pdf"
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ltfkUBTFqypPCOxS2TjOSE_na1fn_cG9ydGZvbGlvX2NoZWNrbGlzdA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1sdGZrVUJURnF5cFBDT3hTMlRqT1NFX25hMWZuX2NHOXlkR1p2YkdsdlgyTm9aV05yYkdsemRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NDcwMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDjPkKAMttTmmRsiCOR0V70PlfkQDsRaDFoPc-4tgrpuAiBr974XzOmF5QBJHr6G92R9tXwF9agxuVd~mxRu5DldEg__",
+      "status": "duplicate_reference"
     },
     {
       "event_index": 647,
       "type": "image",
       "filename": "pasted_file_OYwkUP_image.png",
       "content_type": "image/png",
-      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-rZ2yJvWy8EeFf7B7ZYA3Hn_na1fn_cGFzdGVkX2ZpbGVfT1l3a1VQX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1yWjJ5SnZXeThFZUZmN0I3WllBM0huX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZUMWwzYTFWUVgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgxMjgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIEkUjQxKz58gyr4y3TYWAeggyogwSimmsqCBREYctyyFAiByZ2X~gKgWcnH5y05Adbga4be1vfv9coJlPFmvlJUKTw__",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-rZ2yJvWy8EeFf7B7ZYA3Hn_na1fn_cGFzdGVkX2ZpbGVfT1l3a1VQX2ltYWdl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1yWjJ5SnZXeThFZUZmN0I3WllBM0huX25hMWZuX2NHRnpkR1ZrWDJacGJHVmZUMWwzYTFWUVgybHRZV2RsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NDcwMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIHKMhYAFkl95wNgsQs88awPw-zP-oFYNyJ-7yjthHXuDAiA5XgnUGXIuNxeMRVX-pkt-V0I3jvUOw8zt0-gVPRpyfQ__",
       "status": "duplicate_reference"
+    },
+    {
+      "event_index": 684,
+      "type": "file",
+      "filename": "portfolio_checklist.pdf",
+      "content_type": "application/pdf",
+      "source_url": "https://private-us-east-1.manuscdn.com/users/310519663449376037/uploads/temp-ltfkUBTFqypPCOxS2TjOSE_na1fn_cG9ydGZvbGlvX2NoZWNrbGlzdA.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vdXNlcnMvMzEwNTE5NjYzNDQ5Mzc2MDM3L3VwbG9hZHMvdGVtcC1sdGZrVUJURnF5cFBDT3hTMlRqT1NFX25hMWZuX2NHOXlkR1p2YkdsdlgyTm9aV05yYkdsemRBLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NDcwMDgwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIDjPkKAMttTmmRsiCOR0V70PlfkQDsRaDFoPc-4tgrpuAiBr974XzOmF5QBJHr6G92R9tXwF9agxuVd~mxRu5DldEg__",
+      "status": "duplicate_reference"
+    },
+    {
+      "event_index": 695,
+      "type": "file",
+      "filename": "current-drafts-review-october-2026.md",
+      "content_type": "text/markdown; charset=utf-8",
+      "source_url": "https://private-us-east-1.manuscdn.com/sessionFile/ddSLZDcAvjOsPTDjn5zXz3/sandbox/OyyGy1xbRYfOoYCcjWbM8K_1792446887559_na1fn_L2hvbWUvdWJ1bnR1L2N1cnJlbnQtZHJhZnRzLXJldmlldy1vY3RvYmVyLTIwMjY.md?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvZGRTTFpEY0F2ak9zUFREam41elh6My9zYW5kYm94L095eUd5MXhiUllmT29ZQ2NqV2JNOEtfMTc5MjQ0Njg4NzU1OV9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJOMWNuSmxiblF0WkhKaFpuUnpMWEpsZG1sbGR5MXZZM1J2WW1WeUxUSXdNalkubWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTQ3MDA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCIHrYlGROc4Q5H18xCqj9s16c8wh-GgUQaKLDpz1iBoiMAiB0NcB4XKyODy1t1VlZaXkYvgCnlD6XQTC47Lu0cfuczQ__",
+      "status": "archived",
+      "bytes": 15410,
+      "archive_path": "attachments/ddSLZDcAvjOsPTDjn5zXz3/695-assistant_message-0_d2ff7dbafcd8928d_current-drafts-review-october-2026.md"
     }
   ]
 }

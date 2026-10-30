@@ -1,0 +1,624 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daily Vacancy Report</title>
+  <style>
+    @media only screen and (max-width: 600px) {
+      .email-outer { padding: 8px 0 !important; }
+      .email-inner { width: 100% !important; max-width: 100% !important; }
+      .email-pad { padding-left: 16px !important; padding-right: 16px !important; }
+      .email-header { padding: 20px 16px !important; border-radius: 8px 8px 0 0 !important; }
+      .email-header h1 { font-size: 17px !important; }
+      .stat-row { display: block !important; width: 100% !important; }
+      .stat-cell { display: inline-block !important; width: 48% !important; padding: 0 2px 8px !important; box-sizing: border-box !important; }
+      .stat-cell:last-child { width: 100% !important; }
+      .stat-val { font-size: 22px !important; }
+      .data-table td, .data-table th { font-size: 10px !important; padding: 5px 3px !important; }
+      .data-table .bldg-col { max-width: 90px !important; overflow: hidden !important; text-overflow: ellipsis !important; white-space: nowrap !important; }
+      .btn-link { padding: 12px 20px !important; font-size: 13px !important; }
+      .section-pad { padding: 0 16px 18px !important; }
+    }
+  </style>
+</head>
+<body style="margin:0;padding:0;background-color:#f3f6fa;font-family:'Segoe UI',Roboto,Helvetica,Arial,sans-serif;">
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" class="email-outer" style="background-color:#f3f6fa;padding:20px 0;">
+    <tr><td align="center">
+      <table role="presentation" width="900" cellpadding="0" cellspacing="0" class="email-inner" style="max-width:900px;width:100%;">
+
+        <!-- Header -->
+        <tr><td style="background:#edf4fb;border-radius:12px 12px 0 0;padding:28px 32px;border-bottom:2px solid #8a5a00;;mso-line-height-rule:exactly;">
+          <table role="presentation" width="100%"><tr>
+            <td style="vertical-align:middle;;mso-line-height-rule:exactly;">
+              <img src="https://d2xsxph8kpxj0f.cloudfront.net/310519663449376037/42VuDntxHxNeoLPYMuqTxk/ApartmentCorpLOGO_0ca11dd4.png" alt="Apartment Corp" height="36" style="height:36px;width:auto;display:inline-block;vertical-align:middle;" />
+            </td>
+            <td style="vertical-align:middle;padding-left:16px;;mso-line-height-rule:exactly;">
+              <h1 style="margin:0;font-size:22px;color:#0369a1;letter-spacing:1px;">VACANCY REPORT</h1>
+              <p style="margin:4px 0 0;font-size:13px;color:#5b6472;">Monday, October 19, 2026</p>
+              <p style="margin:4px 0 0;font-size:11px;color:#64748b;">Railway Vacancy Dashboard snapshot: Mon, Oct 19, 2026, 8:44 PM UTC</p>
+            </td>
+            <td align="right" style="vertical-align:top;">
+              <span style="display:inline-block;background:#8a5a00;color:#8a5a00;font-size:11px;padding:4px 10px;border-radius:20px;border:1px solid #8a5a00;">DAILY REPORT</span>
+            </td>
+          </tr></table>
+        </td></tr>
+
+        <!-- TOP Dashboard Button -->
+        
+        <tr><td style="background:#ffffff;padding:16px 32px;;mso-line-height-rule:exactly;" align="center">
+          <a href="https://aptcorp-vacancy-report.up.railway.app" target="_blank" class="btn-link" style="display:inline-block;background:#0369a1;color:#f3f6fa;font-size:14px;font-weight:800;text-decoration:none;padding:14px 36px;border-radius:8px;letter-spacing:0.5px;box-shadow:0 0 20px #0369a1;">View Live Dashboard →</a>
+        </td></tr>
+
+        <!-- VACANCY CHANGES ALERT (top of email) -->
+        
+        <tr><td style="background:#ffffff;padding:24px 32px 0;;mso-line-height-rule:exactly;">
+          <div style="background:#edf4fb;border:2px solid #8a5a00;border-radius:12px;padding:20px;">
+            <table role="presentation" width="100%"><tr>
+              <td><p style="margin:0 0 4px;font-size:14px;font-weight:900;text-transform:uppercase;letter-spacing:2px;color:#8a5a00;">⚡ VACANCY CHANGES TODAY</p>
+              <p style="margin:0 0 16px;font-size:11px;color:#5b6472;">Buildings with vacancy changes since yesterday</p></td>
+              <td align="right" style="vertical-align:top;"><span style="display:inline-block;background:#8a5a00;color:#8a5a00;font-size:22px;font-weight:900;padding:6px 14px;border-radius:10px;border:1px solid #8a5a00;">5</span></td>
+            </tr></table>
+            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+              <tr style="border-bottom:2px solid #8a5a00;">
+                <td style="padding:10px 6px;font-size:11px;font-weight:800;color:#8a5a00;;mso-line-height-rule:exactly;">Building</td>
+                <td align="center" style="padding:10px 4px;font-size:11px;font-weight:800;color:#8a5a00;">Yesterday</td>
+                <td align="center" style="padding:10px 4px;font-size:11px;font-weight:800;color:#8a5a00;">Today</td>
+                <td align="center" style="padding:10px 4px;font-size:11px;font-weight:800;color:#8a5a00;">Change</td>
+                <td align="center" style="padding:10px 4px;font-size:11px;font-weight:800;color:#8a5a00;">Vac %</td>
+                <td align="center" style="padding:10px 4px;font-size:11px;font-weight:800;color:#8a5a00;">Units</td>
+                <td align="center" style="padding:10px 4px;font-size:11px;font-weight:800;color:#8a5a00;">Unlsd</td>
+                <td align="center" style="padding:10px 4px;font-size:11px;font-weight:800;color:#8a5a00;">Prelsd</td>
+                <td align="center" style="padding:10px 4px;font-size:11px;font-weight:800;color:#8a5a00;">Notice</td>
+                <td align="center" style="padding:10px 4px;font-size:11px;font-weight:800;color:#8a5a00;min-width:52px;">Evictions</td>
+              </tr>
+              
+              <tr style="border-top:1px solid #e5e7eb;background:#15803d;">
+                <td style="padding:9px 6px;font-size:13px;color:#1f2937;font-weight:600;;mso-line-height-rule:exactly;">Thibodaux</td>
+                <td align="center" style="padding:9px 4px;font-size:13px;color:#5b6472;">16</td>
+                <td align="center" style="padding:9px 4px;font-size:14px;color:#1f2937;font-weight:700;">11</td>
+                <td align="center" style="padding:9px 4px;font-size:14px;font-weight:900;color:#15803d;">👍 ▼ -5</td>
+                <td align="center" style="padding:9px 4px;font-size:13px;font-weight:700;color:#dc2626;">10.3%</td>
+                <td align="center" style="padding:9px 4px;font-size:12px;color:#5b6472;">107</td>
+                <td align="center" style="padding:9px 4px;font-size:12px;color:#c2410c;">11</td>
+                <td align="center" style="padding:9px 4px;font-size:12px;color:#15803d;">—</td>
+                <td align="center" style="padding:9px 4px;font-size:12px;color:#7c3aed;">2</td>
+                <td align="center" style="padding:9px 4px;font-size:12px;color:#dc2626;">4</td>
+              </tr>
+              <tr style="border-top:1px solid #e5e7eb;background:#dc2626;">
+                <td style="padding:9px 6px;font-size:13px;color:#1f2937;font-weight:600;;mso-line-height-rule:exactly;">Marrero</td>
+                <td align="center" style="padding:9px 4px;font-size:13px;color:#5b6472;">3</td>
+                <td align="center" style="padding:9px 4px;font-size:14px;color:#1f2937;font-weight:700;">6</td>
+                <td align="center" style="padding:9px 4px;font-size:14px;font-weight:900;color:#dc2626;">👎 ▲ +3</td>
+                <td align="center" style="padding:9px 4px;font-size:13px;font-weight:700;color:#c2410c;">3.5%</td>
+                <td align="center" style="padding:9px 4px;font-size:12px;color:#5b6472;">173</td>
+                <td align="center" style="padding:9px 4px;font-size:12px;color:#c2410c;">5</td>
+                <td align="center" style="padding:9px 4px;font-size:12px;color:#15803d;">1</td>
+                <td align="center" style="padding:9px 4px;font-size:12px;color:#7c3aed;">1</td>
+                <td align="center" style="padding:9px 4px;font-size:12px;color:#dc2626;">—</td>
+              </tr>
+              <tr style="border-top:1px solid #e5e7eb;background:#15803d;">
+                <td style="padding:9px 6px;font-size:13px;color:#1f2937;font-weight:600;;mso-line-height-rule:exactly;">Grace Townhomes</td>
+                <td align="center" style="padding:9px 4px;font-size:13px;color:#5b6472;">17</td>
+                <td align="center" style="padding:9px 4px;font-size:14px;color:#1f2937;font-weight:700;">16</td>
+                <td align="center" style="padding:9px 4px;font-size:14px;font-weight:900;color:#15803d;">👍 ▼ -1</td>
+                <td align="center" style="padding:9px 4px;font-size:13px;font-weight:700;color:#dc2626;">14.3%</td>
+                <td align="center" style="padding:9px 4px;font-size:12px;color:#5b6472;">112</td>
+                <td align="center" style="padding:9px 4px;font-size:12px;color:#c2410c;">16</td>
+                <td align="center" style="padding:9px 4px;font-size:12px;color:#15803d;">—</td>
+                <td align="center" style="padding:9px 4px;font-size:12px;color:#7c3aed;">4</td>
+                <td align="center" style="padding:9px 4px;font-size:12px;color:#dc2626;">—</td>
+              </tr>
+              <tr style="border-top:1px solid #e5e7eb;background:#dc2626;">
+                <td style="padding:9px 6px;font-size:13px;color:#1f2937;font-weight:600;;mso-line-height-rule:exactly;">Pirates Bend</td>
+                <td align="center" style="padding:9px 4px;font-size:13px;color:#5b6472;">3</td>
+                <td align="center" style="padding:9px 4px;font-size:14px;color:#1f2937;font-weight:700;">4</td>
+                <td align="center" style="padding:9px 4px;font-size:14px;font-weight:900;color:#dc2626;">👎 ▲ +1</td>
+                <td align="center" style="padding:9px 4px;font-size:13px;font-weight:700;color:#dc2626;">8.3%</td>
+                <td align="center" style="padding:9px 4px;font-size:12px;color:#5b6472;">48</td>
+                <td align="center" style="padding:9px 4px;font-size:12px;color:#c2410c;">3</td>
+                <td align="center" style="padding:9px 4px;font-size:12px;color:#15803d;">1</td>
+                <td align="center" style="padding:9px 4px;font-size:12px;color:#7c3aed;">—</td>
+                <td align="center" style="padding:9px 4px;font-size:12px;color:#dc2626;">4</td>
+              </tr>
+              <tr style="border-top:1px solid #e5e7eb;background:#15803d;">
+                <td style="padding:9px 6px;font-size:13px;color:#1f2937;font-weight:600;;mso-line-height-rule:exactly;">Arbor Crest</td>
+                <td align="center" style="padding:9px 4px;font-size:13px;color:#5b6472;">10</td>
+                <td align="center" style="padding:9px 4px;font-size:14px;color:#1f2937;font-weight:700;">9</td>
+                <td align="center" style="padding:9px 4px;font-size:14px;font-weight:900;color:#15803d;">👍 ▼ -1</td>
+                <td align="center" style="padding:9px 4px;font-size:13px;font-weight:700;color:#dc2626;">7.5%</td>
+                <td align="center" style="padding:9px 4px;font-size:12px;color:#5b6472;">120</td>
+                <td align="center" style="padding:9px 4px;font-size:12px;color:#c2410c;">5</td>
+                <td align="center" style="padding:9px 4px;font-size:12px;color:#15803d;">4</td>
+                <td align="center" style="padding:9px 4px;font-size:12px;color:#7c3aed;">—</td>
+                <td align="center" style="padding:9px 4px;font-size:12px;color:#dc2626;">4</td>
+              </tr>
+            </table>
+            <p style="margin:12px 0 0;font-size:10px;color:#5b6472;text-align:center;">👎 New vacancies shown in <span style="color:#dc2626;font-weight:700;">red</span> • 👍 Recently leased shown in <span style="color:#15803d;font-weight:700;">green</span></p>
+          </div>
+        </td></tr>
+
+        <!-- Stats Cards -->
+        <tr><td style="background:#ffffff;padding:24px 32px;;mso-line-height-rule:exactly;">
+          <p style="margin:0 0 12px;font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:2px;color:#5b6472;">Current Vacancy Overview</p>
+          <table role="presentation" width="100%" cellpadding="0" cellspacing="0">
+            <tr class="stat-row">
+              
+              <td width="20%" class="stat-cell" style="padding:0 4px;">
+                <div style="background:#0369a1;border:1px solid #0369a1;border-radius:8px;padding:12px 6px;text-align:center;">
+                  <p style="margin:0;font-size:9px;font-weight:700;text-transform:uppercase;letter-spacing:0.5px;color:#0369a1;white-space:nowrap;">Total Vacant</p>
+                  <p class="stat-val" style="margin:4px 0 0;font-size:26px;font-weight:900;color:#0369a1;">115</p>
+                </div>
+              </td>
+              <td width="20%" class="stat-cell" style="padding:0 4px;">
+                <div style="background:#c2410c;border:1px solid #c2410c;border-radius:8px;padding:12px 6px;text-align:center;">
+                  <p style="margin:0;font-size:9px;font-weight:700;text-transform:uppercase;letter-spacing:0.5px;color:#c2410c;white-space:nowrap;">Unleased</p>
+                  <p class="stat-val" style="margin:4px 0 0;font-size:26px;font-weight:900;color:#c2410c;">63</p>
+                </div>
+              </td>
+              <td width="20%" class="stat-cell" style="padding:0 4px;">
+                <div style="background:#15803d;border:1px solid #15803d;border-radius:8px;padding:12px 6px;text-align:center;">
+                  <p style="margin:0;font-size:9px;font-weight:700;text-transform:uppercase;letter-spacing:0.5px;color:#15803d;white-space:nowrap;">Preleased</p>
+                  <p class="stat-val" style="margin:4px 0 0;font-size:26px;font-weight:900;color:#15803d;">52</p>
+                </div>
+              </td>
+              <td width="20%" class="stat-cell" style="padding:0 4px;">
+                <div style="background:#7c3aed;border:1px solid #7c3aed;border-radius:8px;padding:12px 6px;text-align:center;">
+                  <p style="margin:0;font-size:9px;font-weight:700;text-transform:uppercase;letter-spacing:0.5px;color:#7c3aed;white-space:nowrap;">On Notice</p>
+                  <p class="stat-val" style="margin:4px 0 0;font-size:26px;font-weight:900;color:#7c3aed;">29</p>
+                </div>
+              </td>
+              <td width="20%" class="stat-cell" style="padding:0 4px;">
+                <div style="background:#dc2626;border:1px solid #dc2626;border-radius:8px;padding:12px 6px;text-align:center;">
+                  <p style="margin:0;font-size:9px;font-weight:700;text-transform:uppercase;letter-spacing:0.5px;color:#dc2626;white-space:nowrap;">Evictions</p>
+                  <p class="stat-val" style="margin:4px 0 0;font-size:26px;font-weight:900;color:#dc2626;">62</p>
+                </div>
+              </td>
+            </tr>
+          </table>
+        </td></tr>
+
+        <!-- At-Risk Properties -->
+        
+        <tr><td style="background:#ffffff;padding:0 32px 24px;;mso-line-height-rule:exactly;">
+          <div style="background:#ff4041;border:1px solid #ff4041;border-radius:10px;padding:20px;">
+            <table role="presentation" width="100%"><tr>
+              <td><p style="margin:0 0 12px;font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:2px;color:#dc2626;">⚠ At-Risk Properties (Vacancy &gt; 4%)</p></td>
+              <td align="right"><span style="font-size:20px;font-weight:900;color:#dc2626;">9</span></td>
+            </tr></table>
+            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+              <tr style="border-bottom:1px solid #ff4041;">
+                <td style="padding:8px 6px;font-size:11px;font-weight:700;color:#dc2626;;mso-line-height-rule:exactly;">Building</td>
+                <td align="center" style="padding:8px 6px;font-size:11px;font-weight:700;color:#dc2626;">Vacancy %</td>
+                <td align="center" style="padding:8px 6px;font-size:11px;font-weight:700;color:#dc2626;">Vacant</td>
+                <td align="center" style="padding:8px 6px;font-size:11px;font-weight:700;color:#dc2626;">Total Units</td>
+              </tr>
+              
+              <tr style="border-bottom:1px solid #e5e7eb;">
+                <td style="padding:8px 6px;font-size:13px;color:#1f2937;font-weight:500;;mso-line-height-rule:exactly;">Grace Townhomes</td>
+                <td align="center" style="padding:8px 6px;font-size:14px;font-weight:800;color:#dc2626;">14.3%</td>
+                <td align="center" style="padding:8px 6px;font-size:13px;color:#c2410c;">16</td>
+                <td align="center" style="padding:8px 6px;font-size:13px;color:#5b6472;">112</td>
+              </tr>
+              <tr style="border-bottom:1px solid #e5e7eb;">
+                <td style="padding:8px 6px;font-size:13px;color:#1f2937;font-weight:500;;mso-line-height-rule:exactly;">Thibodaux</td>
+                <td align="center" style="padding:8px 6px;font-size:14px;font-weight:800;color:#dc2626;">10.3%</td>
+                <td align="center" style="padding:8px 6px;font-size:13px;color:#c2410c;">11</td>
+                <td align="center" style="padding:8px 6px;font-size:13px;color:#5b6472;">107</td>
+              </tr>
+              <tr style="border-bottom:1px solid #e5e7eb;">
+                <td style="padding:8px 6px;font-size:13px;color:#1f2937;font-weight:500;;mso-line-height-rule:exactly;">Pirates Bend</td>
+                <td align="center" style="padding:8px 6px;font-size:14px;font-weight:800;color:#dc2626;">8.3%</td>
+                <td align="center" style="padding:8px 6px;font-size:13px;color:#c2410c;">4</td>
+                <td align="center" style="padding:8px 6px;font-size:13px;color:#5b6472;">48</td>
+              </tr>
+              <tr style="border-bottom:1px solid #e5e7eb;">
+                <td style="padding:8px 6px;font-size:13px;color:#1f2937;font-weight:500;;mso-line-height-rule:exactly;">Arbor Crest</td>
+                <td align="center" style="padding:8px 6px;font-size:14px;font-weight:800;color:#dc2626;">7.5%</td>
+                <td align="center" style="padding:8px 6px;font-size:13px;color:#c2410c;">9</td>
+                <td align="center" style="padding:8px 6px;font-size:13px;color:#5b6472;">120</td>
+              </tr>
+              <tr style="border-bottom:1px solid #e5e7eb;">
+                <td style="padding:8px 6px;font-size:13px;color:#1f2937;font-weight:500;;mso-line-height-rule:exactly;">North Pointe</td>
+                <td align="center" style="padding:8px 6px;font-size:14px;font-weight:800;color:#dc2626;">7.4%</td>
+                <td align="center" style="padding:8px 6px;font-size:13px;color:#c2410c;">2</td>
+                <td align="center" style="padding:8px 6px;font-size:13px;color:#5b6472;">27</td>
+              </tr>
+              <tr style="border-bottom:1px solid #e5e7eb;">
+                <td style="padding:8px 6px;font-size:13px;color:#1f2937;font-weight:500;;mso-line-height-rule:exactly;">Crossroads</td>
+                <td align="center" style="padding:8px 6px;font-size:14px;font-weight:800;color:#dc2626;">6.9%</td>
+                <td align="center" style="padding:8px 6px;font-size:13px;color:#c2410c;">11</td>
+                <td align="center" style="padding:8px 6px;font-size:13px;color:#5b6472;">160</td>
+              </tr>
+              <tr style="border-bottom:1px solid #e5e7eb;">
+                <td style="padding:8px 6px;font-size:13px;color:#1f2937;font-weight:500;;mso-line-height-rule:exactly;">Howell Place</td>
+                <td align="center" style="padding:8px 6px;font-size:14px;font-weight:800;color:#dc2626;">6.3%</td>
+                <td align="center" style="padding:8px 6px;font-size:13px;color:#c2410c;">3</td>
+                <td align="center" style="padding:8px 6px;font-size:13px;color:#5b6472;">48</td>
+              </tr>
+              <tr style="border-bottom:1px solid #e5e7eb;">
+                <td style="padding:8px 6px;font-size:13px;color:#1f2937;font-weight:500;;mso-line-height-rule:exactly;">Bayou Pointe</td>
+                <td align="center" style="padding:8px 6px;font-size:14px;font-weight:800;color:#dc2626;">5%</td>
+                <td align="center" style="padding:8px 6px;font-size:13px;color:#c2410c;">3</td>
+                <td align="center" style="padding:8px 6px;font-size:13px;color:#5b6472;">60</td>
+              </tr>
+              <tr style="border-bottom:1px solid #e5e7eb;">
+                <td style="padding:8px 6px;font-size:13px;color:#1f2937;font-weight:500;;mso-line-height-rule:exactly;">Ruby</td>
+                <td align="center" style="padding:8px 6px;font-size:14px;font-weight:800;color:#dc2626;">4.1%</td>
+                <td align="center" style="padding:8px 6px;font-size:13px;color:#c2410c;">3</td>
+                <td align="center" style="padding:8px 6px;font-size:13px;color:#5b6472;">73</td>
+              </tr>
+            </table>
+          </div>
+        </td></tr>
+
+        <!-- Building Vacancy Table -->
+        <tr><td class="section-pad" style="background:#ffffff;padding:0 32px 24px;">
+          <p style="margin:0 0 12px;font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:2px;color:#5b6472;">Vacancy by Building</p>
+          <div style="border:1px solid #0369a1;border-radius:10px;overflow:hidden;">
+            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" class="data-table" style="border-collapse:collapse;">
+              <tr style="background:#0369a1;">
+                <td style="padding:10px 8px;font-size:11px;font-weight:700;color:#0369a1;;mso-line-height-rule:exactly;">Building</td>
+                <td align="center" style="padding:10px 4px;font-size:11px;font-weight:700;color:#0369a1;">Vac %</td>
+                <td align="center" style="padding:10px 4px;font-size:11px;font-weight:700;color:#0369a1;">Total</td>
+                <td align="center" style="padding:10px 4px;font-size:11px;font-weight:700;color:#c2410c;">Unlsd</td>
+                <td align="center" style="padding:10px 4px;font-size:11px;font-weight:700;color:#15803d;">Prelsd</td>
+                <td align="center" style="padding:10px 4px;font-size:11px;font-weight:700;color:#7c3aed;">Notice</td>
+                <td align="center" style="padding:10px 4px;font-size:11px;font-weight:700;color:#dc2626;min-width:52px;">Evictions</td>
+              </tr>
+              
+              <tr style="border-top:1px solid #eef2f7;">
+                <td style="padding:7px 8px;font-size:12px;color:#1f2937;;mso-line-height-rule:exactly;">Grace Townhomes</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;font-weight:700;color:#dc2626;">14.3%</td>
+                <td align="center" style="padding:7px 4px;font-size:13px;font-weight:800;color:#dc2626;">16</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#c2410c;">16</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#15803d;">—</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#7c3aed;">4</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#dc2626;">—</td>
+              </tr>
+              <tr style="border-top:1px solid #eef2f7;">
+                <td style="padding:7px 8px;font-size:12px;color:#1f2937;;mso-line-height-rule:exactly;">Thibodaux</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;font-weight:700;color:#dc2626;">10.3%</td>
+                <td align="center" style="padding:7px 4px;font-size:13px;font-weight:800;color:#dc2626;">11</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#c2410c;">11</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#15803d;">—</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#7c3aed;">2</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#dc2626;">4</td>
+              </tr>
+              <tr style="border-top:1px solid #eef2f7;">
+                <td style="padding:7px 8px;font-size:12px;color:#1f2937;;mso-line-height-rule:exactly;">Pirates Bend</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;font-weight:700;color:#dc2626;">8.3%</td>
+                <td align="center" style="padding:7px 4px;font-size:13px;font-weight:800;color:#c2410c;">4</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#c2410c;">3</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#15803d;">1</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#7c3aed;">—</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#dc2626;">4</td>
+              </tr>
+              <tr style="border-top:1px solid #eef2f7;">
+                <td style="padding:7px 8px;font-size:12px;color:#1f2937;;mso-line-height-rule:exactly;">Arbor Crest</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;font-weight:700;color:#dc2626;">7.5%</td>
+                <td align="center" style="padding:7px 4px;font-size:13px;font-weight:800;color:#dc2626;">9</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#c2410c;">5</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#15803d;">4</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#7c3aed;">—</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#dc2626;">4</td>
+              </tr>
+              <tr style="border-top:1px solid #eef2f7;">
+                <td style="padding:7px 8px;font-size:12px;color:#1f2937;;mso-line-height-rule:exactly;">North Pointe</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;font-weight:700;color:#dc2626;">7.4%</td>
+                <td align="center" style="padding:7px 4px;font-size:13px;font-weight:800;color:#15803d;">2</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#c2410c;">—</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#15803d;">2</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#7c3aed;">—</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#dc2626;">—</td>
+              </tr>
+              <tr style="border-top:1px solid #eef2f7;">
+                <td style="padding:7px 8px;font-size:12px;color:#1f2937;;mso-line-height-rule:exactly;">Crossroads</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;font-weight:700;color:#dc2626;">6.9%</td>
+                <td align="center" style="padding:7px 4px;font-size:13px;font-weight:800;color:#dc2626;">11</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#c2410c;">5</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#15803d;">6</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#7c3aed;">—</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#dc2626;">5</td>
+              </tr>
+              <tr style="border-top:1px solid #eef2f7;">
+                <td style="padding:7px 8px;font-size:12px;color:#1f2937;;mso-line-height-rule:exactly;">Howell Place</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;font-weight:700;color:#dc2626;">6.3%</td>
+                <td align="center" style="padding:7px 4px;font-size:13px;font-weight:800;color:#c2410c;">3</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#c2410c;">2</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#15803d;">1</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#7c3aed;">—</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#dc2626;">5</td>
+              </tr>
+              <tr style="border-top:1px solid #eef2f7;">
+                <td style="padding:7px 8px;font-size:12px;color:#1f2937;;mso-line-height-rule:exactly;">Bayou Pointe</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;font-weight:700;color:#dc2626;">5%</td>
+                <td align="center" style="padding:7px 4px;font-size:13px;font-weight:800;color:#c2410c;">3</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#c2410c;">—</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#15803d;">3</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#7c3aed;">1</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#dc2626;">—</td>
+              </tr>
+              <tr style="border-top:1px solid #eef2f7;">
+                <td style="padding:7px 8px;font-size:12px;color:#1f2937;;mso-line-height-rule:exactly;">Ruby</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;font-weight:700;color:#dc2626;">4.1%</td>
+                <td align="center" style="padding:7px 4px;font-size:13px;font-weight:800;color:#c2410c;">3</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#c2410c;">—</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#15803d;">3</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#7c3aed;">—</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#dc2626;">—</td>
+              </tr>
+              <tr style="border-top:1px solid #eef2f7;">
+                <td style="padding:7px 8px;font-size:12px;color:#1f2937;;mso-line-height-rule:exactly;">Silver Springs</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;font-weight:700;color:#c2410c;">4%</td>
+                <td align="center" style="padding:7px 4px;font-size:13px;font-weight:800;color:#c2410c;">4</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#c2410c;">1</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#15803d;">3</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#7c3aed;">1</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#dc2626;">3</td>
+              </tr>
+              <tr style="border-top:1px solid #eef2f7;">
+                <td style="padding:7px 8px;font-size:12px;color:#1f2937;;mso-line-height-rule:exactly;">Pacific</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;font-weight:700;color:#c2410c;">3.8%</td>
+                <td align="center" style="padding:7px 4px;font-size:13px;font-weight:800;color:#c2410c;">3</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#c2410c;">3</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#15803d;">—</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#7c3aed;">—</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#dc2626;">1</td>
+              </tr>
+              <tr style="border-top:1px solid #eef2f7;">
+                <td style="padding:7px 8px;font-size:12px;color:#1f2937;;mso-line-height-rule:exactly;">Gates</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;font-weight:700;color:#c2410c;">3.6%</td>
+                <td align="center" style="padding:7px 4px;font-size:13px;font-weight:800;color:#dc2626;">10</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#c2410c;">1</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#15803d;">9</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#7c3aed;">—</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#dc2626;">3</td>
+              </tr>
+              <tr style="border-top:1px solid #eef2f7;">
+                <td style="padding:7px 8px;font-size:12px;color:#1f2937;;mso-line-height-rule:exactly;">Walnut Hill</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;font-weight:700;color:#c2410c;">3.6%</td>
+                <td align="center" style="padding:7px 4px;font-size:13px;font-weight:800;color:#dc2626;">6</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#c2410c;">—</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#15803d;">6</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#7c3aed;">—</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#dc2626;">6</td>
+              </tr>
+              <tr style="border-top:1px solid #eef2f7;">
+                <td style="padding:7px 8px;font-size:12px;color:#1f2937;;mso-line-height-rule:exactly;">Marrero</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;font-weight:700;color:#c2410c;">3.5%</td>
+                <td align="center" style="padding:7px 4px;font-size:13px;font-weight:800;color:#dc2626;">6</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#c2410c;">5</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#15803d;">1</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#7c3aed;">1</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#dc2626;">—</td>
+              </tr>
+              <tr style="border-top:1px solid #eef2f7;">
+                <td style="padding:7px 8px;font-size:12px;color:#1f2937;;mso-line-height-rule:exactly;">River Garden</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;font-weight:700;color:#c2410c;">3.3%</td>
+                <td align="center" style="padding:7px 4px;font-size:13px;font-weight:800;color:#c2410c;">4</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#c2410c;">1</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#15803d;">3</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#7c3aed;">1</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#dc2626;">—</td>
+              </tr>
+              <tr style="border-top:1px solid #eef2f7;">
+                <td style="padding:7px 8px;font-size:12px;color:#1f2937;;mso-line-height-rule:exactly;">Grove Park</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;font-weight:700;color:#c2410c;">3.3%</td>
+                <td align="center" style="padding:7px 4px;font-size:13px;font-weight:800;color:#15803d;">2</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#c2410c;">2</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#15803d;">—</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#7c3aed;">—</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#dc2626;">—</td>
+              </tr>
+              <tr style="border-top:1px solid #eef2f7;">
+                <td style="padding:7px 8px;font-size:12px;color:#1f2937;;mso-line-height-rule:exactly;">Lexington</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;font-weight:700;color:#c2410c;">3.3%</td>
+                <td align="center" style="padding:7px 4px;font-size:13px;font-weight:800;color:#15803d;">2</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#c2410c;">1</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#15803d;">1</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#7c3aed;">—</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#dc2626;">—</td>
+              </tr>
+              <tr style="border-top:1px solid #eef2f7;">
+                <td style="padding:7px 8px;font-size:12px;color:#1f2937;;mso-line-height-rule:exactly;">Breckenridge</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;font-weight:700;color:#c2410c;">3%</td>
+                <td align="center" style="padding:7px 4px;font-size:13px;font-weight:800;color:#15803d;">2</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#c2410c;">2</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#15803d;">—</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#7c3aed;">1</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#dc2626;">1</td>
+              </tr>
+              <tr style="border-top:1px solid #eef2f7;">
+                <td style="padding:7px 8px;font-size:12px;color:#1f2937;;mso-line-height-rule:exactly;">Granite Ridge</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;font-weight:700;color:#c2410c;">2.5%</td>
+                <td align="center" style="padding:7px 4px;font-size:13px;font-weight:800;color:#15803d;">2</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#c2410c;">2</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#15803d;">—</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#7c3aed;">2</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#dc2626;">1</td>
+              </tr>
+              <tr style="border-top:1px solid #eef2f7;">
+                <td style="padding:7px 8px;font-size:12px;color:#1f2937;;mso-line-height-rule:exactly;">Star</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;font-weight:700;color:#c2410c;">2.1%</td>
+                <td align="center" style="padding:7px 4px;font-size:13px;font-weight:800;color:#15803d;">1</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#c2410c;">—</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#15803d;">1</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#7c3aed;">—</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#dc2626;">—</td>
+              </tr>
+              <tr style="border-top:1px solid #eef2f7;">
+                <td style="padding:7px 8px;font-size:12px;color:#1f2937;;mso-line-height-rule:exactly;">St. Charles</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;font-weight:700;color:#15803d;">1.7%</td>
+                <td align="center" style="padding:7px 4px;font-size:13px;font-weight:800;color:#15803d;">2</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#c2410c;">—</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#15803d;">2</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#7c3aed;">—</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#dc2626;">—</td>
+              </tr>
+              <tr style="border-top:1px solid #eef2f7;">
+                <td style="padding:7px 8px;font-size:12px;color:#1f2937;;mso-line-height-rule:exactly;">Windsor/Yorkshire</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;font-weight:700;color:#15803d;">1.5%</td>
+                <td align="center" style="padding:7px 4px;font-size:13px;font-weight:800;color:#15803d;">2</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#c2410c;">—</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#15803d;">2</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#7c3aed;">—</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#dc2626;">1</td>
+              </tr>
+              <tr style="border-top:1px solid #eef2f7;">
+                <td style="padding:7px 8px;font-size:12px;color:#1f2937;;mso-line-height-rule:exactly;">Pelican Bay</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;font-weight:700;color:#15803d;">1.3%</td>
+                <td align="center" style="padding:7px 4px;font-size:13px;font-weight:800;color:#15803d;">2</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#c2410c;">—</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#15803d;">2</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#7c3aed;">—</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#dc2626;">21</td>
+              </tr>
+              <tr style="border-top:1px solid #eef2f7;">
+                <td style="padding:7px 8px;font-size:12px;color:#1f2937;;mso-line-height-rule:exactly;">Jefferson</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;font-weight:700;color:#15803d;">1.3%</td>
+                <td align="center" style="padding:7px 4px;font-size:13px;font-weight:800;color:#15803d;">1</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#c2410c;">1</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#15803d;">—</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#7c3aed;">—</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#dc2626;">1</td>
+              </tr>
+              <tr style="border-top:1px solid #eef2f7;">
+                <td style="padding:7px 8px;font-size:12px;color:#1f2937;;mso-line-height-rule:exactly;">Boca Ciega</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;font-weight:700;color:#15803d;">0.9%</td>
+                <td align="center" style="padding:7px 4px;font-size:13px;font-weight:800;color:#15803d;">1</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#c2410c;">—</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#15803d;">1</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#7c3aed;">1</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#dc2626;">—</td>
+              </tr>
+              <tr style="border-top:1px solid #eef2f7;">
+                <td style="padding:7px 8px;font-size:12px;color:#1f2937;;mso-line-height-rule:exactly;">Holiday</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;font-weight:700;color:#15803d;">0.9%</td>
+                <td align="center" style="padding:7px 4px;font-size:13px;font-weight:800;color:#15803d;">1</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#c2410c;">—</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#15803d;">1</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#7c3aed;">—</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#dc2626;">1</td>
+              </tr>
+              <tr style="border-top:1px solid #eef2f7;">
+                <td style="padding:7px 8px;font-size:12px;color:#1f2937;;mso-line-height-rule:exactly;">La Promesa</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;font-weight:700;color:#15803d;">0.7%</td>
+                <td align="center" style="padding:7px 4px;font-size:13px;font-weight:800;color:#15803d;">1</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#c2410c;">1</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#15803d;">—</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#7c3aed;">—</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#dc2626;">—</td>
+              </tr>
+              <tr style="border-top:1px solid #eef2f7;">
+                <td style="padding:7px 8px;font-size:12px;color:#1f2937;;mso-line-height-rule:exactly;">Wilmington</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;font-weight:700;color:#15803d;">0.6%</td>
+                <td align="center" style="padding:7px 4px;font-size:13px;font-weight:800;color:#15803d;">1</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#c2410c;">1</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#15803d;">—</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#7c3aed;">1</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#dc2626;">—</td>
+              </tr>
+              <tr style="border-top:1px solid #eef2f7;">
+                <td style="padding:7px 8px;font-size:12px;color:#1f2937;;mso-line-height-rule:exactly;">River Pointe</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;font-weight:700;color:#15803d;">0%</td>
+                <td align="center" style="padding:7px 4px;font-size:13px;font-weight:800;color:#15803d;">0</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#c2410c;">—</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#15803d;">—</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#7c3aed;">9</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#dc2626;">—</td>
+              </tr>
+              <tr style="border-top:1px solid #eef2f7;">
+                <td style="padding:7px 8px;font-size:12px;color:#1f2937;;mso-line-height-rule:exactly;">Thomasville</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;font-weight:700;color:#15803d;">0%</td>
+                <td align="center" style="padding:7px 4px;font-size:13px;font-weight:800;color:#15803d;">0</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#c2410c;">—</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#15803d;">—</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#7c3aed;">3</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#dc2626;">—</td>
+              </tr>
+              <tr style="border-top:1px solid #eef2f7;">
+                <td style="padding:7px 8px;font-size:12px;color:#1f2937;;mso-line-height-rule:exactly;">Coral Village</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;font-weight:700;color:#15803d;">0%</td>
+                <td align="center" style="padding:7px 4px;font-size:13px;font-weight:800;color:#15803d;">0</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#c2410c;">—</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#15803d;">—</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#7c3aed;">2</td>
+                <td align="center" style="padding:7px 4px;font-size:12px;color:#dc2626;">1</td>
+              </tr>
+            </table>
+          </div>
+        </td></tr>
+
+        <!-- Daily Changes section moved to top of email as "Vacancy Changes Today" -->
+
+        
+        <tr><td style="background:#ffffff;padding:0 32px 24px;;mso-line-height-rule:exactly;">
+          <div style="background:#eff6ff;border:1px solid #bfdbfe;border-radius:10px;padding:14px 16px;color:#1e3a5f;font-size:12px;line-height:18px;">
+            <strong>Current unit-detail rows are not available from the Railway Vacancy snapshot.</strong><br>
+            The building-level totals above remain authoritative: 63 unleased, 52 preleased, 29 on notice, and 62 evictions. Older unit data is intentionally not substituted.
+          </div>
+        </td></tr>
+
+        <!-- Vacant Unleased Units -->
+        <tr><td style="background:#ffffff;padding:0 32px 24px;;mso-line-height-rule:exactly;">
+          <p style="margin:0 0 12px;font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:2px;color:#c2410c;">Vacant / Unleased Unit Detail Rows (0)</p>
+          <div style="border:1px solid #c2410c;border-radius:10px;overflow:hidden;">
+            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+              <tr style="background:#c2410c;">
+                <td style="padding:8px 6px;font-size:10px;font-weight:700;color:#c2410c;;mso-line-height-rule:exactly;">Building</td>
+                <td style="padding:8px 4px;font-size:10px;font-weight:700;color:#c2410c;;mso-line-height-rule:exactly;">Unit</td>
+                <td style="padding:8px 4px;font-size:10px;font-weight:700;color:#c2410c;;mso-line-height-rule:exactly;">Move Out</td>
+                <td align="center" style="padding:8px 4px;font-size:10px;font-weight:700;color:#c2410c;">Days</td>
+                <td align="right" style="padding:8px 6px;font-size:10px;font-weight:700;color:#c2410c;">Ask Rent</td>
+                <td align="right" style="padding:8px 6px;font-size:10px;font-weight:700;color:#c2410c;">% Ready</td>
+              </tr>
+              
+              
+            </table>
+          </div>
+        </td></tr>
+
+        <!-- Vacant Preleased Units -->
+        
+
+        <!-- On Notice -->
+        <tr><td style="background:#ffffff;padding:0 32px 24px;;mso-line-height-rule:exactly;">
+          <p style="margin:0 0 12px;font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:2px;color:#7c3aed;">Units On Notice (0)</p>
+          <div style="border:1px solid #7c3aed;border-radius:10px;overflow:hidden;">
+            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+              <tr style="background:#7c3aed;">
+                <td style="padding:8px 6px;font-size:10px;font-weight:700;color:#7c3aed;;mso-line-height-rule:exactly;">Building</td>
+                <td style="padding:8px 4px;font-size:10px;font-weight:700;color:#7c3aed;;mso-line-height-rule:exactly;">Unit</td>
+                <td align="center" style="padding:8px 4px;font-size:10px;font-weight:700;color:#7c3aed;">Leased</td>
+              </tr>
+              
+            </table>
+          </div>
+        </td></tr>
+
+        <!-- Evictions -->
+        
+
+        <!-- BOTTOM Dashboard Button -->
+        
+        <tr><td style="background:#ffffff;padding:16px 32px;;mso-line-height-rule:exactly;" align="center">
+          <a href="https://aptcorp-vacancy-report.up.railway.app" target="_blank" class="btn-link" style="display:inline-block;background:#0369a1;color:#f3f6fa;font-size:14px;font-weight:800;text-decoration:none;padding:14px 36px;border-radius:8px;letter-spacing:0.5px;box-shadow:0 0 20px #0369a1;">View Live Dashboard →</a>
+        </td></tr>
+        
+        <tr><td style="background:#ffffff;padding:0 32px 16px;;mso-line-height-rule:exactly;" align="center">
+          <a href="https://aptcorp-vacancy-report.up.railway.app/?tab=collections" target="_blank" class="btn-link" style="display:inline-block;background:#8a5a00;color:#f3f6fa;font-size:14px;font-weight:800;text-decoration:none;padding:14px 36px;border-radius:8px;letter-spacing:0.5px;box-shadow:0 0 20px #8a5a00;">View Collections →</a>
+        </td></tr>
+
+        <!-- Footer -->
+        <tr><td style="background:#ffffff;border-radius:0 0 12px 12px;padding:20px 32px;border-top:1px solid #e5e7eb;;mso-line-height-rule:exactly;">
+          <p style="margin:0;font-size:11px;color:#6b7280;text-align:center;">
+            Daily Vacancy report sourced exclusively from the Railway Vacancy Dashboard snapshot · Mon, Oct 19, 2026, 8:44 PM UTC
+          </p>
+        </td></tr>
+
+      </table>
+    </td></tr>
+  </table>
+</body>
+</html>

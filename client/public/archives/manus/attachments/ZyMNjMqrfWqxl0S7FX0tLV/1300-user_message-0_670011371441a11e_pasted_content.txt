@@ -1,0 +1,158 @@
+
+Apartment Corp	
+WEEKLY SUMMARY
+Aug 8 — Aug 15, 2026
+WEEKLY REPORT
+View Live Dashboard →
+⚡ WEEK AT A GLANCE
+
+NET CHANGE
+-13
+START → END
+112 → 99
+BUILDINGS CHANGED
+11
+UNCHANGED
+20
+▲ NEW VACANCIES
+
+Building	Change	Start → End	Vacancy %	Peak/Low
+Grace Townhomes	+2	5 → 7	4.5% → 6.3%	↑7 ↓5
+Holiday	+2	0 → 2	0% → 1.7%	↑2 ↓0
+Gates	+1	12 → 13	4.3% → 4.7%	↑13 ↓12
+▼ RECENTLY LEASED
+
+Building	Change	Start → End	Vacancy %	Peak/Low
+Arbor Crest	-7	12 → 5	10% → 4.2%	↑12 ↓5
+Thibodaux	-3	13 → 10	12.1% → 9.3%	↑13 ↓10
+St. Charles	-2	3 → 1	2.5% → 0.8%	↑3 ↓1
+Howell Place	-1	5 → 4	10.4% → 8.3%	↑5 ↓4
+Pelican Bay	-1	11 → 10	7.2% → 6.6%	↑12 ↓10
+DAY-BY-DAY CHANGES
+
+Date	Building	Prev	New	Change
+Mon, Aug 10	Thibodaux	13	12	-1
+Tue, Aug 11	Arbor Crest	12	11	-1
+Wed, Aug 12	Holiday	0	2	+2
+St. Charles	3	1	-2
+Thibodaux	12	11	-1
+Arbor Crest	11	10	-1
+Pelican Bay	11	12	+1
+Gates	12	13	+1
+Breckenridge	3	2	-1
+Crossroads	4	3	-1
+Lexington	2	1	-1
+Fri, Aug 14	Arbor Crest	10	5	-5
+Pelican Bay	12	10	-2
+Grace Townhomes	5	7	+2
+Thibodaux	11	10	-1
+Howell Place	5	4	-1
+Lexington	1	2	+1
+Granite Ridge	3	2	-1
+CURRENT SNAPSHOT
+
+TOTAL VACANT
+99
+UNLEASED
+48
+PRELEASED
+51
+NOTICE
+47
+💰 PAYMENTS — NET RENT COLLECTED
+Comparing 2026-08-15 vs 2026-08-08 · 🚨 37 buildings with >±5% change
+TOTAL RENT
+$5,930,754.13
+▲ +34.7% vs prev
+REGION 1	Rent: $1,231,312.32
+Building	Net Rent Collected	% Chg / Prev Day
+🚨 Boca Ciega	$193,458.00	0.0%
+$193,458.00
+🚨 Jefferson	$78,580.00	▲ +1.9%
+$77,113.00
+🚨 Macedonia	$155,606.00	▲ +3.5%
+$150,287.00
+🚨 Opa Locka	$127,679.00	▲ +1.4%
+$125,900.00
+🚨 Arbor Crest	$112,870.24	🚨 ▲ +50.3%
+$75,102.37
+🚨 River Pointe	$226,111.00	▲ +4.5%
+$216,366.00
+🚨 Silver Springs	$113,993.80	🚨 ▲ +6.5%
+$107,028.80
+🚨 Thomasville	$107,151.00	▲ +3.0%
+$104,051.00
+🚨 Coral Village	$115,863.28	0.0%
+$115,863.28
+REGION 2	Rent: $1,214,018.59
+Building	Net Rent Collected	% Chg / Prev Day
+🚨 Grace Townhomes	$136,529.85	🚨 ▲ +6.6%
+$128,128.85
+🚨 Breckenridge	$85,196.97	🚨 ▲ +10.4%
+$77,158.97
+🚨 Lexington	$80,910.00	🚨 ▲ +10.6%
+$73,161.00
+Holiday	$128,317.00	▲ +2.3%
+$125,447.00
+🚨 Cumberland	$75,955.00	0.0%
+$75,955.00
+Grove Park	$85,044.00	▲ +3.2%
+$82,443.00
+🚨 Walnut Hill	$157,954.77	🚨 ▲ +25.8%
+$125,569.71
+La Promesa	$239,566.00	▲ +1.1%
+$236,867.00
+Crossroads	$224,545.00	▲ +4.9%
+$214,143.00
+REGION 3	Rent: $2,144,385.06
+Building	Net Rent Collected	% Chg / Prev Day
+🚨 Gates	$261,605.00	🚨 ▲ +101.8%
+$129,634.00
+🚨 Thibodaux	$62,160.95	🚨 ▲ +19.5%
+$52,006.00
+🚨 Ruby	$99,501.98	0.0%
+$99,501.98
+🚨 Star	$64,493.00	▲ +0.7%
+$64,021.00
+🚨 Marrero	$168,155.00	▲ +2.1%
+$164,676.00
+🚨 St. Charles	$1,125,725.00	🚨 ▲ +856.9%
+$117,639.00
+🚨 Windsor/Yorkshire	$97,007.42	🚨 ▲ +13.0%
+$85,821.58
+🚨 North Pointe	$20,941.62	🚨 ▲ +18.7%
+$17,648.62
+🚨 Bayou Pointe	$40,956.00	🚨 ▲ +45.0%
+$28,254.00
+🚨 Pelican Bay	$131,023.61	🚨 ▲ +7.1%
+$122,386.61
+🚨 Pirates Bend	$34,119.48	🚨 ▲ +53.3%
+$22,262.00
+🚨 Howell Place	$38,696.00	🚨 ▲ +47.6%
+$26,218.00
+REGION 4	Rent: $1,341,038.16
+Building	Net Rent Collected	% Chg / Prev Day
+🚨 Wilmington	$243,564.00	🚨 ▲ +11.2%
+$219,040.00
+🚨 Midtown	$45,679.00	🚨 ▲ +8.4%
+$42,148.00
+🚨 Urban	$90,133.00	▲ +3.8%
+$86,863.00
+🚨 Anaheim Gardens	$301,363.00	🚨 ▲ +6.0%
+$284,231.00
+🚨 Fairfax	$132,094.00	🚨 ▲ +14.4%
+$115,491.00
+🚨 Oak Hills	$74,969.46	🚨 ▲ +34.9%
+$55,587.65
+🚨 Forest View	$53,792.00	🚨 ▲ +105.1%
+$26,221.00
+🚨 Columbia	$73,422.67	🚨 ▲ +72.1%
+$42,669.36
+🚨 Pacific	$92,616.00	🚨 ▲ +23.9%
+$74,745.00
+🚨 Granite Ridge	$100,309.00	0.0%
+$100,309.00
+🚨 River Garden	$133,096.03	🚨 ▲ +8.4%
+$122,800.03
+ApartmentCorp Weekly Vacancy Summary • Generated Saturday, August 15, 2026
+CAUTION: Do not click links or open attachments unless you recognise the sender and know the content is safe.
