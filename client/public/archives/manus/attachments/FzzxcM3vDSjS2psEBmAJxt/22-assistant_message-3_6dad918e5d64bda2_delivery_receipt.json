@@ -1,0 +1,69 @@
+{
+  "runId": "monthly-2026-11-04",
+  "runDate": "2026-11-04",
+  "messageId": "1a1a8e3604fb34f8",
+  "threadId": "1a1a8e3604fb34f8",
+  "sentAtUtc": "2026-11-04T23:27:17Z",
+  "senderVerified": "Apartment Corp <apartmentcorp44@gmail.com>",
+  "to": [
+    "ethan@apartmentcorp.com",
+    "mam@22.bz"
+  ],
+  "subject": "ApartmentCorp Rent Comps — Monthly Fresh Refresh [November 2026]",
+  "sentCopyInspection": {
+    "from": "Apartment Corp <apartmentcorp44@gmail.com>",
+    "to": "ethan@apartmentcorp.com, mam@22.bz",
+    "dateShown": "Nov 4, 2026, 11:27 PM UTC",
+    "attachments": [
+      "ApartmentCorp_RentComps_Fresh_Refresh_November_2026.xlsx",
+      "ApartmentCorp_RentComps_Review_Checklist_November_2026.pdf",
+      "ApartmentCorp_RentComps_Audit_November_2026.zip"
+    ],
+    "verified": true
+  },
+  "recipientsMatchRequired": true,
+  "attachments": [
+    {
+      "name": "ApartmentCorp_RentComps_Fresh_Refresh_November_2026.xlsx",
+      "bytes": 412994,
+      "sha256": "77feb33ab826e3a9f3958b665a5ce3c14bf845d9fb75eaa9401dab4a1e5c9c9a"
+    },
+    {
+      "name": "ApartmentCorp_RentComps_Review_Checklist_November_2026.pdf",
+      "bytes": 466350,
+      "sha256": "f0c9a9f108f70c84e09c45a20fce1c2ddc3a3498c38c54447af0be8102a7f95d"
+    },
+    {
+      "name": "ApartmentCorp_RentComps_Audit_November_2026.zip",
+      "bytes": 463642,
+      "sha256": "3ff33349a4869e519bf368a37db350818b9f2edf2737e224117ace4515048047"
+    }
+  ],
+  "coverage": {
+    "properties": 41,
+    "comparableRows": 190,
+    "rentCells": 499,
+    "verified": 257,
+    "phone_verify": 129,
+    "not_offered": 113,
+    "propertyBedroomGroupsWithoutNumeric": 29
+  },
+  "baseline": {
+    "file": "RentComps_UPDATED_Aug2026.xlsx",
+    "sha256": "9443d57d981ee9c3b73efd1efbe7db81958130ce2f8a41005da9ea588e0e1553",
+    "note": "approved August 2026 formatted baseline; supplied ids/formatting; age disclosed"
+  },
+  "reviewActions": {
+    "cellPriceExclusions": 7,
+    "notOfferedWithheld": 21,
+    "eligibilityAdjudications": 5,
+    "pricesIntroduced": 0
+  },
+  "verification": {
+    "readback": "REAL REPORT READBACK PASS",
+    "benchmarkSummaryTieouts": 234,
+    "sourceUnchanged": true,
+    "stylesChecked": 35797
+  },
+  "note": "Sent copy verified; delivery to inbox is not guaranteed by a sent copy. Workbook formulas must be recalculated in Excel."
+}

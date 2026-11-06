@@ -1,0 +1,9 @@
+Set up the attached ApartmentCorp_Monthly_RentComps_Recovery.zip in this owner-controlled task. Extract it, read MONTHLY_RUN_PLAYBOOK.md, install requirements.txt, and run the supplied tests. The bundle is a Manus-assisted research/report workflow, not a standalone scraper or email daemon.
+
+Before enabling any schedule, confirm that the existing ApartmentCorp Monthly Rent Comp Report schedule associated with task 9Ap8dG4ztrNsH94FP2Q6UC has been paused or updated from an authorized owner interface. Do not leave two active schedules or attempt to change a schedule this task is not authorized to manage.
+
+Use the latest approved formatted workbook. Every month on the 10th at 8:00 AM America/Los_Angeles, research fresh advertised BASE rents for the existing eligible market-rate comparables, then follow the supplied playbook to validate coverage, preserve workbook formatting, synchronize market-average benchmarks and summaries, and generate the dated workbook and checklist PDF. Never inherit historical prices as current verification, estimate rents, or use bedroom proxies. Unresolved fields must be Phone Verify; Not Offered requires explicit product-mix evidence.
+
+Use only apartmentcorp44@gmail.com. Normal recipients are exactly ethan@apartmentcorp.com and mam@22.bz. Do not send an additional test unless I explicitly request it. Do not publish to SharePoint/API/GitHub or sync ClickUp.
+
+Use the Reports Project's uploaded recovery ZIP and approved source files if available. Keep research and sending approval gates enabled during setup. Clearly identify any remaining account, file-persistence, workflow-budget or delivery approval requirement. Verify the saved schedule's date, time, timezone, recipients, Gmail account and repaired playbook; do not claim activation from extracting files or passing tests alone.

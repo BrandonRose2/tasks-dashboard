@@ -1,0 +1,8 @@
+PRIVATE — KEEP SEPARATE FROM THE TRANSFER ZIP
+
+Archive: PRIVATE_DATA_AND_CREDENTIALS.zip inside ApartmentCorp_Report_Transfer_20261105.zip
+Encryption: AES-256 ZIP; use an AES-capable archive application such as 7-Zip on Windows. Standard Windows ZIP extraction may not support AES.
+
+Unlock key: 4yU1v5k-JTQjilIuKl_rFh0odXC4j_kXEId2yyZB-X2JR9TV
+
+This key exposes Gmail/PropertyMax application passwords, retained credentials, source-account recovery dependencies and the complete report database snapshot. Store it privately and give it only to the authorized recipient through a separate secure channel. Do not publish, commit, or place this file inside the transfer ZIP. Destination Manus keys/database/admin identity must be provisioned separately.

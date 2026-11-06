@@ -1,0 +1,29 @@
+New change request from Ethan. Handle it inside this task's existing Vacancy Report app. Do not create a new app, a new task, or a parallel copy.
+
+1) MIGRATE THE DAILY COLLECTIONS REPORT TO THE MANAGED JOB
+The Collections email is currently still produced by the legacy in-process timer in the older code path — when the Vacancy report moved to the managed background job on November 3, Collections was deliberately left on the legacy/Railway path. Bring it onto the same managed daily job.
+- Reuse the single background job you registered in this project, firing daily at 1:00 PM Pacific with daylight-saving handling. Exactly ONE registered job must deliver both reports. Do not register a second job.
+- Keep the saved send-ledger that blocks a duplicate send for the same report on the same day.
+- Once the new path is verified, retire the legacy sender: disable the in-process daily timer and any Railway cron/entry point so exactly one sender can exist. If Railway can be removed entirely from the Collections code path, do it — it should read PropertyMax FLOW data directly with a forced refresh immediately before sending, the same way the Vacancy report now does.
+
+2) FIX THE DASHBOARD LINK
+The Collections email currently links to https://vacancyapp-42vudntx.manus.space, which is dead data — I verified it still shows July 24, 2026. Replace every occurrence of vacancyapp-42vudntx.manus.space and any Railway dashboard URL in the email HTML with the verified live dashboard:
+https://vacancyreport.manus.space
+I confirmed that host myself just now: it renders "Updated: Nov 4, 2026 11:06 PM", 115 total vacant, and it includes the Collections section. Apply the same correction to the Vacancy email if it still carries an old URL.
+
+3) SENDER MUST BE apartmentcorp44@gmail.com
+Both automated reports must send from apartmentcorp44@gmail.com, using the stored Gmail App Password credential for that mailbox. If the stored credential belongs to a different mailbox or fails, stop and ask me — do not fall back to brandonrose2@gmail.com.
+
+CONSTRAINTS
+- Recipients stay per the current policy: ethan@apartmentcorp.com and mam@22.bz only, no CC or BCC. Do not add Brandon unless I explicitly say so.
+- Change only delivery path, sender, and link target. Do not alter the report design, layout, card colors, sections, or calculation logic of either email.
+- As a sanity check on the data path, the September 25 Collections email reported Expected Rent $5,572,493.60, Collected $5,331,592.68, and a 95.7% collection rate. The migrated job must still produce those same figures from the same PropertyMax source for that date.
+- Do not send anything to the distribution list while testing. Send exactly ONE test of the Collections email to ethan@apartmentcorp.com only, and wait for my confirmation before the schedule delivers to both recipients.
+- Never print the app password or any credential in chat.
+
+REPORT BACK WITH
+- The single job ID and its next scheduled run time
+- The From address actually used on the test
+- Confirmation that no second sender remains: the legacy timer and any Railway trigger disabled
+- The link that replaced the old dashboard URL
+- The result of the ethan-only test, plus anything you need me to click to publish

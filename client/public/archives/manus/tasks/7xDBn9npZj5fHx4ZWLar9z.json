@@ -1,0 +1,434 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-11-06T18:59:00.463265Z",
+  "task": {
+    "id": "7xDBn9npZj5fHx4ZWLar9z",
+    "title": "Change the email on a Manus account",
+    "status": "stopped",
+    "type": "standard",
+    "agent_profile": "manus-1.6",
+    "credits_used": 21,
+    "created_at": "1793741719",
+    "updated_at": "1793742770",
+    "task_url": "https://manus.im/app/7xDBn9npZj5fHx4ZWLar9z",
+    "message_count": 0
+  },
+  "event_count": 39,
+  "events": [
+    {
+      "id": "0I3LKtYnP5xYzILuUo2PFw",
+      "timestamp": "1793741719891",
+      "type": "user_message",
+      "user_message": {
+        "content": "can i change my email on this manus account to another email?",
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1794164340&Signature=MEYCIQD5acb74idAAzev905x4ZsRyXvRrDYprsSIfW9pw72jGQIhAKPRZZQZwF4DkA-wB5LqkgdRJCvD~8B2IDKFAopblnn4&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
+      }
+    },
+    {
+      "id": "lGDdGpovYrRTHp4HJITbUC-1",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1793741720416",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "I'll check the relevant guidance for account-related requests.",
+        "delivery_kind": "opening"
+      },
+      "id": "kPftdasLHXqFM1E2ovAsid",
+      "timestamp": "1793741723323",
+      "type": "assistant_message"
+    },
+    {
+      "assistant_message": {
+        "content": "Yes — you can change the email linked to your Manus account yourself, and it's a self-service option in Account Settings.\n\n**Steps**\n\n1. Go to your **Account Settings**.\n2. Click **Change** in the **Email** section.\n3. Click **Send** to get a verification code (sent to your current email) to verify your identity.\n4. Enter your **new email address** and complete the verification code process for it as well.\n5. Once verified, your linked email is updated.\n\n**Two things worth knowing**\n\n- Changing your linked email only changes where Manus notifications and account emails go. It does **not** automatically become a login method. If you also want to sign in with the new address, add it separately under **Manage sign-in methods**.\n- Login methods are limited to Google, Apple, and Microsoft, one account per provider, and you must always keep at least one active login method (so you can't remove your last one).\n- If you use Mail Manus, note that your personal `@manus.bot` address is separate and its custom address can only be changed once every 7 days.\n\nThe official walkthrough is here: [How to Change Your Linked Email and Add Multiple Login Methods](https://help.manus.im/en/articles/15431880-how-to-change-your-linked-email-and-add-multiple-login-methods).\n\nIf the Change button isn't available on your account, or something goes wrong during verification, submit a request through the [Manus Help Center](https://help.manus.im) — account-level changes like this are handled by their support team, and I can't make or confirm that change on your behalf.",
+        "delivery_kind": "result"
+      },
+      "id": "CMr8qzB11qkyCOtzmH0R1y",
+      "timestamp": "1793741739256",
+      "type": "assistant_message"
+    },
+    {
+      "id": "IQe6iwZEZtM9aX7TNBfIWz",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1793741739702",
+      "type": "status_update"
+    },
+    {
+      "id": "dGifIHww8UCpG0tICqr2QP",
+      "timestamp": "1793741764050",
+      "type": "user_message",
+      "user_message": {
+        "content": "will all the tasks and projects remain and stay working exactly as they are?",
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1794164340&Signature=MEYCIQD5acb74idAAzev905x4ZsRyXvRrDYprsSIfW9pw72jGQIhAKPRZZQZwF4DkA-wB5LqkgdRJCvD~8B2IDKFAopblnn4&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
+      }
+    },
+    {
+      "id": "l1zrwrPtL1MB3zO0zmm0su",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1793741764225",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Let me check the current guidance on what's tied to an account versus an email, so I answer accurately.",
+        "delivery_kind": "opening"
+      },
+      "id": "JuPmoYdGiZB4No9QOw75o4",
+      "timestamp": "1793741771371",
+      "type": "assistant_message"
+    },
+    {
+      "assistant_message": {
+        "content": "Changing the linked email is a field update on the same account — it doesn't create a new account, and your tasks and projects aren't keyed to that email address. They live in your account and workspace, so they should remain exactly as they are, along with your projects, Projects-shared files, connectors, and subscription.\n\nA few points that follow from how the feature is documented:\n\n- **Login doesn't change unless you change it.** Your sign-in method stays whatever it is now. If you sign in with Google, Apple, or Microsoft, that link is untouched — you'll keep logging in the same way, even if the new email is different.\n- **Communications move.** Notifications and account emails start going to the new address, so make sure it's one you actually monitor.\n- **Your `@manus.bot` Mail Manus address is separate** and stays as-is.\n\nOne honest caveat: I can't make the change or formally guarantee the outcome on Manus's behalf, so if you want absolute assurance before doing it — especially if you have team workspaces or live websites/apps tied to the account — ask the [Manus Help Center](https://help.manus.im) to confirm in writing. As a low-cost safety habit, nothing stops you from opening a couple of your most important tasks and projects before and after the change to confirm they load normally.",
+        "delivery_kind": "result"
+      },
+      "id": "JXgGb4spmlVEsoImUjp4WV",
+      "timestamp": "1793741779242",
+      "type": "assistant_message"
+    },
+    {
+      "id": "BPHdP9WXyAiB7nVFqT1UVK",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1793741779609",
+      "type": "status_update"
+    },
+    {
+      "id": "RvwcWvoSvSgbWX2Ad0XIPs",
+      "timestamp": "1793741818196",
+      "type": "user_message",
+      "user_message": {
+        "content": "when i change the email on the team account does it also change the email for the personal account?",
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1794164340&Signature=MEYCIQD5acb74idAAzev905x4ZsRyXvRrDYprsSIfW9pw72jGQIhAKPRZZQZwF4DkA-wB5LqkgdRJCvD~8B2IDKFAopblnn4&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
+      }
+    },
+    {
+      "id": "cyK8QgbDhkGdDYhFWBLlrK",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1793741818415",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Good question — personal and team accounts are distinct, but let me confirm the current documentation rather than assume.",
+        "delivery_kind": "opening"
+      },
+      "id": "QwhvNpvVUKNr94gyfcqLV0",
+      "timestamp": "1793741823602",
+      "type": "assistant_message"
+    },
+    {
+      "assistant_message": {
+        "content": "No — they're independent accounts. A team account and a personal account are separate Manus accounts, not two views of one identity, so updating the email on the team account leaves your personal account's email untouched. You'd have to switch into the personal account and repeat the change in its own Account Settings.\n\nThis is consistent with how Manus documents teams: each user in an organization gets their own Manus account, you move between them with **Switch account**, and the Help Center states plainly that team accounts are independent from personal accounts (each even generates its own separate backups for the data-restoration process).\n\nA few practical notes:\n\n- **Change it while you're \"in\" the right account.** The Account Settings page reflects whichever account is currently active, so switch first, then change the email. Do the same in the other space if you want both updated.\n- **Team email changes may be admin-governed.** If your organization uses SSO or has centralized identity management, the email tied to your team sign-in is controlled at the org level and the Change option may be unavailable or overridden by the admin. Worth a quick check with your Team Super Admin before you try.\n- **Don't migrate data just to change an email.** Migrating a personal profile into a team is a different, irreversible operation that transfers data ownership to the organization and cancels any active personal Pro subscription — not something you want to trigger for an email update.\n\nIf the Change button is missing or greyed out on the team account, that's an account-level matter for [Manus Help Center](https://help.manus.im) — and your team admin can likely confirm the policy faster.",
+        "delivery_kind": "result"
+      },
+      "id": "UWHdfq2fEATf2o1EcHjOO1",
+      "timestamp": "1793741839354",
+      "type": "assistant_message"
+    },
+    {
+      "id": "gWifKhgjFsGJHkk3HMFvYx",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1793741839732",
+      "type": "status_update"
+    },
+    {
+      "id": "pBsN3hAmRj5WySS7VfJZNj",
+      "timestamp": "1793741916850",
+      "type": "user_message",
+      "user_message": {
+        "content": "does anything change if I am the owner of the team account in this situation?",
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1794164340&Signature=MEYCIQD5acb74idAAzev905x4ZsRyXvRrDYprsSIfW9pw72jGQIhAKPRZZQZwF4DkA-wB5LqkgdRJCvD~8B2IDKFAopblnn4&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
+      }
+    },
+    {
+      "id": "04ZwEYsvBmwxNUQQGLOXPQ",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1793741917429",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Ownership doesn't change the account separation — it just changes what you can do *inside* the team account. Your personal account's email still stays put.\n\n**What stays the same**\n\nBeing Owner is a role within the team space, not a merge of identities. You still have two separate Manus accounts and move between them with **Switch account**. Changing the email while switched into the team account affects only that account; your personal account keeps its own email until you change it there.\n\n**What ownership actually adds**\n\nThe Owner is the one who purchases credits, views overall team usage, can transfer ownership, and is the top of the role hierarchy (Owner, Super Admin, Admin, Member). None of that includes editing other people's account emails — roles govern membership, credits, task visibility, and settings, but a person's registered email is their own account-level field. So you can't fix a member's email for them; they change it themselves in their own settings.\n\n**Where ownership does change the risk calculus**\n\n- **Your registered email is the team's recovery channel.** Team invitations, billing notices, and account communications route through it, and certain team operations (including data backup and restoration under Manus's data process) can only be performed by the team owner. If you switch that email to an address you don't reliably control, you're putting the whole team's recoverability at risk, not just your own login.\n- **SSO overrides self-service.** If your team has an SSO subscription, identity is governed by your organization's identity provider. As Owner you're likely the one who enabled it, and in that setup the correct lever is the IdP, not the Email field in Manus settings — the field may be locked or simply not authoritative.\n- **Ownership can be handed off instead.** If the real goal is moving the team onto a different address or person, **Transfer ownership** under the Members tab is the purpose-built path, rather than reassigning emails.\n\n**Practical sequence, as Owner:** switch into the team account → Account Settings → Change email → verify → then switch to your personal account and repeat if you want both updated. Confirm any SSO-governed team with [Manus Help Center](https://help.manus.im) before changing, since a botched identity change on the owner account is the one case with team-wide blast radius.",
+        "delivery_kind": "result"
+      },
+      "id": "zP7ahPEgNnrhj6QwVuJ70j",
+      "timestamp": "1793741930799",
+      "type": "assistant_message"
+    },
+    {
+      "id": "lKTSyhemSz6OWWZulh1W9E",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1793741931147",
+      "type": "status_update"
+    },
+    {
+      "id": "RYV8wTrkUs4EhDAaisUbB0",
+      "timestamp": "1793742038375",
+      "type": "user_message",
+      "user_message": {
+        "content": "can i change the email on this account to someone's email who is a deactivated member of the team?",
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1794164340&Signature=MEYCIQD5acb74idAAzev905x4ZsRyXvRrDYprsSIfW9pw72jGQIhAKPRZZQZwF4DkA-wB5LqkgdRJCvD~8B2IDKFAopblnn4&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
+      }
+    },
+    {
+      "id": "1IMJhcajFstUMKMfN6QeMl",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1793742038610",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Short answer: not through the self-service Change flow, and not something you'd want to do even if the UI let you. But the underlying goal you're describing has a proper path, and it's probably not the one you're picturing.\n\n**The mechanics block it**\n\nThe Change flow verifies both sides — a code to your current email to prove it's you, then a code to the new address to prove you control it. So step four requires access to that person's inbox. There's also a stronger obstacle: Manus treats the registered email as *the* identity on the account — the Help Center describes it as \"your primary identity on our platform\" and \"the unique identifier tied to your subscription, credit balance, and all account activity.\" A deactivated member's profile isn't erased either; it stays in the team under **Members → Deactivated** as a read-only, seat-free profile with their identity on file. Rebinding that identity to a different account isn't a settings toggle, and if that person signed in via Google, Apple, or Microsoft, the email is anchored to a provider identity rather than being a free-floating string.\n\n**Why it would be actively dangerous**\n\nWhoever holds the registered email holds the recovery path. Password resets, verification codes, and account-sensitive support requests all route there. Putting a former member's address on your account — especially an account with Owner powers — effectively hands them a route back into your account and the team's credit pool. Manus's support policy exists precisely to prevent this: sensitive actions are only performed for the verified owner. Attempting it reads as impersonation and would be declined.\n\n**The three legitimate versions of what you might want**\n\n- **You want the deactivated member's work preserved and accessible.** Use **Delegate** — Members → Deactivated tab → three-dot menu → **Delegate…**, assigning the profile to an active member at Member or Deactivated role. Their tasks and files stay with the organization, no seat is consumed, and no identity is touched. This is the intended tool for a departed teammate.\n- **You want future team mail and billing to reach a different mailbox.** Change the linked email to an address *you* control, or use **Transfer ownership** if the intention is really to hand the team to another person.\n- **You want to repurpose that person's email as the team's identity.** That's an ownership/identity change, not a settings change — only [Manus Help Center](https://help.manus.im) can evaluate it, and they'll require proof you control the address.\n\nTell me which of those three is actually the goal and I'll lay out the exact clicks, including the seat and data-ownership consequences of delegation versus migration.",
+        "delivery_kind": "result"
+      },
+      "id": "1NCf72PHnHccm5NJ7xef1d",
+      "timestamp": "1793742066862",
+      "type": "assistant_message"
+    },
+    {
+      "id": "KCevxwL6edsj2z0wn9T3TK",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1793742067247",
+      "type": "status_update"
+    },
+    {
+      "id": "tcwPWrpO3OHtMtrsDdwDjC",
+      "timestamp": "1793742392127",
+      "type": "user_message",
+      "user_message": {
+        "content": "I went to settings and there is no option to change my email",
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1794164340&Signature=MEYCIQD5acb74idAAzev905x4ZsRyXvRrDYprsSIfW9pw72jGQIhAKPRZZQZwF4DkA-wB5LqkgdRJCvD~8B2IDKFAopblnn4&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
+      }
+    },
+    {
+      "id": "2RThXBQ8ko1eEzG6FT1wm0",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1793742392321",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "That's an account-level issue, and it's one the support team needs to resolve rather than something I can fix or diagnose definitively from here. The linked-email change is documented as a current feature (Help Center article updated late August 2026), so if the **Change** button isn't present in your Email section, one of a few conditions is suppressing it — and which one applies determines the fix.\n\n**Worth checking first, since each is a one-minute test**\n\n- **Which account you're actually in.** Settings reflect the active profile. If you're sitting in the team account but expecting the personal account's options (or vice versa), switch accounts with the account switcher and reopen Settings.\n- **Desktop web instead of the app.** Open manus.im in a full browser on a computer; some settings surfaces are more complete there than in the mobile or embedded views.\n- **How you sign in.** If your only login method is Google, Apple, or Microsoft, your identity is anchored to that provider, and there may be no standalone email row to edit.\n- **SSO.** If your team is on SSO, the email tied to the team sign-in is governed by your organization's identity provider, and Manus won't offer a self-service field for it.\n\n**Then submit it**\n\nGo to [Manus Help Center](https://help.manus.im) and use the support chat there, or email **support@manus.im**. Since Manus requires support requests to come from the account's registered email, send it from that address — otherwise they'll ask for proof of ownership, and a Manus payment invoice or receipt from Stripe, Apple, or Google Play is the accepted form of verification.\n\nInclude: the account type (personal or the team you own), which profile you were switched into, the exact path you clicked to reach Settings, your login method, whether the team uses SSO, and a screenshot of the Settings page showing the Email section without a Change button. That combination lets them tell you immediately whether it's an SSO/identity constraint or a rollout gap — and if it's the latter, they can perform the change on their side.",
+        "delivery_kind": "result"
+      },
+      "id": "RqQAhiiuJDtlhmSt9MVg6j",
+      "timestamp": "1793742411416",
+      "type": "assistant_message"
+    },
+    {
+      "id": "FdNIo8bIIT9hN3RpcVkTLO",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1793742411807",
+      "type": "status_update"
+    },
+    {
+      "id": "1LHM5JrIODoX0OFitfGzFW",
+      "timestamp": "1793742479830",
+      "type": "user_message",
+      "user_message": {
+        "content": "can i change the email on the team account for myself?",
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1794164340&Signature=MEYCIQD5acb74idAAzev905x4ZsRyXvRrDYprsSIfW9pw72jGQIhAKPRZZQZwF4DkA-wB5LqkgdRJCvD~8B2IDKFAopblnn4&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
+      }
+    },
+    {
+      "id": "3LI6sNFqvyhwZd7RBaOcmr",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1793742480043",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Yes — in principle, and being Owner doesn't actually change the answer here. Changing your *own* email on the team account is an Account Settings action, not a Team Settings permission. Ownership grants you credits, role management, and settings control, but it doesn't gate or unlock the email field; the same self-service flow applies to you as to any member.\n\nWhich makes the thing you just observed the real signal: the button is missing specifically on the team account. The most likely explanation, given you're running an organization:\n\n**SSO is the big fork.** If your team has SSO enabled, your team identity is defined by your identity provider, not by a field in Manus. The Help Center's own troubleshooting describes a member's team login as *\"the primary email address associated with the user's SSO account.\"* In that setup there's nothing to edit in Manus — you'd change the address in your IdP (configured through WorkOS, per the SSO setup flow), and the team workspace follows that identity. Your **Security policies** section under Settings → Security also governs how members can access the team, and can restrict self-service paths. Since SSO is something Owners and Super Admins enable, you can check Settings → Security yourself to see whether it's active.\n\n**Other possibilities:** you're looking at **Team settings** rather than **Account Settings** (the Email row lives in the latter), or the team profile authenticates only through Google, Apple, or Microsoft, in which case there's no standalone email to edit.\n\n**So the practical sequence**\n\n1. Switch into the team account, then Settings → look for the **Account** section, not Team settings or Security.\n2. If SSO shows as enabled, the change belongs in your IdP — and if you're the one who configured it, you can do it there.\n3. If neither applies, this is a legitimate support case: submit from your registered email at [Manus Help Center](https://help.manus.im) or **support@manus.im**, noting that you're the team Owner, whether SSO is on, and that no Change option appears. If you can't reach them from the registered address, a Manus payment invoice or receipt (Stripe, Apple, or Google Play) is the accepted proof of ownership.\n\nAnd the earlier caveat still stands: if the address you intend to enter is the deactivated member's, SSO or no SSO, that's not a valid target — an existing account identity can't be repointed, and routing your Owner account's recovery to someone else's inbox is the one mistake here with team-wide consequences.",
+        "delivery_kind": "result"
+      },
+      "id": "rMJ9znHk7HtJVH03NG9K0i",
+      "timestamp": "1793742496298",
+      "type": "assistant_message"
+    },
+    {
+      "id": "o2VnZ629SkOwnRQTfBouLu",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1793742496689",
+      "type": "status_update"
+    },
+    {
+      "id": "AeyOLxkJuTE80g25w7fH3y",
+      "timestamp": "1793742678920",
+      "type": "user_message",
+      "user_message": {
+        "content": "give me exact directions on how i change my email",
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1794164340&Signature=MEYCIQD5acb74idAAzev905x4ZsRyXvRrDYprsSIfW9pw72jGQIhAKPRZZQZwF4DkA-wB5LqkgdRJCvD~8B2IDKFAopblnn4&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
+      }
+    },
+    {
+      "id": "Gr7wEMxJlHdyQnVdfmnrCC",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1793742679426",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Here are the literal clicks, based on Manus's own documented flow. Do this in a desktop browser at **manus.im** — not the mobile app — while signed in.\n\n**Step-by-step**\n\n1. Click your **avatar/icon in the top-right corner** of the page. Confirm the account name shown is the one you want to edit. If it isn't, use **Switch account** first: for the team account, switch into the team workspace; for your personal account, switch back to personal.\n2. In that menu, click **Account**.\n3. Click **Edit profile**.\n4. Locate the **Email** row — it displays your current address with a **Change** button beside it. Click **Change**.\n5. Click **Send**. A verification code goes to your **current** email address. Retrieve it and enter it — this proves it's you.\n6. Enter your **new email address**, click **Send** again, then retrieve the code from the **new** inbox and enter it.\n7. Confirm. The Email row should now display the new address, and future Manus mail goes there.\n\nYou need working access to **both** inboxes to complete this, since each side is verified separately.\n\n**Optional, do this only if you want to log in with the new address**\n\nYour login method doesn't change on its own. Go to **Account → Manage sign-in methods → Manage**, and add the new address or provider there. You must keep at least one active login method, and only one account per provider (Google, Apple, Microsoft).\n\n**Repeat for the other account**\n\nThis applies to whichever account is active. Switch to your personal account and run steps 1–7 again if you want both updated — they're independent, so changing one won't touch the other.\n\n**If step 4 is where it breaks down**\n\nIf **Edit profile** shows no **Change** button beside Email, that's the divergence point, and it means the field is governed elsewhere for that account:\n\n- **SSO active on the team** → the address is defined by your identity provider. Check **Settings → Security** for an enabled SSO/Security policies section. The change then happens in your IdP, not in Manus.\n- **Provider-only login** (Google/Apple/Microsoft, no email registration) → there may be no standalone email field, though **Manage sign-in methods** will show what's linked.\n- **Neither applies** → it's a genuine gap. Submit at [Manus Help Center](https://help.manus.im) or **support@manus.im** from your registered address, with: the account (team you own, or personal), whether SSO is enabled, the exact path Account → Edit profile, and a screenshot of that page. A Manus payment invoice or receipt substitutes as ownership proof if you can't send from the registered address.\n\nOne constraint that holds regardless of path: the new address must be one **you** control and must not already be attached to another Manus account — which rules out the deactivated member's email from earlier.",
+        "delivery_kind": "result"
+      },
+      "id": "90h2NnlYn3m9Ip3vTs7OaX",
+      "timestamp": "1793742698949",
+      "type": "assistant_message"
+    },
+    {
+      "id": "mJmjo8hymXs0rBImj4pHlh",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1793742699353",
+      "type": "status_update"
+    },
+    {
+      "id": "7ggrYksqlcphZzDl88uPXK",
+      "timestamp": "1793742753206",
+      "type": "user_message",
+      "user_message": {
+        "content": "edit profile from step 3 is not there",
+        "message_type": "text",
+        "sender": {
+          "avatar_url": "https://private-us-east-1.manuscdn.com/user/avatar/oUpTzE7oakv2eCPq5KFvz2.png?Expires=1794164340&Signature=MEYCIQD5acb74idAAzev905x4ZsRyXvRrDYprsSIfW9pw72jGQIhAKPRZZQZwF4DkA-wB5LqkgdRJCvD~8B2IDKFAopblnn4&Key-Pair-Id=K1K5N5YNBUUMMN",
+          "name": "Brandon",
+          "user_id": "310519663449376037"
+        }
+      }
+    },
+    {
+      "id": "3CmyeIbpjHIIlsTGhVh8ro",
+      "status_update": {
+        "agent_status": "running",
+        "brief": "Manus is running",
+        "description": "Manus is working on your request"
+      },
+      "timestamp": "1793742753455",
+      "type": "status_update"
+    },
+    {
+      "assistant_message": {
+        "content": "Then we've hit the point where the app's UI doesn't match its own documentation, and that's a support matter rather than something I can click through with you — I can't see your screen or act in your account. Two things worth knowing, then the fastest way to resolve it.\n\n**A supported alternative that may already be open to you**\n\nThe Help Center references **Account Settings → Manage sign-in methods**, which appears to be the surface that survived when your profile-edit path didn't. Open Settings and look for **Manage sign-in methods**. That tells you two useful things at once: which settings surface you're actually on, and whether your login is Google, Apple, Microsoft, or email-registered. If a provider is listed, adding or changing a login method there is a legitimate route to shifting how you access the account, even before the email field is unlocked.\n\n**The fastest escalation: use the in-app Help button**\n\nRather than emailing, open the Help button inside Manus. That opens the Help Center and support chat while you're authenticated, so you skip the whole \"prove you own the account\" step that slows email tickets down. If you prefer email, use **support@manus.im** — but it must come from the account's registered address.\n\n**Paste this into the request**\n\n> I'm the Owner of a Manus Team account. My Settings do not show the documented path. Following Help Center article \"How to Change Your Linked Email\" (Icon → Account → Edit profile → Email row → Change), the **Edit profile** option does not appear at all, so there is no Email row and no Change button. Please tell me whether the linked email is governed by SSO/identity-provider configuration for this team, and if so how to update it. Team SSO status from Settings → Security: [enabled/disabled]. Login method currently used: [Google / Apple / Microsoft / email]. Attached: screenshot of the Account page and of Settings → Security.\n\nInclude those two screenshots — they cut a full round-trip off the ticket.\n\n**And if your actual goal is just mail landing elsewhere**\n\nWhile the email field is unavailable, Manus's **Mail Manus** settings let you set a Custom/Workflow email address (changeable once every 7 days), and a forwarding rule from your current registered address to the new mailbox achieves the same practical outcome without touching account identity.\n\nIf you share a screenshot of the page where **Account** opens, I can point at exactly what your options are — but the SSO question is the one only support or your IdP can answer definitively.",
+        "delivery_kind": "result"
+      },
+      "id": "4eUKsAyxT6myWa2BLK2VAG",
+      "timestamp": "1793742770435",
+      "type": "assistant_message"
+    },
+    {
+      "id": "B7X0412R3D4yp3kT3KmrDq",
+      "status_update": {
+        "agent_status": "stopped",
+        "brief": "Manus finished working",
+        "description": "Manus has completed the current task and is ready for new requests or revisions."
+      },
+      "timestamp": "1793742770809",
+      "type": "status_update"
+    }
+  ],
+  "attachments": []
+}

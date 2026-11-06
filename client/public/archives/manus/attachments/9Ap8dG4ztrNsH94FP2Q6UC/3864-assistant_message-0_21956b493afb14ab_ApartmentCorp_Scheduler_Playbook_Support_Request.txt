@@ -1,0 +1,11 @@
+Subject: Replace obsolete internal playbook on existing ApartmentCorp monthly schedule
+
+Please repair the existing ApartmentCorp Monthly Rent Comp Report schedule (schedule ID B4bWdWXtTTDCcM98LZ7CoR; owning task 9Ap8dG4ztrNsH94FP2Q6UC; Reports project Hu4a2ZKXLBCpu7MDourYb6). The visible Prompt contains the corrected monthly workflow, but saved backend metadata still contains an obsolete separate-task playbook referring to missing HUD/ClickUp scripts. The browser editor does not expose this field, and agent updates are blocked in the collaboration session.
+
+Replace the internal playbook with the full contents of recurring-rentcomps/MONTHLY_RUN_PLAYBOOK.md in ApartmentCorp_Monthly_RentComps_Recovery.zip, already uploaded to the Reports project's Files & sources. Confirm the visible Prompt and internal playbook agree. Remove the obsolete HUD/ClickUp instructions and the embedded credential from the saved playbook; do not reproduce that credential in this support conversation.
+
+Preserve the existing enabled schedule: monthly on the 10th at 08:00 America/Los_Angeles, separate-task execution, Reports project binding and automatic approvals. Do not create a duplicate schedule. Preserve and verify Gmail account apartmentcorp44@gmail.com as the only sender and ethan@apartmentcorp.com plus mam@22.bz as the only normal recipients.
+
+Report generation was tested successfully from the uploaded ZIP: 41 properties, 190 market-rate comparable rows, 499 bedroom-rent fields, workbook preservation and 234 benchmark/summary tie-outs. Fifty bundled tests passed and one missing-evidence-fixture test skipped. This does not prove scheduler-triggered research or unattended email delivery.
+
+Please confirm the internal playbook was actually replaced and clarify whether fresh-research budget approvals can be satisfied unattended under the saved configuration. Do not launch research, send an email, change timing or publish data as part of this repair. A delivery test would require separate authorization.
