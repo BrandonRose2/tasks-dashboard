@@ -7038,12 +7038,12 @@
       "status": "complete"
     },
     "9Ap8dG4ztrNsH94FP2Q6UC": {
-      "task_updated_at": "1793833316",
-      "archived_at": "2026-11-06T19:00:22.716941Z",
+      "task_updated_at": "1794009592",
+      "archived_at": "2026-11-13T19:21:32.498854Z",
       "messages_path": "tasks/9Ap8dG4ztrNsH94FP2Q6UC.json",
-      "event_count": 3887,
-      "attachment_count": 202,
-      "archived_attachment_count": 197,
+      "event_count": 3941,
+      "attachment_count": 203,
+      "archived_attachment_count": 198,
       "referenced_only_attachment_count": 0,
       "status": "complete"
     },
@@ -9459,8 +9459,8 @@
     }
   },
   "failures": [],
-  "last_attempt_at": "2026-11-06T18:58:57.771313Z",
-  "task_index_last_synced": "2026-11-06T18:58:57.646399+00:00",
-  "last_synced": "2026-11-06T19:00:57.647627Z",
+  "last_attempt_at": "2026-11-13T19:19:01.426693Z",
+  "task_index_last_synced": "2026-11-13T19:19:01.188310+00:00",
+  "last_synced": "2026-11-13T19:21:32.667701Z",
   "last_mode": "updated"
 }
